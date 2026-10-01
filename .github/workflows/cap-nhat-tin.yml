@@ -1,0 +1,22 @@
+name: Cap nhat Diem tin hang ngay
+on:
+  schedule:
+    - cron: "40 23 * * *"   # 6:40 sang gio Viet Nam
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  cap-nhat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python tools/cap_nhat_tin.py
+      - name: Luu thay doi
+        run: |
+          git config user.name "tungson-bot"
+          git config user.email "tungson-bot@users.noreply.github.com"
+          git add data/tin-tuc.js
+          git diff --cached --quiet || (git commit -m "Cap nhat Diem tin $(TZ=Asia/Ho_Chi_Minh date +%d/%m/%Y)" && git push)
