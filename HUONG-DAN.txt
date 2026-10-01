@@ -1,0 +1,29 @@
+HƯỚNG DẪN WEBSITE TÙNG SƠN QUẢNG NINH
+======================================
+
+XEM THỬ: bấm đúp vào file index.html (mở bằng Chrome).
+
+1) ĐIỀN THÔNG TIN LIÊN HỆ (bắt buộc trước khi đưa web lên mạng)
+   Mở file assets/config.js bằng Notepad, sửa:
+   - dienThoai, dienThoaiGoi, zalo, facebook, diaChi
+   Lưu lại là toàn bộ web tự cập nhật số điện thoại, nút Gọi, nút Zalo.
+
+2) THÊM / SỬA SẢN PHẨM
+   File data/san-pham.js — mỗi dòng là 1 sản phẩm. Ảnh đặt trong assets/img/sp/
+
+3) THÊM TIN TỨC (Điểm tin)
+   Cách 1: thêm vào ĐẦU danh sách trong data/tin-tuc.js
+   Cách 2 (khuyên dùng): thêm dòng vào bảng "tin_tuc" trên Supabase — web tự hiện, không cần sửa code.
+
+4) THÊM BÀI KIẾN THỨC
+   File data/kien-thuc.js
+
+5) KẾT NỐI SUPABASE (để nhận form khách hàng + tin tức tự động)
+   a. Supabase → SQL Editor → New query → dán nội dung supabase/setup.sql → Run
+   b. Project Settings → API Keys → copy khóa "anon" / "publishable"
+   c. Dán vào supabaseAnonKey trong assets/config.js
+   TUYỆT ĐỐI không dán khóa "service_role"/"secret" vào web.
+   Khách để lại thông tin sẽ nằm ở Table Editor → lien_he.
+
+6) ĐƯA WEB LÊN MẠNG (miễn phí): kéo-thả cả thư mục "website" vào https://app.netlify.com/drop
+   hoặc dùng Vercel / Cloudflare Pages, sau đó gắn tên miền riêng.
