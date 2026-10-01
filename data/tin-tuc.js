@@ -1,6 +1,51 @@
 /* ĐIỂM TIN — được cập nhật tự động mỗi sáng. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm",
+  "tomTat": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kiểm toán nhà nước.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Kiểm toán nhà nước",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmJFbGJFb3FtNV9YdzNfazJKTmQ0WFdFYWdvaUlIZDhVbVl4a0kydWdqZTRoaUhKUWZXa0U1NUlnTVpsNVU3VDNFbUVxNWI2c3ZRZGE5a3hvaktIdUFZNjUtYUlUME82TWFGTzRjV1QzMnlRdEUzanlWa2x5Qm83eTZEbEZKTG9kbEFSMDg3bG5UbG11YTFiSVJXQmMwaUY0cnlva1V6LUZmV281Z3ljMU03ZkN6b0ZrRVJoZTdJcVdsN0U2?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Phát hiện láng giềng Việt Nam \"xẻ núi\", xây siêu đập cao 247m giữa Thiên Sơn -22°C: Vốn đầu tư 35.000 tỷ đồng, chứa 1,17 tỷ m3 nước, ngốn gần 19 triệu m3 đất đá",
+  "tomTat": "Phát hiện láng giềng Việt Nam \"xẻ núi\", xây siêu đập cao 247m giữa Thiên Sơn -22°C: Vốn đầu tư 35.000 tỷ đồng, chứa 1,17 tỷ m3 nước, ngốn gần 19 triệu m3 đất đá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kenh14.vn.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "Kenh14.vn",
+  "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPMlY1alI5ZEY1R1JES2Uxa1Zqc2Rwc1pobWVzNEEydC0tMEtFLTVidmd3V1dYcnhCVXJ2cFIybzlSYXJVQVhBZE9LWG1mZnhKbDdwWDhPei1LejRqc2hQeUZ3ci1tTVpHa2ZRLU9ERXR3czRHc201QTFObGRaSnQ1Z190V3NKYUE1cHZMY3JncU42dUJDd1pnUmRBcm9wSzlWYlctVzNnZEcwX0doSjVXSS1lZktSbmVYbUpVOW9YcENUOF9Ka1VnV2lxa0ZOR2FqeGIzZVlTRTR4a2lLNFdJNzdyeDZ6M1kxUkNTcHhCNG1wQV9XZHRyeU1LVzUwV3JhQ09EUFA4R2pCckl3clA2ZTF4OGc5dXdvWnU4?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 1/10: Quặng sắt hồi phục, thị trường thép đón tín hiệu mới",
+  "tomTat": "Giá thép hôm nay 1/10: Quặng sắt hồi phục, thị trường thép đón tín hiệu mới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWW5aazItUGZBZTFXV2hZVmk2bmtBQmJrTy1IdG5IMHk4TllwM0I1NWxOcUF0dG03aDVKSTlBNWU2eG9rSUo5Y0lyV2QwbXR1TmxDS3lkZDdEWDB0V0tBZHk4ZFIwbjZrZUdMMWFkTGdnUFpoZGxSQTEtUFJ2anp4a3NIYlRpNlRXOHNnUXBCREh3bEZRdlBhM1k5T2FHRlBYTHdfMnZSZ1BDeVpvSGxETGJfN1p5RTRNRTVISQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Hội đàm giữa Ban Nội chính Tỉnh ủy Lạng Sơn (Việt Nam) và Uỷ ban Chính pháp Khu ủy Quảng Tây (Trung Quốc)",
+  "tomTat": "Hội đàm giữa Ban Nội chính Tỉnh ủy Lạng Sơn (Việt Nam) và Uỷ ban Chính pháp Khu ủy Quảng Tây (Trung Quốc). Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "Baolangson.vn",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGFHVy1OTkM4RXBJTDNmalZJdktrUS14eGRxZ2w2ekoxRUY0SFZlNVNLWk5jMzN5TllwODFNekVISzIwMDdVMXZYYlFlejJsdm0wdlVJcGRVWWJmZUxMM0lnVVg1Q3B2cDc4M01TZGZTNXdJRjN5ZVQ0RFlWeXJFTXhwTjJ1YzdyMFp3Um5CR1M2b294Z1dFdFpfbjZ4RUZiTVFVT3ZnbV80QjRFek9IQk5wMFhpWTRMNmNrSEh5V25IdV9DaXZWTm9maHBTYVNPcHc?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Dự thảo Luật Nhà ở (sửa đổi): Đề xuất nhiều chính sách thúc đẩy phát triển nhà ở cho thuê",
+  "tomTat": "Dự thảo Luật Nhà ở (sửa đổi): Đề xuất nhiều chính sách thúc đẩy phát triển nhà ở cho thuê. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ moitruong.net.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "moitruong.net.vn",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV25PZ203MmRDWUpDcDNkZVpnSGdYQVpUdkhSQTBydUc3MU9Bd3RtRlM5QjctWkRnX1FUbU9aQm51Tzhwb1FPT3E2cHE0RG9HNkRPNjJqTHZtTGJDNllTWE4tWlVMdDFsMDJsNnBhM3MzZWl4cnVVR2tYbngyamhzcEh5VHNjaV9XTWQwdlBfTDdZUTJ1LXBjZjR1Mjk4aGlFZ1REQUIxMDNMU1JZRmFVRHZBY2R1OHR0U1ZjbkcwZ1Q?oc=5"
+ },
+ {
   "ngay": "2026-10-01",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc",
