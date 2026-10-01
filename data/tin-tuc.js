@@ -2,12 +2,57 @@
 window.TIN_TUC = [
  {
   "ngay": "2026-10-01",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc",
+  "tomTat": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHMwcUpXQXVnbC1ZYXNIRzBsc1kxOTdqOWt2QmEzR3gyYWhoRGNEanVhekYzbzEzTTJJN1BxSU1RWm14SF93YzdVRzFoU1MxRnhPZExYTUx3WG81YTNvbHlGc2NqeXRBWDNiU3F1RGpLT3RnN3dCOXFNUTJEN1VIczRkRW9lWU5pU0JScU93NjVSaXJYeDhTNzUxWEQzTnc3YjBnUXNpNEVDeFROR0stbUpZUmNHRVEzZUttbU1R?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Diễn đàn kinh tế tư nhân Việt Nam năm 2026, vòng địa phương tại Lạng Sơn",
+  "tomTat": "Diễn đàn kinh tế tư nhân Việt Nam năm 2026, vòng địa phương tại Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "Baolangson.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmIwdjBLb0oyTFNFQ2FkWkliZDQzeVZ0Mllsa1BkS2dITTl4Q1duV2FfdkZOMnkyaktsVUVHTVlPbnJRTENMNkxINGtvWWl0Sm5CbXQ4X24zVGpITlUwS0N0QUlUM1JOMEhpWDlDb3ZEekRFU2hiRDNqd0lYVkJSVmI0aF9Fc3ExWmExb0s0VU9Ua2plQnREREtOdWhuSmh6b2M0SEFSQTc4Zw?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Nippon Paint giới thiệu hệ giải pháp công trình toàn diện đến VIBE 2026",
+  "tomTat": "Nippon Paint giới thiệu hệ giải pháp công trình toàn diện đến VIBE 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dantri.com.vn.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "dantri.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV04zUmx5VGIwd2ZFUm9TUVhHbkIwR1NOMHJjLXlTVmhrNFl5bTBCVExzcmxuaGE2eDhuaXhPYUk3NzNld2lCZXRMRmZVeEhjZ2tkYk1SaXJ5STZlZ1ZEbDlqaS1nYTh3M0JMbThfejNCZ3REMG9Zd2Y5Z3h5NFItMDJaTktMRlZPaU1CdHNDTGdlSGFBNFZIbTFRQlVTVzl3NmZOTEtmT1BNQVE4blVHcDNQRnBQUUw2M0ZZTHJpSV9kQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow",
+  "tomTat": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "VTVgo",
+  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8wWkZaS1Z1NkZ0TGZnS19JTEdJRjBZMzBxSVhnUkhKOXY0Mm1iUzlKSDFPc29DWV9UdzFjRVpqdEo?oc=5"
+ },
+ {
+  "ngay": "2026-10-01",
   "chuyenMuc": "thi-truong-son",
   "tieuDe": "Thị trường sơn phân hóa mạnh, sơn trang trí phục hồi dần",
   "tomTat": "Theo Hiệp hội Sơn – Mực in Việt Nam, sản lượng sơn năm 2024 đạt gần 500 triệu lít, tăng 8,34%. Sơn trang trí chiếm 51,5% thị trường và được dự báo phục hồi khoảng 9–10%; sơn công nghiệp tiếp tục dẫn dắt tăng trưởng.",
   "gocNhin": "Thị trường nhiều thương hiệu mới cũng đồng nghĩa có hàng kém chất lượng. Khi mua, hãy kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng.",
   "nguon": "Sở Công Thương Đồng Nai / Báo Công Thương",
   "link": "https://sct.dongnai.gov.vn/vi/news/Quan-ly-cong-nghiep/thi-truong-phan-hoa-manh-son-cong-nghiep-dan-dat-giai-doan-2025-2026-54294.html"
+ },
+ {
+  "ngay": "2026-09-30",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cần giải pháp để hạ giá vật liệu xây dựng",
+  "tomTat": "Cần giải pháp để hạ giá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Thanh Hóa",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVUNCQlZYX3lLSmxNa2lkSC1ycEFhQjM4blFLOF9rdXFiVlpGRTloY2pRa2tGa0ZRSGhDWnZFWFp1TzBqbVhOTmdSS1BudnJhZU9WS0RUMkkxanBGWmVBMW5YZ3ZWUS1MeVBGY1RVWHNxRnl4cUhXcVRPM0JRRnVJdQ?oc=5"
  },
  {
   "ngay": "2026-09-30",
