@@ -296,3 +296,19 @@ form.f{background:#fff;border:1px solid var(--line);border-radius:18px;padding:2
 #home-brands .brand-card .body{padding:26px}
 @media (max-width:900px){#home-brands{grid-template-columns:1fr}}
 @media (max-width:560px){#home-brands .brand-card{flex-direction:column}#home-brands .brand-card .poster{width:100%}}
+/* Ngôn ngữ */
+html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft YaHei","Noto Sans SC","Noto Sans CJK SC",system-ui,sans-serif}
+.tb-r{display:flex;align-items:center;gap:18px}
+.langsw{display:inline-flex;align-items:center;gap:2px}
+.langsw svg{margin-right:4px;opacity:.8}
+.langsw a{padding:2px 7px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none!important;color:#cfd5df}
+.langsw a.on{background:var(--accent);color:#fff}
+.langsw a:not(.on):hover{color:#fff;background:rgba(255,255,255,.12)}
+.nav-lang{display:none}
+@media (max-width:900px){
+  .topbar .hide-sm{display:none}
+  .nav-lang{display:block;padding:14px 10px;border-bottom:1px solid var(--line)}
+  .nav-lang .langsw a{color:var(--ink-2);font-size:15px;padding:8px 14px;border:1.5px solid var(--line);margin-right:6px}
+  .nav-lang .langsw a.on{color:#fff;border-color:var(--accent)}
+  .nav-lang .langsw svg{color:var(--muted)}
+}
