@@ -3,6 +3,51 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-02",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh",
+  "tomTat": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Thanh Hóa",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0NnQ1NTc1kwMUk5bE9yU0tZVEMxcEs5R250eVBPYTh4VnE4TXJCZ2kxT29HdW5YYmxQQXc3OTNHakZTV3FsSzM5Y2ZRZDNqSmZTenJSaDRnUjROblozQXgyaUdRS0pjcTQya0lDaFltdm1RN2p1R1JHU0lFLXlrSzhxNFQyRzgxQVBXWg?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 2/10: Quặng sắt suy yếu giữa áp lực dư cung",
+  "tomTat": "Giá thép hôm nay 2/10: Quặng sắt suy yếu giữa áp lực dư cung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUwxczJzcWd0UXRXREdSRVZDRWMxc1VQbmFVWUc2ZUxzQ2FCbzRTQmVha1hwalVvdGJWblRacy1Cd2M4WV9mMmYwM2FNc0h3NVFsRzhvd2VJdnBlX0JSSkczVE9YdklEUjNYdld3NmNTbUwtVFd1Tlk5dWF5bG53Vldvb0dwRGMxUVNSS3dQOUR3elpEY3BJUTlJWGtDS3hZQ3JLRjlITEswZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Đoàn kiểm tra liên ngành của Ủy ban Quốc gia về trẻ em làm việc tại Lạng Sơn",
+  "tomTat": "Đoàn kiểm tra liên ngành của Ủy ban Quốc gia về trẻ em làm việc tại Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ langson.gov.vn.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "langson.gov.vn",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhRS1FLdVdfTHVUM3NBZzJ3VWk2WnJIa05BU3laaTZBMFdnSnRpR2lfR25oQWlaazdxdTUxMWE1WWRqUVotSFh5VU1mOWp1TzFPd0hvMHBrdlNEdmFJYlc1SWhEMVJLSHc3LXF1WVJYNDd0QVVsLWV5cFBPZWZ4ZGNWY2RiQ0ppMTNnWEtlVkprOUNuUzlYS1Izb2w3QjBwcU5ZTm9vWjA0anNVQlFJYXozUjBZOXoxY0o2eA?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "'Lên đời' đại công trình của Việt Nam: Đào 400.227 m3 đất đá, đổ 48.354 m3 bê tông, lắp đặt 2.103 tấn thiết bị",
+  "tomTat": "'Lên đời' đại công trình của Việt Nam: Đào 400.227 m3 đất đá, đổ 48.354 m3 bê tông, lắp đặt 2.103 tấn thiết bị. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFpGVXQ4d1Qyc2NGQk5lanU1TlJUcmJIVm1nR2E5VDZyQTZzcU9aeFoyc0pfa0FLMWhycEVKWEdKRGJST3M2MERxVE1Fd3hQSjNEcExBWWUyQXZVUDBjT0M4WEZ5VWZ0OWlZY1R1UHdMakZpWXhYSzZFR2hjbWlUNl9IaU5oMmVUOGNRNnRrRXZTVW5pblJreDhFMnlYN2x4Q0E1VjJ0dkJMYWhzOWpSNmVYQ05LMWNYR184Zzh3MFQxOFJ3QlhjRXNaR1NaQVZLblFNaGJDLUNiZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Chính phủ ban hành nghị định mới quy định chi tiết quản lý hoạt động xây dựng",
+  "tomTat": "Chính phủ ban hành nghị định mới quy định chi tiết quản lý hoạt động xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFl6SE9iZUFrTzJRZzFmMXpnX3lhYzhLMWxRQzVWRThvQ1hoa1hPbDdKN2NIcVRYN0pva05HWXdKM0lIODBSblc4X2RaVHh0TGhDZ3dJbUo3VFdtZkdCa0h5UzNKMHpxV1U1TDBvV1BHU1VLdnAtd21PNGdabnI2bS13Y3pSS29kbWUxcHJCYi1BTHNrNGRZc1doTFV6VGp5eE9laWtuTDJjTUJmRlhaMFQyYkZWNUgwZWI3aENxMA?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm",
   "tomTat": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kiểm toán nhà nước.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
