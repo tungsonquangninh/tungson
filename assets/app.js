@@ -218,8 +218,8 @@
     const M = window.MENH, lg = (document.documentElement.lang || "vi").slice(0, 2), T = M.ui[lg] || M.ui.vi, li = { vi: 1, en: 2, zh: 3 }[lg] || 1;
     const HANH = ["kim", "thuy", "hoa", "tho", "moc"]; // 1..5
     const CAN_V = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5], CHI_V = [0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2, 2];
-    const sw = (c) => `<div class="sw"><i style="background:${c[0]}"></i><span>${c[li]}</span><small>${c[0]}</small></div>`;
-    const names = (k) => M.mau[k].map((c) => c[li].toLowerCase()).join(", ");
+    const sw = (c) => `<div class="sw"><i style="background:${c[0]}"></i><span>${T.code} ${c[1]}</span><small>${c[li + 1]}</small></div>`;
+    const names = (k) => M.mau[k].map((c) => c[li + 1].toLowerCase() + " (" + c[1] + ")").join(", ");
     function show() {
       const d = +$("#m-d").value, m = +$("#m-m").value, y = +$("#m-y").value, out = $("#menh-out");
       if (!d || !m || !y) { out.innerHTML = `<div class="menh-empty">${T.empty}</div>`; return; }
@@ -238,6 +238,7 @@
         <h4>${T.sinh} <span class="tag sage">${hn(rel.sinh)}</span></h4><div class="sws">${M.mau[rel.sinh].map(sw).join("")}</div>
         <h4>${T.ban} <span class="tag">${hn(k)}</span></h4><div class="sws">${M.mau[k].map(sw).join("")}</div>
         <h4>${T.ky} <span class="tag" style="background:#f3e3e0;color:#8a2a1c">${hn(rel.khac)}</span></h4><div class="sws ky">${M.mau[rel.khac].map(sw).join("")}</div>
+        <p class="muted" style="font-size:13px;margin:12px 0 0">${T.chart} <a href="bang-mau.html">→</a></p>
         <h4>${T.meaning}</h4><p>${M.moTa[k][lg] || M.moTa[k].vi}</p>
         <h4>${T.tips}</h4><ul class="tips">${T.tip(names(rel.sinh), names(k)).map((x) => `<li>${x}</li>`).join("")}</ul>
         <p class="note" style="font-size:14px">${T.note}</p></div>`;

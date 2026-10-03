@@ -15,11 +15,11 @@ window.MENH = {
   /* sinh: hành sinh ra mệnh (màu tốt nhất); khac: hành khắc mệnh (nên hạn chế) */
   quanHe: { kim: { sinh: "tho", khac: "hoa" }, thuy: { sinh: "kim", khac: "tho" }, moc: { sinh: "thuy", khac: "kim" }, hoa: { sinh: "moc", khac: "thuy" }, tho: { sinh: "hoa", khac: "moc" } },
   mau: {
-    kim: [["#F5F3EE", "Trắng sứ", "Porcelain white", "瓷白"], ["#C3C7CB", "Xám ghi", "Dove grey", "银灰"], ["#DCDDDF", "Bạc ánh kim", "Silver", "银色"]],
-    thuy: [["#9DBAD6", "Xanh dương nhạt", "Light blue", "浅蓝"], ["#2F4A73", "Xanh navy", "Navy blue", "藏青"], ["#3A3B3F", "Đen than", "Charcoal", "炭黑"]],
-    moc: [["#B5D0A2", "Xanh lá non", "Fresh green", "嫩绿"], ["#6E8B5B", "Xanh rêu", "Moss green", "苔绿"], ["#8E9C5E", "Xanh ô liu", "Olive green", "橄榄绿"]],
-    hoa: [["#E9B7B0", "Hồng phấn", "Blush pink", "粉红"], ["#F2A477", "Cam đào", "Peach orange", "蜜桃橙"], ["#B5532A", "Đỏ đất nung", "Terracotta red", "陶土红"], ["#B9A2CF", "Tím nhạt", "Lavender", "淡紫"]],
-    tho: [["#F1E2B8", "Vàng kem", "Cream yellow", "奶油黄"], ["#E3D0AE", "Be cát", "Sand beige", "沙米色"], ["#B58A63", "Nâu đất", "Earth brown", "土棕"]]
+    kim: [["#F7F7F4", "Trắng Sứ", "Trắng sứ", "Porcelain white", "瓷白"], ["#F0F1EC", "19-2P", "Xám trắng", "Off-white grey", "灰白"], ["#B9B9B1", "19-3T", "Xám ghi nhạt", "Light grey", "浅灰"], ["#969792", "19-4D", "Xám ghi", "Dove grey", "银灰"]],
+    thuy: [["#B8E3F4", "3-4P", "Xanh da trời nhạt", "Light sky blue", "浅天蓝"], ["#A1BDE4", "41-4D", "Xanh dương nhạt", "Soft blue", "浅蓝"], ["#6686AD", "37-5A", "Xanh dương xám", "Slate blue", "灰蓝"], ["#4E4F54", "19-5A", "Xám đen", "Charcoal", "炭灰黑"]],
+    moc: [["#DDEEDC", "27-1P", "Xanh ngọc nhạt", "Mint green", "薄荷绿"], ["#C1DA74", "25-4D", "Xanh cốm", "Lime green", "嫩芽绿"], ["#83C240", "25-5A", "Xanh lá", "Leaf green", "叶绿"], ["#74704A", "11-5A", "Xanh rêu ô liu", "Olive moss", "橄榄苔绿"]],
+    hoa: [["#F8CED8", "44-1P", "Hồng phấn", "Blush pink", "粉红"], ["#F1E3F0", "6-3P", "Tím nhạt", "Pale lilac", "淡紫"], ["#F3624D", "16-5A", "Đỏ cam", "Coral red", "珊瑚红"], ["#AE5046", "17-5A", "Đỏ đất nung", "Terracotta red", "陶土红"]],
+    tho: [["#ECDFB5", "13-3T", "Be kem", "Cream beige", "奶油米色"], ["#FAE69F", "14-4D", "Vàng nhạt", "Soft yellow", "浅黄"], ["#C0B386", "13-4D", "Be đậm", "Deep beige", "深米色"], ["#905849", "18-5A", "Nâu đất", "Earth brown", "土棕"]]
   },
   moTa: {
     kim: {
@@ -38,14 +38,14 @@ window.MENH = {
       zh: "木代表生长、清新与发展。水生木，所以蓝、藏青、黑等水色是相生色。木的本命色嫩绿、苔绿、橄榄绿亲近自然，也是 2026 年流行色。宜少用大面积的白、灰、银色（金），因为金克木。"
     },
     hoa: {
-      vi: "Hành Hỏa tượng trưng cho lửa, sự nhiệt huyết, ấm áp và năng động. Theo ngũ hành, Mộc sinh Hỏa nên các màu của hành Mộc như xanh lá, xanh rêu là màu tương sinh. Màu bản mệnh đỏ đất nung, hồng phấn, cam đào, tím nhạt tạo không khí ấm cúng. Nên hạn chế dùng nhiều đen, xanh nước biển (hành Thủy) vì Thủy khắc Hỏa.",
-      en: "Fire stands for passion, warmth and energy. Wood nourishes Fire, so Wood colours — green and moss — are the most supportive. Fire’s own colours — terracotta, blush pink, peach and lavender — create a warm, cosy feel. Avoid large areas of black or deep blue (Water), because Water overcomes Fire.",
-      zh: "火代表热情、温暖与活力。木生火，所以绿色、苔绿等木色是相生色。火的本命色陶土红、粉红、蜜桃橙、淡紫营造温馨氛围。宜少用大面积的黑色、深蓝（水），因为水克火。"
+      vi: "Hành Hỏa tượng trưng cho lửa, sự nhiệt huyết, ấm áp và năng động. Theo ngũ hành, Mộc sinh Hỏa nên các màu của hành Mộc như xanh lá, xanh rêu là màu tương sinh. Màu bản mệnh đỏ đất nung, hồng phấn, đỏ cam, tím nhạt tạo không khí ấm cúng. Nên hạn chế dùng nhiều đen, xanh nước biển (hành Thủy) vì Thủy khắc Hỏa.",
+      en: "Fire stands for passion, warmth and energy. Wood nourishes Fire, so Wood colours — green and moss — are the most supportive. Fire’s own colours — terracotta, blush pink, coral red and pale lilac — create a warm, cosy feel. Avoid large areas of black or deep blue (Water), because Water overcomes Fire.",
+      zh: "火代表热情、温暖与活力。木生火，所以绿色、苔绿等木色是相生色。火的本命色陶土红、粉红、珊瑚红、淡紫营造温馨氛围。宜少用大面积的黑色、深蓝（水），因为水克火。"
     },
     tho: {
-      vi: "Hành Thổ tượng trưng cho đất, sự vững chãi, bao dung và ổn định. Theo ngũ hành, Hỏa sinh Thổ nên các màu của hành Hỏa như hồng phấn, cam đào, đỏ đất nung là màu tương sinh. Màu bản mệnh vàng kem, be cát, nâu đất mang lại cảm giác ấm áp, an yên. Nên hạn chế dùng nhiều xanh lá (hành Mộc) vì Mộc khắc Thổ.",
-      en: "Earth stands for stability, generosity and steadiness. Fire nourishes Earth, so Fire colours — blush pink, peach and terracotta — are the most supportive. Earth’s own colours — cream yellow, sand beige and earth brown — feel warm and grounded. Avoid large areas of green (Wood), because Wood overcomes Earth.",
-      zh: "土代表稳重、包容与安定。火生土，所以粉红、蜜桃橙、陶土红等火色是相生色。土的本命色奶油黄、沙米色、土棕给人温暖安稳之感。宜少用大面积的绿色（木），因为木克土。"
+      vi: "Hành Thổ tượng trưng cho đất, sự vững chãi, bao dung và ổn định. Theo ngũ hành, Hỏa sinh Thổ nên các màu của hành Hỏa như hồng phấn, đỏ cam, đỏ đất nung là màu tương sinh. Màu bản mệnh vàng kem, be cát, nâu đất mang lại cảm giác ấm áp, an yên. Nên hạn chế dùng nhiều xanh lá (hành Mộc) vì Mộc khắc Thổ.",
+      en: "Earth stands for stability, generosity and steadiness. Fire nourishes Earth, so Fire colours — blush pink, coral red and terracotta — are the most supportive. Earth’s own colours — cream yellow, sand beige and earth brown — feel warm and grounded. Avoid large areas of green (Wood), because Wood overcomes Earth.",
+      zh: "土代表稳重、包容与安定。火生土，所以粉红、珊瑚红、陶土红等火色是相生色。土的本命色奶油黄、沙米色、土棕给人温暖安稳之感。宜少用大面积的绿色（木），因为木克土。"
     }
   },
   ui: {
@@ -54,18 +54,18 @@ window.MENH = {
       tips: "Gợi ý phối màu cho ngôi nhà",
       tip: (s, b) => [`<b>Phòng khách:</b> dùng tông nhạt của màu tương sinh (${s}) làm màu nền, điểm nhấn bằng màu bản mệnh.`, `<b>Phòng ngủ:</b> ưu tiên màu nhẹ nhàng như ${b} pha sáng — dễ ngủ và thư thái.`, `<b>Ngoại thất:</b> chọn màu tương sinh hoặc bản mệnh tông sáng, bền màu; viền, cửa, phào chỉ dùng màu đậm hơn.`, `<b>Màu kỵ:</b> không nhất thiết phải tránh hoàn toàn — có thể dùng ở đồ trang trí, rèm, gối với diện tích nhỏ.`],
       note: "Màu hợp mệnh là kinh nghiệm văn hóa dân gian, mang tính tham khảo. Nên chọn theo mệnh của chủ nhà (người trụ cột) cho phòng khách và ngoại thất, còn phòng ngủ theo mệnh người sử dụng phòng. Quan trọng nhất vẫn là màu bạn thấy đẹp và dễ chịu.",
-      empty: "Nhập ngày tháng năm sinh để xem màu sơn hợp mệnh.", bad: "Ngày sinh chưa hợp lệ, vui lòng kiểm tra lại." },
+      code: "Mã màu", chart: "Mã màu theo bảng màu sơn NETEC Center – N Paint Global. Màu hiển thị trên màn hình chỉ gần đúng, vui lòng xem bảng màu thực tế trước khi chọn.", empty: "Nhập ngày tháng năm sinh để xem màu sơn hợp mệnh.", bad: "Ngày sinh chưa hợp lệ, vui lòng kiểm tra lại." },
     en: { born: "Date of birth", lunar: "Lunar year", menh: "Element", beforeTet: (y) => `You were born before Lunar New Year, so your lunar year is ${y}.`,
       sinh: "Supporting colours — best", ban: "Your element’s colours — good", ky: "Colours to avoid as the main colour", meaning: "Feng shui explanation",
       tips: "Colour ideas for your home",
       tip: (s, b) => [`<b>Living room:</b> use light tones of the supporting colours (${s}) as the base, with accents in your element’s colours.`, `<b>Bedroom:</b> soft, lightened shades such as ${b} help you relax and sleep well.`, `<b>Exterior:</b> choose light, fade-resistant tones of your supporting or element colours; use deeper shades for trims, doors and mouldings.`, `<b>Colours to avoid:</b> you don’t have to avoid them completely — use them in small areas such as decor, curtains and cushions.`],
       note: "Element colours are a folk tradition and are for reference only. Use the homeowner’s element for the living room and exterior, and each person’s own element for their bedroom. Above all, choose colours you find beautiful and comfortable.",
-      empty: "Enter your date of birth to see your lucky paint colours.", bad: "Invalid date of birth — please check again." },
+      code: "Code", chart: "Colour codes follow the NETEC Center – N Paint Global colour chart. On-screen colours are approximate; please check the physical colour card before choosing.", empty: "Enter your date of birth to see your lucky paint colours.", bad: "Invalid date of birth — please check again." },
     zh: { born: "出生日期", lunar: "农历年", menh: "五行", beforeTet: (y) => `您在农历春节前出生，按农历 ${y} 年计算。`,
       sinh: "相生色——最佳", ban: "本命色——相合", ky: "不宜作为主色", meaning: "风水解读",
       tips: "家居配色建议",
       tip: (s, b) => [`<b>客厅：</b>以相生色（${s}）的浅色调为底色，用本命色作点缀。`, `<b>卧室：</b>选用${b}等柔和的浅色，有助放松与睡眠。`, `<b>外墙：</b>选择相生色或本命色中浅而耐候的色调；线条、门窗和装饰线用较深的颜色。`, `<b>忌色：</b>不必完全避开，可小面积用于摆件、窗帘、抱枕等。`],
       note: "五行配色属于民间文化经验，仅供参考。客厅和外墙按屋主（家中主事人）的五行选色，卧室按使用者的五行选色。最重要的是选择您自己觉得好看、舒适的颜色。",
-      empty: "输入出生日期，查看适合您的墙漆颜色。", bad: "出生日期无效，请重新检查。" }
+      code: "色号", chart: "色号来自 NETEC Center – N Paint Global 色卡。屏幕显示颜色仅供参考，选色前请查看实物色卡。", empty: "输入出生日期，查看适合您的墙漆颜色。", bad: "出生日期无效，请重新检查。" }
   }
 };
