@@ -65,33 +65,6 @@ window.TIN_TUC = [
  },
  {
   "ngay": "2026-10-02",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Chuyển đổi số ở Quảng Ninh: Xây dựng nền hành chính hiện đại, linh hoạt và gần dân",
-  "tomTat": "Chuyển đổi số ở Quảng Ninh: Xây dựng nền hành chính hiện đại, linh hoạt và gần dân. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Sở hữu Trí tuệ và Sáng tạo.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Sở hữu Trí tuệ và Sáng tạo",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVU2R1lna0ZQdUVMcXg4ajdFc2lGcXpuOEFSMzBsU2YzSWswaUlxd0dkTnNNRGh5VWpIak9NTnotU1A0NGRuczBNNUFlb09SUUx5S0pMOTRBZGJiaUEtdjFjT0d2OFp4a0pkNklrNnV1Z1d2R0IzMTJpdjI1a3Jaa2VTd185cGVNRWpVQkNLOWNKQTNnQWM1OGpRYjAxVDF3c3ZXWU52dTRYTVhRVkF6M0l2WjNHWFRUTXNFQQ?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh hướng tới xây dựng thành phố hạnh phúc và phát triển bền vững",
-  "tomTat": "Quảng Ninh hướng tới xây dựng thành phố hạnh phúc và phát triển bền vững. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam+ (VietnamPlus).",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Vietnam+ (VietnamPlus)",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlFFaDNjdm01c2h5OVBPOWhKRUh0a2xqSUFKSW85WUVxRGxLMlZjZEZZQ2p1WXJmSTg1YjcyN21QVmVnNC1STEdEaTB0dnFOYzRjWW1IakJXVmZ3ekt3VnJ0dHNldGlSNHFwamlMQnVkeDVRelp0VDVTT3d1WTJzUFBLMXdzcG9SZWRjRkwyekEyczhMSlVj?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh đặt mục tiêu xây dựng “Thành phố hạnh phúc”",
-  "tomTat": "Quảng Ninh đặt mục tiêu xây dựng “Thành phố hạnh phúc”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dantri.com.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "dantri.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1VIdjlqS3VUN0NxUWdLZHBwMnlpd1F1ZHZRUHQwNnZoUkFfNER1YUN2WVc2MVp0N2tZR3lqM3Zfb3lhX2tvNXRBRmFPOEFsazRlS2pfOGlsNnJsMVdITl9GUGxWdlRkZDNOZXhCMzZvV0JWcHFzTDh4TnQya0RQOHUwZnFoYlFnU3FmbnJKblNYcEsyS1p2cjE0Vm5Nb2VGaktHSjJEMA?oc=5"
- },
- {
-  "ngay": "2026-10-02",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh",
   "tomTat": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
@@ -226,4 +199,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-03T18:47";
+window.TIN_CAP_NHAT = "2026-10-03T18:52";
