@@ -1,5 +1,50 @@
-/* ĐIỂM TIN — được cập nhật tự động mỗi sáng. Nội dung bên trong [ ] là JSON. */
+/* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu...",
+  "tomTat": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu.... Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoixaydung.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "nguoixaydung.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlJ3a1VwX282NVFfUE9WWnJHa01HVV9KVjg0eE02cjJtR21QYWtkZm44TEE3VzJaWTdSZ0pFLW9lQXZPVXpYSFFLMVVlMXZ1dEJqakc1azVlSEI5SEVzLWx2UHlhTGlxcml6bGpKS3JIVkJlemhBYzVXYXJhWXBMeWFSSkpHUDNNOHpmX1E3ZEg5YkR2Y3BVa045MWZMb3NsUzhoSzVUM3FvUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khởi tố giám đốc doanh nghiệp ở Cần Thơ trốn thuế hơn 2 tỉ đồng",
+  "tomTat": "Khởi tố giám đốc doanh nghiệp ở Cần Thơ trốn thuế hơn 2 tỉ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUVkZnFoREhUbnVxZ1dpbkViSllkb0JVTmI3OGE2bmwybEpPNkJkbzc2SDN6T1hwWDl2RWI2cU16R19hSFZKc0FjdmQtRFRTczU3WHJhLW1CYnlFWkJIc0pHWGpEMFRfOGVlYThKeVFDdkpxbHVjVU9BVlNBQ1d3NDJLYnJTX2xZU1hxa3o5RVkwSmxXWFYxOE1YOTZzZ0J6X0NiWEFnUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Đoàn đại biểu Quốc hội tỉnh Lạng Sơn tiếp xúc cử tri tại 2 xã Thất Khê và Hoàng Văn Thụ",
+  "tomTat": "Đoàn đại biểu Quốc hội tỉnh Lạng Sơn tiếp xúc cử tri tại 2 xã Thất Khê và Hoàng Văn Thụ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng Thông tin điện tử Quốc hội.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "Cổng Thông tin điện tử Quốc hội",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXBVNU00bFhCMHROQk5kSFBSU3dvUUxpcWFYQkJBSF9RYmM4ZVBVSHk3U0NGelE0T3BzZVRyTVdqSVY4bW9vX3pzQWpSS01lY0FGY1ZyUXZTUE1Qa3dmSGVpTUxTVUl2M1BxbHZrbFYxdmwyOFJfbDR1QU9WdE5BVVBkRQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Chọn vật liệu tân trang cho ngôi nhà",
+  "tomTat": "Chọn vật liệu tân trang cho ngôi nhà. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UDJKSEN4dUkxUmpKM2ttTVBsUXUwQUk5N0djNFE0OGNwX0xIYmdSek1RajRkZlctcFd2WmFYbUsya3BmeTJSVW5ESGNiaThxQ2hpMGRuMTQzWVpURmZSM3RrdmNLZThRQ29v?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Cambridge Pathway – Từ nền tảng đầu tiên đến cánh cửa học tập trên thế giới",
+  "tomTat": "Cambridge Pathway – Từ nền tảng đầu tiên đến cánh cửa học tập trên thế giới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1pjRThRc04tQ1NueU1oM1gwdGlaRTh0Ym12UWV0SVlrV3VZRDZfcWxScVBrU29OWkZma3BDNzZnQngtT2g2UDhJRmY1bUY1bms3dmUtRHptZmQ2UXVJRHNZV193bGN3Y0wyUHRhbXk1Rjlpbmh6SG41LU9HT1hMTDFOeHRBMHFSRXd3RWRiRkF0MF9rSVg0TFUtZ18?oc=5"
+ },
  {
   "ngay": "2026-10-02",
   "chuyenMuc": "gia-vlxd",
@@ -208,3 +253,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
+window.TIN_CAP_NHAT = "2026-10-03T18:29";
