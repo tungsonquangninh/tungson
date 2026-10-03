@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-03",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thị trường vật liệu xây dựng 3 tháng cuối năm dự kiến biến động ra sao?",
+  "tomTat": "Thị trường vật liệu xây dựng 3 tháng cuối năm dự kiến biến động ra sao?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baoxaydung.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "baoxaydung.vn",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0xnWXpMM1RxVWw2dlRZNlhFV1NCY1drOHMwZlZBbF9xT2JrWWRnX0NkVFlQNjJkcHBsMVNRelFvSDJuYk1QeTdmR0NHTjNramdHRkwtYXExd2NuTHVoTXZjLXdKR1hlUEh6VmlsalExalBieHcxSGdleWZpVU14YVF1UWZJTjE3cjU4ejdDVHJXdVlpdlhyYWtRYUYyV045MmhNRm9zMF9vZzVDZzc4MTM3T01ydw?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 3/10: Quặng sắt giảm phiên thứ ba liên tiếp",
+  "tomTat": "Giá thép hôm nay 3/10: Quặng sắt giảm phiên thứ ba liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazdHQk5KRGZiN004cGloRy1ub0FhNVotM0lPU0RsREZnNktGYklubXk2S1ZaSEZ4MG8wcHVCSlJvM0pxQjBadk41R2t2WE1MUE1BWnFqbnRZYjdROVpadVVheXN0NFJjSHVVY3ZIdFVoazExWXNyTzRpNko0TmZ5VlhCQjJLaHN6Z3BNMkxydFlFOWdDS0hXTlhodklLZEtjNHc4?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”",
   "tomTat": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -17,15 +35,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "index.vn",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0FGNERDWDg0TVdNYk9HMDVId3RPaTFGRmNnS2d6QkRLVVljbjJQT2xLNXltQWs4OWlpOVQ5Y2ZPTG5mUDk1WllRRzNlOEY3RU5YQjhGRm9UOEVLSGUwV0FhZE94eWF0NXZzaEk3U3NkQk51S0FzZWZLaUllaG1GdzJvOXBIRzVncHF5YXNvdWZyV0VvRHh2d2ktTzE?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Triển lãm và ra mắt sách tưởng niệm \"vị thuật sĩ sơn mài\" Hồ Hữu Thủ",
-  "tomTat": "Triển lãm và ra mắt sách tưởng niệm \"vị thuật sĩ sơn mài\" Hồ Hữu Thủ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tieudung.vn.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "tieudung.vn",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1ktVzdHTjhXdTlnQnRUSjU0dzNXZ1hrUHZCVzRtV2VaVzZHaDRrNmtpVlBQSUlleXUzUDlZQmltYlE1dGRmWi1FUGR2X2hGNFV0d0ZqOWdMNGF4Y0R4Q3VKd0hlTXdNMU5RcXZEbW96Q2E5NXA5MlUtVDQyX3NLTVBqQjZ0d21lMzFPdEFHV0p3STd4QU5r?oc=5"
  },
  {
   "ngay": "2026-10-03",
@@ -44,6 +53,24 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "nguoixaydung.com.vn",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlJ3a1VwX282NVFfUE9WWnJHa01HVV9KVjg0eE02cjJtR21QYWtkZm44TEE3VzJaWTdSZ0pFLW9lQXZPVXpYSFFLMVVlMXZ1dEJqakc1azVlSEI5SEVzLWx2UHlhTGlxcml6bGpKS3JIVkJlemhBYzVXYXJhWXBMeWFSSkpHUDNNOHpmX1E3ZEg5YkR2Y3BVa045MWZMb3NsUzhoSzVUM3FvUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Ngắm BMW M3 Touring giá gần 5,4 tỷ tại Việt Nam, riêng màu sơn đủ mua 1 chiếc SH",
+  "tomTat": "Ngắm BMW M3 Touring giá gần 5,4 tỷ tại Việt Nam, riêng màu sơn đủ mua 1 chiếc SH. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kenh14.vn.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "Kenh14.vn",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEQxd3pMUW9IRkFucXZneWMyU2piSGNqWUFpN1pNVTBLUS1RNmU0QzNpekk1QUJBeEgxZnJmNkJIb2VuLWNPWlZsWWVXWkdjcUg3QzRzZTc1UFI1WTByWTRDbXA4NDdyY2dNd3J3Ym9PeHhPLUlYSGJIRS05c1lNSzN2dkFJQ05yRno5c3FXQnpaTHpIUGg5QXpDWlc2SFBodFl0aGlXaUl1SjkwT05JMjk4eWJkM3BlV1Rn?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh hướng tới xây dựng thành phố hạnh phúc và phát triển bền vững",
+  "tomTat": "Quảng Ninh hướng tới xây dựng thành phố hạnh phúc và phát triển bền vững. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam+ (VietnamPlus).",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Vietnam+ (VietnamPlus)",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlFFaDNjdm01c2h5OVBPOWhKRUh0a2xqSUFKSW85WUVxRGxLMlZjZEZZQ2p1WXJmSTg1YjcyN21QVmVnNC1STEdEaTB0dnFOYzRjWW1IakJXVmZ3ekt3VnJ0dHNldGlSNHFwamlMQnVkeDVRelp0VDVTT3d1WTJzUFBLMXdzcG9SZWRjRkwyekEyczhMSlVj?oc=5"
  },
  {
   "ngay": "2026-10-02",
@@ -190,4 +217,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-03T18:33";
+window.TIN_CAP_NHAT = "2026-10-03T18:41";
