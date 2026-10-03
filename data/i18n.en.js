@@ -20,7 +20,7 @@ window.I18N = {
     cWall: "Wall area", cOpen: "Minus doors & windows", cCeil: "Ceiling area", cTotal: "Total area to paint",
     cTop: (c) => `Top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimer: "Primer (1 coat)", cPutty: "Wall putty (2 coats)", cL: "litres", cKg: "kg",
     cPack: (n18, n5) => [n18 ? n18 + " × 18 L pail" : "", n5 ? n5 + " × 5 L can" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " × 25 kg bag",
-    cBuy: "Suggested", cIncl: (w) => `includes ${w}% waste allowance`, cErr: "Doors and windows are larger than the wall area — please check your numbers."
+    cBuy: "Suggested", cWallOut: "Exterior wall area", cExtra: "Other areas", cTopOut: (c) => `Exterior top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimerOut: "Exterior primer (1 coat)", cPuttyOut: "Exterior wall putty (2 coats)", cIncl: (w) => `includes ${w}% waste allowance`, cErr: "Doors and windows are larger than the wall area — please check your numbers."
   },
   th: {
     netec: { slogan: "Paint that conquers time", ngan: "The NETEC Center range by Global Plus.",

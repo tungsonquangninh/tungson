@@ -334,3 +334,9 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
 @media (max-width:900px){.calc{grid-template-columns:1fr}.calc-res{position:static}.calc-teaser{flex-wrap:wrap}.calc-teaser .btn{margin-left:0}}
 @media (max-width:640px){.f .three{grid-template-columns:1fr 1fr 1fr;gap:8px}.f .three label{font-size:12.5px}}
 .f .three{align-items:end}
+.calc-tabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--paper);padding:5px;border-radius:12px;margin-bottom:18px}
+.calc-tabs button{font-family:inherit;font-size:15px;font-weight:600;padding:11px 10px;border:0;border-radius:9px;background:transparent;color:var(--ink-2);cursor:pointer}
+.calc-tabs button[aria-selected="true"]{background:#fff;color:var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.f .two4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;align-items:end}
+.sides{display:grid;grid-template-columns:repeat(4,auto);gap:4px 18px;justify-content:start}
+@media (max-width:640px){.f .two4{grid-template-columns:1fr 1fr;gap:8px}.sides{grid-template-columns:1fr 1fr}.calc-tabs button{font-size:13.5px}}

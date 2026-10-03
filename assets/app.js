@@ -23,7 +23,7 @@
     cWall: "Diện tích tường", cOpen: "Trừ cửa đi & cửa sổ", cCeil: "Diện tích trần", cTotal: "Tổng diện tích cần sơn",
     cTop: (c) => `Sơn phủ (${c} lớp)`, cPrimer: "Sơn lót (1 lớp)", cPutty: "Bột bả (2 lớp)", cL: "lít", cKg: "kg",
     cPack: (n18, n5) => [n18 ? n18 + " thùng 18 lít" : "", n5 ? n5 + " lon 5 lít" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " bao 25 kg",
-    cBuy: "Gợi ý mua", cIncl: (w) => `đã cộng ${w}% hao hụt`, cErr: "Kích thước cửa lớn hơn diện tích tường — vui lòng kiểm tra lại số liệu."
+    cBuy: "Gợi ý mua", cWallOut: "Diện tích tường ngoài", cExtra: "Diện tích khác", cTopOut: (c) => `Sơn phủ ngoại thất (${c} lớp)`, cPrimerOut: "Sơn lót ngoại thất (1 lớp)", cPuttyOut: "Bột bả ngoại thất (2 lớp)", cIncl: (w) => `đã cộng ${w}% hao hụt`, cErr: "Kích thước cửa lớn hơn diện tích tường — vui lòng kiểm tra lại số liệu."
   }, L.ui || {});
   const CM = U.cm, KHU = U.khu;
 
@@ -179,18 +179,34 @@
     const f1 = (x) => (Math.round(x * 10) / 10).toLocaleString(U.locale);
     const pack = (need) => { let best = null; for (let a = 0; a <= Math.ceil(need / 18) + 1; a++) { const b = Math.max(0, Math.ceil((need - 18 * a) / 5)); const tot = 18 * a + 5 * b; if (!best || tot < best.tot || (tot === best.tot && a + b < best.a + best.b)) best = { a, b, tot }; } return best; };
     const row = (k, val, strong) => `<div class="cr${strong ? " big" : ""}"><span>${k}</span><b>${val}</b></div>`;
+    const form = $("#calc-form");
+    $$(".calc-tabs button", form).forEach((btn) => btn.addEventListener("click", () => {
+      form.dataset.mode = btn.dataset.mode;
+      $$(".calc-tabs button", form).forEach((x) => x.setAttribute("aria-selected", x === btn ? "true" : "false"));
+      $(".grp-in", form).hidden = btn.dataset.mode !== "in"; $(".grp-out", form).hidden = btn.dataset.mode !== "out";
+      run();
+    }));
     function run() {
-      const L_ = v("c-len"), W = v("c-wid"), H = v("c-hei");
-      const wall = (L_ + W) * 2 * H, open = v("c-dw") * v("c-dh") * v("c-dq") + v("c-ww") * v("c-wh") * v("c-wq");
-      const ceil = ck("c-ceil") ? L_ * W : 0, net = wall - open, total = net + ceil;
+      const out = form.dataset.mode === "out";
+      let wall, open, ceil = 0, extra = 0;
+      if (!out) {
+        const L_ = v("c-len"), W = v("c-wid"), H = v("c-hei");
+        wall = (L_ + W) * 2 * H; open = v("c-dw") * v("c-dh") * v("c-dq") + v("c-ww") * v("c-wh") * v("c-wq");
+        ceil = ck("c-ceil") ? L_ * W : 0;
+      } else {
+        const H = v("e-floors") * v("e-fh"), F = v("e-front"), D = v("e-depth");
+        wall = ((ck("e-sf") ? F : 0) + (ck("e-sb") ? F : 0) + (ck("e-sl") ? D : 0) + (ck("e-sr") ? D : 0)) * H;
+        extra = v("e-extra"); open = v("e-dw") * v("e-dh") * v("e-dq") + v("e-ww") * v("e-wh") * v("e-wq");
+      }
+      const net = wall - open, total = net + ceil + extra;
       const coats = +$("#c-coats").value || 2, rate = v("c-rate") || 10, waste = 1 + v("c-waste") / 100;
       if (net < 0) { $("#calc-out").innerHTML = `<p class="msg err" style="display:block">${U.cErr}</p>`; return; }
       const top = total * coats / rate * waste, primer = total / rate * waste, putty = total * 1.0 * waste;
       const pt = pack(top), pp = pack(primer);
-      let h = row(U.cWall, f1(wall) + " m²") + row(U.cOpen, "− " + f1(open) + " m²") + (ceil ? row(U.cCeil, "+ " + f1(ceil) + " m²") : "") + row(U.cTotal, f1(total) + " m²", true);
-      h += `<div class="cbox"><div class="ct">${U.cTop(coats)}</div><div class="cv">${f1(top)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pt.a, pt.b)}</div></div>`;
-      if (ck("c-primer")) h += `<div class="cbox"><div class="ct">${U.cPrimer}</div><div class="cv">${f1(primer)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pp.a, pp.b)}</div></div>`;
-      if (ck("c-putty")) h += `<div class="cbox"><div class="ct">${U.cPutty}</div><div class="cv">${f1(putty)} ${U.cKg}</div><div class="cp">${U.cBuy}: ${U.cBag(Math.ceil(putty / 25))}</div></div>`;
+      let h = row(out ? U.cWallOut : U.cWall, f1(wall) + " m²") + row(U.cOpen, "− " + f1(open) + " m²") + (ceil ? row(U.cCeil, "+ " + f1(ceil) + " m²") : "") + (extra ? row(U.cExtra, "+ " + f1(extra) + " m²") : "") + row(U.cTotal, f1(total) + " m²", true);
+      h += `<div class="cbox"><div class="ct">${out ? U.cTopOut(coats) : U.cTop(coats)}</div><div class="cv">${f1(top)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pt.a, pt.b)}</div></div>`;
+      if (ck("c-primer")) h += `<div class="cbox"><div class="ct">${out ? U.cPrimerOut : U.cPrimer}</div><div class="cv">${f1(primer)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pp.a, pp.b)}</div></div>`;
+      if (ck("c-putty")) h += `<div class="cbox"><div class="ct">${out ? U.cPuttyOut : U.cPutty}</div><div class="cv">${f1(putty)} ${U.cKg}</div><div class="cp">${U.cBuy}: ${U.cBag(Math.ceil(putty / 25))}</div></div>`;
       h += `<p class="muted" style="font-size:13px;margin:6px 0 0">${U.cIncl(v("c-waste"))}</p>`;
       $("#calc-out").innerHTML = h;
     }
