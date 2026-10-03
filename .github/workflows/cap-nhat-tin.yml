@@ -2,6 +2,7 @@ name: Cap nhat Diem tin hang ngay
 on:
   schedule:
     - cron: "40 23 * * *"   # 6:40 sang gio Viet Nam
+    - cron: "40 9 * * *"    # 16:40 chieu gio Viet Nam
   workflow_dispatch: {}
 permissions:
   contents: write
