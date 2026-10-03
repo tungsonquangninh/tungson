@@ -49,7 +49,9 @@ def hop_le(tieu, cm):
     if cm in ("thi-truong-son", "xu-huong"):  # phải nói về nhà cửa / ngành sơn xây dựng
         ok = ok and any(k in tieu.lower() for k in NGU_CANH_NHA)
     if cm == "quang-ninh":
-        ok = ok and any(k in tieu.lower() for k in ["nhà", "xây dựng", "dự án", "đô thị", "công trình", "vật liệu"])
+        ok = ok and any(k in tieu.lower() for k in ["nhà ở", "ngôi nhà", "nhà dân", "xây nhà", "chung cư", "bất động sản", "khu dân cư",
+                                                    "khu đô thị", "quy hoạch", "dự án nhà", "công trình", "vật liệu", "giải phóng mặt bằng"])
+        ok = ok and not any(k in tieu.lower() for k in ["hành chính", "chuyển đổi số", "hạnh phúc", "đảng", "đại hội"])
     return ok
 
 def lay_rss(q):
