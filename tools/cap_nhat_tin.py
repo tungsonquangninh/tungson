@@ -30,6 +30,24 @@ GOC_NHIN = {
     "quang-ninh": ["Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt."],
 }
 
+# Tiêu đề phải chứa ít nhất 1 từ khóa của chuyên mục (tránh tin lạc đề)
+LIEN_QUAN = {
+    "gia-vlxd": ["vật liệu", "thép", "xi măng", "gạch", "cát xây", "vlxd"],
+    "thi-truong-son": [r"(?<![A-ZÀ-Ỹ])sơn\b", r"^Sơn [a-zà-ỹ]", "chống thấm"],
+    "phap-ly": ["giấy phép xây dựng", "cấp phép xây dựng", "nhà ở riêng lẻ", "xây nhà", "xây dựng nhà"],
+    "xu-huong": ["màu", r"(?<![A-ZÀ-Ỹ])sơn\b", "nội thất", "trang trí", "tân trang", "thiết kế nhà"],
+    "quang-ninh": ["Quảng Ninh"],
+}
+LOAI_TRU = ["khởi tố", "bắt giữ", "trốn thuế", "tai nạn", "lừa đảo", "tử vong"]
+
+def hop_le(tieu, cm):
+    if any(x in tieu.lower() for x in LOAI_TRU):
+        return False
+    ok = any(re.search(k, tieu) for k in LIEN_QUAN[cm])
+    if cm == "quang-ninh":
+        ok = ok and any(k in tieu.lower() for k in ["nhà", "xây dựng", "dự án", "đô thị", "công trình", "vật liệu"])
+    return ok
+
 def lay_rss(q):
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:2d", "hl": "vi", "gl": "VN", "ceid": "VN:vi"})
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (tungson-news-bot)"})
@@ -48,7 +66,7 @@ def doc_tin(xml_bytes, cm):
             ngay = parsedate_to_datetime(it.findtext("pubDate")).astimezone(VN).date().isoformat()
         except Exception:
             ngay = dt.datetime.now(VN).date().isoformat()
-        if len(tieu) < 20 or not link:
+        if len(tieu) < 20 or not link or not hop_le(tieu, cm):
             continue
         try:
             ts = parsedate_to_datetime(it.findtext("pubDate")).timestamp()
@@ -65,6 +83,8 @@ def chuan(s):
 def main():
     src = F.read_text(encoding="utf-8")
     cu = json.loads(re.search(r"window\.TIN_TUC\s*=\s*(\[.*\]);", src, re.S).group(1))
+    # Dọn tin tự động lạc đề đã lấy trước đây (tin biên soạn tay được giữ nguyên)
+    cu = [x for x in cu if "Bấm vào nguồn bên dưới" not in x.get("tomTat", "") or hop_le(x["tieuDe"], x["chuyenMuc"])]
     da_co = {chuan(x["tieuDe"]) for x in cu} | {x.get("link") for x in cu}
     moi = []
     for cm, q in TRUY_VAN:
