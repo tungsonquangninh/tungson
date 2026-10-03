@@ -16,7 +16,11 @@ window.I18N = {
     badPhone: "请输入有效的电话号码。", notConnected: (tel, ph) => `表单尚未连接。请致电 <a href="${tel}">${ph}</a> 或通过 Zalo 联系我们。`,
     thanks: "谢谢！Tùng Sơn 已收到您的信息，会尽快回电。", sendFail: (tel, ph) => `发送失败，请致电 <a href="${tel}">${ph}</a>。`,
     cm: { "gia-vlxd": "建材价格", "thi-truong-son": "涂料市场", "phap-ly": "建房法规", "xu-huong": "色彩趋势", "quang-ninh": "广宁新闻" },
-    khu: { noi: "内墙", ngoai: "外墙", ca2: "内外墙通用" }
+    khu: { noi: "内墙", ngoai: "外墙", ca2: "内外墙通用" },
+    cWall: "墙面面积", cOpen: "扣除门窗", cCeil: "天花面积", cTotal: "需涂刷总面积",
+    cTop: (c) => `面漆（${c} 遍）`, cPrimer: "底漆（1 遍）", cPutty: "腻子（2 遍）", cL: "升", cKg: "公斤",
+    cPack: (n18, n5) => [n18 ? n18 + " 桶 18 升" : "", n5 ? n5 + " 桶 5 升" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " 袋 25 公斤",
+    cBuy: "建议购买", cIncl: (w) => `已含 ${w}% 损耗`, cErr: "门窗面积大于墙面面积——请检查输入数据。"
   },
   th: {
     netec: { slogan: "征服时间的涂料", ngan: "Global Plus 旗下 NETEC Center 系列。",

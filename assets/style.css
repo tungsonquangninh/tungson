@@ -312,3 +312,25 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
   .nav-lang .langsw a.on{color:#fff;border-color:var(--accent)}
   .nav-lang .langsw svg{color:var(--muted)}
 }
+/* Tính sơn */
+.calc{display:grid;grid-template-columns:1.25fr 1fr;gap:32px;align-items:start}
+.calc-form h3{font-size:16px;margin:18px 0 10px}.calc-form h3:first-child{margin-top:0}
+.f .three{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.f .three input,.f .three select{margin-bottom:8px}
+.chk{display:flex!important;align-items:center;gap:10px;font-weight:500!important;margin:6px 0!important;cursor:pointer}
+.chk input{width:20px!important;height:20px;margin:0!important;accent-color:var(--accent)}
+.calc-res{position:sticky;top:96px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:26px}
+.cr{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:15px}
+.cr span{color:var(--muted)} .cr.big{font-size:17px} .cr.big span{color:var(--ink);font-weight:600} .cr.big b{color:var(--accent)}
+.cbox{background:var(--paper);border-radius:12px;padding:14px 16px;margin-top:12px}
+.cbox .ct{font-size:14px;color:var(--muted);font-weight:600}
+.cbox .cv{font-size:28px;font-weight:800;color:var(--ink);line-height:1.2;margin:2px 0}
+.cbox .cp{font-size:14px;color:var(--sage);font-weight:600}
+.calc-teaser{display:flex;align-items:center;gap:22px;background:#fff;border:1.5px solid var(--line);border-radius:18px;padding:22px 26px;color:var(--ink);text-decoration:none!important;transition:.2s}
+.calc-teaser:hover{border-color:var(--accent);box-shadow:var(--shadow)}
+.calc-teaser h3{margin:0 0 4px}.calc-teaser p{margin:0;color:var(--muted);font-size:15px}
+.calc-teaser .ct-ic{flex:none;width:58px;height:58px;border-radius:14px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center}
+.calc-teaser .btn{flex:none;margin-left:auto}
+@media (max-width:900px){.calc{grid-template-columns:1fr}.calc-res{position:static}.calc-teaser{flex-wrap:wrap}.calc-teaser .btn{margin-left:0}}
+@media (max-width:640px){.f .three{grid-template-columns:1fr 1fr 1fr;gap:8px}.f .three label{font-size:12.5px}}
+.f .three{align-items:end}

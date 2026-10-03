@@ -16,7 +16,11 @@ window.I18N = {
     badPhone: "Please enter a valid phone number.", notConnected: (tel, ph) => `The form is not connected yet. Please call <a href="${tel}">${ph}</a> or message us on Zalo.`,
     thanks: "Thank you! Tung Son has received your request and will call you back shortly.", sendFail: (tel, ph) => `Could not send. Please call <a href="${tel}">${ph}</a>.`,
     cm: { "gia-vlxd": "Material prices", "thi-truong-son": "Paint market", "phap-ly": "Building rules", "xu-huong": "Colour trends", "quang-ninh": "Quang Ninh" },
-    khu: { noi: "Interior", ngoai: "Exterior", ca2: "Interior & exterior" }
+    khu: { noi: "Interior", ngoai: "Exterior", ca2: "Interior & exterior" },
+    cWall: "Wall area", cOpen: "Minus doors & windows", cCeil: "Ceiling area", cTotal: "Total area to paint",
+    cTop: (c) => `Top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimer: "Primer (1 coat)", cPutty: "Wall putty (2 coats)", cL: "litres", cKg: "kg",
+    cPack: (n18, n5) => [n18 ? n18 + " × 18 L pail" : "", n5 ? n5 + " × 5 L can" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " × 25 kg bag",
+    cBuy: "Suggested", cIncl: (w) => `includes ${w}% waste allowance`, cErr: "Doors and windows are larger than the wall area — please check your numbers."
   },
   th: {
     netec: { slogan: "Paint that conquers time", ngan: "The NETEC Center range by Global Plus.",

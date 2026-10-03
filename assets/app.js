@@ -19,7 +19,11 @@
     badPhone: "Vui lòng nhập số điện thoại hợp lệ.", notConnected: (tel, ph) => `Biểu mẫu chưa được kết nối. Vui lòng gọi <a href="${tel}">${ph}</a> hoặc nhắn Zalo để được tư vấn ngay.`,
     thanks: "Cảm ơn anh/chị! Tùng Sơn đã nhận thông tin và sẽ gọi lại trong thời gian sớm nhất.", sendFail: (tel, ph) => `Chưa gửi được. Anh/chị vui lòng gọi <a href="${tel}">${ph}</a>.`,
     cm: { "gia-vlxd": "Giá vật liệu", "thi-truong-son": "Thị trường sơn", "phap-ly": "Pháp lý xây nhà", "xu-huong": "Xu hướng màu", "quang-ninh": "Tin Quảng Ninh" },
-    khu: { noi: "Nội thất", ngoai: "Ngoại thất", ca2: "Nội & ngoại thất" }
+    khu: { noi: "Nội thất", ngoai: "Ngoại thất", ca2: "Nội & ngoại thất" },
+    cWall: "Diện tích tường", cOpen: "Trừ cửa đi & cửa sổ", cCeil: "Diện tích trần", cTotal: "Tổng diện tích cần sơn",
+    cTop: (c) => `Sơn phủ (${c} lớp)`, cPrimer: "Sơn lót (1 lớp)", cPutty: "Bột bả (2 lớp)", cL: "lít", cKg: "kg",
+    cPack: (n18, n5) => [n18 ? n18 + " thùng 18 lít" : "", n5 ? n5 + " lon 5 lít" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " bao 25 kg",
+    cBuy: "Gợi ý mua", cIncl: (w) => `đã cộng ${w}% hao hụt`, cErr: "Kích thước cửa lớn hơn diện tích tường — vui lòng kiểm tra lại số liệu."
   }, L.ui || {});
   const CM = U.cm, KHU = U.khu;
 
@@ -168,6 +172,31 @@
     render();
   }
 
+
+  function calcPage() {
+    const v = (id) => Math.max(0, parseFloat(($("#" + id) || {}).value) || 0);
+    const ck = (id) => !!($("#" + id) || {}).checked;
+    const f1 = (x) => (Math.round(x * 10) / 10).toLocaleString(U.locale);
+    const pack = (need) => { let best = null; for (let a = 0; a <= Math.ceil(need / 18) + 1; a++) { const b = Math.max(0, Math.ceil((need - 18 * a) / 5)); const tot = 18 * a + 5 * b; if (!best || tot < best.tot || (tot === best.tot && a + b < best.a + best.b)) best = { a, b, tot }; } return best; };
+    const row = (k, val, strong) => `<div class="cr${strong ? " big" : ""}"><span>${k}</span><b>${val}</b></div>`;
+    function run() {
+      const L_ = v("c-len"), W = v("c-wid"), H = v("c-hei");
+      const wall = (L_ + W) * 2 * H, open = v("c-dw") * v("c-dh") * v("c-dq") + v("c-ww") * v("c-wh") * v("c-wq");
+      const ceil = ck("c-ceil") ? L_ * W : 0, net = wall - open, total = net + ceil;
+      const coats = +$("#c-coats").value || 2, rate = v("c-rate") || 10, waste = 1 + v("c-waste") / 100;
+      if (net < 0) { $("#calc-out").innerHTML = `<p class="msg err" style="display:block">${U.cErr}</p>`; return; }
+      const top = total * coats / rate * waste, primer = total / rate * waste, putty = total * 1.0 * waste;
+      const pt = pack(top), pp = pack(primer);
+      let h = row(U.cWall, f1(wall) + " m²") + row(U.cOpen, "− " + f1(open) + " m²") + (ceil ? row(U.cCeil, "+ " + f1(ceil) + " m²") : "") + row(U.cTotal, f1(total) + " m²", true);
+      h += `<div class="cbox"><div class="ct">${U.cTop(coats)}</div><div class="cv">${f1(top)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pt.a, pt.b)}</div></div>`;
+      if (ck("c-primer")) h += `<div class="cbox"><div class="ct">${U.cPrimer}</div><div class="cv">${f1(primer)} ${U.cL}</div><div class="cp">${U.cBuy}: ${U.cPack(pp.a, pp.b)}</div></div>`;
+      if (ck("c-putty")) h += `<div class="cbox"><div class="ct">${U.cPutty}</div><div class="cv">${f1(putty)} ${U.cKg}</div><div class="cp">${U.cBuy}: ${U.cBag(Math.ceil(putty / 25))}</div></div>`;
+      h += `<p class="muted" style="font-size:13px;margin:6px 0 0">${U.cIncl(v("c-waste"))}</p>`;
+      $("#calc-out").innerHTML = h;
+    }
+    $("#calc-form").addEventListener("input", run); $("#calc-form").addEventListener("change", run); run();
+  }
+
   const form = $("#lien-he-form");
   if (form) form.addEventListener("submit", async (e) => {
     e.preventDefault();
@@ -188,4 +217,5 @@
   if (page === "products") productsPage();
   if (page === "news") newsPage();
   if (page === "knowledge") ktPage();
+  if (page === "calc") calcPage();
 })();
