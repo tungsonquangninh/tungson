@@ -56,12 +56,21 @@ window.TIN_TUC = [
  },
  {
   "ngay": "2026-10-02",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Ngắm BMW M3 Touring giá gần 5,4 tỷ tại Việt Nam, riêng màu sơn đủ mua 1 chiếc SH",
-  "tomTat": "Ngắm BMW M3 Touring giá gần 5,4 tỷ tại Việt Nam, riêng màu sơn đủ mua 1 chiếc SH. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kenh14.vn.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "Kenh14.vn",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEQxd3pMUW9IRkFucXZneWMyU2piSGNqWUFpN1pNVTBLUS1RNmU0QzNpekk1QUJBeEgxZnJmNkJIb2VuLWNPWlZsWWVXWkdjcUg3QzRzZTc1UFI1WTByWTRDbXA4NDdyY2dNd3J3Ym9PeHhPLUlYSGJIRS05c1lNSzN2dkFJQ05yRno5c3FXQnpaTHpIUGg5QXpDWlc2SFBodFl0aGlXaUl1SjkwT05JMjk4eWJkM3BlV1Rn?oc=5"
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "MBS: Lợi nhuận nhóm thép cải thiện nhờ nhu cầu nội địa, Hoà Phát có thể lãi ròng 5.600 tỷ quý III",
+  "tomTat": "MBS: Lợi nhuận nhóm thép cải thiện nhờ nhu cầu nội địa, Hoà Phát có thể lãi ròng 5.600 tỷ quý III. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVVGcXJhUTUxeDBOSVRDNkE0TUNrM2lpVHNoaXVGOGpfeXc2YVl1WTNEVWxETWpVbmFiSFM4OXVrVHh6N1p3OVdTSGk3STZhU19VWG1kcjdNWVV1UVhHZFZ0Mm5GWUNEcnctejU4TS03VWI4S1ozY0hxTlcxc1AyM05zUDQxY3hEcXllTk80VElyQjR6U2huR0pvV242QWJZdE8xb1JQLVBxbnFYd290TnhMTmdBUXZUd1ZldDJSTmM3SVdGUnNLZlhCMGwyTnNrcnc?oc=5"
+ },
+ {
+  "ngay": "2026-10-02",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Chuyển đổi số ở Quảng Ninh: Xây dựng nền hành chính hiện đại, linh hoạt và gần dân",
+  "tomTat": "Chuyển đổi số ở Quảng Ninh: Xây dựng nền hành chính hiện đại, linh hoạt và gần dân. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Sở hữu Trí tuệ và Sáng tạo.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Sở hữu Trí tuệ và Sáng tạo",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVU2R1lna0ZQdUVMcXg4ajdFc2lGcXpuOEFSMzBsU2YzSWswaUlxd0dkTnNNRGh5VWpIak9NTnotU1A0NGRuczBNNUFlb09SUUx5S0pMOTRBZGJiaUEtdjFjT0d2OFp4a0pkNklrNnV1Z1d2R0IzMTJpdjI1a3Jaa2VTd185cGVNRWpVQkNLOWNKQTNnQWM1OGpRYjAxVDF3c3ZXWU52dTRYTVhRVkF6M0l2WjNHWFRUTXNFQQ?oc=5"
  },
  {
   "ngay": "2026-10-02",
@@ -217,4 +226,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-03T18:41";
+window.TIN_CAP_NHAT = "2026-10-03T18:47";
