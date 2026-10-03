@@ -38,12 +38,16 @@ LIEN_QUAN = {
     "xu-huong": ["màu", r"(?<![A-ZÀ-Ỹ])sơn\b", "nội thất", "trang trí", "tân trang", "thiết kế nhà"],
     "quang-ninh": ["Quảng Ninh"],
 }
-LOAI_TRU = ["khởi tố", "bắt giữ", "trốn thuế", "tai nạn", "lừa đảo", "tử vong", "sơn mài", "sơn dầu", "tranh ", "triển lãm", "ra mắt sách"]
+NGU_CANH_NHA = ["nhà", "tường", "nội thất", "ngoại thất", "chống thấm", "công trình", "xây dựng", "ngành sơn", "thị trường sơn",
+                "doanh nghiệp sơn", "hãng sơn", "sơn nước", "căn hộ", "phòng khách", "phòng ngủ", "bảng màu", "màu của năm", "trang trí"]
+LOAI_TRU = ["ô tô", "xe máy", "bmw", "mercedes", "toyota", "vinfast", "siêu xe", "móng tay", "son môi", "khởi tố", "bắt giữ", "trốn thuế", "tai nạn", "lừa đảo", "tử vong", "sơn mài", "sơn dầu", "tranh ", "triển lãm", "ra mắt sách"]
 
 def hop_le(tieu, cm):
     if any(x in tieu.lower() for x in LOAI_TRU):
         return False
     ok = any(re.search(k, tieu) for k in LIEN_QUAN[cm])
+    if cm in ("thi-truong-son", "xu-huong"):  # phải nói về nhà cửa / ngành sơn xây dựng
+        ok = ok and any(k in tieu.lower() for k in NGU_CANH_NHA)
     if cm == "quang-ninh":
         ok = ok and any(k in tieu.lower() for k in ["nhà", "xây dựng", "dự án", "đô thị", "công trình", "vật liệu"])
     return ok
