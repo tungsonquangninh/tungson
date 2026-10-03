@@ -144,7 +144,7 @@
     $("#home-kt").innerHTML = KT.slice(0, 3).map(ktCard).join("");
     const news = await loadNews();
     $("#home-news").innerHTML = news.slice(0, 5).map(miniNews).join("");
-    if (news[0]) $("#home-news-date").textContent = U.updated + d(news[0].ngay).full;
+    if (news[0]) $("#home-news-date").textContent = U.updated + d((window.TIN_CAP_NHAT || news[0].ngay).slice(0, 10)).full;
   }
 
   async function newsPage() {
@@ -158,7 +158,7 @@
       $("#news-list").innerHTML = news.filter((n) => cur === "all" || n.chuyenMuc === cur).map(newsCard).join("");
     };
     ch.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { cur = b.dataset.c; render(); } });
-    if (news[0]) $("#news-updated").textContent = U.lastUpdated + d(news[0].ngay).full;
+    if (news[0]) $("#news-updated").textContent = U.lastUpdated + d((window.TIN_CAP_NHAT || news[0].ngay).slice(0, 10)).full;
     render();
   }
 

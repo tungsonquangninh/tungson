@@ -31,7 +31,7 @@ GOC_NHIN = {
 }
 
 def lay_rss(q):
-    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:3d", "hl": "vi", "gl": "VN", "ceid": "VN:vi"})
+    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:2d", "hl": "vi", "gl": "VN", "ceid": "VN:vi"})
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (tungson-news-bot)"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return r.read()
@@ -50,10 +50,14 @@ def doc_tin(xml_bytes, cm):
             ngay = dt.datetime.now(VN).date().isoformat()
         if len(tieu) < 20 or not link:
             continue
-        out.append({"ngay": ngay, "chuyenMuc": cm, "tieuDe": tieu,
+        try:
+            ts = parsedate_to_datetime(it.findtext("pubDate")).timestamp()
+        except Exception:
+            ts = 0
+        out.append({"_ts": ts, "ngay": ngay, "chuyenMuc": cm, "tieuDe": tieu,
                     "tomTat": f"{tieu}. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ {nguon or 'báo gốc'}.",
                     "gocNhin": random.choice(GOC_NHIN[cm]), "nguon": nguon or "Google News", "link": link})
-    return out
+    return sorted(out, key=lambda x: x["_ts"], reverse=True)  # tin mới nhất lên trước
 
 def chuan(s):
     return re.sub(r"\W+", " ", s.lower()).strip()
@@ -69,13 +73,14 @@ def main():
                 k = chuan(t["tieuDe"])
                 if k in da_co or t["link"] in da_co:
                     continue
-                da_co.add(k); moi.append(t); break  # tối đa 1 tin / từ khóa
+                t.pop("_ts", None); da_co.add(k); moi.append(t); break  # tối đa 1 tin / từ khóa
         except Exception as e:
             print("Bỏ qua", q, "-", e)
     moi = moi[:MOI_NGAY_TOI_DA]
     tat_ca = sorted(moi + cu, key=lambda x: x["ngay"], reverse=True)[:GIU_TOI_DA]
-    F.write_text("/* ĐIỂM TIN — được cập nhật tự động mỗi sáng. Nội dung bên trong [ ] là JSON. */\nwindow.TIN_TUC = "
-                 + json.dumps(tat_ca, ensure_ascii=False, indent=1) + ";\n", encoding="utf-8")
+    luc = dt.datetime.now(VN).strftime("%Y-%m-%dT%H:%M")
+    F.write_text("/* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */\nwindow.TIN_TUC = "
+                 + json.dumps(tat_ca, ensure_ascii=False, indent=1) + ";\nwindow.TIN_CAP_NHAT = \"" + luc + "\";\n", encoding="utf-8")
     print(f"Thêm {len(moi)} tin mới, tổng {len(tat_ca)} tin.")
 
 if __name__ == "__main__":
