@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-03",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”",
+  "tomTat": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcG9kdm5uR1BYLTlqQjRiNXdqekU4b3d1NkVEM1VYeS1wWEhDUUZhWFloQUF3czZoQzkzNlhlNFdXZHhRRHp5My1aZXVUR24zN3JleGJFQ0JoTU1MZnJKcnFoVlJJSHB4N3k0UWhkSDN2MEk4WTNUT01TLVl1cFdjeG1MTUNkaHp3bjZXUF9ha3hBWmVsSElqbk1PUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày hôm nay 3/10/2026: Quặng sắt giảm, thép trong nước đi ngang",
+  "tomTat": "Giá thép ngày hôm nay 3/10/2026: Quặng sắt giảm, thép trong nước đi ngang. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "index.vn",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0FGNERDWDg0TVdNYk9HMDVId3RPaTFGRmNnS2d6QkRLVVljbjJQT2xLNXltQWs4OWlpOVQ5Y2ZPTG5mUDk1WllRRzNlOEY3RU5YQjhGRm9UOEVLSGUwV0FhZE94eWF0NXZzaEk3U3NkQk51S0FzZWZLaUllaG1GdzJvOXBIRzVncHF5YXNvdWZyV0VvRHh2d2ktTzE?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Triển lãm và ra mắt sách tưởng niệm \"vị thuật sĩ sơn mài\" Hồ Hữu Thủ",
+  "tomTat": "Triển lãm và ra mắt sách tưởng niệm \"vị thuật sĩ sơn mài\" Hồ Hữu Thủ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tieudung.vn.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "tieudung.vn",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1ktVzdHTjhXdTlnQnRUSjU0dzNXZ1hrUHZCVzRtV2VaVzZHaDRrNmtpVlBQSUlleXUzUDlZQmltYlE1dGRmWi1FUGR2X2hGNFV0d0ZqOWdMNGF4Y0R4Q3VKd0hlTXdNMU5RcXZEbW96Q2E5NXA5MlUtVDQyX3NLTVBqQjZ0d21lMzFPdEFHV0p3STd4QU5r?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Chọn vật liệu tân trang cho ngôi nhà",
+  "tomTat": "Chọn vật liệu tân trang cho ngôi nhà. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UDJKSEN4dUkxUmpKM2ttTVBsUXUwQUk5N0djNFE0OGNwX0xIYmdSek1RajRkZlctcFd2WmFYbUsya3BmeTJSVW5ESGNiaThxQ2hpMGRuMTQzWVpURmZSM3RrdmNLZThRQ29v?oc=5"
+ },
+ {
+  "ngay": "2026-10-03",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu...",
   "tomTat": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu.... Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoixaydung.com.vn.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -10,40 +46,13 @@ window.TIN_TUC = [
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlJ3a1VwX282NVFfUE9WWnJHa01HVV9KVjg0eE02cjJtR21QYWtkZm44TEE3VzJaWTdSZ0pFLW9lQXZPVXpYSFFLMVVlMXZ1dEJqakc1azVlSEI5SEVzLWx2UHlhTGlxcml6bGpKS3JIVkJlemhBYzVXYXJhWXBMeWFSSkpHUDNNOHpmX1E3ZEg5YkR2Y3BVa045MWZMb3NsUzhoSzVUM3FvUQ?oc=5"
  },
  {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Khởi tố giám đốc doanh nghiệp ở Cần Thơ trốn thuế hơn 2 tỉ đồng",
-  "tomTat": "Khởi tố giám đốc doanh nghiệp ở Cần Thơ trốn thuế hơn 2 tỉ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUVkZnFoREhUbnVxZ1dpbkViSllkb0JVTmI3OGE2bmwybEpPNkJkbzc2SDN6T1hwWDl2RWI2cU16R19hSFZKc0FjdmQtRFRTczU3WHJhLW1CYnlFWkJIc0pHWGpEMFRfOGVlYThKeVFDdkpxbHVjVU9BVlNBQ1d3NDJLYnJTX2xZU1hxa3o5RVkwSmxXWFYxOE1YOTZzZ0J6X0NiWEFnUQ?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Đoàn đại biểu Quốc hội tỉnh Lạng Sơn tiếp xúc cử tri tại 2 xã Thất Khê và Hoàng Văn Thụ",
-  "tomTat": "Đoàn đại biểu Quốc hội tỉnh Lạng Sơn tiếp xúc cử tri tại 2 xã Thất Khê và Hoàng Văn Thụ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng Thông tin điện tử Quốc hội.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "Cổng Thông tin điện tử Quốc hội",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXBVNU00bFhCMHROQk5kSFBSU3dvUUxpcWFYQkJBSF9RYmM4ZVBVSHk3U0NGelE0T3BzZVRyTVdqSVY4bW9vX3pzQWpSS01lY0FGY1ZyUXZTUE1Qa3dmSGVpTUxTVUl2M1BxbHZrbFYxdmwyOFJfbDR1QU9WdE5BVVBkRQ?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Chọn vật liệu tân trang cho ngôi nhà",
-  "tomTat": "Chọn vật liệu tân trang cho ngôi nhà. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UDJKSEN4dUkxUmpKM2ttTVBsUXUwQUk5N0djNFE0OGNwX0xIYmdSek1RajRkZlctcFd2WmFYbUsya3BmeTJSVW5ESGNiaThxQ2hpMGRuMTQzWVpURmZSM3RrdmNLZThRQ29v?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Cambridge Pathway – Từ nền tảng đầu tiên đến cánh cửa học tập trên thế giới",
-  "tomTat": "Cambridge Pathway – Từ nền tảng đầu tiên đến cánh cửa học tập trên thế giới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1pjRThRc04tQ1NueU1oM1gwdGlaRTh0Ym12UWV0SVlrV3VZRDZfcWxScVBrU29OWkZma3BDNzZnQngtT2g2UDhJRmY1bUY1bms3dmUtRHptZmQ2UXVJRHNZV193bGN3Y0wyUHRhbXk1Rjlpbmh6SG41LU9HT1hMTDFOeHRBMHFSRXd3RWRiRkF0MF9rSVg0TFUtZ18?oc=5"
+  "ngay": "2026-10-02",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh đặt mục tiêu xây dựng “Thành phố hạnh phúc”",
+  "tomTat": "Quảng Ninh đặt mục tiêu xây dựng “Thành phố hạnh phúc”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dantri.com.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "dantri.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1VIdjlqS3VUN0NxUWdLZHBwMnlpd1F1ZHZRUHQwNnZoUkFfNER1YUN2WVc2MVp0N2tZR3lqM3Zfb3lhX2tvNXRBRmFPOEFsazRlS2pfOGlsNnJsMVdITl9GUGxWdlRkZDNOZXhCMzZvV0JWcHFzTDh4TnQya0RQOHUwZnFoYlFnU3FmbnJKblNYcEsyS1p2cjE0Vm5Nb2VGaktHSjJEMA?oc=5"
  },
  {
   "ngay": "2026-10-02",
@@ -65,48 +74,12 @@ window.TIN_TUC = [
  },
  {
   "ngay": "2026-10-02",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Đoàn kiểm tra liên ngành của Ủy ban Quốc gia về trẻ em làm việc tại Lạng Sơn",
-  "tomTat": "Đoàn kiểm tra liên ngành của Ủy ban Quốc gia về trẻ em làm việc tại Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ langson.gov.vn.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "langson.gov.vn",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhRS1FLdVdfTHVUM3NBZzJ3VWk2WnJIa05BU3laaTZBMFdnSnRpR2lfR25oQWlaazdxdTUxMWE1WWRqUVotSFh5VU1mOWp1TzFPd0hvMHBrdlNEdmFJYlc1SWhEMVJLSHc3LXF1WVJYNDd0QVVsLWV5cFBPZWZ4ZGNWY2RiQ0ppMTNnWEtlVkprOUNuUzlYS1Izb2w3QjBwcU5ZTm9vWjA0anNVQlFJYXozUjBZOXoxY0o2eA?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "'Lên đời' đại công trình của Việt Nam: Đào 400.227 m3 đất đá, đổ 48.354 m3 bê tông, lắp đặt 2.103 tấn thiết bị",
-  "tomTat": "'Lên đời' đại công trình của Việt Nam: Đào 400.227 m3 đất đá, đổ 48.354 m3 bê tông, lắp đặt 2.103 tấn thiết bị. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFpGVXQ4d1Qyc2NGQk5lanU1TlJUcmJIVm1nR2E5VDZyQTZzcU9aeFoyc0pfa0FLMWhycEVKWEdKRGJST3M2MERxVE1Fd3hQSjNEcExBWWUyQXZVUDBjT0M4WEZ5VWZ0OWlZY1R1UHdMakZpWXhYSzZFR2hjbWlUNl9IaU5oMmVUOGNRNnRrRXZTVW5pblJreDhFMnlYN2x4Q0E1VjJ0dkJMYWhzOWpSNmVYQ05LMWNYR184Zzh3MFQxOFJ3QlhjRXNaR1NaQVZLblFNaGJDLUNiZw?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Chính phủ ban hành nghị định mới quy định chi tiết quản lý hoạt động xây dựng",
-  "tomTat": "Chính phủ ban hành nghị định mới quy định chi tiết quản lý hoạt động xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFl6SE9iZUFrTzJRZzFmMXpnX3lhYzhLMWxRQzVWRThvQ1hoa1hPbDdKN2NIcVRYN0pva05HWXdKM0lIODBSblc4X2RaVHh0TGhDZ3dJbUo3VFdtZkdCa0h5UzNKMHpxV1U1TDBvV1BHU1VLdnAtd21PNGdabnI2bS13Y3pSS29kbWUxcHJCYi1BTHNrNGRZc1doTFV6VGp5eE9laWtuTDJjTUJmRlhaMFQyYkZWNUgwZWI3aENxMA?oc=5"
- },
- {
-  "ngay": "2026-10-02",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm",
   "tomTat": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kiểm toán nhà nước.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Kiểm toán nhà nước",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmJFbGJFb3FtNV9YdzNfazJKTmQ0WFdFYWdvaUlIZDhVbVl4a0kydWdqZTRoaUhKUWZXa0U1NUlnTVpsNVU3VDNFbUVxNWI2c3ZRZGE5a3hvaktIdUFZNjUtYUlUME82TWFGTzRjV1QzMnlRdEUzanlWa2x5Qm83eTZEbEZKTG9kbEFSMDg3bG5UbG11YTFiSVJXQmMwaUY0cnlva1V6LUZmV281Z3ljMU03ZkN6b0ZrRVJoZTdJcVdsN0U2?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Phát hiện láng giềng Việt Nam \"xẻ núi\", xây siêu đập cao 247m giữa Thiên Sơn -22°C: Vốn đầu tư 35.000 tỷ đồng, chứa 1,17 tỷ m3 nước, ngốn gần 19 triệu m3 đất đá",
-  "tomTat": "Phát hiện láng giềng Việt Nam \"xẻ núi\", xây siêu đập cao 247m giữa Thiên Sơn -22°C: Vốn đầu tư 35.000 tỷ đồng, chứa 1,17 tỷ m3 nước, ngốn gần 19 triệu m3 đất đá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kenh14.vn.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "Kenh14.vn",
-  "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPMlY1alI5ZEY1R1JES2Uxa1Zqc2Rwc1pobWVzNEEydC0tMEtFLTVidmd3V1dYcnhCVXJ2cFIybzlSYXJVQVhBZE9LWG1mZnhKbDdwWDhPei1LejRqc2hQeUZ3ci1tTVpHa2ZRLU9ERXR3czRHc201QTFObGRaSnQ1Z190V3NKYUE1cHZMY3JncU42dUJDd1pnUmRBcm9wSzlWYlctVzNnZEcwX0doSjVXSS1lZktSbmVYbUpVOW9YcENUOF9Ka1VnV2lxa0ZOR2FqeGIzZVlTRTR4a2lLNFdJNzdyeDZ6M1kxUkNTcHhCNG1wQV9XZHRyeU1LVzUwV3JhQ09EUFA4R2pCckl3clA2ZTF4OGc5dXdvWnU4?oc=5"
  },
  {
   "ngay": "2026-10-01",
@@ -119,48 +92,12 @@ window.TIN_TUC = [
  },
  {
   "ngay": "2026-10-01",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Hội đàm giữa Ban Nội chính Tỉnh ủy Lạng Sơn (Việt Nam) và Uỷ ban Chính pháp Khu ủy Quảng Tây (Trung Quốc)",
-  "tomTat": "Hội đàm giữa Ban Nội chính Tỉnh ủy Lạng Sơn (Việt Nam) và Uỷ ban Chính pháp Khu ủy Quảng Tây (Trung Quốc). Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "Baolangson.vn",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGFHVy1OTkM4RXBJTDNmalZJdktrUS14eGRxZ2w2ekoxRUY0SFZlNVNLWk5jMzN5TllwODFNekVISzIwMDdVMXZYYlFlejJsdm0wdlVJcGRVWWJmZUxMM0lnVVg1Q3B2cDc4M01TZGZTNXdJRjN5ZVQ0RFlWeXJFTXhwTjJ1YzdyMFp3Um5CR1M2b294Z1dFdFpfbjZ4RUZiTVFVT3ZnbV80QjRFek9IQk5wMFhpWTRMNmNrSEh5V25IdV9DaXZWTm9maHBTYVNPcHc?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Dự thảo Luật Nhà ở (sửa đổi): Đề xuất nhiều chính sách thúc đẩy phát triển nhà ở cho thuê",
-  "tomTat": "Dự thảo Luật Nhà ở (sửa đổi): Đề xuất nhiều chính sách thúc đẩy phát triển nhà ở cho thuê. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ moitruong.net.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "moitruong.net.vn",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV25PZ203MmRDWUpDcDNkZVpnSGdYQVpUdkhSQTBydUc3MU9Bd3RtRlM5QjctWkRnX1FUbU9aQm51Tzhwb1FPT3E2cHE0RG9HNkRPNjJqTHZtTGJDNllTWE4tWlVMdDFsMDJsNnBhM3MzZWl4cnVVR2tYbngyamhzcEh5VHNjaV9XTWQwdlBfTDdZUTJ1LXBjZjR1Mjk4aGlFZ1REQUIxMDNMU1JZRmFVRHZBY2R1OHR0U1ZjbkcwZ1Q?oc=5"
- },
- {
-  "ngay": "2026-10-01",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc",
   "tomTat": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHMwcUpXQXVnbC1ZYXNIRzBsc1kxOTdqOWt2QmEzR3gyYWhoRGNEanVhekYzbzEzTTJJN1BxSU1RWm14SF93YzdVRzFoU1MxRnhPZExYTUx3WG81YTNvbHlGc2NqeXRBWDNiU3F1RGpLT3RnN3dCOXFNUTJEN1VIczRkRW9lWU5pU0JScU93NjVSaXJYeDhTNzUxWEQzTnc3YjBnUXNpNEVDeFROR0stbUpZUmNHRVEzZUttbU1R?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Diễn đàn kinh tế tư nhân Việt Nam năm 2026, vòng địa phương tại Lạng Sơn",
-  "tomTat": "Diễn đàn kinh tế tư nhân Việt Nam năm 2026, vòng địa phương tại Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "Baolangson.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmIwdjBLb0oyTFNFQ2FkWkliZDQzeVZ0Mllsa1BkS2dITTl4Q1duV2FfdkZOMnkyaktsVUVHTVlPbnJRTENMNkxINGtvWWl0Sm5CbXQ4X24zVGpITlUwS0N0QUlUM1JOMEhpWDlDb3ZEekRFU2hiRDNqd0lYVkJSVmI0aF9Fc3ExWmExb0s0VU9Ua2plQnREREtOdWhuSmh6b2M0SEFSQTc4Zw?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Nippon Paint giới thiệu hệ giải pháp công trình toàn diện đến VIBE 2026",
-  "tomTat": "Nippon Paint giới thiệu hệ giải pháp công trình toàn diện đến VIBE 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dantri.com.vn.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "dantri.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV04zUmx5VGIwd2ZFUm9TUVhHbkIwR1NOMHJjLXlTVmhrNFl5bTBCVExzcmxuaGE2eDhuaXhPYUk3NzNld2lCZXRMRmZVeEhjZ2tkYk1SaXJ5STZlZ1ZEbDlqaS1nYTh3M0JMbThfejNCZ3REMG9Zd2Y5Z3h5NFItMDJaTktMRlZPaU1CdHNDTGdlSGFBNFZIbTFRQlVTVzl3NmZOTEtmT1BNQVE4blVHcDNQRnBQUUw2M0ZZTHJpSV9kQQ?oc=5"
  },
  {
   "ngay": "2026-10-01",
@@ -253,4 +190,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-03T18:29";
+window.TIN_CAP_NHAT = "2026-10-03T18:33";
