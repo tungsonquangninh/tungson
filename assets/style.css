@@ -387,3 +387,5 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
 .menu-btn.x span:nth-child(2){opacity:0}
 .menu-btn.x span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
 body.menu-open .float{display:none}
+.teaser-sec{padding:28px 0 0}
+.teaser-sec+.section{padding-top:56px}
