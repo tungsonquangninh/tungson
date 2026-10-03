@@ -213,6 +213,40 @@
     $("#calc-form").addEventListener("input", run); $("#calc-form").addEventListener("change", run); run();
   }
 
+
+  function menhPage() {
+    const M = window.MENH, lg = (document.documentElement.lang || "vi").slice(0, 2), T = M.ui[lg] || M.ui.vi, li = { vi: 1, en: 2, zh: 3 }[lg] || 1;
+    const HANH = ["kim", "thuy", "hoa", "tho", "moc"]; // 1..5
+    const CAN_V = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5], CHI_V = [0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2, 2];
+    const sw = (c) => `<div class="sw"><i style="background:${c[0]}"></i><span>${c[li]}</span><small>${c[0]}</small></div>`;
+    const names = (k) => M.mau[k].map((c) => c[li].toLowerCase()).join(", ");
+    function show() {
+      const d = +$("#m-d").value, m = +$("#m-m").value, y = +$("#m-y").value, out = $("#menh-out");
+      if (!d || !m || !y) { out.innerHTML = `<div class="menh-empty">${T.empty}</div>`; return; }
+      const dt = new Date(y, m - 1, d);
+      if (y < 1900 || y > 2100 || dt.getMonth() !== m - 1 || dt.getDate() !== d) { out.innerHTML = `<div class="msg err" style="display:block">${T.bad}</div>`; return; }
+      const L_ = window.AmLich.solar2lunar(d, m, y), ly = L_.year;
+      const ci = (ly + 6) % 10, zi = (ly + 8) % 12, n = CAN_V[ci] + CHI_V[zi], k = HANH[(n > 5 ? n - 5 : n) - 1];
+      const ni = Math.floor((((ly - 4) % 60) + 60) % 60 / 2), rel = M.quanHe[k];
+      const canchi = lg === "zh" ? M.can.zh[ci] + M.chi.zh[zi] : M.can.vi[ci] + " " + M.chi.vi[zi];
+      const hn = (x) => M.hanh[x][lg] || M.hanh[x].vi;
+      out.innerHTML = `<div class="menh-res">
+        <div class="menh-head"><div class="el el-${k}">${hn(k)}</div><div>
+          <div class="muted" style="font-size:14px">${T.lunar} ${ly} · ${canchi} (${M.con[lg][zi]})</div>
+          <h2 style="margin:2px 0 0">${T.menh} ${hn(k)} — ${M.napAm[lg][ni]}</h2>
+          ${ly !== y ? `<p class="muted" style="font-size:14px;margin:6px 0 0">${T.beforeTet(ly)}</p>` : ""}</div></div>
+        <h4>${T.sinh} <span class="tag sage">${hn(rel.sinh)}</span></h4><div class="sws">${M.mau[rel.sinh].map(sw).join("")}</div>
+        <h4>${T.ban} <span class="tag">${hn(k)}</span></h4><div class="sws">${M.mau[k].map(sw).join("")}</div>
+        <h4>${T.ky} <span class="tag" style="background:#f3e3e0;color:#8a2a1c">${hn(rel.khac)}</span></h4><div class="sws ky">${M.mau[rel.khac].map(sw).join("")}</div>
+        <h4>${T.meaning}</h4><p>${M.moTa[k][lg] || M.moTa[k].vi}</p>
+        <h4>${T.tips}</h4><ul class="tips">${T.tip(names(rel.sinh), names(k)).map((x) => `<li>${x}</li>`).join("")}</ul>
+        <p class="note" style="font-size:14px">${T.note}</p></div>`;
+    }
+    $("#menh-form").addEventListener("submit", show);
+    $("#menh-form").addEventListener("input", () => { if ($("#m-y").value.length === 4) show(); });
+    show();
+  }
+
   const form = $("#lien-he-form");
   if (form) form.addEventListener("submit", async (e) => {
     e.preventDefault();
@@ -234,4 +268,5 @@
   if (page === "news") newsPage();
   if (page === "knowledge") ktPage();
   if (page === "calc") calcPage();
+  if (page === "menh") menhPage();
 })();
