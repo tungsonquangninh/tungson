@@ -38,7 +38,7 @@ LIEN_QUAN = {
     "xu-huong": ["màu", r"(?<![A-ZÀ-Ỹ])sơn\b", "nội thất", "trang trí", "tân trang", "thiết kế nhà"],
     "quang-ninh": ["Quảng Ninh"],
 }
-LOAI_TRU = ["khởi tố", "bắt giữ", "trốn thuế", "tai nạn", "lừa đảo", "tử vong"]
+LOAI_TRU = ["khởi tố", "bắt giữ", "trốn thuế", "tai nạn", "lừa đảo", "tử vong", "sơn mài", "sơn dầu", "tranh ", "triển lãm", "ra mắt sách"]
 
 def hop_le(tieu, cm):
     if any(x in tieu.lower() for x in LOAI_TRU):
