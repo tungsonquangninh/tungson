@@ -38,8 +38,8 @@
 
   /* ---------- Menu & ngôn ngữ ---------- */
   const mb = $(".menu-btn"), nav = $(".nav");
-  if (mb) mb.addEventListener("click", () => { nav.classList.toggle("open"); document.body.style.overflow = nav.classList.contains("open") ? "hidden" : ""; });
-  $$(".nav a").forEach((a) => a.addEventListener("click", () => { nav.classList.remove("open"); document.body.style.overflow = ""; }));
+  if (mb) mb.addEventListener("click", () => { const hb = $(".header").getBoundingClientRect().bottom; nav.style.setProperty("--navtop", Math.max(0, hb) + "px"); nav.classList.toggle("open"); const o = nav.classList.contains("open"); mb.setAttribute("aria-expanded", o); mb.classList.toggle("x", o); document.body.classList.toggle("menu-open", o); document.body.style.overflow = o ? "hidden" : ""; });
+  $$(".nav a").forEach((a) => a.addEventListener("click", () => { nav.classList.remove("open"); mb && mb.classList.remove("x"); document.body.classList.remove("menu-open"); document.body.style.overflow = ""; }));
   $$(".langsw a").forEach((a) => a.addEventListener("click", () => { if (location.hash) a.href = a.href.split("#")[0] + location.hash; }));
 
   const d = (s) => { const [y, m, dd] = String(s).slice(0, 10).split("-"); return { y, m, d: dd, full: U.locale === "vi-VN" ? `${dd}/${m}/${y}` : new Date(+y, m - 1, +dd).toLocaleDateString(U.locale) }; };

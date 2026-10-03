@@ -34,7 +34,7 @@ p{margin:0 0 1em}
 .topbar{background:var(--ink);color:#cfd5df;font-size:13.5px}
 .topbar .wrap{display:flex;justify-content:space-between;gap:16px;padding-top:7px;padding-bottom:7px;flex-wrap:wrap}
 .topbar a{color:#fff}
-.header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.header{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid var(--line)}
 .header .wrap{display:flex;align-items:center;justify-content:space-between;height:74px;gap:20px}
 .brand{display:flex;align-items:center;gap:11px;color:var(--ink);text-decoration:none!important}
 .brand svg{width:42px;height:42px;flex:none}
@@ -252,7 +252,7 @@ form.f{background:#fff;border:1px solid var(--line);border-radius:18px;padding:2
 }
 @media (max-width:900px){
   .menu-btn{display:block}
-  .nav{position:fixed;top:74px;left:0;right:0;bottom:0;background:#fff;flex-direction:column;align-items:stretch;padding:12px 16px 40px;gap:0;overflow:auto;display:none}
+  .nav{position:fixed;top:var(--navtop,74px);left:0;right:0;bottom:0;background:#fff;flex-direction:column;align-items:stretch;padding:12px 16px 40px;gap:0;overflow:auto;display:none}
   .nav.open{display:flex}
   .nav>a,.nav .dd>a{padding:14px 10px;border-bottom:1px solid var(--line);border-radius:0}
   .dd-menu{position:static;display:block;box-shadow:none;border:0;padding:0 0 8px 14px}
@@ -370,7 +370,7 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
 .nav .dd>a::after{margin-left:6px}
 @media (max-width:1180px){
   .menu-btn{display:block}
-  .nav{position:fixed;top:74px;left:0;right:0;bottom:0;background:#fff;flex-direction:column;align-items:stretch;padding:12px 16px 40px;gap:0;overflow:auto;display:none}
+  .nav{position:fixed;top:var(--navtop,74px);left:0;right:0;bottom:0;background:#fff;flex-direction:column;align-items:stretch;padding:12px 16px 40px;gap:0;overflow:auto;display:none}
   .nav.open{display:flex}
   .nav>a,.nav .dd>a{padding:14px 10px;border-bottom:1px solid var(--line);border-radius:0;font-size:15.5px}
   .dd-menu{position:static;display:block;box-shadow:none;border:0;padding:0 0 8px 14px}
@@ -380,3 +380,10 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
   .nav-lang .langsw a.on{color:#fff;border-color:var(--accent)}
 }
 @media (max-width:900px){.menh-left{position:static}}
+
+.nav.open{z-index:60;box-shadow:0 12px 24px rgba(0,0,0,.08)}
+.menu-btn span{transition:.2s}
+.menu-btn.x span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.menu-btn.x span:nth-child(2){opacity:0}
+.menu-btn.x span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+body.menu-open .float{display:none}
