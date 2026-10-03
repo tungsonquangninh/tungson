@@ -20,7 +20,11 @@ window.I18N = {
     cWall: "墙面面积", cOpen: "扣除门窗", cCeil: "天花面积", cTotal: "需涂刷总面积",
     cTop: (c) => `面漆（${c} 遍）`, cPrimer: "底漆（1 遍）", cPutty: "腻子（2 遍）", cL: "升", cKg: "公斤",
     cPack: (n18, n5) => [n18 ? n18 + " 桶 18 升" : "", n5 ? n5 + " 桶 5 升" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " 袋 25 公斤",
-    cBuy: "建议购买", cWallOut: "外墙面积", cExtra: "其他面积", cTopOut: (c) => `外墙面漆（${c} 遍）`, cPrimerOut: "外墙底漆（1 遍）", cPuttyOut: "外墙腻子（2 遍）", cIncl: (w) => `已含 ${w}% 损耗`, cErr: "门窗面积大于墙面面积——请检查输入数据。"
+    cBuy: "建议购买", cWallOut: "外墙面积", cExtra: "其他面积", cTopOut: (c) => `外墙面漆（${c} 遍）`, cPrimerOut: "外墙底漆（1 遍）", cPuttyOut: "外墙腻子（2 遍）", cIncl: (w) => `已含 ${w}% 损耗`,
+    cur: "越南盾", aFloor: "总建筑面积", aIn: "室内墙面", aWp: "天台、屋面防水",
+    aRow: { putty: "腻子", primIn: "内墙底漆", topIn: "内墙面漆", primOut: "外墙底漆", topOut: "外墙面漆", wp: "防水涂料（2 遍）" },
+    a18: "18 升桶价（越南盾）", a5: "5 升罐价（越南盾）", aBag: "25 公斤袋价（越南盾）", aAuto: "自动折算",
+    aCost: "金额", aNoPrice: "输入单价即可计算金额", aTotal: "材料费用估算合计", aPartial: "未含未填单价的项目", cErr: "门窗面积大于墙面面积——请检查输入数据。"
   },
   th: {
     netec: { slogan: "征服时间的涂料", ngan: "Global Plus 旗下 NETEC Center 系列。",

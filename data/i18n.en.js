@@ -20,7 +20,11 @@ window.I18N = {
     cWall: "Wall area", cOpen: "Minus doors & windows", cCeil: "Ceiling area", cTotal: "Total area to paint",
     cTop: (c) => `Top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimer: "Primer (1 coat)", cPutty: "Wall putty (2 coats)", cL: "litres", cKg: "kg",
     cPack: (n18, n5) => [n18 ? n18 + " × 18 L pail" : "", n5 ? n5 + " × 5 L can" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " × 25 kg bag",
-    cBuy: "Suggested", cWallOut: "Exterior wall area", cExtra: "Other areas", cTopOut: (c) => `Exterior top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimerOut: "Exterior primer (1 coat)", cPuttyOut: "Exterior wall putty (2 coats)", cIncl: (w) => `includes ${w}% waste allowance`, cErr: "Doors and windows are larger than the wall area — please check your numbers."
+    cBuy: "Suggested", cWallOut: "Exterior wall area", cExtra: "Other areas", cTopOut: (c) => `Exterior top coat (${c} coat${c > 1 ? "s" : ""})`, cPrimerOut: "Exterior primer (1 coat)", cPuttyOut: "Exterior wall putty (2 coats)", cIncl: (w) => `includes ${w}% waste allowance`,
+    cur: "VND", aFloor: "Total floor area", aIn: "Interior walls", aWp: "Roof terrace waterproofing",
+    aRow: { putty: "Wall putty", primIn: "Interior primer", topIn: "Interior top coat", primOut: "Exterior primer", topOut: "Exterior top coat", wp: "Waterproofing (2 coats)" },
+    a18: "18L pail price (VND)", a5: "5L can price (VND)", aBag: "25kg bag price (VND)", aAuto: "Auto",
+    aCost: "Cost", aNoPrice: "Enter a price to see the cost", aTotal: "Estimated material cost", aPartial: "Excludes items without a price", cErr: "Doors and windows are larger than the wall area — please check your numbers."
   },
   th: {
     netec: { slogan: "Paint that conquers time", ngan: "The NETEC Center range by Global Plus.",

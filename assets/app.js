@@ -23,7 +23,11 @@
     cWall: "Diện tích tường", cOpen: "Trừ cửa đi & cửa sổ", cCeil: "Diện tích trần", cTotal: "Tổng diện tích cần sơn",
     cTop: (c) => `Sơn phủ (${c} lớp)`, cPrimer: "Sơn lót (1 lớp)", cPutty: "Bột bả (2 lớp)", cL: "lít", cKg: "kg",
     cPack: (n18, n5) => [n18 ? n18 + " thùng 18 lít" : "", n5 ? n5 + " lon 5 lít" : ""].filter(Boolean).join(" + "), cBag: (n) => n + " bao 25 kg",
-    cBuy: "Gợi ý mua", cWallOut: "Diện tích tường ngoài", cExtra: "Diện tích khác", cTopOut: (c) => `Sơn phủ ngoại thất (${c} lớp)`, cPrimerOut: "Sơn lót ngoại thất (1 lớp)", cPuttyOut: "Bột bả ngoại thất (2 lớp)", cIncl: (w) => `đã cộng ${w}% hao hụt`, cErr: "Kích thước cửa lớn hơn diện tích tường — vui lòng kiểm tra lại số liệu."
+    cBuy: "Gợi ý mua", cWallOut: "Diện tích tường ngoài", cExtra: "Diện tích khác", cTopOut: (c) => `Sơn phủ ngoại thất (${c} lớp)`, cPrimerOut: "Sơn lót ngoại thất (1 lớp)", cPuttyOut: "Bột bả ngoại thất (2 lớp)", cIncl: (w) => `đã cộng ${w}% hao hụt`,
+    cur: "đ", aFloor: "Tổng diện tích sàn xây dựng", aIn: "Tường trong nhà", aWp: "Chống thấm sân thượng, mái",
+    aRow: { putty: "Bột bả", primIn: "Sơn lót nội thất", topIn: "Sơn phủ nội thất", primOut: "Sơn lót ngoại thất", topOut: "Sơn phủ ngoại thất", wp: "Sơn chống thấm (2 lớp)" },
+    a18: "Giá thùng 18L (đ)", a5: "Giá lon 5L (đ)", aBag: "Giá bao 25kg (đ)", aAuto: "Tự quy đổi",
+    aCost: "Thành tiền", aNoPrice: "Nhập đơn giá để tính thành tiền", aTotal: "Tổng tiền vật tư ước tính", aPartial: "Chưa gồm các hạng mục chưa nhập giá", cErr: "Kích thước cửa lớn hơn diện tích tường — vui lòng kiểm tra lại số liệu."
   }, L.ui || {});
   const CM = U.cm, KHU = U.khu;
 
@@ -177,16 +181,81 @@
     const v = (id) => Math.max(0, parseFloat(($("#" + id) || {}).value) || 0);
     const ck = (id) => !!($("#" + id) || {}).checked;
     const f1 = (x) => (Math.round(x * 10) / 10).toLocaleString(U.locale);
-    const pack = (need) => { let best = null; for (let a = 0; a <= Math.ceil(need / 18) + 1; a++) { const b = Math.max(0, Math.ceil((need - 18 * a) / 5)); const tot = 18 * a + 5 * b; if (!best || tot < best.tot || (tot === best.tot && a + b < best.a + best.b)) best = { a, b, tot }; } return best; };
+    const pack = (need) => { let best = null; for (let a = 0; a <= Math.ceil(need / 18) + 1; a++) { const b = Math.max(0, Math.ceil((need - 18 * a) / 5)); const tot = 18 * a + 5 * b; const sc = tot + 1.5 * b; if (!best || sc < best.sc || (sc === best.sc && a + b < best.a + best.b)) best = { a, b, tot, sc }; } return best; };
     const row = (k, val, strong) => `<div class="cr${strong ? " big" : ""}"><span>${k}</span><b>${val}</b></div>`;
     const form = $("#calc-form");
     $$(".calc-tabs button", form).forEach((btn) => btn.addEventListener("click", () => {
       form.dataset.mode = btn.dataset.mode;
       $$(".calc-tabs button", form).forEach((x) => x.setAttribute("aria-selected", x === btn ? "true" : "false"));
       $(".grp-in", form).hidden = btn.dataset.mode !== "in"; $(".grp-out", form).hidden = btn.dataset.mode !== "out";
+      $$(".grp-all", form).forEach((g) => (g.hidden = btn.dataset.mode !== "all"));
       run();
     }));
+    /* ---- Ước lượng cả nhà ---- */
+    const money = (x) => Math.round(x).toLocaleString(U.locale) + " " + U.cur;
+    const store = { get(k) { try { return localStorage.getItem("ts-gia-" + k) || ""; } catch (e) { return ""; } }, set(k, x) { try { localStorage.setItem("ts-gia-" + k, x); } catch (e) {} } };
+    const ROWS = [
+      { k: "putty", loai: ["botba"], khu: ["ca2", "noi", "ngoai"], bag: 1 },
+      { k: "primIn", loai: ["lot"], khu: ["noi", "ca2"] },
+      { k: "topIn", loai: ["min", "bong", "sieubong", "sieutrang", "mensu"], khu: ["noi", "ca2"] },
+      { k: "primOut", loai: ["lot"], khu: ["ngoai", "ca2"] },
+      { k: "topOut", loai: ["min", "bong", "sieubong", "mensu"], khu: ["ngoai", "ca2"] },
+      { k: "wp", loai: ["chongtham", "chongthamxm"], khu: ["ngoai", "ca2", "noi"] },
+    ];
+    const box = $("#a-prods");
+    if (box) {
+      box.innerHTML = ROWS.map((r) => {
+        const opts = SP.filter((p) => r.loai.includes(p.loai) && r.khu.includes(p.khu)).map((p) => `<option value="${p.ma}">${esc(p.ma + " – " + spTen(p))}</option>`).join("");
+        const pr = r.bag ? `<div><label for="a-${r.k}-p18">${U.aBag}</label><input id="a-${r.k}-p18" class="a-price" type="number" min="0" step="1000" inputmode="numeric" placeholder="0"></div>`
+          : `<div><label for="a-${r.k}-p18">${U.a18}</label><input id="a-${r.k}-p18" class="a-price" type="number" min="0" step="1000" inputmode="numeric" placeholder="0"></div><div><label for="a-${r.k}-p5">${U.a5}</label><input id="a-${r.k}-p5" class="a-price" type="number" min="0" step="1000" inputmode="numeric" placeholder="${U.aAuto}"></div>`;
+        return `<div class="aprod" data-k="${r.k}"><div class="ap-h">${U.aRow[r.k]}</div><select id="a-${r.k}-sp">${opts}</select><div class="two">${pr}</div></div>`;
+      }).join("");
+      const loadP = (r) => { const ma = $(`#a-${r.k}-sp`).value; $(`#a-${r.k}-p18`).value = store.get(ma + "-18"); const p5 = $(`#a-${r.k}-p5`); if (p5) p5.value = store.get(ma + "-5"); };
+      ROWS.forEach((r) => {
+        loadP(r);
+        $(`#a-${r.k}-sp`).addEventListener("change", () => { loadP(r); run(); });
+        [["p18", "-18"], ["p5", "-5"]].forEach(([id, suf]) => { const el = $(`#a-${r.k}-${id}`); if (el) el.addEventListener("input", () => store.set($(`#a-${r.k}-sp`).value + suf, el.value)); });
+      });
+    }
+    function runAll() {
+      const A = v("a-area"), N = v("a-floors"), H = v("a-fh") || 3.3, typ = +$("#a-type").value, waste = 1 + v("c-waste") / 100;
+      const coats = +$("#c-coats").value || 2, rate = v("c-rate") || 10, hs = H / 3.3;
+      const inW = ck("a-in") ? A * N * 2.7 * hs : 0, ceil = ck("a-ceil") ? A * N * 0.9 : 0;
+      let per = 0;
+      if (ck("a-out") && A) {
+        if (typ === 4) { const w = Math.sqrt(A / 1.5); per = 2 * (w + w * 1.5); }
+        else { const w = Math.sqrt(A / 2.5), d = w * 2.5; per = typ === 2 ? 2 * w + d : 2 * w; }
+      }
+      const outW = per * N * H * 0.8, wp = ck("a-wp") ? A : 0;
+      const sIn = inW + ceil, sOut = outW;
+      const need = {
+        putty: ck("c-putty") ? (sIn + sOut) * 1.0 * waste : 0,
+        primIn: ck("c-primer") ? sIn / rate * waste : 0, topIn: sIn * coats / rate * waste,
+        primOut: ck("c-primer") ? sOut / rate * waste : 0, topOut: sOut * coats / rate * waste,
+        wp: wp * 2 / 6 * waste,
+      };
+      let h = row(U.aFloor, f1(A * N) + " m²");
+      if (inW) h += row(U.aIn, f1(inW) + " m²"); if (ceil) h += row(U.cCeil, f1(ceil) + " m²");
+      if (outW) h += row(U.cWallOut, f1(outW) + " m²"); if (wp) h += row(U.aWp, f1(wp) + " m²");
+      h += row(U.cTotal, f1(sIn + sOut + wp) + " m²", true);
+      let sum = 0, missing = 0;
+      ROWS.forEach((r) => {
+        const el = $(`.aprod[data-k="${r.k}"]`), q = need[r.k];
+        if (el) el.hidden = !(q > 0);
+        if (!(q > 0)) return;
+        const ma = $(`#a-${r.k}-sp`).value, p18 = v(`a-${r.k}-p18`), p5in = v(`a-${r.k}-p5`);
+        let buy, cost;
+        if (r.bag) { const n = Math.ceil(q / 25); buy = U.cBag(n); cost = n * p18; }
+        else { const pk = pack(q); buy = U.cPack(pk.a, pk.b); cost = pk.a * p18 + pk.b * (p5in || p18 * 5 / 18); }
+        if (!p18) missing++; else sum += cost;
+        h += `<div class="cbox"><div class="ct">${U.aRow[r.k]} · ${esc(ma)}</div><div class="cv">${f1(q)} ${r.bag ? U.cKg : U.cL}</div><div class="cp">${U.cBuy}: ${buy}</div>${p18 ? `<div class="cm">${U.aCost}: <b>${money(cost)}</b></div>` : `<div class="cm muted">${U.aNoPrice}</div>`}</div>`;
+      });
+      h += `<div class="atotal"><span>${U.aTotal}</span><b>${sum ? money(sum) : "—"}</b>${missing && sum ? `<small>${U.aPartial}</small>` : ""}</div>`;
+      h += `<p class="muted" style="font-size:13px;margin:6px 0 0">${U.cIncl(v("c-waste"))}</p>`;
+      $("#calc-out").innerHTML = h;
+    }
     function run() {
+      if (form.dataset.mode === "all") return runAll();
       const out = form.dataset.mode === "out";
       let wall, open, ceil = 0, extra = 0;
       if (!out) {

@@ -389,3 +389,14 @@ html[lang="zh-CN"] body{font-family:"Be Vietnam Pro","PingFang SC","Microsoft Ya
 body.menu-open .float{display:none}
 .teaser-sec{padding:28px 0 0}
 .teaser-sec+.section{padding-top:56px}
+
+.calc-tabs{grid-template-columns:repeat(3,1fr)}
+.aprod{background:var(--paper);border-radius:12px;padding:14px 14px 4px;margin-bottom:12px}
+.aprod .ap-h{font-weight:700;font-size:15px;margin-bottom:8px}
+.aprod select{margin-bottom:10px}.aprod input{margin-bottom:10px;background:#fff}
+.aprod .two{gap:10px}.aprod label{font-size:13px}
+.cbox .cm{font-size:14.5px;margin-top:6px;padding-top:6px;border-top:1px dashed var(--line)}.cbox .cm b{color:var(--ink)}
+.atotal{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:6px 12px;margin-top:14px;padding:16px;border-radius:12px;background:var(--accent-soft)}
+.atotal span{font-weight:700}.atotal b{font-size:24px;color:var(--accent)}.atotal small{flex-basis:100%;color:var(--muted);font-size:13px}
+@media (max-width:640px){.calc-tabs button{font-size:13px;padding:10px 4px}.aprod .two{grid-template-columns:1fr 1fr}}
+.chk input[type=checkbox]{flex:none}
