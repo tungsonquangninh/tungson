@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Siết chặt quản lý các mỏ vật liệu xây dựng",
+  "tomTat": "Siết chặt quản lý các mỏ vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VTVgo",
+  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9kMTNVc21lRjVYYkJqY200TjBhcGk2dHJDeEswWG85eHV0RElPX0g4X2pfYU1mZmNMZnFfLTEwVTQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 4/10/2026: Quặng sắt giảm, thị trường Trung Quốc nghỉ lễ",
+  "tomTat": "Giá thép hôm nay 4/10/2026: Quặng sắt giảm, thị trường Trung Quốc nghỉ lễ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdk90aHkyTVFGc1BZZDZDSnNPemxqejJEV01qYVdGNzZWS3puelFudHpTMU00anRkZDZhTXNUa2NGdnptTnYtYmdvX3ZpZ2VxTk9peEdFcm1yZkJkaDFxX1loMUg1UzM5a0pwR2xIUU1yYTVocDdhWk5pQUZyWDBtTjhiRENTNVFRcGFaZmRybkdpM3ZlWlRlMDJLSk5CNFp3MzQyZ0pYa19NbG4ycXN0cQ?oc=5"
+ },
+ {
   "ngay": "2026-10-03",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thị trường vật liệu xây dựng 3 tháng cuối năm dự kiến biến động ra sao?",
@@ -199,4 +217,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-03T18:52";
+window.TIN_CAP_NHAT = "2026-10-04T10:00";
