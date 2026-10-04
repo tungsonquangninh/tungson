@@ -69,3 +69,49 @@ window.MENH = {
       code: "色号", chart: "色号来自 NETEC Center – N Paint Global 色卡。屏幕显示颜色仅供参考，选色前请查看实物色卡。", empty: "输入出生日期，查看适合您的墙漆颜色。", bad: "出生日期无效，请重新检查。" }
   }
 };
+
+/* HƯỚNG NHÀ – HƯỚNG ĐẤT theo Bát trạch (cung phi theo năm âm lịch + giới tính) */
+window.MENH.bt = {
+  // hướng: N, NE, E, SE, S, SW, W, NW
+  tot: { 1: ["SE", "E", "S", "N"], 2: ["NE", "W", "NW", "SW"], 3: ["S", "N", "SE", "E"], 4: ["N", "S", "E", "SE"],
+         6: ["W", "NE", "SW", "NW"], 7: ["NW", "SW", "NE", "W"], 8: ["SW", "NW", "W", "NE"], 9: ["E", "SE", "N", "S"] },
+  xau: { 1: ["W", "NE", "NW", "SW"], 2: ["E", "SE", "S", "N"], 3: ["SW", "NW", "NE", "W"], 4: ["NW", "SW", "W", "NE"],
+         6: ["SE", "E", "N", "S"], 7: ["N", "S", "SE", "E"], 8: ["S", "N", "E", "SE"], 9: ["NE", "W", "SW", "NW"] },
+  cung: { vi: { 1: "Khảm", 2: "Khôn", 3: "Chấn", 4: "Tốn", 6: "Càn", 7: "Đoài", 8: "Cấn", 9: "Ly" },
+          en: { 1: "Kan", 2: "Kun", 3: "Zhen", 4: "Xun", 6: "Qian", 7: "Dui", 8: "Gen", 9: "Li" },
+          zh: { 1: "坎", 2: "坤", 3: "震", 4: "巽", 6: "乾", 7: "兑", 8: "艮", 9: "离" } },
+  dir: { vi: { N: "Bắc", NE: "Đông Bắc", E: "Đông", SE: "Đông Nam", S: "Nam", SW: "Tây Nam", W: "Tây", NW: "Tây Bắc" },
+         en: { N: "North", NE: "North-east", E: "East", SE: "South-east", S: "South", SW: "South-west", W: "West", NW: "North-west" },
+         zh: { N: "北", NE: "东北", E: "东", SE: "东南", S: "南", SW: "西南", W: "西", NW: "西北" } },
+  sao: {
+    vi: { tot: [["Sinh Khí", "tài lộc, thăng tiến, nhiều sinh khí"], ["Thiên Y", "sức khỏe, gặp quý nhân"], ["Diên Niên", "hòa thuận, bền vững gia đạo"], ["Phục Vị", "bình an, vững vàng"]],
+          xau: [["Họa Hại", "thị phi, trắc trở"], ["Ngũ Quỷ", "hao tài, bất hòa"], ["Lục Sát", "kiện tụng, tình cảm lục đục"], ["Tuyệt Mệnh", "xấu nhất, nên tránh"]] },
+    en: { tot: [["Sheng Qi", "prosperity and success"], ["Tian Yi", "health and helpful people"], ["Yan Nian", "family harmony"], ["Fu Wei", "peace and stability"]],
+          xau: [["Huo Hai", "mishaps and gossip"], ["Wu Gui", "money loss and quarrels"], ["Liu Sha", "disputes and relationship trouble"], ["Jue Ming", "the worst, avoid"]] },
+    zh: { tot: [["生气", "财运、升迁"], ["天医", "健康、贵人"], ["延年", "家庭和睦"], ["伏位", "平安稳定"]],
+          xau: [["祸害", "是非、阻滞"], ["五鬼", "破财、不和"], ["六煞", "官非、感情不顺"], ["绝命", "最凶，宜避开"]] },
+  },
+  ui: {
+    vi: { h: "Hướng nhà, hướng đất hợp tuổi", gender: "Giới tính", male: "Nam", female: "Nữ",
+      cung: (c, nhom) => `Cung mệnh (Bát trạch): <b>${c}</b> — thuộc nhóm <b>${nhom}</b>.`, dong: "Đông tứ mệnh", tay: "Tây tứ mệnh",
+      good: "4 hướng tốt — nên chọn", bad: "4 hướng xấu — nên tránh",
+      tips: (g) => [`<b>Chọn đất:</b> ưu tiên lô đất có mặt tiền quay về hướng ${g}. Hướng nhà tính theo hướng cửa chính nhìn ra ngoài.`,
+        `<b>Đất đã có hướng chưa hợp:</b> có thể xoay cửa chính, đặt bàn thờ, bếp và đầu giường quay về các hướng tốt để hóa giải.`,
+        `<b>Nhiều thế hệ:</b> thường xem theo tuổi chủ nhà (người trụ cột), phòng riêng xem theo tuổi người dùng.`],
+      note: "Hướng nhà theo Bát trạch là kinh nghiệm phong thủy dân gian, mang tính tham khảo; nên kết hợp điều kiện thực tế (nắng, gió, đường đi) khi xây dựng." },
+    en: { h: "Best house & land directions", gender: "Gender", male: "Male", female: "Female",
+      cung: (c, nhom) => `Your Eight Mansions trigram: <b>${c}</b> — <b>${nhom}</b> group.`, dong: "East", tay: "West",
+      good: "4 good directions — choose", bad: "4 bad directions — avoid",
+      tips: (g) => [`<b>Choosing land:</b> prefer a plot whose front faces ${g}. A house’s direction is the way the main door faces when you look out.`,
+        `<b>If the plot faces a poor direction:</b> turn the main door, altar, stove and bed head towards your good directions.`,
+        `<b>Multi-generation homes:</b> the homeowner’s birth year is usually used; private rooms follow each user.`],
+      note: "Eight Mansions directions are a folk feng shui tradition and for reference only — also consider sun, wind and access when building." },
+    zh: { h: "宜选的房屋与地块朝向", gender: "性别", male: "男", female: "女",
+      cung: (c, nhom) => `八宅命卦：<b>${c}</b>，属于<b>${nhom}</b>。`, dong: "东四命", tay: "西四命",
+      good: "四吉方——宜选", bad: "四凶方——宜避",
+      tips: (g) => [`<b>选地：</b>优先选择正面朝向${g}的地块。房屋朝向以大门向外看的方向为准。`,
+        `<b>地块朝向不理想：</b>可调整大门、神台、灶台和床头朝向吉方来化解。`,
+        `<b>多代同堂：</b>一般以屋主（家中主事人）的年份为准，个人房间按使用者选。`],
+      note: "八宅朝向属于民间风水经验，仅供参考；建房时还应结合日照、通风和道路等实际条件。" },
+  },
+};

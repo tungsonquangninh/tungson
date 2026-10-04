@@ -400,3 +400,9 @@ body.menu-open .float{display:none}
 .atotal span{font-weight:700}.atotal b{font-size:24px;color:var(--accent)}.atotal small{flex-basis:100%;color:var(--muted);font-size:13px}
 @media (max-width:640px){.calc-tabs button{font-size:13px;padding:10px 4px}.aprod .two{grid-template-columns:1fr 1fr}}
 .chk input[type=checkbox]{flex:none}
+
+.hgs{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.hg{border-radius:10px;padding:10px 12px;background:var(--sage-soft)}.hgs.no .hg{background:#f6e8e5}
+.hg b{display:block;font-size:16px}.hg span{display:block;font-size:13.5px;font-weight:600;color:var(--sage)}.hgs.no .hg span{color:#8a2a1c}
+.hg small{display:block;font-size:12px;color:var(--muted);line-height:1.35;margin-top:2px}
+@media (max-width:640px){.hgs{grid-template-columns:repeat(2,1fr)}}

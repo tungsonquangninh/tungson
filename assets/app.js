@@ -289,6 +289,20 @@
     const CAN_V = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5], CHI_V = [0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2, 2];
     const sw = (c) => `<div class="sw"><i style="background:${c[0]}"></i><span>${T.code} ${c[1]}</span><small>${c[li + 1]}</small></div>`;
     const names = (k) => M.mau[k].map((c) => c[li + 1].toLowerCase() + " (" + c[1] + ")").join(", ");
+    const BT = M.bt, BU = BT.ui[lg] || BT.ui.vi;
+    const huong = (ly) => {
+      const nam = ($("#m-g") || {}).value !== "f";
+      let s = String(ly).split("").reduce((a, c) => a + +c, 0); while (s > 9) s = String(s).split("").reduce((a, c) => a + +c, 0);
+      let k = nam ? 11 - s : s + 4; while (k > 9) k -= 9; if (k === 5) k = nam ? 2 : 8;
+      const dn = BT.dir[lg] || BT.dir.vi, sao = BT.sao[lg] || BT.sao.vi, dong = [1, 3, 4, 9].includes(k);
+      const card = (dirs, list, cls) => `<div class="hgs ${cls}">${dirs.map((x, i) => `<div class="hg"><b>${dn[x]}</b><span>${list[i][0]}</span><small>${list[i][1]}</small></div>`).join("")}</div>`;
+      return `<h4>${BU.h} <span class="tag">${nam ? BU.male : BU.female}</span></h4>
+        <p style="margin:0 0 10px">${BU.cung((BT.cung[lg] || BT.cung.vi)[k], dong ? BU.dong : BU.tay)}</p>
+        <div class="muted" style="font-size:14px;font-weight:600;margin-bottom:6px">${BU.good}</div>${card(BT.tot[k], sao.tot, "ok")}
+        <div class="muted" style="font-size:14px;font-weight:600;margin:12px 0 6px">${BU.bad}</div>${card(BT.xau[k], sao.xau, "no")}
+        <ul class="tips">${BU.tips(BT.tot[k].slice(0, 2).map((x) => dn[x]).join(lg === "zh" ? "或" : lg === "en" ? " or " : " hoặc ")).map((x) => `<li>${x}</li>`).join("")}</ul>
+        <p class="muted" style="font-size:13px;margin:4px 0 0">${BU.note}</p>`;
+    };
     function show() {
       const d = +$("#m-d").value, m = +$("#m-m").value, y = +$("#m-y").value, out = $("#menh-out");
       if (!d || !m || !y) { out.innerHTML = `<div class="menh-empty">${T.empty}</div>`; return; }
@@ -309,11 +323,13 @@
         <h4>${T.ky} <span class="tag" style="background:#f3e3e0;color:#8a2a1c">${hn(rel.khac)}</span></h4><div class="sws ky">${M.mau[rel.khac].map(sw).join("")}</div>
         <p class="muted" style="font-size:13px;margin:12px 0 0">${T.chart} <a href="bang-mau.html">→</a></p>
         <h4>${T.meaning}</h4><p>${M.moTa[k][lg] || M.moTa[k].vi}</p>
+        ${huong(ly)}
         <h4>${T.tips}</h4><ul class="tips">${T.tip(names(rel.sinh), names(k)).map((x) => `<li>${x}</li>`).join("")}</ul>
         <p class="note" style="font-size:14px">${T.note}</p></div>`;
     }
     $("#menh-form").addEventListener("submit", show);
     $("#menh-form").addEventListener("input", () => { if ($("#m-y").value.length === 4) show(); });
+    if ($("#m-g")) $("#m-g").addEventListener("change", show);
     show();
   }
 
