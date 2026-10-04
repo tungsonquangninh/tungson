@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-04",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”",
+  "tomTat": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Nông nghiệp và Môi trường",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXNIQzk2T0ZZdzg2UUJ0aHYtTXNIOGdZQUZNZHYwcUZZMUliYV9nZER5S1IyVjMwR1AxLTJoVjdlMnJuSjJscDRUWnM5cUE2a3NXWU11MTdWYjNDUWFlanAtdzQ3WmRzeW95OU9DNDd1ZmJFMHdkZnRYbFRacEhHYUtYc0JKanVRTk9zcWNOOU1qaVUySTQ4NTdFOWRIUnlqTEtOMHk3UFdzcXNFTklqeg?oc=5"
+ },
+ {
+  "ngay": "2026-10-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày hôm nay 4/10/2026: Trung Quốc nghỉ lễ, Nucor và Gerdau cùng tăng giá 50 USD",
+  "tomTat": "Giá thép ngày hôm nay 4/10/2026: Trung Quốc nghỉ lễ, Nucor và Gerdau cùng tăng giá 50 USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "index.vn",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRHdE1nemc2U1d1UzBGNUdqRXJJdENlS1dVdzJoa0RzYi16aU55NC15T0c0SG5tTjFoVnFmeHpBYVhqeE9GeTdVRWV4bnpocWlldkRmem1XTmNQeEUwcDE4NUoxUnFmNTUwMXpnR2J6d3MyTlRheF9rWnR4dWtrdnhselpmT0R6RDlfMWZVbGJ6VmNwYkJMWjViclJYM2kteC1nMk9NM18yQnE1V2RXVGNn?oc=5"
+ },
+ {
+  "ngay": "2026-10-04",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Siết chặt quản lý các mỏ vật liệu xây dựng",
   "tomTat": "Siết chặt quản lý các mỏ vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -217,4 +235,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-04T10:00";
+window.TIN_CAP_NHAT = "2026-10-04T22:59";
