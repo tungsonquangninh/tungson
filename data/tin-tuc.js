@@ -3,6 +3,15 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-04",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tháo gỡ điểm nghẽn vật liệu, đẩy nhanh tiến độ các dự án đầu tư công",
+  "tomTat": "Tháo gỡ điểm nghẽn vật liệu, đẩy nhanh tiến độ các dự án đầu tư công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Thanh Hóa",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZiZzdCbEVKczVmU1BxYURmVjd3RXQtMDc1N1h3Wm5jdE9ZbEw0QWxoX2lLVURNZlROZTk4UkN1SEVWN1RSYlVrenpSby1EaFhkUnBxQ0pvakdFUEJ4S3lhS3hCcnJhUGlYVW1UX1BwSERJcTdKZVlibDFyMTRtUE1TTEVrUmZQWm8tb1RjMmY2b0ZERUtTV3JxWnROSWZTNzJn?oc=5"
+ },
+ {
+  "ngay": "2026-10-04",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”",
   "tomTat": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -235,4 +244,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-04T22:59";
+window.TIN_CAP_NHAT = "2026-10-05T06:49";
