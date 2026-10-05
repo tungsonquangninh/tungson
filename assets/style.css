@@ -406,3 +406,34 @@ body.menu-open .float{display:none}
 .hg b{display:block;font-size:16px}.hg span{display:block;font-size:13.5px;font-weight:600;color:var(--sage)}.hgs.no .hg span{color:#8a2a1c}
 .hg small{display:block;font-size:12px;color:var(--muted);line-height:1.35;margin-top:2px}
 @media (max-width:640px){.hgs{grid-template-columns:repeat(2,1fr)}}
+
+/* ===== HIỆU ỨNG LOANG SƠN ===== */
+html.fx .pr{-webkit-mask:url(img/splat.svg) no-repeat var(--mx,50%) var(--my,50%)/0% 0%;mask:url(img/splat.svg) no-repeat var(--mx,50%) var(--my,50%)/0% 0%;opacity:.3}
+html.fx .pr.in{-webkit-mask-size:420% 420%;mask-size:420% 420%;opacity:1;transition:-webkit-mask-size 1.15s cubic-bezier(.22,.8,.25,1) var(--dl,0s),mask-size 1.15s cubic-bezier(.22,.8,.25,1) var(--dl,0s),opacity .5s ease var(--dl,0s)}
+html.fx .pr.done{-webkit-mask:none;mask:none}
+/* nét cọ dưới tiêu đề mục */
+.sec-head h2,.section>.wrap>h2{position:relative}
+html.fx .brush::after{content:"";position:absolute;left:0;bottom:-10px;width:min(180px,70%);height:14px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 14' preserveAspectRatio='none'%3E%3Cpath d='M2 9C30 4 58 3 90 5s62 3 88-1c-6 4-30 7-60 7S30 13 4 12c-3 0-4-2-2-3z' fill='%23b5532a'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%;transform:scaleX(0);transform-origin:left;transition:transform .9s cubic-bezier(.6,.1,.2,1) .25s;opacity:.85}
+html.fx .brush.in::after{transform:scaleX(1)}
+/* vệt sơn loang trôi trong banner */
+.blobs{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.blob{position:absolute;width:var(--s);height:var(--s);background:var(--c);opacity:.0;border-radius:42% 58% 63% 37%/45% 41% 59% 55%;filter:saturate(1.1);animation:blobIn 1.6s cubic-bezier(.2,.8,.2,1) var(--d) forwards,blobMorph 14s ease-in-out var(--d) infinite alternate}
+@keyframes blobIn{from{transform:scale(0) rotate(-20deg)}to{transform:scale(1) rotate(0);opacity:var(--o)}}
+@keyframes blobMorph{0%{border-radius:42% 58% 63% 37%/45% 41% 59% 55%;translate:0 0}50%{border-radius:61% 39% 36% 64%/58% 62% 38% 42%;translate:-18px 14px}100%{border-radius:37% 63% 52% 48%/38% 55% 45% 62%;translate:12px -10px}}
+.hero .wrap,.page-hero .wrap{position:relative;z-index:1}
+/* chữ banner hiện dần */
+html.fx .hero-inner>*,html.fx .page-hero .wrap>*{animation:riseIn .8s cubic-bezier(.2,.8,.2,1) both}
+html.fx .hero-inner>*:nth-child(2),html.fx .page-hero .wrap>*:nth-child(2){animation-delay:.12s}
+html.fx .hero-inner>*:nth-child(3),html.fx .page-hero .wrap>*:nth-child(3){animation-delay:.24s}
+html.fx .hero-inner>*:nth-child(4){animation-delay:.36s}html.fx .hero-inner>*:nth-child(5){animation-delay:.48s}
+@keyframes riseIn{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+/* nút: rulô sơn quét màu khi rê chuột */
+.btn-primary,.btn-line,.btn-ghost{position:relative;overflow:hidden;isolation:isolate}
+.btn-primary::before,.btn-line::before,.btn-ghost::before{content:"";position:absolute;z-index:-1;left:var(--bx,50%);top:var(--by,50%);width:0;height:0;border-radius:50%;transform:translate(-50%,-50%);transition:width .45s ease,height .45s ease}
+.btn-primary::before{background:var(--accent-d)}.btn-line::before{background:var(--accent-soft)}.btn-ghost::before{background:rgba(255,255,255,.16)}
+.btn-primary:hover::before,.btn-line:hover::before,.btn-ghost:hover::before{width:260%;height:500%}
+/* thẻ: giọt sơn trên mép khi rê chuột */
+.card,.prod,.calc-teaser{position:relative}
+.card::after,.prod::after{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:linear-gradient(90deg,var(--accent),var(--gold),var(--sage));transform:scaleX(0);transform-origin:left;transition:transform .45s ease;border-radius:var(--r) var(--r) 0 0}
+.card:hover::after,.prod:hover::after{transform:scaleX(1)}
+@media (prefers-reduced-motion:reduce){html.fx .pr{-webkit-mask:none;mask:none;opacity:1}html.fx .brush::after{transform:none}.blob{animation:none;opacity:var(--o);transform:none}html.fx .hero-inner>*,html.fx .page-hero .wrap>*{animation:none}}

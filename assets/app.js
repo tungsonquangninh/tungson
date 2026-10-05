@@ -356,3 +356,49 @@
   if (page === "calc") calcPage();
   if (page === "menh") menhPage();
 })();
+
+/* ===== HIỆU ỨNG LOANG SƠN ===== */
+(function () {
+  const root = document.documentElement;
+  if (!root.classList.contains("fx") || !("IntersectionObserver" in window)) { root.classList.remove("fx"); return; }
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const SEL = ".trust .item, .step, .calc-teaser, .card, .prod, .values > *, .about img, .sw, .hg, .box, .band, .gallery img, .bm-grid > *, .kt-list > *, .quote, .mini-news > *, .menh-form, .calc-form, .calc-res";
+  const io = new IntersectionObserver((es) => es.forEach((e) => {
+    if (!e.isIntersecting) return;
+    const el = e.target; io.unobserve(el); el.classList.add("in");
+    if (el.classList.contains("pr")) setTimeout(() => el.classList.add("done"), 1500 + (parseFloat(el.style.getPropertyValue("--dl")) || 0) * 1000);
+  }), { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
+  const scan = () => {
+    let i = 0;
+    document.querySelectorAll(SEL).forEach((el) => {
+      if (el.dataset.fx) return; el.dataset.fx = 1;
+      if (reduce) return;
+      el.classList.add("pr");
+      el.style.setProperty("--mx", 15 + Math.random() * 70 + "%"); el.style.setProperty("--my", 10 + Math.random() * 60 + "%");
+      el.style.setProperty("--dl", ((i++ % 4) * 0.09).toFixed(2) + "s");
+      io.observe(el);
+    });
+    document.querySelectorAll(".sec-head h2, .section > .wrap > h2, .band h2").forEach((h) => { if (h.dataset.fx) return; h.dataset.fx = 1; h.classList.add("brush"); io.observe(h); });
+  };
+  scan();
+  new MutationObserver(() => scan()).observe(document.querySelector("main") || document.body, { childList: true, subtree: true });
+  // vệt sơn loang trong banner
+  const PAL = ["#b5532a", "#c99a3b", "#2f6b5c", "#e07a4f", "#6f8fb3"];
+  document.querySelectorAll(".hero, .page-hero").forEach((h, n) => {
+    const box = document.createElement("div"); box.className = "blobs"; box.setAttribute("aria-hidden", "true");
+    const big = h.classList.contains("hero"), cnt = big ? 4 : 3;
+    for (let k = 0; k < cnt; k++) {
+      const b = document.createElement("span"); b.className = "blob";
+      const s = (big ? 150 : 110) + Math.random() * (big ? 150 : 120);
+      b.style.cssText = `--s:${s}px;--c:${PAL[(k + n) % PAL.length]};--o:${big ? 0.22 : 0.35};--d:${(0.2 + k * 0.25).toFixed(2)}s;` +
+        `right:${(k * 9 - 10 + Math.random() * 6).toFixed(0)}%;top:${(k * 22 - 12 + Math.random() * 10).toFixed(0)}%`;
+      box.appendChild(b);
+    }
+    h.insertBefore(box, h.children[1] || null);
+  });
+  // nút: màu loang từ vị trí con trỏ
+  document.addEventListener("pointerover", (e) => {
+    const b = e.target.closest && e.target.closest(".btn-primary, .btn-line, .btn-ghost"); if (!b) return;
+    const r = b.getBoundingClientRect(); b.style.setProperty("--bx", e.clientX - r.left + "px"); b.style.setProperty("--by", e.clientY - r.top + "px");
+  });
+})();
