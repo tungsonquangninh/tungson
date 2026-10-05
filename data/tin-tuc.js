@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-05",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Quyết định điều phối, hỗ trợ nguồn vật liệu xây dựng thông thường giữa các tỉnh, thành phố trước ngày 15/10/2026",
+  "tomTat": "Quyết định điều phối, hỗ trợ nguồn vật liệu xây dựng thông thường giữa các tỉnh, thành phố trước ngày 15/10/2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đời sống và Pháp luật.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Đời sống và Pháp luật",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVW9oXzBIczZfRTFuSExScUNsVUthS0pYbkNqdHJqZnUwWUxNdmhmMFpiUUgzcGN6RzVqdm5BM2psWDhwOUZMakJHRHUzV2FOcG5zZkw2N0oxYUtYdGN6SGdaSEFiaFFuOUFxanBscFRzeXd3VDc4bDFaVTNiM1EwamI5TU1SWU9zZ042bEpDQ3ZlUEs0WEFwSE55eFdWVTliM2RmVjNQZ3BjWFdUNTdDQWVJTk53QVRsLWs5SzFGdEZCbG9veXUxU3NLMWdaNGxHT2dLUzhma01VYzJvWFBlMkJDTVpWYk1KY1VnZkVKWdIB7wFBVV95cUxQVW9oXzBIczZfRTFuSExScUNsVUthS0pYbkNqdHJqZnUwWUxNdmhmMFpiUUgzcGN6RzVqdm5BM2psWDhwOUZMakJHRHUzV2FOcG5zZkw2N0oxYUtYdGN6SGdaSEFiaFFuOUFxanBscFRzeXd3VDc4bDFaVTNiM1EwamI5TU1SWU9zZ042bEpDQ3ZlUEs0WEFwSE55eFdWVTliM2RmVjNQZ3BjWFdUNTdDQWVJTk53QVRsLWs5SzFGdEZCbG9veXUxU3NLMWdaNGxHT2dLUzhma01VYzJvWFBlMkJDTVpWYk1KY1VnZkVKWQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Con trai tỷ phú Trần Đình Long “phát tín hiệu”, nhóm cổ phiếu thép đồng loạt nổi sóng, có mã tăng kịch trần",
+  "tomTat": "Con trai tỷ phú Trần Đình Long “phát tín hiệu”, nhóm cổ phiếu thép đồng loạt nổi sóng, có mã tăng kịch trần. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Nhịp sống thị trường.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Nhịp sống thị trường",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON0ZIYkI1a01ybEt4QWZQbW40NHViYjF6UnFUY0FyTHBCdDdEcFkxSEdDeTZ3N1E3akhLV0pydWxaVW5IUXVMVC1mSndwRDRLZzRnWm01Y25XQ2JMNHNuV0NtUWhaMER5Z01nX0cwMnFmOHp4d3FBOWZMUkNUeUdaUC1Lc2VpVjJob0RKZEpaNFNINWsxQk01Q09jLW1iY0NMNFRKcXA0R3BUczBETW5ucWktYWliTmphVTVHUEZLdWRDMnBjS3Z6Q2JSdUZ2cjc3dmhicA?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Hãng sơn Dulux tại Việt Nam đổi chủ",
+  "tomTat": "Hãng sơn Dulux tại Việt Nam đổi chủ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Znews.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "Znews",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Ym5vZks4enRKdFRickRQaUlDd3VENEFGanRQcnJfMTJjbS0yX3lQdnNBdWVzWmx3LWxJN0xQRjhJdmZHdjRSOVExRGx5ZXpaWU5WeU1EOThMU3lZZHNxSHRnUlhDdExGaFFUMzRYdWtBYXdfdnFBbA?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "AkzoNobel bán mảng sơn trang trí khu vực Đông Nam Á cho Nippon Paint với giá 1,35 tỷ USD",
+  "tomTat": "AkzoNobel bán mảng sơn trang trí khu vực Đông Nam Á cho Nippon Paint với giá 1,35 tỷ USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ reatimes.vn.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "reatimes.vn",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGFubVI5R280TGhYQW9OVFBzUnhBaFBnXzlOWUVkcTZ2R1UzdjN2NmJWMDQ1Wm1YWVJIRXVwLXhwOTVVeFhtRnZ5VE1YXzlXREtLZXAzRzZVX3NLX2xxeUFWLVFLaU1qQnViMTVWM2s4dERPMzNwa2JPZkdsNjFKT1VTUEFPNkxvRW0wY3JMMXM5SEhhWVg1TFlvRVpPREJ1eFNKdU5aNFpibVVsZnBZUVY4dmNQTmlZMmYyNDdsYnN6UUd2VkZPUTFR?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ",
   "tomTat": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ theleader.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -280,4 +316,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-05T16:55";
+window.TIN_CAP_NHAT = "2026-10-06T06:47";
