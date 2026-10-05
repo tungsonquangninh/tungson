@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ",
+  "tomTat": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ theleader.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "theleader.vn",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZndQVnJyYWkxOVdYeFU4Qm1aNV81MTVrWHp6OVlaSktnSlo3Nkt0MjhfUjZUb0lSZUNGT2Q0WlV1UEY2STlJWlk5TWFRWXhJS1lqTVQ4X08zaV9hYVFOU0ZETUthSzNNN3d0NDloU1lmUFRMYld0MmZKVEUya05TQmZUMzhnY19iY2FsZlEzdXNNZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 5/10: Quặng sắt tại Singapore nhích nhẹ",
+  "tomTat": "Giá thép hôm nay 5/10: Quặng sắt tại Singapore nhích nhẹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWRHUnhiSnQ1SWRDTENHam1ZUUUwLVQ0Qy1CV0xBX2w3QzJmOTZ5Q1FGcUZkZHc3WkVoWUtudEtWUlgxbm9lOVRHUTdFeVZ1OG44clJTb29sWmIyd2VzNE9JYXl2b0NhWjR6TXJOM3d0LW1BazNoc29rbVJHRlY3YzRPUTZLWXBBT2lRWjNfQVNnSVhkZWZLWWd2WF9YUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "AkzoNobel chuyển nhượng mảng sơn trang trí tại Đông Nam Á trị giá 1,35 tỷ đô",
+  "tomTat": "AkzoNobel chuyển nhượng mảng sơn trang trí tại Đông Nam Á trị giá 1,35 tỷ đô. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "Báo Nông nghiệp và Môi trường",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZ3bkEtU1BUWDZ3SV9WbXdtbjZCNVRmUlNXVXFMYVczYUs0Y2hrTVlnNU45VkU0ZTJFeU9pRzBteFpmY1RBTzBnQk9QaEs0eWRxNUxyS3FINXU5THkweUU1UXNGMWdsZ2MyU1JySVpvMkNZYlZPYi1XbmZsT2lueEJPUHJxX2lTaDhmdzdJd2JlNDljYnVLOFliUnlnakRVWDdNU0R1cERCRWhWS2dFYVM0d3V1Y2tpU2tF?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Điều kiện để chủ nhà được tự thiết kế nhà ở riêng lẻ dưới 3 tầng",
+  "tomTat": "Điều kiện để chủ nhà được tự thiết kế nhà ở riêng lẻ dưới 3 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFhoeTltZU5TaTlXNjEwT1A1S0NlWWw5Ukt3ZVlQVnhOQWZJU3lUS1BXUjR6R28ydFk3ckZkMDJwNHRRX193RFhMX0pQVXlxTG9pYk44U2RnQUUxMXNYcllzYlo2TE1qcTRtQnJnV0ZqaUtVUGdpQXpsU2Z4VVZaUnQtamc3TUZjWlNZSDJmX09JOUNkV2xDbmh6bTBELXFob3VUWkxEVkRnSi1w?oc=5"
+ },
+ {
   "ngay": "2026-10-04",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tháo gỡ điểm nghẽn vật liệu, đẩy nhanh tiến độ các dự án đầu tư công",
@@ -244,4 +280,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-05T06:49";
+window.TIN_CAP_NHAT = "2026-10-05T16:55";
