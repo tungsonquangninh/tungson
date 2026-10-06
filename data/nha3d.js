@@ -14,7 +14,7 @@
       general: "Nhập năm sinh gia chủ để xem phương án hợp mệnh. Dưới đây là các phương án phổ biến.",
       menh: (h, n) => `Gia chủ mệnh <b>${h}</b> (${n}). Phương án dưới đây dùng màu tương sinh và bản mệnh.`,
       sNames: ["Tương sinh – nhẹ nhàng", "Bản mệnh – hài hòa", "Phối hai tông", "Sáng sang – nhấn đậm"],
-      gNames: ["Kem ấm – mái đỏ", "Trắng xám hiện đại", "Xanh biển mát", "Xanh ngọc tự nhiên"],
+      vNames: ["Trắng – mái xanh đen", "Kem – mái xám ghi", "Xám trắng – mái đỏ", "Xanh ngọc – mái rêu"], gNames: ["Kem ấm – mái đỏ", "Trắng xám hiện đại", "Xanh biển mát", "Xanh ngọc tự nhiên"],
       good: "hợp", bad: "nên tránh", faceGood: (d, s) => `Hướng <b>${d}</b> là hướng tốt (<b>${s}</b>) với gia chủ.`, faceBad: (d, s) => `Hướng <b>${d}</b> là hướng xấu (<b>${s}</b>) — nên cân nhắc xoay cửa chính về hướng tốt.`,
       views: { front: "Mặt tiền", corner: "Góc chéo", side: "Bên hông", top: "Trên cao" }, spin: "Tự xoay", shot: "Tải ảnh", hint: "Kéo để xoay · cuộn / chụm 2 ngón để phóng to",
       used: "Màu đang dùng", code: "Mã", note: "Mô hình dạng khối để hình dung màu sắc, không phải bản vẽ kiến trúc. Màu trên màn hình chỉ mang tính tham khảo — xem màu thật trên bảng màu giấy trước khi sơn.",
@@ -29,7 +29,7 @@
       general: "Enter the homeowner's birth date for element-matched schemes. Popular schemes are shown below.",
       menh: (h, n) => `Homeowner's element: <b>${h}</b> (${n}). These schemes use supporting and own-element colours.`,
       sNames: ["Supporting – soft", "Own element – balanced", "Two-tone", "Bright with bold accents"],
-      gNames: ["Warm cream – red roof", "Modern white & grey", "Cool sea blue", "Natural mint"],
+      vNames: ["White – charcoal roof", "Cream – grey roof", "Off-white – red roof", "Mint – moss roof"], gNames: ["Warm cream – red roof", "Modern white & grey", "Cool sea blue", "Natural mint"],
       good: "good", bad: "avoid", faceGood: (d, s) => `Facing <b>${d}</b> is a good direction (<b>${s}</b>) for the homeowner.`, faceBad: (d, s) => `Facing <b>${d}</b> is an unfavourable direction (<b>${s}</b>) — consider turning the main door to a good direction.`,
       views: { front: "Front", corner: "Corner", side: "Side", top: "Top" }, spin: "Auto-rotate", shot: "Save image", hint: "Drag to rotate · scroll / pinch to zoom",
       used: "Colours in use", code: "Code", note: "A simple block model to visualise colours, not an architectural drawing. Screen colours are approximate — check the printed colour chart before painting.",
@@ -44,7 +44,7 @@
       general: "输入屋主出生日期即可查看五行配色方案。以下为常用方案。",
       menh: (h, n) => `屋主五行：<b>${h}</b>（${n}）。以下方案采用相生色与本命色。`,
       sNames: ["相生 – 柔和", "本命 – 和谐", "双色搭配", "明亮 – 深色点缀"],
-      gNames: ["暖米色 – 红顶", "现代白灰", "清爽海蓝", "自然薄荷绿"],
+      vNames: ["白墙 – 黑灰顶", "米色 – 灰顶", "灰白 – 红顶", "薄荷绿 – 苔绿顶"], gNames: ["暖米色 – 红顶", "现代白灰", "清爽海蓝", "自然薄荷绿"],
       good: "相合", bad: "宜避", faceGood: (d, s) => `朝<b>${d}</b>是屋主的吉方（<b>${s}</b>）。`, faceBad: (d, s) => `朝<b>${d}</b>是凶方（<b>${s}</b>），可考虑将大门调向吉方。`,
       views: { front: "正面", corner: "斜角", side: "侧面", top: "俯视" }, spin: "自动旋转", shot: "保存图片", hint: "拖动旋转 · 滚轮 / 双指缩放",
       used: "当前颜色", code: "色号", note: "体块模型仅用于预览配色，并非建筑图纸。屏幕颜色仅供参考，刷漆前请查看实物色卡。",
@@ -100,6 +100,12 @@
   }
   function schemes(o) {
     if (kind === "phong") return roomSchemes(o);
+    if (!o && kind !== "pho") return [
+      { wall: C("kim", 0), accent: C("kim", 1), trim: C("kim", 0), roof: C("thuy", 3) },
+      { wall: C("tho", 0), accent: C("kim", 0), trim: C("kim", 0), roof: C("kim", 3) },
+      { wall: C("kim", 1), accent: C("tho", 2), trim: C("kim", 0), roof: C("hoa", 3) },
+      { wall: C("moc", 0), accent: C("kim", 0), trim: C("kim", 0), roof: C("moc", 3) },
+    ].map((x, i) => Object.assign(x, { name: T.vNames[i] }));
     if (!o) return [
       { wall: C("tho", 0), accent: C("tho", 3), trim: C("kim", 0), roof: C("hoa", 3) },
       { wall: C("kim", 1), accent: C("kim", 3), trim: C("kim", 0), roof: C("thuy", 3) },
@@ -171,8 +177,8 @@
   let kind = "pho";
   const PRESET = {
     pho: { "n-w": 5, "n-d": 18, "n-y": 3, "n-f": 3, "n-h": 3.6, "n-win": 2, "n-roof": "bang", "n-balc": true },
-    bietthu: { "n-w": 16, "n-d": 24, "n-y": 6, "n-f": 2, "n-h": 3.6, "n-win": 2, "n-roof": "thai", "n-balc": true },
-    vuon: { "n-w": 18, "n-d": 24, "n-y": 8, "n-f": 1, "n-h": 3.8, "n-win": 2, "n-roof": "nhat", "n-balc": false },
+    bietthu: { "n-w": 17, "n-d": 26, "n-y": 7, "n-f": 2, "n-h": 3.6, "n-win": 2, "n-roof": "thai", "n-balc": true },
+    vuon: { "n-w": 20, "n-d": 24, "n-y": 7, "n-f": 2, "n-h": 3.4, "n-win": 2, "n-roof": "thai", "n-balc": false },
     phong: { "n-w": 4.2, "n-d": 5.2, "n-h": 3.2 },
   };
   function show(el, on) { if (!el) return; if (on) el.style.removeProperty("display"); else el.style.setProperty("display", "none", "important"); }
@@ -231,69 +237,192 @@
     box(w + over * 2, 0.16, d + over * 2, Tm, 0, y + 0.08, z);
     const r = hip(w, d, rh, over, Rm); r.position.set(0, y + 0.16, z); house.add(r); return y + rh;
   }
-  /* --- BIỆT THỰ: khối chính + sảnh lồi có cột, ban công con tiện, sân vườn, tường rào --- */
-  function buildVilla(LW, LD, Y, N, FH, NW, roof, balc) {
-    const Wm = mat("wall"), Am = mat("accent"), Tm = mat("trim");
-    site(LW, LD, 4);
-    const wm = Math.max(7, Math.min(LW - 4, 15)), dm = Math.max(6, Math.min(LD - Y - 3, 13)), zF = LD / 2 - Y, zC = zF - dm / 2;
-    const bw = Math.min(5, wm * 0.34), bd = 1.8, top = N * FH, wing = (wm - bw) / 2;
-    box(wm + 0.6, 0.5, dm + 0.6, Tm, 0, 0.25, zC); // bệ nền
-    for (let i = 0; i < N; i++) {
-      const y0 = 0.5 + i * FH, wh = Math.min(2.0, FH - 1.2), n = Math.max(1, Math.min(NW, Math.floor(wing / 1.8)));
-      box(wm, FH - 0.2, dm, Wm, 0, y0 + (FH - 0.2) / 2, zC); box(wm + 0.2, 0.2, dm + 0.2, Tm, 0, y0 + FH - 0.1, zC);
-      for (const sx of [-1, 1]) for (let j = 0; j < n; j++) win(sx * (bw / 2 + wing * (j + 0.5) / n), y0 + 0.9 + wh / 2, zF + 0.03, Math.min(1.4, wing / n - 0.5), wh, "z", 1);
-      for (let j = 0; j < Math.max(1, Math.floor(dm / 4)); j++) { const z = zF - 2 - j * 4; if (z < zF - dm + 1.2) continue; for (const sx of [-1, 1]) win(sx * (wm / 2 + 0.03), y0 + 0.9 + wh / 2, z, 1.2, wh, "x", sx); }
-      for (let j = 0; j < Math.max(1, Math.floor(wm / 3.5)); j++) win(-wm / 2 + 1.75 + j * 3.5, y0 + 0.9 + wh / 2, zF - dm - 0.03, 1.2, wh, "z", -1);
-      if (balc && i > 0) for (const sx of [-1, 1]) {
-        const cx = sx * (bw / 2 + wing / 2), bwid = wing - 0.4;
-        box(bwid, 0.18, 1.3, Tm, cx, y0 + 0.09, zF + 0.65);
-        for (let k = 0; k <= Math.floor(bwid / 0.3); k++) cyl(0.05, 0.8, Tm, cx - bwid / 2 + 0.1 + k * 0.3, y0 + 0.58, zF + 1.22);
-        box(bwid, 0.1, 0.16, Tm, cx, y0 + 1.03, zF + 1.22);
-      }
-    }
-    const zb = zF + bd / 2;
-    if (N > 1) box(bw, top - FH, bd, Am, 0, 0.5 + FH + (top - FH) / 2, zb);
-    box(bw + 0.3, 0.3, bd + 0.3, Tm, 0, 0.5 + FH - 0.05, zb);
-    for (const sx of [-1, 1]) for (const zz of [zF + bd - 0.25, zF + 0.4]) cyl(0.2, FH - 0.3, Tm, sx * (bw / 2 - 0.25), 0.5 + (FH - 0.3) / 2, zz);
-    box(2.44, 2.9, 0.12, Tm, 0, 0.5 + 1.45, zF + 0.03); box(2.2, 2.8, 0.1, wood, 0, 0.5 + 1.4, zF + 0.06);
-    for (let i = 1; i < N; i++) { const y0 = 0.5 + i * FH, wh = Math.min(2.2, FH - 1.0); win(0, y0 + 0.7 + wh / 2, zF + bd + 0.03, bw * 0.55, wh, "z", 1); }
-    for (let k = 0; k < 3; k++) box(bw + 1.2 - k * 0.3, 0.17, 0.4, stone, 0, 0.085 + k * 0.17, zF + bd + 1.0 - k * 0.35);
-    let H = roofOn(wm, dm, 0.5 + top, zC, roof);
-    if (roof !== "bang") { box(bw + 0.8, 0.16, bd + 2.8, Tm, 0, 0.5 + top + 0.02, zF + bd / 2 - 0.4); const r = hip(bw, bd + 2, Math.min(bw, bd + 2) * 0.45, 0.4, mat("roof")); r.position.set(0, 0.5 + top + 0.1, zF + bd / 2 - 0.4); house.add(r); }
-    else box(bw, 1.0, bd, Am, 0, 0.5 + top + 0.5, zb);
-    const pl = LD / 2 - (zF + bd + 1.2); if (pl > 0.3) box(3.2, 0.05, pl, stone, 0, 0.1, LD / 2 - pl / 2);
-    for (const sx of [-1, 1]) { hedge(sx * (bw / 2 + wing / 2 + 0.3), zF + bd + 0.6, wing - 1, 0.8); tree(sx * (LW / 2 - 1.6), LD / 2 - 1.8, 1.25); tree(sx * (LW / 2 - 1.5), zC - 1, 1.1); }
-    return H + 0.5;
+  /* --- chi tiết dùng chung cho mẫu biệt thự / sân vườn --- */
+  const iron = new W3.MeshStandardMaterial({ color: "#1d2126", roughness: 0.45, metalness: 0.4 });
+  const paveD = new W3.MeshLambertMaterial({ color: "#6d7076" }), paveL = new W3.MeshLambertMaterial({ color: "#d9d6cf" });
+  const flowerP = new W3.MeshLambertMaterial({ color: "#c2417a" }), flowerV = new W3.MeshLambertMaterial({ color: "#8a6cc7" });
+  const woodL = new W3.MeshStandardMaterial({ color: "#8a5a36", roughness: 0.6 });
+  [iron, paveD, paveL, flowerP, flowerV, woodL].forEach((m) => m.color.convertSRGBToLinear());
+  let bars = [];
+  function ironRun(x1, z1, x2, z2, y, h) { // lan can / hàng rào sắt: 2 thanh ngang + song đứng
+    const L = Math.hypot(x2 - x1, z2 - z1), ang = Math.atan2(x2 - x1, z2 - z1), cx = (x1 + x2) / 2, cz = (z1 + z2) / 2;
+    for (const yy of [y + 0.08, y + h]) { const r = box(0.05, 0.06, L, iron, cx, yy, cz); r.rotation.y = ang; }
+    const n = Math.max(2, Math.floor(L / 0.16));
+    for (let k = 1; k < n; k++) { const t = k / n; bars.push([x1 + (x2 - x1) * t, y + h / 2 + 0.04, z1 + (z2 - z1) * t, h]); }
   }
-  /* --- NHÀ SÂN VƯỜN: nền cao, hiên rộng có cột, mái phủ cả hiên, sân cỏ nhiều cây --- */
-  function buildGarden(LW, LD, Y, N, FH, NW, roof) {
-    const Wm = mat("wall"), Am = mat("accent"), Tm = mat("trim"), Rm = mat("roof");
-    site(LW, LD, 3.6);
-    const wm = Math.max(8, Math.min(LW - 4, 16)), dm = Math.max(6, Math.min(LD - Y - 4, 11)), hv = 2.4;
-    const zF = LD / 2 - Y - hv, zC = zF - dm / 2, top = 0.45 + N * FH;
-    box(wm + 0.4, 0.45, dm + hv + 0.4, Tm, 0, 0.225, zC + hv / 2);
-    for (let i = 0; i < N; i++) {
-      const y0 = 0.45 + i * FH, wh = Math.min(1.9, FH - 1.3), n = Math.max(1, NW), ww = Math.min(1.5, (wm / 2 - 2.6) / n - 0.4);
-      box(wm, FH - 0.2, dm, Wm, 0, y0 + (FH - 0.2) / 2, zC); if (i < N - 1) box(wm + 0.2, 0.2, dm + 0.2, Tm, 0, y0 + FH - 0.1, zC);
-      if (ww > 0.5) for (const sx of [-1, 1]) for (let j = 0; j < n; j++) win(sx * (2.0 + (wm / 2 - 2.6) * (j + 0.5) / n), y0 + 0.9 + wh / 2, zF + 0.03, ww, wh, "z", 1);
-      for (let j = 0; j < Math.max(1, Math.floor(dm / 3.5)); j++) { const z = zF - 1.8 - j * 3.5; if (z < zF - dm + 1) continue; for (const sx of [-1, 1]) win(sx * (wm / 2 + 0.03), y0 + 0.9 + wh / 2, z, 1.2, wh, "x", sx); }
+  function flushBars() {
+    if (!bars.length) return;
+    const im = new W3.InstancedMesh(new W3.BoxGeometry(0.025, 1, 0.025), iron, bars.length), m4 = new W3.Matrix4();
+    bars.forEach((b, i) => { m4.makeScale(1, b[3], 1); m4.setPosition(b[0], b[1], b[2]); im.setMatrixAt(i, m4); });
+    im.castShadow = true; house.add(im); bars = [];
+  }
+  function pier(x, z, h, lampOn) {
+    const Am = mat("accent"), Tm = mat("trim");
+    box(0.5, h, 0.5, Am, x, h / 2, z); box(0.64, 0.14, 0.64, Tm, x, h + 0.07, z); box(0.6, 0.12, 0.6, Tm, x, 0.3, z);
+    if (lampOn) { const s = new W3.Mesh(new W3.SphereGeometry(0.16, 12, 10), lampM); s.position.set(x, h + 0.3, z); house.add(s); }
+  }
+  function topiary(x, y, z) { box(0.36, 0.34, 0.36, mat("trim"), x, y + 0.17, z); const b = new W3.Mesh(new W3.SphereGeometry(0.28, 12, 10), leaf2); b.position.set(x, y + 0.6, z); b.castShadow = true; house.add(b); }
+  function palm(x, z, h) {
+    const t = cyl(0.14, h, bark, x, h / 2, z); t.rotation.z = 0.05;
+    for (let k = 0; k < 7; k++) { const a = k * Math.PI * 2 / 7, f = new W3.Mesh(new W3.BoxGeometry(0.35, 0.05, 2.2), leaf); f.position.set(x + Math.sin(a) * 0.9, h - 0.2, z + Math.cos(a) * 0.9); f.rotation.y = a; f.rotation.x = 0.35; f.castShadow = true; house.add(f); }
+  }
+  function flowers(x, z, w, d) { box(w, 0.35, d, mat("trim"), x, 0.175, z); for (let k = 0; k < Math.floor(w * d * 6); k++) { const s = new W3.Mesh(new W3.SphereGeometry(0.12, 6, 5), k % 3 ? flowerP : (k % 2 ? flowerV : leaf2)); s.position.set(x - w / 2 + 0.15 + ((k * 0.37) % 1) * (w - 0.3), 0.45, z - d / 2 + 0.12 + ((k * 0.61) % 1) * (d - 0.24)); house.add(s); } }
+  function bigWin(x, y0, z, w, h, sg, rotY) { // cửa kính khung đen chia ô + ô thoáng
+    const g = new W3.Group(); g.position.set(x, y0, z); if (rotY) g.rotation.y = rotY; house.add(g);
+    box(w + 0.16, h + 0.16, 0.1, iron, 0, h / 2, 0, g); box(w, h, 0.06, glass, 0, h / 2, 0.04 * sg, g);
+    box(w, 0.06, 0.08, iron, 0, h * 0.78, 0.05 * sg, g); const n = Math.max(2, Math.round(w / 0.7));
+    for (let k = 1; k < n; k++) box(0.05, h, 0.08, iron, -w / 2 + k * w / n, h / 2, 0.05 * sg, g);
+    box(w + 0.5, 0.12, 0.22, mat("trim"), 0, h + 0.18, 0.08, g); return g;
+  }
+  function archShape(cx, y0, w, h) { const s = new W3.Shape(); s.moveTo(cx - w / 2, y0); s.lineTo(cx + w / 2, y0); s.lineTo(cx + w / 2, y0 + h - w / 2); s.absarc(cx, y0 + h - w / 2, w / 2, 0, Math.PI, false); s.lineTo(cx - w / 2, y0); return s; }
+  function archPath(cx, y0, w, h) { const s = new W3.Path(); s.moveTo(cx - w / 2, y0); s.lineTo(cx + w / 2, y0); s.lineTo(cx + w / 2, y0 + h - w / 2); s.absarc(cx, y0 + h - w / 2, w / 2, 0, Math.PI, false); s.lineTo(cx - w / 2, y0); return s; }
+  function ext(shape, depth, m, x, y, z, rotY) { const o = new W3.Mesh(new W3.ExtrudeGeometry(shape, { depth, bevelEnabled: false, curveSegments: 16 }), m); o.position.set(x, y, z); if (rotY) o.rotation.y = rotY; o.castShadow = o.receiveShadow = true; house.add(o); return o; }
+  function archWin(x, y0, z, w, h, rotY) { // cửa vòm khung gỗ
+    const fr = archShape(0, 0, w + 0.2, h + 0.1); fr.holes.push(archPath(0, 0, w, h));
+    ext(fr, 0.1, woodL, x, y0, z, rotY); ext(archShape(0, 0, w, h), 0.04, glass, x, y0, z + (rotY ? 0 : 0.02), rotY);
+    const n = Math.max(2, Math.round(w / 0.6)), g = new W3.Group(); g.position.set(x, y0, z); if (rotY) g.rotation.y = rotY; house.add(g);
+    for (let k = 1; k < n; k++) box(0.05, h - w / 2, 0.06, woodL, -w / 2 + k * w / n, (h - w / 2) / 2, 0.08, g);
+    box(w, 0.05, 0.06, woodL, 0, h - w / 2, 0.08, g);
+  }
+  function hipFull(w, d, rh, over, x, y, z) { // mái dốc + diềm + đèn hắt + chóp
+    const Tm = mat("trim"), r = hip(w, d, rh, over, mat("roof")); r.position.set(x, y + 0.18, z); house.add(r);
+    box(w + over * 2 + 0.1, 0.22, d + over * 2 + 0.1, Tm, x, y + 0.09, z);
+    const L = Math.abs(d - w) / 2, along = d >= w;
+    for (const s of [-1, 1]) { const fx = x + (along ? 0 : s * L), fz = z + (along ? s * L : 0); const c = new W3.Mesh(new W3.ConeGeometry(0.07, 1.1, 8), iron); c.position.set(fx, y + 0.18 + rh + 0.5, fz); house.add(c); if (L < 0.05) break; }
+    for (let k = 0; k < Math.floor((w + 2 * over) / 1.5); k++) { const s = new W3.Mesh(new W3.SphereGeometry(0.06, 6, 5), lampM); s.position.set(x - w / 2 - over + 0.75 + k * 1.5, y - 0.03, z + d / 2 + over - 0.1); house.add(s); }
+    return y + 0.18 + rh;
+  }
+  /* --- BIỆT THỰ TÂN CỔ ĐIỂN 2 TẦNG: tầng trệt rộng có sân thượng lan can sắt, tầng trên lùi, giàn pergola, mái Thái 2 lớp --- */
+  function buildVilla(LW, LD, Y, N, FH, NW, roof) {
+    const Wm = mat("wall"), Am = mat("accent"), Tm = mat("trim");
+    N = Math.max(2, N);
+    const wm = Math.max(9, Math.min(LW - 3, 15)), dm = Math.max(8, Math.min(LD - Y - 2.5, 13)), zF = LD / 2 - Y, zC = zF - dm / 2, set = 2.4;
+    // sân lát đá + viền cỏ, hàng rào trụ trắng song sắt đen, cổng giữa
+    box(LW - 0.6, 0.04, LD - 0.6, lawn, 0, 0.07, 0); box(LW - 2.2, 0.05, Y + 1, paveD, 0, 0.1, zF + Y / 2 - 0.3); box(wm + 2, 0.05, dm + 2, paveD, 0, 0.1, zC);
+    const fh = 1.7, gate = 3.6, step = 3.2;
+    const fenceLine = (x1, z1, x2, z2) => { const L = Math.hypot(x2 - x1, z2 - z1), n = Math.max(1, Math.round(L / step)); for (let k = 0; k < n; k++) { const a = k / n, b = (k + 1) / n; const ax = x1 + (x2 - x1) * a, az = z1 + (z2 - z1) * a, bx = x1 + (x2 - x1) * b, bz = z1 + (z2 - z1) * b; box(Math.abs(bx - ax) || 0.3, 0.5, Math.abs(bz - az) || 0.3, Am, (ax + bx) / 2, 0.25, (az + bz) / 2); ironRun(ax, az, bx, bz, 0.5, fh - 0.6); } };
+    const fz = LD / 2, fx = LW / 2;
+    fenceLine(-fx, fz, -gate / 2 - 0.3, fz); fenceLine(gate / 2 + 0.3, fz, fx, fz); fenceLine(-fx, fz, -fx, -fz); fenceLine(fx, fz, fx, -fz);
+    box(LW, 1.9, 0.25, Wm, 0, 0.95, -fz);
+    for (const sx of [-1, 1]) { pier(sx * (gate / 2 + 0.3), fz, fh + 0.3, true); for (let k = 1; k * step < fx - gate / 2 - 0.5; k++) pier(sx * (gate / 2 + 0.3 + k * step), fz, fh, false); pier(sx * fx, fz, fh, true); for (let k = 1; k * step < LD; k++) pier(sx * fx, fz - k * step, fh, false); }
+    for (const sx of [-1, 1]) { const g = new W3.Group(); g.position.set(sx * gate / 4, 0, fz); house.add(g); box(gate / 2 - 0.1, 0.06, 0.06, iron, 0, 0.2, 0, g); box(gate / 2 - 0.1, 0.08, 0.06, iron, 0, fh + 0.1, 0, g); for (let k = 0; k < 12; k++) box(0.03, fh - 0.1, 0.03, iron, -gate / 4 + 0.1 + k * (gate / 2 - 0.3) / 11, fh / 2 + 0.15, 0, g); }
+    // tầng trệt
+    const y0 = 0.45, top0 = y0 + FH;
+    box(wm + 0.5, 0.45, dm + 0.5, Tm, 0, 0.225, zC);
+    box(wm, FH, dm, Wm, 0, y0 + FH / 2, zC);
+    box(wm + 0.5, 0.38, dm + 0.5, Tm, 0, top0 + 0.19, zC); // gờ phào + sàn sân thượng
+    const bays = 3, bw = wm / bays;
+    for (let k = 0; k <= bays; k++) { const x = -wm / 2 + k * bw; box(0.5, FH, 0.26, Am, x, y0 + FH / 2, zF + 0.12); box(0.64, 0.2, 0.34, Tm, x, top0 - 0.12, zF + 0.14); box(0.6, 0.25, 0.32, Tm, x, y0 + 0.12, zF + 0.14); const l = new W3.Mesh(new W3.BoxGeometry(0.12, 0.18, 0.08), lampM); l.position.set(x, y0 + 2.3, zF + 0.3); house.add(l); }
+    for (let k = 0; k < bays; k++) bigWin(-wm / 2 + bw * (k + 0.5), y0 + 0.05, zF + 0.04, Math.min(2.4, bw - 1.1), Math.min(FH - 0.75, 2.9), 1);
+    for (const sx of [-1, 1]) for (let j = 0; j < Math.max(1, Math.floor(dm / 4)); j++) { const z = zF - 2.2 - j * 4; if (z > zF - dm + 1) bigWin(sx * (wm / 2 + 0.04), y0 + 0.6, z, 1.3, 2.0, 1, sx * Math.PI / 2); }
+    for (let k = 0; k < 3; k++) box(bw + 1.6 - k * 0.4, 0.15, 0.38, stone, 0, 0.075 + k * 0.15, zF + 1.05 - k * 0.36);
+    // lan can sân thượng trên tầng trệt
+    const yT = top0 + 0.38, wu = wm * 0.62, xu = -wm / 2 + wu / 2, du = dm - set, zu = zF - set - du / 2;
+    ironRun(-wm / 2 + 0.25, zF + 0.1, wm / 2 - 0.25, zF + 0.1, yT, 0.95); ironRun(-wm / 2 + 0.05, zF, -wm / 2 + 0.05, zF - set, yT, 0.95); ironRun(wm / 2 - 0.05, zF, wm / 2 - 0.05, zF - dm + 0.3, yT, 0.95);
+    for (const x of [-wm / 2 + 0.25, -wm / 6, wm / 6, wm / 2 - 0.25]) { box(0.42, 1.15, 0.42, Am, x, yT + 0.57, zF + 0.1); box(0.52, 0.1, 0.52, Tm, x, yT + 1.2, zF + 0.1); topiary(x, yT + 1.25, zF + 0.1); }
+    // các tầng trên (lùi vào, khối lệch trái)
+    let yy = yT;
+    for (let i = 1; i < N; i++) {
+      const fH = FH - 0.2;
+      box(wu, fH, du, Wm, xu, yy + fH / 2, zu);
+      for (const sx of [-1, 1]) box(0.45, fH, 0.24, Am, xu + sx * (wu / 2 - 0.22), yy + fH / 2, zF - set + 0.1);
+      bigWin(xu, yy + 0.25, zF - set + 0.03, Math.min(3.2, wu * 0.5), Math.min(fH - 0.6, 2.7), 1);
+      for (const sx of [-1, 1]) { const l = new W3.Mesh(new W3.BoxGeometry(0.12, 0.18, 0.08), lampM); l.position.set(xu + sx * (Math.min(3.2, wu * 0.5) / 2 + 0.5), yy + 2.1, zF - set + 0.1); house.add(l); }
+      for (let j = 0; j < Math.max(1, Math.floor(du / 3.5)); j++) bigWin(-wm / 2 - 0.04, yy + 0.7, zF - set - 1.8 - j * 3.5, 1.2, 1.8, 1, -Math.PI / 2);
+      bigWin(xu + wu / 2 + 0.04, yy + 0.25, zF - set - du * 0.35, 1.8, 2.5, 1, Math.PI / 2);
+      if (i < N - 1) box(wu + 0.3, 0.25, du + 0.3, Tm, xu, yy + fH + 0.12, zu);
+      yy += fH + (i < N - 1 ? 0.25 : 0);
     }
-    box(3.0, FH - 0.2, 0.1, Am, 0, 0.45 + (FH - 0.2) / 2, zF + 0.05);
-    box(2.24, 2.6, 0.12, Tm, 0, 0.45 + 1.3, zF + 0.11); box(2.0, 2.5, 0.1, wood, 0, 0.45 + 1.25, zF + 0.15);
-    const nc = Math.max(3, Math.round(wm / 2.6) + 1);
-    for (let k = 0; k < nc; k++) { const x = -wm / 2 + 0.25 + k * (wm - 0.5) / (nc - 1); box(0.32, top - 0.55, 0.32, Am, x, 0.45 + (top - 0.55) / 2, zF + hv - 0.2); box(0.44, 0.2, 0.44, Tm, x, 0.55, zF + hv - 0.2); }
-    box(wm + 0.2, 0.3, 0.3, Tm, 0, top - 0.15, zF + hv - 0.2);
-    for (let k = 0; k < 3; k++) box(3.2 - k * 0.3, 0.15, 0.35, stone, 0, 0.075 + k * 0.15, zF + hv + 0.6 - k * 0.3);
+    // pergola + bàn ăn ngoài trời ở phần sân thượng bên phải
+    const px1 = xu + wu / 2, px2 = wm / 2 - 0.3, pz1 = zF - set + 0.2, pz2 = zF - set - du * 0.75, ph = FH - 0.3;
+    for (const [x, z] of [[px2, pz1], [px2, pz2]]) box(0.14, ph, 0.14, iron, x, yT + ph / 2, z);
+    box(px2 - px1, 0.12, 0.12, iron, (px1 + px2) / 2, yT + ph, pz1); box(px2 - px1, 0.12, 0.12, iron, (px1 + px2) / 2, yT + ph, pz2);
+    for (let k = 0; k <= 5; k++) box(0.06, 0.1, pz1 - pz2, iron, px1 + k * (px2 - px1) / 5, yT + ph + 0.08, (pz1 + pz2) / 2);
+    box(px2 - px1, 0.03, pz1 - pz2, rail, (px1 + px2) / 2, yT + ph + 0.15, (pz1 + pz2) / 2);
+    const tx = (px1 + px2) / 2, tz = (pz1 + pz2) / 2; box(1.0, 0.06, 1.8, woodL, tx, yT + 0.75, tz); box(0.8, 0.72, 1.5, iron, tx, yT + 0.36, tz).scale.set(0.15, 1, 0.9);
+    for (const sx of [-1, 1]) for (const sz of [-0.5, 0.5]) box(0.42, 0.45, 0.42, woodL, tx + sx * 0.75, yT + 0.22, tz + sz);
+    // mái Thái 2 lớp (mái lớn phía sau + mái nhỏ nhô trước)
     let H;
-    if (roof === "bang") { box(wm + 0.3, 0.25, dm + hv + 0.3, Tm, 0, top + 0.12, zC + hv / 2); box(wm, 0.8, dm, Wm, 0, top + 0.65, zC); H = top + 1.1; }
-    else { const over = roof === "nhat" ? 1.0 : 0.6, dd = dm + hv, rh = Math.min(wm, dd) * (roof === "nhat" ? 0.24 : 0.4); box(wm + over * 2, 0.16, dd + over * 2, Tm, 0, top + 0.08, zC + hv / 2); const r = hip(wm, dd, rh, over, Rm); r.position.set(0, top + 0.16, zC + hv / 2); house.add(r); H = top + rh; }
-    const pz0 = zF + hv + 1.0, pz1 = LD / 2;
-    for (let z = pz0 + 0.5; z < pz1 - 0.3; z += 1.1) box(1.6, 0.05, 0.8, stone, 0, 0.1, z);
-    for (const sx of [-1, 1]) {
-      hedge(sx * (wm / 4 + 0.8), zF + hv + 1.4, wm / 2 - 2.6, 0.7);
-      tree(sx * (LW / 2 - 1.8), LD / 2 - 2, 1.35); tree(sx * (LW / 2 - 2.2), (pz0 + pz1) / 2, 1.0); tree(sx * (LW / 2 - 1.6), zC - dm / 2 - 1.2, 1.2);
-      box(1.6, 0.42, 0.5, stone, sx * (LW / 4 + 1), 0.21, (pz0 + pz1) / 2 + 0.6);
+    if (roof === "bang") { box(wu, 1.0, du, Wm, xu, yy + 0.5, zu); box(wu + 0.25, 0.14, du + 0.25, Tm, xu, yy + 1.07, zu); H = yy + 1.2; }
+    else {
+      const k = roof === "nhat" ? 0.26 : 0.46, over = roof === "nhat" ? 1.0 : 0.8;
+      H = hipFull(wu, du, Math.min(wu, du) * k, over, xu, yy, zu);
+      const wB = wu * 0.56, dB = du * 0.72; hipFull(wB, dB, Math.min(wB, dB) * k * 1.35, over * 0.9, xu - wu / 2 + wB / 2 + 0.1, yy + 0.05, zF - set - dB / 2 + 0.7);
     }
+    // cây, chậu, cọ
+    for (const sx of [-1, 1]) { palm(sx * (LW / 2 - 1.3), -LD / 2 + 2, 6.5); hedge(sx * (LW / 2 - 0.9), fz - 3.5, 0.9, 4); topiary(sx * (bw / 2 + 0.6), 0.1, zF + 1.4); }
+    tree(-LW / 2 + 1.8, fz - 1.6, 1.1); tree(LW / 2 - 1.8, zC - 1, 1.2);
+    flushBars();
+    return H;
+  }
+  /* --- NHÀ SÂN VƯỜN phong cách Địa Trung Hải: khối 2 tầng có hiên vòm + ban công, cánh 1 tầng cửa vòm, chòi nghỉ bát giác --- */
+  function buildGarden(LW, LD, Y, N, FH, NW, roof) {
+    const Wm = mat("wall"), Am = mat("accent"), Tm = mat("trim");
+    const wm = Math.max(9, Math.min(LW - 8, 15)), dm = Math.max(7, Math.min(LD - Y - 3, 11)), zF = LD / 2 - Y, zC = zF - dm / 2, OX = (LW - wm) / 2 - 0.9;
+    // tường rào cao + bãi cỏ + sân lát
+    box(LW - 0.4, 0.04, LD - 0.4, lawn, 0, 0.07, 0);
+    const fwH = 2.2, gate = 3.4;
+    box(0.25, fwH, LD, Wm, -LW / 2, fwH / 2, 0); box(0.25, fwH, LD, Wm, LW / 2, fwH / 2, 0); box(LW, fwH, 0.25, Wm, 0, fwH / 2, -LD / 2);
+    for (const [x, z, w, d] of [[-LW / 2, 0, 0.35, LD], [LW / 2, 0, 0.35, LD], [0, -LD / 2, LW, 0.35]]) box(w, 0.1, d, Tm, x, fwH + 0.05, z);
+    const gx = LW / 2 - gate / 2 - 2.6, fw1 = gx - gate / 2 + LW / 2, fw2 = LW / 2 - gx - gate / 2;
+    box(fw1, fwH, 0.25, Wm, -LW / 2 + fw1 / 2, fwH / 2, LD / 2); box(fw2, fwH, 0.25, Wm, LW / 2 - fw2 / 2, fwH / 2, LD / 2);
+    // nhà cổng nhỏ có mái
+    for (const sx of [-1, 1]) box(0.5, fwH + 0.3, 0.7, Wm, gx + sx * (gate / 2 + 0.25), (fwH + 0.3) / 2, LD / 2);
+    box(gate, 2.3, 0.08, woodL, gx, 1.15, LD / 2);
+    { const r = hip(gate + 1, 1.6, 0.7, 0.3, mat("roof")); r.position.set(gx, fwH + 0.4, LD / 2); house.add(r); box(gate + 1.6, 0.15, 2.2, Tm, gx, fwH + 0.35, LD / 2); }
+    // sân lát trước nhà + lối đi
+    box(wm + 1.5, 0.06, 4.2, paveL, OX, 0.1, zF + 2.1); box(gate, 0.05, Math.max(0.5, LD / 2 - zF - 4.2), paveL, gx, 0.1, (LD / 2 + zF + 4.2) / 2);
+    // khối A 2 tầng (bên trái) có hiên vòm — dựng trong nhóm lệch phải để chừa vườn bên trái
+    const root = house, hg = new W3.Group(); hg.position.x = OX; root.add(hg); house = hg;
+    const NA = Math.max(1, N), wa = Math.min(7.5, wm * 0.45), xa = -wm / 2 + wa / 2, rec = 2.2, top = 0.3 + NA * FH;
+    box(wm + 0.3, 0.3, dm + 0.3, Tm, 0, 0.15, zC);
+    box(wa, FH, dm - rec, Wm, xa, 0.3 + FH / 2, zC - rec / 2); // tầng trệt lùi tạo hiên
+    { const s = new W3.Shape(); s.moveTo(-wa / 2, 0); s.lineTo(wa / 2, 0); s.lineTo(wa / 2, FH); s.lineTo(-wa / 2, FH); s.lineTo(-wa / 2, 0); const aw = (wa - 1.2) / 2; for (const sx of [-1, 1]) s.holes.push(archPath(sx * (aw / 2 + 0.3), 0, aw, FH - 0.5)); ext(s, 0.4, Am, xa, 0.3, zF - 0.4); }
+    archWin(xa, 0.3 + 0.05, zF - rec + 0.02, 1.8, 2.6);
+    box(wa, 0.3, dm, Tm, xa, 0.3 + FH + 0.15, zC); // sàn ban công
+    for (let i = 1; i < NA; i++) {
+      const yb = 0.3 + i * FH + 0.3;
+      box(wa, FH - 0.3, dm - rec, Wm, xa, yb + (FH - 0.3) / 2, zC - rec / 2);
+      archWin(xa - wa * 0.18, yb + 0.1, zF - rec + 0.02, 1.6, 2.5); box(1.6, 2.4, 0.06, woodL, xa + wa * 0.2, yb + 1.25, zF - rec + 0.04);
+      ironRun(xa - wa / 2 + 0.1, zF - 0.05, xa + wa / 2 - 0.1, zF - 0.05, yb, 0.95); ironRun(xa - wa / 2 + 0.05, zF, xa - wa / 2 + 0.05, zF - rec, yb, 0.95); ironRun(xa + wa / 2 - 0.05, zF, xa + wa / 2 - 0.05, zF - rec, yb, 0.95);
+      for (const sx of [-1, 1]) { const l = new W3.Mesh(new W3.SphereGeometry(0.1, 8, 6), lampM); l.position.set(xa + sx * (wa / 2 + 0.05), yb + 1.9, zF - 0.6); house.add(l); }
+      // tường hai bên ban công để mái che
+      for (const sx of [-1, 1]) box(0.3, FH - 0.3, rec, Wm, xa + sx * (wa / 2 - 0.15), yb + (FH - 0.3) / 2, zF - rec / 2);
+      archWin(-wm / 2 - 0.02, yb + 0.4, zC - 1.5, 1.2, 2.0, -Math.PI / 2);
+    }
+    archWin(-wm / 2 - 0.02, 0.6, zC - 1.5, 1.2, 2.2, -Math.PI / 2);
+    // bậc tam cấp cong
+    for (let k = 0; k < 3; k++) { const c = new W3.Mesh(new W3.CylinderGeometry(2.4 - k * 0.45, 2.4 - k * 0.45, 0.15, 32, 1, false, -Math.PI / 2, Math.PI), stone); c.position.set(xa, 0.075 + k * 0.15, zF + 0.1); c.receiveShadow = true; house.add(c); }
+    // cánh B 1 tầng (bên phải) cửa vòm lớn
+    const wb = wm - wa, xb = wm / 2 - wb / 2, db = dm - 0.8, zb = zF - 0.8 - db / 2, hb = FH + 0.4;
+    box(wb, hb, db, Wm, xb, 0.3 + hb / 2, zb);
+    const nb = Math.max(1, Math.min(3, Math.floor(wb / 2.6)));
+    for (let k = 0; k < nb; k++) archWin(xb - wb / 2 + wb * (k + 0.5) / nb, 0.35, zF - 0.78, Math.min(2.0, wb / nb - 0.8), hb - 0.6);
+    archWin(wm / 2 + 0.02, 0.5, zb, 1.4, hb - 1.0, Math.PI / 2);
+    flowers(xa - wa / 2 + 1.0, zF + 0.6, 1.6, 0.6); flowers(xa + wa / 2 - 1.0, zF + 0.6, 1.6, 0.6); flowers(xb, zF + 0.1, wb - 1, 0.6);
+    // mái: khối A + cánh B
+    let H;
+    if (roof === "bang") { box(wa, 0.9, dm, Wm, xa, top + 0.45, zC); box(wb, 0.9, db, Wm, xb, 0.3 + hb + 0.45, zb); H = top + 1; }
+    else {
+      const k = roof === "nhat" ? 0.3 : 0.48, over = roof === "nhat" ? 0.9 : 0.7;
+      H = hipFull(wa, dm, Math.min(wa, dm) * k, over, xa, top, zC);
+      hipFull(wb + 0.2, db, Math.min(wb, db) * k * 0.9, over, xb + 0.1, 0.3 + hb, zb);
+    }
+    flushBars(); house = root;
+    // chòi nghỉ bát giác + bàn ghế + lối đá
+    const gzx = -LW / 2 + 2.9, gzz = zC - 0.5;
+    if (OX - wm / 2 + LW / 2 > 6) {
+      const c = new W3.Mesh(new W3.CylinderGeometry(2.0, 2.0, 0.3, 8), paveL); c.position.set(gzx, 0.15, gzz); house.add(c);
+      for (let k = 0; k < 8; k++) { const a = k * Math.PI / 4 + Math.PI / 8; box(0.16, 2.5, 0.16, woodL, gzx + Math.cos(a) * 1.7, 1.55, gzz + Math.sin(a) * 1.7); }
+      const r = new W3.Mesh(new W3.ConeGeometry(2.45, 1.5, 8), mat("roof")); r.position.set(gzx, 3.6, gzz); r.rotation.y = Math.PI / 8; r.castShadow = true; house.add(r);
+      cyl(0.6, 0.06, woodL, gzx, 0.95, gzz); cyl(0.08, 0.65, woodL, gzx, 0.62, gzz);
+      for (let k = 0; k < 7; k++) box(0.8, 0.05, 0.45, paveL, gzx + 0.8 + k * 0.55, 0.1, gzz + 2.3 + k * 0.7);
+      for (const [dx, dz] of [[1.1, 0.4], [-1.0, 0.6], [0.2, -1.1]]) box(0.42, 0.45, 0.42, woodL, gzx + dx, 0.5, gzz + dz);
+    }
+    // cây xanh, cây hoa
+    for (const [x, z, s] of [[LW / 2 - 1.4, -LD / 2 + 1.8, 1.2], [-LW / 2 + 1.6, LD / 2 - 1.8, 1.2], [-LW / 2 + 1.5, -LD / 2 + 1.6, 1.3], [-LW / 2 + 4.5, LD / 2 - 4, 1.0]]) tree(x, z, s);
+    for (const [x, z] of [[-LW / 2 + 1.2, gzz - 3], [gx - gate / 2 - 1.2, LD / 2 - 1.2], [-LW / 2 + 1.3, LD / 2 - 5]]) { const b = new W3.Mesh(new W3.IcosahedronGeometry(0.9, 1), flowerP); b.position.set(x, 0.85, z); b.castShadow = true; house.add(b); const b2 = new W3.Mesh(new W3.IcosahedronGeometry(0.6, 1), leaf); b2.position.set(x + 0.5, 0.6, z + 0.3); house.add(b2); }
+    flushBars();
     return H;
   }
   /* --- PHÒNG: tường cắt mở phía camera, đồ nội thất đơn giản --- */
@@ -477,7 +606,7 @@
   let anim = null;
   function goView(k, instant) {
     const r = kind === "phong" ? Math.max(dims.w, dims.d) * 1.25 + 3 : Math.max(dims.w, dims.d * 0.75, dims.H) * 1.9 + 8, cy = dims.H * 0.45;
-    const P = { front: [0, cy + 2, r], corner: [r * 0.72, cy + r * 0.35, r * 0.72], side: [r, cy + 2, 0], top: [r * 0.15, r * 1.1, r * 0.45] }[k];
+    const P = { front: [0, cy + 2, r], corner: [(kind === "vuon" ? -1 : 1) * r * 0.72, cy + r * 0.35, r * 0.72], side: [r, cy + 2, 0], top: [r * 0.15, r * 1.1, r * 0.45] }[k];
     const to = new W3.Vector3(...P), tgt = new W3.Vector3(0, cy, 0);
     if (instant) { camera.position.copy(to); controls.target.copy(tgt); return; }
     const from = camera.position.clone(), f2 = controls.target.clone(), t0 = performance.now();
