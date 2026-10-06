@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gỡ 'nút thắt' vật liệu xây dựng",
+  "tomTat": "Gỡ 'nút thắt' vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và phát thanh, truyền hình Quảng Trị.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo và phát thanh, truyền hình Quảng Trị",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbF9kMWJXanVPREVQam5nOEhGQmxURGJMcjl0Ukl2Z09kWjBjV0JBaDNNTXJlaW53OEdlbGZ4ZEs3dEU0enpYbldkdnJrWkRQSzBWendTVm80aEpSbEkxTjdUR1VCdjZzeVlObnlFc0lCM0dzQmIyblg3ZHNBbENVY0xB?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Từ thép, dầu đến nông sản - Vốn rẻ kéo lợi nhuận nhóm nào",
+  "tomTat": "Từ thép, dầu đến nông sản - Vốn rẻ kéo lợi nhuận nhóm nào. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí điện tử Thương Trường",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHF2SGxQUmNSWHVsS1ViVUhXQU1xWFJzTVlwTHFLT1YtWTk5YjJJVUZoWi11TUhwV2FKTl9wdFk4ZU9DOE11ZEJGX2lCeTFZcVFPajdtclhSRDlVdzA1YTQyZjRrTDR5ZFVCRkkwRGNyYVpqTzU1Y1JGMTZ6cUotRVR0SVVUUVZYdmtLWFJSSUF5UDVpZ2lyc0RUejlKbmpv?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh: Khơi thông nguồn cung, hoàn thiện hạ tầng trung chuyển vật liệu xây dựng",
+  "tomTat": "Quảng Ninh: Khơi thông nguồn cung, hoàn thiện hạ tầng trung chuyển vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Diễn đàn Doanh nghiệp.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Tạp chí Diễn đàn Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU5DOTNkaVowa000SG1WV25UMTJ4bkl1Mzh5Y0Y5TmhGMk5EcHlaR1I3VjA5VFJNYnRrQ2ZnZ2E1dFphVFpldGRBdjhMRHh6bWJkbldnd3JVeFFkMHBUZ2RzV1FxeWxYY1lVRm1KX3dibTJtZjRaZEgwNmdSMVhqMGpXakx2TExYR3VISDBtRkVqU0xZV0ZsX1ZPbDZ0YzNSSTFvSWhUQ3lYdXhJNVA2MmNxR1FzclRoQzNwaGRFeWVRN3JL?oc=5"
+ },
+ {
   "ngay": "2026-10-06",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Trường đại học ở miền Tây xây trung tâm nghiên cứu vật liệu tiên tiến",
@@ -35,6 +62,15 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "bnews.vn",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFl2MmlWZlZFeEFreWo2Rm9RbmJISnpFYl94V3FZNGthb0NOeVpfclhsdE5hSFRkNXUxaVkzTWc3c2xTb0pwdmtFcmE3aDZ2ZXNmMXViVnlqMzFmcUNrQml1WVc5TmtCZ1gxUThBT3VnWU1YaVRGQ093OHBCdWpPQXM1ZVQzZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-05",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Thương vụ M&A Nippon Paint thâu tóm mảng sơn trang trí của Akzonobel tại Đông Nam Á",
+  "tomTat": "Thương vụ M&A Nippon Paint thâu tóm mảng sơn trang trí của Akzonobel tại Đông Nam Á. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ 24HMoney.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "24HMoney",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUFGdUdELXpUczJBTkpTdFRZRjhQUkktSzY3MU5oUC00eVR6emNUVDdJekg3LVQ1a1JwelJvNWVDNU9oR1lxbGJ0WTdPSlZ1Y29oSENrNTRzTnhOVEZxVDk2X1Vtc1I0ZHlLV1VyT0Z0akFMWkY1Qi10emxCX3ctdWg2NGNPZnlkb0pnb2Z3RUw2bFFmTUJJam9QNUZYeGlDOXc4WElaV0YxVVcwdmFPS3ptLUc0M1gzRWdMRnBYNlJ4Z2ZjYkVYdm4yYUkzRjBSckJla09JRnkzSGlH?oc=5"
  },
  {
   "ngay": "2026-10-05",
@@ -352,4 +388,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-06T16:54";
+window.TIN_CAP_NHAT = "2026-10-07T06:49";
