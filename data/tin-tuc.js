@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Trường đại học ở miền Tây xây trung tâm nghiên cứu vật liệu tiên tiến",
+  "tomTat": "Trường đại học ở miền Tây xây trung tâm nghiên cứu vật liệu tiên tiến. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân trí.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Dân trí",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZSVnJCdkpUTnNhTmd0NUxYR2hFLWtfYWlZZnY5eS1ZMGhzcDlpWEYwSG04RjJZYU1NNkl6eDFtUlUtWTdDck03VnZ4bHBPaUdkTnpXMHZ4ZVUzR1JQLTBxSnpZV1h4TWx6Q0lnM0NDbDlEMUk1emt0aVFGc0F6R0RIU0dwZU9UTFJsVGZwMjFxbGl0UVBERnFHNjdjSF9iRDREbExjU3NLWGwyemozWXp0U0tBZWY3UzFoNWU0cw?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá vật liệu từ mỏ tới công trường",
+  "tomTat": "Giá vật liệu từ mỏ tới công trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí điện tử Thương Trường",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtrR19QZlVxY3pwal93aHlVa3BIYnp5aGJaeFRBT0hIdXdxdjJhR2tveGFrRVRoT2tHMC1wNHpPbWt1N2lxSDlId0lvRjFueFdjRnFoZzNSaWhrVGV0VW15R1p4cHIyM0Z3WVR6OXotUlgyNnVPX1d3Q1BCRk5EUG5PNUYzUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Nippon Paint mua Dulux: Cục diện ngành sơn Việt Nam sẽ thay đổi thế nào?",
+  "tomTat": "Nippon Paint mua Dulux: Cục diện ngành sơn Việt Nam sẽ thay đổi thế nào?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnhMZ1Vfb1BGN3ppbjZRSUR3cGNpZXFuaF9EdXNicFF1SnIwNklvREhoOXowSXZHcGd3MWRkRmhZQ2R6QTc2LTZGRHpWZUVTOXIyOGJvWHpZNkdMSDVRQzI2bndTa2l3LTNVNjJWcDQ0VEg1NTFvQzRrWmlxQnZvWlJxSG1MN3VyRU5nVGtJSGRPZlhXd1psNHVvZ3huVVUyZFg4ZkxRYzF1QQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh quy hoạch xây mới 5 kho dự trữ xăng dầu",
+  "tomTat": "Quảng Ninh quy hoạch xây mới 5 kho dự trữ xăng dầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ bnews.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "bnews.vn",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFl2MmlWZlZFeEFreWo2Rm9RbmJISnpFYl94V3FZNGthb0NOeVpfclhsdE5hSFRkNXUxaVkzTWc3c2xTb0pwdmtFcmE3aDZ2ZXNmMXViVnlqMzFmcUNrQml1WVc5TmtCZ1gxUThBT3VnWU1YaVRGQ093OHBCdWpPQXM1ZVQzZw?oc=5"
+ },
+ {
   "ngay": "2026-10-05",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Quyết định điều phối, hỗ trợ nguồn vật liệu xây dựng thông thường giữa các tỉnh, thành phố trước ngày 15/10/2026",
@@ -316,4 +352,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-06T06:47";
+window.TIN_CAP_NHAT = "2026-10-06T16:54";
