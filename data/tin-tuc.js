@@ -3,11 +3,38 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-07",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Điều phối nguồn vật liệu xây dựng giữa các tỉnh, thành phố trước ngày 15/10",
+  "tomTat": "Điều phối nguồn vật liệu xây dựng giữa các tỉnh, thành phố trước ngày 15/10. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnEconomy.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VnEconomy",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOS1fTjd2UzZTRnR5dElnbXc0Qm8zVDFZWGFIeDBEeXVFNUJmSjNJYmZiamU4UnZDeUJWS0lDX0V5M2s1dktWaGNIM1BGUGs4dXNETE9meUQzRkRvd3YyNVVkWkVvZEVvdzVMREwtbExmOGRGb2otSDh0dTJrMTlESmpHSXhjZEFYQXRvOTE4NnB5RkdTakJyQnFSMzRweUk?oc=5"
+ },
+ {
+  "ngay": "2026-10-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày 7/10: Quặng sắt đi xuống, HRC tại Nucor tăng giá",
+  "tomTat": "Giá thép ngày 7/10: Quặng sắt đi xuống, HRC tại Nucor tăng giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1c1TlFqQ0JBRFllZkx1RlJYSVE1TkdnT0pvd3lZSDZHbFlWSGkySFJpZ0d3bElWQ3h5d0swc1Y3cmljUnpBeVNhQ3dxSmppc3pNeVg1OGhSazFOUFBOdzd5bUc2ZmE1ZGZVWDBCNWkyNkJfdlVUdXZOTmtiTzhJNHlYcWlGVUFTRzg5d2tkOXpJS1hXZHBYc0k0VUhlVFdrdExOamZTWTFvN3c?oc=5"
+ },
+ {
+  "ngay": "2026-10-07",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Gỡ 'nút thắt' vật liệu xây dựng",
   "tomTat": "Gỡ 'nút thắt' vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và phát thanh, truyền hình Quảng Trị.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo và phát thanh, truyền hình Quảng Trị",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbF9kMWJXanVPREVQam5nOEhGQmxURGJMcjl0Ukl2Z09kWjBjV0JBaDNNTXJlaW53OEdlbGZ4ZEs3dEU0enpYbldkdnJrWkRQSzBWendTVm80aEpSbEkxTjdUR1VCdjZzeVlObnlFc0lCM0dzQmIyblg3ZHNBbENVY0xB?oc=5"
+ },
+ {
+  "ngay": "2026-10-06",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Hành trình phát triển của Quảng Ninh: Từ góc độ quy hoạch – kiến trúc và phát triển đô thị",
+  "tomTat": "Hành trình phát triển của Quảng Ninh: Từ góc độ quy hoạch – kiến trúc và phát triển đô thị. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kiến trúc.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Tạp chí Kiến trúc",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObkdEd2djR1dTU2FmUkpXamhjNlJ1a2hROTdWT0FscmZGdUNRSTd6ZGhrMl8tcEMtN0E5MzRveWlBOHpNWGxaNFlTZ0N3NzlqVmFzSGx6dDNlenQzWExGRWxRY241UzcwQkhFdjVjSVFxdTQ3SHFnOGptZ1R6bUM2cm4wUUl4SmVoQ3l5R19sZFZTSlFyOUNFakRScFVzR0tsbkhNcjFmNWNrZWlESURvMFF0NHZvcGF2bVExS1U5LW5IQl9sUDlxWkItUWlXVnFJVkQw?oc=5"
  },
  {
   "ngay": "2026-10-06",
@@ -388,4 +415,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-07T06:49";
+window.TIN_CAP_NHAT = "2026-10-07T16:55";
