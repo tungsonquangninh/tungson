@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-07",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nghệ An tăng cường kiểm tra việc niêm yết giá khoáng sản làm vật liệu xây dựng",
+  "tomTat": "Nghệ An tăng cường kiểm tra việc niêm yết giá khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Nghệ An",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzFvZzdVN05xZDlpbEluX2dwSGxrRzRXZVJHblY1NTNlR1RWbUVZeFNPSWhqUDlvOGJyR0FDVmpqNzY5YTRRYlRqM1BJcjBadWFiaUk3WkU0UE1Bc0RZMEhWcWIybG9CLUUyaHJtaWgxc0lEeUFUakJjeFY5RUlSOUtfaGRGOHBGcjlMNVNBX2tfdWItck85a1FrTkhDLUluOVBjQ1FMbnIzRWJ0TmJ0R0hKQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Không lo đầu ra: TP. HCM xem xét sử dụng thép ray đường sắt của Hòa Phát (HPG) cho chuỗi metro hàng tỷ USD",
+  "tomTat": "Không lo đầu ra: TP. HCM xem xét sử dụng thép ray đường sắt của Hòa Phát (HPG) cho chuỗi metro hàng tỷ USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHE0WjZuQjZZVWUzb1lVbXZPU3NneGVOS19tVUtjMnVYaW1HYWpxa0p2V3lFTjZSX2xZRGNiS0FnVGdIY1RhakJ6R3l2YldET3NXZHgxdFJvQWNvWlZUUkMxaGFmSzRsV2JMUzRTUThDTXotZjVOTENCRkI1VkYxclV4OTVWYWNscndXOEdmaG9Za2UzZ19ZRHNwMkxXY2puaHJ3d2wzdEZuQ0MydVVhajFWTEV3M0Nzb1RpMnhTQXFlOEgyYWdtWmpjR1pnUE9SY1RRMw?oc=5"
+ },
+ {
+  "ngay": "2026-10-07",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Điều phối nguồn vật liệu xây dựng giữa các tỉnh, thành phố trước ngày 15/10",
   "tomTat": "Điều phối nguồn vật liệu xây dựng giữa các tỉnh, thành phố trước ngày 15/10. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnEconomy.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -415,4 +433,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-07T16:55";
+window.TIN_CAP_NHAT = "2026-10-08T06:49";
