@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-08",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lào Cai: Tập trung rà soát, điều phối nguồn vật liệu xây dựng thông thường phục vụ công trình trọng điểm",
+  "tomTat": "Lào Cai: Tập trung rà soát, điều phối nguồn vật liệu xây dựng thông thường phục vụ công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWJ2SHpTSkNNbG1nY0trNDl1bDZJVy1mS3hwN083X0xQX0d3aFZKYXg5YTdxdzk5OTl6SnZMVnQtQ1p2REhvUklFVWFZZFM2bWNzeUFmeW0zN00zbG5PbzBaallUVmROTFo2UkxyVWYzUENJb0V6RHpwNXlGR2o5Rjl0QnVTeWl2dzJadkhUSWUwZldtTnhQN09tU29xQlRkcWdJOWR0d0NzTzg4X1gtX1BFYjZ0MmdscFVPMkVzY3FEcVpKaHozeUlOeUV1eDJEalR0QWkwcTgyU3lqaEdDaVBKMA?oc=5"
+ },
+ {
+  "ngay": "2026-10-08",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 8/10: Thép cuộn cán nóng tăng trở lại",
+  "tomTat": "Giá thép hôm nay 8/10: Thép cuộn cán nóng tăng trở lại. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTUtNldhR3Vxd09NOWpTRFpsWWt6YmRvNGU3WEhTQWJpSHV4enkzdnB2LS1qaGFSV3B0VlZUZUtua2k2eEMwMnh4dlFaWlpmUWN6ZjNRNXdkaEtRNV84VmpQZFdONnFvNlE0a3ozZVA1VTdmZkR6RnJYQ0dqa19PVXkyUmJDbFYxS19PMXNtWnpkTmhMcU1yY2htVHZVeXFnVEE?oc=5"
+ },
+ {
+  "ngay": "2026-10-08",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Bản đồ quy hoạch sử dụng đất TP Quảng Ninh",
+  "tomTat": "Bản đồ quy hoạch sử dụng đất TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTk1zVXVWT0NBVEEteS0wTnRQTzhza3dMazdKeUE1NDJXeGdGZU8tajVrV0w2WXhUMWNnbHZxdFloYU12RkdvcnUzMkxaNENYNE1WVTVmZWhRYzFaWXludGZacnpVeXRBN1I2aHRQSTdZRk1BME00YzZIM18zeEFhejNRT0FVblp1RHNhLXp3?oc=5"
+ },
+ {
   "ngay": "2026-10-07",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Nghệ An tăng cường kiểm tra việc niêm yết giá khoáng sản làm vật liệu xây dựng",
@@ -433,4 +460,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-08T06:49";
+window.TIN_CAP_NHAT = "2026-10-08T16:56";
