@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-09",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tập trung tháo gỡ khó khăn, bảo đảm nguồn cung vật liệu xây dựng",
+  "tomTat": "Tập trung tháo gỡ khó khăn, bảo đảm nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Thanh Hóa",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG9jZGRYalFEbnNGblhERXc0SGhZUnljLUpMejE2R0FSQ1F3YlZCMERpa1ZKRmZtaGhDWEROTjE2VTFPN0R5YWNTUHpEUmdCaTRnaDRCUEJNZWltQ2M3VmVyQ0NHNm4wSkg0eG9kYU5kUzEwN2NqLU5QQzloNkhEcWVDakk4UXVLb0JzNC11RmcxMWxlX25YRVNtcDlrQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam",
+  "tomTat": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Người Đưa Tin.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Người Đưa Tin",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHh6QTlzeURFeFlLRmhlT2U1WTFmdGRSeGhCWnc2OGF1Mi1namlGMEhWcjhQQzJucXlPSk9ZSTdvVlZwdmtGaE1YUU5XWmJ0bTVNZFV2cER2R1BGS05jdWR2dngxNnVJOHNJVlFLNzhjMDItd1RfUGFUb0NHRmd5RGxqZUkybjY5bktQbW96bjZtUDZXY3BNWnJmRUZTS0hlcmtkQWpFQVhjd1ZnMU9lZGNEejBfeUlGZjFzVWpvb2HSAb4BQVVfeXFMTWpmS1RUU1kzQ2hKdzZ2bXdERDhrblc5ZXVsOHBZZzc5SlBKTXZaU09tV0VYQW9rWktrUGlWUXotdjNSRklQbFZnS2FlWTQ3QnFKYS1CRDR4Nl9PLWtYYmlmQmQ1THJxNnZDNVRaZXRTeGZwRURDOTc4TjNpNDV1ajAzTE9zWENrTkh6NGtlV3BwamprYmlvYVItZm5JVTc5akRnTzBReWxCWTRkcERaak15UFlFOEF4aVdTaWV1dw?oc=5"
+ },
+ {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quy hoạch đô thị Quảng Ninh: Từ “thành phố bên vịnh” sang “thành phố sống cùng biển”",
+  "tomTat": "Quy hoạch đô thị Quảng Ninh: Từ “thành phố bên vịnh” sang “thành phố sống cùng biển”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kiến trúc.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Tạp chí Kiến trúc",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORXhuTVI1VWZzVFdOQ216eDBnMEdDUE1zb0U2WXprQS1zRGtKVXBzUDZJTzk3azVCcmpYVHRTcFlyeEJPOXJvalozYXdNb1VLZW4tSWZGa1k2M01iNTFlX2ZiRlR6TzRvYkFZZ2o0dS11T0JNQzJYaXhTTEc0QzNjczBZTklmVXdlT2haRlE1ZDN2bHBNSkw5d0FfN2tRbGZZbXFUMWREZnA1LTctZGJhT01qcW9WQURrMmFvV0VUNUZBTTExeFd6LQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Khan hiếm vật liệu, nhiều dự án xây dựng ở Lâm Đồng gặp khó",
   "tomTat": "Khan hiếm vật liệu, nhiều dự án xây dựng ở Lâm Đồng gặp khó. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Công an Nhân dân.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,15 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Muốn hợp xu hướng mà không lo lỗi mốt: dùng be/kem làm màu nền, chọn 1 bức tường điểm nhấn bằng xanh ô liu hoặc đất nung.",
   "nguon": "Tuổi Trẻ (Phụ nữ Online)",
   "link": "https://tuoitre.vn/phunuonline/7-mau-son-len-ngoi-nam-2026-1101564856.htm"
- },
- {
-  "ngay": "2026-02-18",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Xu hướng màu sơn nhà 2026: sâu lắng và cá tính",
-  "tomTat": "Bốn hướng chính của năm 2026: tông trầm sâu (đồng, mận chín, đen đêm), bảng màu thiên nhiên (đất sét, xanh rêu), nền trung tính ấm (trắng kem, hồng đất) thay cho trắng lạnh, và điểm nhấn cá tính như hồng magenta, vàng mù tạt, xanh khói.",
-  "gocNhin": "Màu trầm đẹp nhưng dễ làm phòng tối — chỉ nên dùng cho không gian nhiều ánh sáng hoặc làm mảng nhấn.",
-  "nguon": "Tiền Phong",
-  "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-09T16:55";
+window.TIN_CAP_NHAT = "2026-10-10T06:50";
