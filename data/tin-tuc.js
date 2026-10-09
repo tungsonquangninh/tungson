@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khan hiếm vật liệu, nhiều dự án xây dựng ở Lâm Đồng gặp khó",
+  "tomTat": "Khan hiếm vật liệu, nhiều dự án xây dựng ở Lâm Đồng gặp khó. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Công an Nhân dân.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Công an Nhân dân",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVFOQklSMVhUN0NGRVpPTWRXTC1oT1RlU3lPRm5DOC1nQnAxVU1sejdtcTJVNWZOQUxUWHBray1FN0xmM3Z5NVF2MFJ3YWJvQUxuU3BvVHI0SFphN3dkYzVSVXZUMW5wb2VsWS1TTTU1ZEs4UHNxal8zcVY3Y1ZobTBrYUlkaW5QSU5KU0ExUl9PV0Vv?oc=5"
+ },
+ {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép Trung Quốc chạm đáy 4 tuần, quặng sắt tiếp tục chịu sức ép",
+  "tomTat": "Giá thép Trung Quốc chạm đáy 4 tuần, quặng sắt tiếp tục chịu sức ép. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí điện tử Thương Trường",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGVxMjNEUFZUMWx6SFJYVHRtX0hlLVN4dzU2NmVyRFV3cjlhWEV3bGltbTZ2aWZldGhvNjNIOUlFTHpPcmY5VkR4SWFqTDdoWVR4c1JoTHgxR1VTSFFSOGtkSmhYQ2NGeFNwcHZkRk9BY0YydnZKX0dmLVdYYmo2TnZIUlBDVkRGLWFMX25vdkZsT2ktb201bFRVSmlIVGFOdHRqcnpSTHJOSXUzWV9HSA?oc=5"
+ },
+ {
+  "ngay": "2026-10-09",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "HoREA đề xuất xây dựng nhà ở thương mại giá phù hợp theo từng địa phương",
+  "tomTat": "HoREA đề xuất xây dựng nhà ở thương mại giá phù hợp theo từng địa phương. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Tài chính Doanh nghiệp.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Tạp chí Tài chính Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3FsWG9kOG5DUnJlc09zWWxkMG5HdEgyN0JwbEZuckdzNExQNDRCd3pFVFlheXU3VFl3MzhzQndwWVlLaGRoblpuX2RxNVp3NjRQV3k5dG1POGd0NzFTUjB6QTVEOVFkVnFxSzBKWXpxRnl4TEtSX1Q5VHBQeXIxb3RseE9EWGhDd0VOSmRPMFpHa1VUN3E0bEhuSXhvS0I5c0c1OVItSDQxRTFyRDNzbUlJRDRZNlNCRGpj?oc=5"
+ },
+ {
+  "ngay": "2026-10-08",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh sẵn sàng nguồn lực hoàn thành chỉ tiêu nhà ở xã hội",
+  "tomTat": "Quảng Ninh sẵn sàng nguồn lực hoàn thành chỉ tiêu nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU9LWC16X2x1NUJFRmRFM081bWFfNnZYTExTa05nNGJTMy1pdnNMSE9RMzVpQ2FHcmdDVHB2X0NFbUlJVWcxRkdCNkEtMXAxdHQzU1JVcWVMU0VtQnd0bUk2Qi0tclhVaWVrMElQOHUxX0FzOTZRRm9rTy1IRjJ5SXZ4b1RpWlZET0ZWa01R?oc=5"
+ },
+ {
   "ngay": "2026-10-08",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chuỗi cung ứng vật liệu xây dựng trước áp lực nâng chuẩn xanh",
@@ -487,4 +523,4 @@ window.TIN_TUC = [
   "link": "https://tienphong.vn/xu-huong-mau-son-nha-2026-bang-hoa-sac-cua-su-sau-lang-va-ca-tinh-post1821457.tpo"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-09T06:50";
+window.TIN_CAP_NHAT = "2026-10-09T16:55";
