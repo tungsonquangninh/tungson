@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thanh Hóa: Bộ Xây dựng kiến nghị Thủ tướng dừng dự án Nhà máy xi măng Thanh Sơn",
+  "tomTat": "Thanh Hóa: Bộ Xây dựng kiến nghị Thủ tướng dừng dự án Nhà máy xi măng Thanh Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh tra.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Thanh tra",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1Jfd3h3SDlPRmhLOUcteURNSldmYlpsYkFOTVJPYmFrWW9OaU5PYld0TTUxa0JGNlREeGVPQkxabmRZc3RBZEZuYXdobkYwUHhsSGxEX2hVSEZCbHNhYXVpYVk3cE1zeVBxVVJuU2hKVmV5OWpKb1NWWDdkUnV3dHRhaXAtV0ZVMTJpcVNtZmdmcEVMMHQzOU9LdTZ1V0RqWVJfUlJIZ0EzT216Zlo2Q2RIdlo0RGlKT2RFYXRWZ0hJWG5wVXMzV0RWVVM0bEs2NXFoMTI2ZHJWZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-11",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Dự án hơn 2.000 ha của Bầu Đức vừa được cấp phép tại Lào, chuẩn bị xây nhà máy gần 10.000 tấn/năm đón đầu thị trường tiêu thụ gần 30.000 tấn mỗi ngày",
+  "tomTat": "Dự án hơn 2.000 ha của Bầu Đức vừa được cấp phép tại Lào, chuẩn bị xây nhà máy gần 10.000 tấn/năm đón đầu thị trường tiêu thụ gần 30.000 tấn mỗi ngày. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcUdTVFdfbEtGdUY2Vnd2bzlweDF2Ump5TllySG9QaXZLQ19ZbmxyY2h4cE5qVUpkSk9XWkxJV1pZSTFoeHZzRkpQVmxxTnNfMlppRmJYR3ZhNjVHMW1vVVFiRXF6b0VFSjk1Nl9XM3BTNkRfTV9RWVd4TGhfZjJCWk5CNXVKOXlzMzZlSmxzRGtTNEtsR1FmLXh3N1VtMXhhaWpuSmJDbzY1bkhCVEJ2UHJjek9vUU1JY0xyWVgyYXNwenJ0OURKSTNNWGRub3hONC1zSEhvaXQzTFcycktGTDF5ZXF0Qmh2LTdicm9IWklFOHNqNmNNT1llSnZHYmdCR29BRko5Qm0xWmZfa3V1WTN3MA?oc=5"
+ },
+ {
+  "ngay": "2026-10-10",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cước vận tải quặng sắt tăng 80%, giá thép Việt Nam tháng 10 sẽ ra sao?",
+  "tomTat": "Cước vận tải quặng sắt tăng 80%, giá thép Việt Nam tháng 10 sẽ ra sao?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kinh tế chứng khoán Việt Nam.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Kinh tế chứng khoán Việt Nam",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05FdWN4RnhnRXpPS296djdVckM2SHU0clc1OF9qaDhJekZlUTZSdTNmakZJeEFmMUk5MkRJWDZpZVlHRDBRTFlUZ1NuRWxCRzdoSXNieTk1ekRCQXF3aHhtMm1rMzN0MDI4NGhMcW5JWHRYZ1VGWlZGQk5JQmVmWGZPQVVSRFBqc01qb0QzdVFkeXJjMUFjajJLNA?oc=5"
+ },
+ {
+  "ngay": "2026-10-10",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh còn hơn 3.100 ha phải giải phóng mặt bằng tại 22 dự án trọng điểm",
+  "tomTat": "Quảng Ninh còn hơn 3.100 ha phải giải phóng mặt bằng tại 22 dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2ZrbU1Dc3dKZXYwWVRTRHpROTItOTdiRmNIbTZsM25KbDZkOVBkU0VYckRjR3hKMWQtRG1mVXN3YXNIY0JkdWRScTItUEtFNzg3THBsRF9LcHFTeDA0TVlmSno0aWo5U0dwLS1RcW5hMjd3M2Qxb3NIZ1p5WkdKbktDRGlUNUM2dndub00zU05LU1BNa1ZyRzBGMWhLa2ZjdzlEUXFQY2h3dk9fY1BvOWFZV1ZrZw?oc=5"
+ },
+ {
   "ngay": "2026-10-10",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chủ động điều phối nguồn vật liệu xây dựng phục vụ dự án trọng điểm quốc gia",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Thanh Hóa",
   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVUNCQlZYX3lLSmxNa2lkSC1ycEFhQjM4blFLOF9rdXFiVlpGRTloY2pRa2tGa0ZRSGhDWnZFWFp1TzBqbVhOTmdSS1BudnJhZU9WS0RUMkkxanBGWmVBMW5YZ3ZWUS1MeVBGY1RVWHNxRnl4cUhXcVRPM0JRRnVJdQ?oc=5"
- },
- {
-  "ngay": "2026-09-30",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép trong nước đi ngang, quặng sắt giảm mạnh",
-  "tomTat": "Ngày 30/9, giá thép xây dựng ổn định ở mức khoảng 13.840–15.150 đồng/kg tùy thương hiệu và khu vực. Tại miền Bắc, thép cuộn CB240 Việt Đức khoảng 14.650 đồng/kg, Hòa Phát khoảng 14.920 đồng/kg. Quặng sắt thế giới giảm do nhu cầu tích trữ hạ nhiệt.",
-  "gocNhin": "Giá thép đang ổn định — thời điểm hợp lý để chốt vật tư phần thô nếu gia đình dự định khởi công cuối năm.",
-  "nguon": "Doanh nghiệp Hội nhập",
-  "link": "https://doanhnghiephoinhap.vn/gia-thep-hom-nay-3092026-quang-sat-giam-manh-do-cau-tich-tru-ha-nhiet-150211.html"
- },
- {
-  "ngay": "2026-09-23",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh điều chỉnh chương trình phát triển nhà ở đến 2030",
-  "tomTat": "Quảng Ninh nâng mục tiêu diện tích nhà ở bình quân từ 32,6 m² lên 36 m² sàn/người. Giai đoạn 2026–2030 cần thêm hơn 2,42 triệu m² sàn nhà ở xã hội, tổng vốn khoảng 2.357 tỷ đồng, để đáp ứng nhu cầu chỗ ở khi đô thị hóa tăng nhanh.",
-  "gocNhin": "Nhu cầu xây mới và cải tạo nhà ở trong tỉnh còn lớn — đây cũng là lúc các gia đình nên đầu tư đúng ngay từ lớp sơn bảo vệ.",
-  "nguon": "Báo Pháp luật Việt Nam",
-  "link": "https://baophapluat.vn/quang-ninh-tang-nguon-cung-nha-o-huong-toi-an-cu.html"
- },
- {
-  "ngay": "2026-09-18",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tiêu thụ xi măng tháng 8 giảm do mưa nhưng vẫn tăng 33% so với cùng kỳ",
-  "tomTat": "Tháng 8/2026, tiêu thụ xi măng nội địa đạt khoảng 7,63 triệu tấn, giảm 7% so với tháng 7 do mưa nhiều nhưng tăng 33% so với cùng kỳ. Lũy kế 8 tháng tiêu thụ nội địa khoảng 57,37 triệu tấn; thị trường được dự báo sôi động trở lại khi thời tiết thuận lợi.",
-  "gocNhin": "Mùa khô cuối năm là cao điểm xây dựng — nên đặt lịch thợ và vật tư sớm để tránh bị đội giá, chậm tiến độ.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://baoxaydung.vn/tieu-thu-xi-mang-noi-dia-thang-8-giam-do-mua-mua-nhung-van-tang-33-so-voi-cung-ky-192260918171620963.htm"
- },
- {
-  "ngay": "2026-09-01",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bảng giá cát, đá, xi măng, gạch tháng 9/2026",
-  "tomTat": "Tham khảo tháng 9: xi măng khoảng 59.000–87.000 đồng/bao 50kg tùy thương hiệu; cát xây tô khoảng 205.000–215.000 đồng/m³; đá 1×2 khoảng 295.000–305.000 đồng/m³; gạch nung truyền thống khoảng 950–1.200 đồng/viên. Giá thực tế thay đổi theo khu vực và nhà cung cấp.",
-  "gocNhin": "Hãy lấy báo giá tại Quảng Ninh sát ngày thi công và so sánh ít nhất 2–3 đại lý.",
-  "nguon": "NBA Việt Nam",
-  "link": "https://www.nbavietnam.net/vi/news/trang-tu-van/bang-bao-gia-vat-lieu-xay-dung-thang-9-nam-2026-cap-nhat-moi-nhat-1165.html"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-10T16:53";
+window.TIN_CAP_NHAT = "2026-10-11T06:49";
