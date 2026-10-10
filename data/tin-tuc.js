@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-10",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Chủ động điều phối nguồn vật liệu xây dựng phục vụ dự án trọng điểm quốc gia",
+  "tomTat": "Chủ động điều phối nguồn vật liệu xây dựng phục vụ dự án trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjBPLUlCUnFLUmpGV1RJRmlHcF9RQUxkTnhTRGpNRTdaYUJuSVo0a3Q1OXoxM2dYNVIwUmxBdEJTMUVNNUgwXzFYY29GNDlRUDBmTWxqek9VXzZiY0VaVW1naHNBa3JHaGNvMzE1SzhaX0M3RHBDVzZaVmVFUmg0dFpoSG9kR2Q2eFZwVG9XclVFTXgzb2RoVWx4Tkw1WU5N?oc=5"
+ },
+ {
+  "ngay": "2026-10-10",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Doanh nghiệp vật liệu tham gia vào các dự án hạ tầng giao thông như thế nào?",
+  "tomTat": "Doanh nghiệp vật liệu tham gia vào các dự án hạ tầng giao thông như thế nào?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd0JsLXFNUE5RaHNKdjgwR2lTZDlWYndUckttaTRwUENFdXQ4d25KbTZwMmJmSG0waTNFTnhVd3dLNGFFb1R1VXRDamVGeERuYUN6c2VLcFFiclNFTEh3SjdpdDhPZzlhSGpMSDZzZkdKTExTOTV1LVpmdVdSRHNyc0J5aUVmWkg5U1VieGZmeXh2Z0p1YWZzVk5EelpHUDlWZFdTOTFnTDZEY3BIVlYzSzFnS2hKNXhxMnk0Wg?oc=5"
+ },
+ {
   "ngay": "2026-10-09",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tập trung tháo gỡ khó khăn, bảo đảm nguồn cung vật liệu xây dựng",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Hãy lấy báo giá tại Quảng Ninh sát ngày thi công và so sánh ít nhất 2–3 đại lý.",
   "nguon": "NBA Việt Nam",
   "link": "https://www.nbavietnam.net/vi/news/trang-tu-van/bang-bao-gia-vat-lieu-xay-dung-thang-9-nam-2026-cap-nhat-moi-nhat-1165.html"
- },
- {
-  "ngay": "2026-07-01",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Từ 1/7/2026: nhà ở riêng lẻ dưới 7 tầng được miễn giấy phép xây dựng (có điều kiện)",
-  "tomTat": "Theo Luật Xây dựng 2025 (số 135/2025/QH15), nhà ở riêng lẻ dưới 7 tầng, tổng diện tích sàn dưới 500 m² và không thuộc khu vực có yêu cầu quản lý kiến trúc, quy hoạch đặc thù được miễn giấy phép xây dựng. Nhà vượt các ngưỡng trên hoặc nằm trong khu vực quản lý đặc biệt vẫn phải xin phép.",
-  "gocNhin": "Miễn giấy phép không có nghĩa là xây tùy ý: vẫn phải tuân thủ quy hoạch, an toàn cho nhà bên cạnh. Gia đình nên hỏi UBND xã/phường trước khi khởi công.",
-  "nguon": "LuatVietnam",
-  "link": "https://luatvietnam.vn/tin-van-ban-moi/tu-01-7-2026-nha-o-rieng-le-duoi-7-tang-duoc-mien-giay-phep-xay-dung-186-106122-article.html"
- },
- {
-  "ngay": "2026-02-18",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "7 màu sơn “lên ngôi” năm 2026",
-  "tomTat": "Xanh ô liu, xanh xô thơm ấm, đất nung (terracotta), vàng đồng ochre, be sa thạch, nâu gỗ gụ và xanh mòng két đậm là những gam màu được ưa chuộng — tất cả đều hướng tới tông ấm, gần gũi thiên nhiên và mang lại cảm giác thư thái.",
-  "gocNhin": "Muốn hợp xu hướng mà không lo lỗi mốt: dùng be/kem làm màu nền, chọn 1 bức tường điểm nhấn bằng xanh ô liu hoặc đất nung.",
-  "nguon": "Tuổi Trẻ (Phụ nữ Online)",
-  "link": "https://tuoitre.vn/phunuonline/7-mau-son-len-ngoi-nam-2026-1101564856.htm"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-10T06:50";
+window.TIN_CAP_NHAT = "2026-10-10T16:53";
