@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-11",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Dự báo giá vật liệu xây dựng quý IV tăng nhẹ",
+  "tomTat": "Dự báo giá vật liệu xây dựng quý IV tăng nhẹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thời báo Tài chính Việt Nam.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thời báo Tài chính Việt Nam",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFh5ZmRwMWo5eUd4MXpsVVljUEhORThoT1J6R1lmcERfMTRraVdCRnhuZ3lKVjZ4RlBLV05PdGpoVFEzQ1RNYjBVQzFuRWRvTEtJV01YUXN2Ql9rNEhlRHRmbFlVWkgzeExpTkt1eFcwcFkyc2pGOHhPbVlURUlDWjNYOW1KTkpVWTd4YlJ6QWkxN3pyamRFajhla3d6dw?oc=5"
+ },
+ {
+  "ngay": "2026-10-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ngành thép đón đà phục hồi của thị trường",
+  "tomTat": "Ngành thép đón đà phục hồi của thị trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh, truyền hình Thái Nguyên.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo và Phát thanh, truyền hình Thái Nguyên",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ294akJYc01feHRobG04NWxzMWR5dXMyWWhQQk5ac3hlWTh5ZF9EWmFNVVNVUDAwZ0lITDhmU0d5U3gtWURWSG5XREFIOXJTeWJ1MHBpX0ZXTjd5TmRlNXVlRk9ILVRuNjM2clFNQkR5T2k0YlVtc1NJYWUwdmJWVg?oc=5"
+ },
+ {
+  "ngay": "2026-10-11",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Cao Bằng bổ sung nguồn vật liệu, phục vụ các dự án trọng điểm",
   "tomTat": "Cao Bằng bổ sung nguồn vật liệu, phục vụ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWW5aazItUGZBZTFXV2hZVmk2bmtBQmJrTy1IdG5IMHk4TllwM0I1NWxOcUF0dG03aDVKSTlBNWU2eG9rSUo5Y0lyV2QwbXR1TmxDS3lkZDdEWDB0V0tBZHk4ZFIwbjZrZUdMMWFkTGdnUFpoZGxSQTEtUFJ2anp4a3NIYlRpNlRXOHNnUXBCREh3bEZRdlBhM1k5T2FHRlBYTHdfMnZSZ1BDeVpvSGxETGJfN1p5RTRNRTVISQ?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc",
-  "tomTat": "Giá thép hôm nay 1/10/2026: Thị trường quốc tế khởi sắc nhờ tín hiệu từ Trung Quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHMwcUpXQXVnbC1ZYXNIRzBsc1kxOTdqOWt2QmEzR3gyYWhoRGNEanVhekYzbzEzTTJJN1BxSU1RWm14SF93YzdVRzFoU1MxRnhPZExYTUx3WG81YTNvbHlGc2NqeXRBWDNiU3F1RGpLT3RnN3dCOXFNUTJEN1VIczRkRW9lWU5pU0JScU93NjVSaXJYeDhTNzUxWEQzTnc3YjBnUXNpNEVDeFROR0stbUpZUmNHRVEzZUttbU1R?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow",
-  "tomTat": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VTVgo",
-  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8wWkZaS1Z1NkZ0TGZnS19JTEdJRjBZMzBxSVhnUkhKOXY0Mm1iUzlKSDFPc29DWV9UdzFjRVpqdEo?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-11T16:53";
+window.TIN_CAP_NHAT = "2026-10-12T06:50";
