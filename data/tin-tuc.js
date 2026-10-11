@@ -3,6 +3,15 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-11",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cao Bằng bổ sung nguồn vật liệu, phục vụ các dự án trọng điểm",
+  "tomTat": "Cao Bằng bổ sung nguồn vật liệu, phục vụ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VOV.VN",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWI2WUE5MnNEdEdGeFlMeUtTQWJTUGo5UnpVZnY4Y3hnR0w0SVlja0tpdjl1aUhLNW9iQUE3R1J2ZHZXT3Z6eTFmQXZ1S0p3bkQ1MTFWX2ZFOW9FVlVmNndLbndBVW1JV0RYaVdNbXk5VzEwMGpNUFBjaFlBRGhUYkhndERldldhYWtyd2FaT1dqRlV1bkZqTjBWRXBLa256?oc=5"
+ },
+ {
+  "ngay": "2026-10-11",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thanh Hóa: Bộ Xây dựng kiến nghị Thủ tướng dừng dự án Nhà máy xi măng Thanh Sơn",
   "tomTat": "Thanh Hóa: Bộ Xây dựng kiến nghị Thủ tướng dừng dự án Nhà máy xi măng Thanh Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh tra.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -17,6 +26,15 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "CafeF",
   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcUdTVFdfbEtGdUY2Vnd2bzlweDF2Ump5TllySG9QaXZLQ19ZbmxyY2h4cE5qVUpkSk9XWkxJV1pZSTFoeHZzRkpQVmxxTnNfMlppRmJYR3ZhNjVHMW1vVVFiRXF6b0VFSjk1Nl9XM3BTNkRfTV9RWVd4TGhfZjJCWk5CNXVKOXlzMzZlSmxzRGtTNEtsR1FmLXh3N1VtMXhhaWpuSmJDbzY1bkhCVEJ2UHJjek9vUU1JY0xyWVgyYXNwenJ0OURKSTNNWGRub3hONC1zSEhvaXQzTFcycktGTDF5ZXF0Qmh2LTdicm9IWklFOHNqNmNNT1llSnZHYmdCR29BRko5Qm0xWmZfa3V1WTN3MA?oc=5"
+ },
+ {
+  "ngay": "2026-10-10",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "[SMM Đánh giá thép cây hàng ngày] Người dùng cuối chủ yếu mua theo nhu cầu, giá ngắn hạn có thể đi ngang",
+  "tomTat": "[SMM Đánh giá thép cây hàng ngày] Người dùng cuối chủ yếu mua theo nhu cầu, giá ngắn hạn có thể đi ngang. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Shanghai Metals Market.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Shanghai Metals Market",
+  "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOaUQyQU1NVXNQR3o0SjBBRFExaHlEQlhMdzNGeGVBVjVNR2N6eTJzVV92UFhhcmJKUUh4THZURmstUFdORGx2WndlVmxJMGlxQ0lnMkFIZUV0YzNOczRpRmhYUDR3VWpnb056cHFYV2VPV05ETFVUb2tDdzlPVjAzbkYycWI5MVNBby1VOHRwNXkyU3dCQWk3U0ROZFZGblRQLUduNFotY09qNjFKcTVyM0MxZDVvRThMc2NzODBwSDZMcFUyVFl3NEhlcmRaVmluRjdtTFBVcmdqanJDZEsxbzFhS1ZLZzVqUlRGM0doVjFZcGY2RGV0ZUJad24xSEg0RVJEaEM4NFA4eTJjTUltM0xwMUFUT2Z0V2hJVWEzQko0ZXFRWXBFZFZFbk1nX0k2S2RDTUFoR01PODg2ZWJ6VTNmQUZZTV96ckN0YTB2SmlhdDlGZEVJV2N4Z1hyU2c5Z09ZcFhfaHVQLXdkOG1QdXp3ZERkN3ROMWhZUDA0eWQxZG01U2lNLQ?oc=5"
  },
  {
   "ngay": "2026-10-10",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "VTVgo",
   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8wWkZaS1Z1NkZ0TGZnS19JTEdJRjBZMzBxSVhnUkhKOXY0Mm1iUzlKSDFPc29DWV9UdzFjRVpqdEo?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Thị trường sơn phân hóa mạnh, sơn trang trí phục hồi dần",
-  "tomTat": "Theo Hiệp hội Sơn – Mực in Việt Nam, sản lượng sơn năm 2024 đạt gần 500 triệu lít, tăng 8,34%. Sơn trang trí chiếm 51,5% thị trường và được dự báo phục hồi khoảng 9–10%; sơn công nghiệp tiếp tục dẫn dắt tăng trưởng.",
-  "gocNhin": "Thị trường nhiều thương hiệu mới cũng đồng nghĩa có hàng kém chất lượng. Khi mua, hãy kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng.",
-  "nguon": "Sở Công Thương Đồng Nai / Báo Công Thương",
-  "link": "https://sct.dongnai.gov.vn/vi/news/Quan-ly-cong-nghiep/thi-truong-phan-hoa-manh-son-cong-nghiep-dan-dat-giai-doan-2025-2026-54294.html"
- },
- {
-  "ngay": "2026-09-30",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cần giải pháp để hạ giá vật liệu xây dựng",
-  "tomTat": "Cần giải pháp để hạ giá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Thanh Hóa",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVUNCQlZYX3lLSmxNa2lkSC1ycEFhQjM4blFLOF9rdXFiVlpGRTloY2pRa2tGa0ZRSGhDWnZFWFp1TzBqbVhOTmdSS1BudnJhZU9WS0RUMkkxanBGWmVBMW5YZ3ZWUS1MeVBGY1RVWHNxRnl4cUhXcVRPM0JRRnVJdQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-11T06:49";
+window.TIN_CAP_NHAT = "2026-10-11T16:53";
