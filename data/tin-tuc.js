@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-12",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cả nước có 135 sản phẩm xi măng và clinker công bố EPD",
+  "tomTat": "Cả nước có 135 sản phẩm xi măng và clinker công bố EPD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnExeEFOOFRwZzBMWmIzcEc1RVpwZ2pKX251aG13R1l6SlppZjU3M2xKOUlSeWNDSTZXWDM1Q2pSVDBGMXlFYlR3WTRCOTN5TzBoQkd0VXRfMkplQkZtSk83QW01ZlAtR0doemMxUGdOMGhwYlNmZnFfZDNGb0pGalJQREM2SEkwY0xNT203RzlaVHVIaWlUdGx2ZXFyWnZO?oc=5"
+ },
+ {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Hòa Phát (HPG) tiêu thụ hơn 10,3 triệu tấn thép sau 9 tháng, tăng 39%",
+  "tomTat": "Hòa Phát (HPG) tiêu thụ hơn 10,3 triệu tấn thép sau 9 tháng, tăng 39%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRoZlBqZ0NCajdZSy1CUU84WThjSHVUV29tanljSVRWMTBlNTlPMk1DTDB2OW9oNUdBVFg3ZlRlakQ3djN0NEx5OHdwWEVGSTdhTkVRSjA0R1ZIUGJVTTRYNi1oWG1sLXdxQVdJVzFjWllNYUl0SGo3dGNibnA4WUNTVUYzMHZheUpqS3M2ZTl1dmJ2RlJXOVc4dFhpODY0VnVGWDVhay1oNzNZOE9USERn?oc=5"
+ },
+ {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh sắp đón 1.238 căn nhà ở xã hội, giá bán từ 21 triệu đồng/m2",
+  "tomTat": "Quảng Ninh sắp đón 1.238 căn nhà ở xã hội, giá bán từ 21 triệu đồng/m2. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFlpS1ZBUmlBc1J4MVdFeWhKQUh2RFVPLThaZXJKbXlhSjFjSFZwRXdJUFVSU3V0RVF6Wm9pNWxYQjc0WGIwQVJqN2dpRW82WlQ0dG9NOEsya0k2MWp0dEF1bEhSSVhrTElxZ1BSN1FELVI3cTVsTWkycmxfVGVzSFlLWVhuZFBZTHdKRndWcm9jcVZ0dnNlZFlEY1MyckRlQk9nakFRTEJHczA?oc=5"
+ },
+ {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer",
   "tomTat": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Dân chủ và Pháp luật.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UDJKSEN4dUkxUmpKM2ttTVBsUXUwQUk5N0djNFE0OGNwX0xIYmdSek1RajRkZlctcFd2WmFYbUsya3BmeTJSVW5ESGNiaThxQ2hpMGRuMTQzWVpURmZSM3RrdmNLZThRQ29v?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu...",
-  "tomTat": "Thủ tướng yêu cầu không tăng giá điện, bảo đảm nguồn cung vật liệu xây dựng, xăng dầu.... Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoixaydung.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "nguoixaydung.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlJ3a1VwX282NVFfUE9WWnJHa01HVV9KVjg0eE02cjJtR21QYWtkZm44TEE3VzJaWTdSZ0pFLW9lQXZPVXpYSFFLMVVlMXZ1dEJqakc1azVlSEI5SEVzLWx2UHlhTGlxcml6bGpKS3JIVkJlemhBYzVXYXJhWXBMeWFSSkpHUDNNOHpmX1E3ZEg5YkR2Y3BVa045MWZMb3NsUzhoSzVUM3FvUQ?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "MBS: Lợi nhuận nhóm thép cải thiện nhờ nhu cầu nội địa, Hoà Phát có thể lãi ròng 5.600 tỷ quý III",
-  "tomTat": "MBS: Lợi nhuận nhóm thép cải thiện nhờ nhu cầu nội địa, Hoà Phát có thể lãi ròng 5.600 tỷ quý III. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVVGcXJhUTUxeDBOSVRDNkE0TUNrM2lpVHNoaXVGOGpfeXc2YVl1WTNEVWxETWpVbmFiSFM4OXVrVHh6N1p3OVdTSGk3STZhU19VWG1kcjdNWVV1UVhHZFZ0Mm5GWUNEcnctejU4TS03VWI4S1ozY0hxTlcxc1AyM05zUDQxY3hEcXllTk80VElyQjR6U2huR0pvV242QWJZdE8xb1JQLVBxbnFYd290TnhMTmdBUXZUd1ZldDJSTmM3SVdGUnNLZlhCMGwyTnNrcnc?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh",
-  "tomTat": "Thông tin minh bạch giá vật liệu trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Thanh Hóa",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0NnQ1NTc1kwMUk5bE9yU0tZVEMxcEs5R250eVBPYTh4VnE4TXJCZ2kxT29HdW5YYmxQQXc3OTNHakZTV3FsSzM5Y2ZRZDNqSmZTenJSaDRnUjROblozQXgyaUdRS0pjcTQya0lDaFltdm1RN2p1R1JHU0lFLXlrSzhxNFQyRzgxQVBXWg?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-12T16:59";
+window.TIN_CAP_NHAT = "2026-10-13T06:52";
