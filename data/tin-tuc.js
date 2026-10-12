@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer",
+  "tomTat": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Dân chủ và Pháp luật.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Dân chủ và Pháp luật",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkdDVkdBa0llTmd0OFpjT3Mxc3VkSVVrNVAwMzBjZWpzVFBJc093QUNqaUtZVHlQOWUwcWdVSlpsanVzRVpfSEZXbm9BYkUxbmNhTGxGUUg1SDlQd0hSc0xTc3VYbGt5THVvNUJRRVhVVjhEUC1pZnNubnFBUG1GdG1uMjQ3XzBFSjQtM1VVdlp0VmFsWE01ZmFPWS04Nlgya1Mxbk9ralUwbVpzTGc?oc=5"
+ },
+ {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cổ phiếu thép ngược dòng, VN-Index mất hơn 14 điểm",
+  "tomTat": "Cổ phiếu thép ngược dòng, VN-Index mất hơn 14 điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iVE1tWlZ6dFpBT3UyYWhheGxjOG5kY2ZRdzRCR3BPdzAxak1VTTNsZl9sM0pSeGhGaTZmZVBiR3dmMnpIcHIzNUlOeTMxLWdoREw1M2pfWXZMUlYzaUg2LUVtZ01wSk9KaDFOR0RhN094cHAxRDJKdWd6MEs?oc=5"
+ },
+ {
+  "ngay": "2026-10-12",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh dự kiến cất nóc 3 dự án nhà ở xã hội cuối năm 2026",
+  "tomTat": "Quảng Ninh dự kiến cất nóc 3 dự án nhà ở xã hội cuối năm 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHYzd2RNX0dGWjlwWlo0S01DY2xUbk16Tkc0RVJ4b0U0b3puUFpZRU5mbi1VUGFtVUtLMmhnSkJ1clFiZGZiSWJPMW9kc3hEa3BMZzJQQnNqY0R2anJiX2NWVXdOV3RvQmt3ekJ4eGxxY2liZ0J5M0wzT21INWhhSEszcFZiQ3ItSG5qNWNkZVB6Q1h2SmJ0RHJBN3c4X0RmUzVBdkwxLTY?oc=5"
+ },
+ {
   "ngay": "2026-10-11",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Dự báo giá vật liệu xây dựng quý IV tăng nhẹ",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Thanh Hóa",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0NnQ1NTc1kwMUk5bE9yU0tZVEMxcEs5R250eVBPYTh4VnE4TXJCZ2kxT29HdW5YYmxQQXc3OTNHakZTV3FsSzM5Y2ZRZDNqSmZTenJSaDRnUjROblozQXgyaUdRS0pjcTQya0lDaFltdm1RN2p1R1JHU0lFLXlrSzhxNFQyRzgxQVBXWg?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 2/10: Quặng sắt suy yếu giữa áp lực dư cung",
-  "tomTat": "Giá thép hôm nay 2/10: Quặng sắt suy yếu giữa áp lực dư cung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUwxczJzcWd0UXRXREdSRVZDRWMxc1VQbmFVWUc2ZUxzQ2FCbzRTQmVha1hwalVvdGJWblRacy1Cd2M4WV9mMmYwM2FNc0h3NVFsRzhvd2VJdnBlX0JSSkczVE9YdklEUjNYdld3NmNTbUwtVFd1Tlk5dWF5bG53Vldvb0dwRGMxUVNSS3dQOUR3elpEY3BJUTlJWGtDS3hZQ3JLRjlITEswZw?oc=5"
- },
- {
-  "ngay": "2026-10-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm",
-  "tomTat": "Kiểm toán nhà nước đề nghị các địa phương ưu tiên nguồn vật liệu cho các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Kiểm toán nhà nước.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Kiểm toán nhà nước",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmJFbGJFb3FtNV9YdzNfazJKTmQ0WFdFYWdvaUlIZDhVbVl4a0kydWdqZTRoaUhKUWZXa0U1NUlnTVpsNVU3VDNFbUVxNWI2c3ZRZGE5a3hvaktIdUFZNjUtYUlUME82TWFGTzRjV1QzMnlRdEUzanlWa2x5Qm83eTZEbEZKTG9kbEFSMDg3bG5UbG11YTFiSVJXQmMwaUY0cnlva1V6LUZmV281Z3ljMU03ZkN6b0ZrRVJoZTdJcVdsN0U2?oc=5"
- },
- {
-  "ngay": "2026-10-01",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 1/10: Quặng sắt hồi phục, thị trường thép đón tín hiệu mới",
-  "tomTat": "Giá thép hôm nay 1/10: Quặng sắt hồi phục, thị trường thép đón tín hiệu mới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWW5aazItUGZBZTFXV2hZVmk2bmtBQmJrTy1IdG5IMHk4TllwM0I1NWxOcUF0dG03aDVKSTlBNWU2eG9rSUo5Y0lyV2QwbXR1TmxDS3lkZDdEWDB0V0tBZHk4ZFIwbjZrZUdMMWFkTGdnUFpoZGxSQTEtUFJ2anp4a3NIYlRpNlRXOHNnUXBCREh3bEZRdlBhM1k5T2FHRlBYTHdfMnZSZ1BDeVpvSGxETGJfN1p5RTRNRTVISQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-12T06:50";
+window.TIN_CAP_NHAT = "2026-10-12T16:59";
