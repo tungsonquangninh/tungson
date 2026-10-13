@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-13",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nhóm vật liệu xây dựng hưởng lợi từ sóng đầu tư công: SSI gọi tên 'ứng viên' ngoài Hòa Phát (HPG), kỳ vọng tăng giá gần 30%",
+  "tomTat": "Nhóm vật liệu xây dựng hưởng lợi từ sóng đầu tư công: SSI gọi tên 'ứng viên' ngoài Hòa Phát (HPG), kỳ vọng tăng giá gần 30%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQenVXMnltenhBeUdvLVFwbzFvb0hUeHpla1Y2TWQtRURndkd3NlgyUWhUa05ReGFPdDBWSXhyM0RYVjE5dzJjUmw1SFNtNVdTR2ttRkFORlZoSW9CR3YzQ3lSX0k0NzF3WkJzZFhSM0Y3UGo3VXZ3b1NCQUFsTnlDTGttbXhVM3kxejNhNi1GNkcxUmpfa1lrWFRMNzBlWDM3RXk1TnF6aG1FRmtMWlJQb2RYU0NITXpRczRUcVFNaWw5aW9vUHRaWDA0YWRmbHNrYUlneWZ4TnNka2w2MExUVW5GYVBraTQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cổ phiếu thép chìm trong xu hướng đi ngang, HPG gần 5 tháng chưa thể lấy lại đà tăng",
+  "tomTat": "Cổ phiếu thép chìm trong xu hướng đi ngang, HPG gần 5 tháng chưa thể lấy lại đà tăng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí điện tử Thương Trường",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczM1UjZUV2dBZ0NkUHpBb01uMTltNWMteEdlVFY3U2lKbll4Z0I1VUg5RDk1OGJBa2JTZElVdDhfNk1YUGo0YmY4V0ZUdjBqSzY5RnB5LUhGNTlIWkIwUEZBS1ROaU5wT0VGLUQ5Uy15M3F0OGlNVEUxdVIyQTF0d3FxM0hvLXJvWG5TdHZ2cjZNaXpJT1g4b2x0ZFJlVHc0MnUzQXU3UjlXdFZWVXFKUkUyS0RQTXdJOE5iRGpPcEdEZVBqMkNF?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TP.HCM đề xuất mở rộng diện miễn giấy phép xây dựng nhà ở riêng lẻ",
+  "tomTat": "TP.HCM đề xuất mở rộng diện miễn giấy phép xây dựng nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ DKN.TV.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "DKN.TV",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUQtUFI1UW5uM1FlVlpWbW03QTBqUEdrU0J1ZUsyTWYxWlFzb3A3QjBhU1ZjNDVBNFFUZm0wS25rYk9DeXlaSFNTNnhmZUl0V3N5TnlfcmlpdXZDYUtsdlBzSXRpcHhyTzVhWHVXRnFBTV8wLVlMNGJvcFVNUjZnUFl5aTN2LXF1ZlhmTHN5SGtvSS1XWURFb0J2M0FOcWPSAaYBQVVfeXFMUGZLclpsb3I4ZFZsVjlDV0JuU3RUd3BIQjB0a1pWQ2RXeXgyZ1YtNEd2d1J5anRZNDlMTWFOb0ktRVltNC0xeHY4SGpLalRHckl2SHdRNnBVQ0otRHZFRDhCMHpvRW5XRm43aEpzM3JsODV3bGpWR0xsdXlwekJabXlzVDZBUDBOMTJSMHdUNE8tcEY0dThmVll6bU5MRUY1cHZURGo0dw?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tây Ninh lập tổ điều phối, ưu tiên vật liệu cho công trình trọng điểm",
   "tomTat": "Tây Ninh lập tổ điều phối, ưu tiên vật liệu cho công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "index.vn",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRHdE1nemc2U1d1UzBGNUdqRXJJdENlS1dVdzJoa0RzYi16aU55NC15T0c0SG5tTjFoVnFmeHpBYVhqeE9GeTdVRWV4bnpocWlldkRmem1XTmNQeEUwcDE4NUoxUnFmNTUwMXpnR2J6d3MyTlRheF9rWnR4dWtrdnhselpmT0R6RDlfMWZVbGJ6VmNwYkJMWjViclJYM2kteC1nMk9NM18yQnE1V2RXVGNn?oc=5"
- },
- {
-  "ngay": "2026-10-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Siết chặt quản lý các mỏ vật liệu xây dựng",
-  "tomTat": "Siết chặt quản lý các mỏ vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "VTVgo",
-  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9kMTNVc21lRjVYYkJqY200TjBhcGk2dHJDeEswWG85eHV0RElPX0g4X2pfYU1mZmNMZnFfLTEwVTQ?oc=5"
- },
- {
-  "ngay": "2026-10-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 4/10/2026: Quặng sắt giảm, thị trường Trung Quốc nghỉ lễ",
-  "tomTat": "Giá thép hôm nay 4/10/2026: Quặng sắt giảm, thị trường Trung Quốc nghỉ lễ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdk90aHkyTVFGc1BZZDZDSnNPemxqejJEV01qYVdGNzZWS3puelFudHpTMU00anRkZDZhTXNUa2NGdnptTnYtYmdvX3ZpZ2VxTk9peEdFcm1yZkJkaDFxX1loMUg1UzM5a0pwR2xIUU1yYTVocDdhWk5pQUZyWDBtTjhiRENTNVFRcGFaZmRybkdpM3ZlWlRlMDJLSk5CNFp3MzQyZ0pYa19NbG4ycXN0cQ?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thị trường vật liệu xây dựng 3 tháng cuối năm dự kiến biến động ra sao?",
-  "tomTat": "Thị trường vật liệu xây dựng 3 tháng cuối năm dự kiến biến động ra sao?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baoxaydung.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "baoxaydung.vn",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0xnWXpMM1RxVWw2dlRZNlhFV1NCY1drOHMwZlZBbF9xT2JrWWRnX0NkVFlQNjJkcHBsMVNRelFvSDJuYk1QeTdmR0NHTjNramdHRkwtYXExd2NuTHVoTXZjLXdKR1hlUEh6VmlsalExalBieHcxSGdleWZpVU14YVF1UWZJTjE3cjU4ejdDVHJXdVlpdlhyYWtRYUYyV045MmhNRm9zMF9vZzVDZzc4MTM3T01ydw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-13T16:57";
+window.TIN_CAP_NHAT = "2026-10-14T06:58";
