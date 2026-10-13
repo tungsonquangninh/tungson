@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tây Ninh lập tổ điều phối, ưu tiên vật liệu cho công trình trọng điểm",
+  "tomTat": "Tây Ninh lập tổ điều phối, ưu tiên vật liệu cho công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VOV.VN",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1pNkpvV2Z2QXVXaV9yTTRlWWs2dmVLTldrWlEzRTBsYUY3cmFqMDkwTlk3ZWpnM25hemx1TzFhRWNYSkY3WVVWRXhudzJNN01pTlNGT3pWSEo3d0QzemQ3TXN0bGh0Uy1VRTR1bjU3TDNuZi1PaGZ1a3Fac3dtNlZ0eWNWTDFyZmdGZkRUSjBYMG5qZDh3RUhKVUx4NlI0Y0V4Q1Bkb2pPSlU?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Phú Thọ tăng cường công khai, minh bạch giá vật liệu xây dựng",
+  "tomTat": "Phú Thọ tăng cường công khai, minh bạch giá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Phú Thọ.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Phú Thọ",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODJxTkxMNGl0QXhWQ05EQ3BQM05YQlEzbUI0c0xqaDhRbDBQR1VHSnpPdGFSNUIxX0tNMWF6VHhCc3pmUDZKREIyUVhlU0VlZXpKVmV2YkpINHE2UTJtblhJMVYyTG96bVFKSDFQSkstMXpweUZHMFJDRWFEMmYycmJtSHhXUFczVFV2TW1JVXdkSTN5eEhB?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TPHCM đề xuất miễn giấy phép xây nhà dưới 7 tầng tại nhiều khu vực",
+  "tomTat": "TPHCM đề xuất miễn giấy phép xây nhà dưới 7 tầng tại nhiều khu vực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Toàn Cảnh Bất Động Sản.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Toàn Cảnh Bất Động Sản",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaG5PZUVwV005T2NhQlN1WHJ0NWpVMEdpdFVNOGctNjdnTjdVcFVhZENudkM4TElVemRjYnBkd1ZOazFLT1BaakNFdEc1akdXcFdLcjRNb2xnOG1uN0ZVRXVYLUtxZnR4WVJfaDVFa3NiTENRZEtMUDV6ZElfMHNjMzFDSll6VktIU1pIM0cxWlRVeHlWYkU1bUZUUndBREpsd3lqTndHN2dMQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-13",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh sắp bổ sung hơn 1.200 căn nhà ở xã hội",
+  "tomTat": "Quảng Ninh sắp bổ sung hơn 1.200 căn nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhadautu.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Nhadautu.vn",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVNnRTgtNVhPRW1sRWgzcDZoVmhEYnBaR0o5bVN1OFV5RExXaUdfVVRHNGNQVDNTQnI5SjhrcnZ2YndhNUFSNEc3ZTlxSGtmZDYwaTBzUnp6RFNvTVdNdG5IQkU5SG5Qcmt3cTc5RVZKRElaR2EySDNKTVpxNDdLRUdZQ1YwRXcw?oc=5"
+ },
+ {
   "ngay": "2026-10-12",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Cả nước có 135 sản phẩm xi măng và clinker công bố EPD",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "baoxaydung.vn",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0xnWXpMM1RxVWw2dlRZNlhFV1NCY1drOHMwZlZBbF9xT2JrWWRnX0NkVFlQNjJkcHBsMVNRelFvSDJuYk1QeTdmR0NHTjNramdHRkwtYXExd2NuTHVoTXZjLXdKR1hlUEh6VmlsalExalBieHcxSGdleWZpVU14YVF1UWZJTjE3cjU4ejdDVHJXdVlpdlhyYWtRYUYyV045MmhNRm9zMF9vZzVDZzc4MTM3T01ydw?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 3/10: Quặng sắt giảm phiên thứ ba liên tiếp",
-  "tomTat": "Giá thép hôm nay 3/10: Quặng sắt giảm phiên thứ ba liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazdHQk5KRGZiN004cGloRy1ub0FhNVotM0lPU0RsREZnNktGYklubXk2S1ZaSEZ4MG8wcHVCSlJvM0pxQjBadk41R2t2WE1MUE1BWnFqbnRZYjdROVpadVVheXN0NFJjSHVVY3ZIdFVoazExWXNyTzRpNko0TmZ5VlhCQjJLaHN6Z3BNMkxydFlFOWdDS0hXTlhodklLZEtjNHc4?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”",
-  "tomTat": "Kỳ 3: Chấn chỉnh nguồn cung vật liệu để không còn “giá một nơi, mua một nẻo”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcG9kdm5uR1BYLTlqQjRiNXdqekU4b3d1NkVEM1VYeS1wWEhDUUZhWFloQUF3czZoQzkzNlhlNFdXZHhRRHp5My1aZXVUR24zN3JleGJFQ0JoTU1MZnJKcnFoVlJJSHB4N3k0UWhkSDN2MEk4WTNUT01TLVl1cFdjeG1MTUNkaHp3bjZXUF9ha3hBWmVsSElqbk1PUQ?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép ngày hôm nay 3/10/2026: Quặng sắt giảm, thép trong nước đi ngang",
-  "tomTat": "Giá thép ngày hôm nay 3/10/2026: Quặng sắt giảm, thép trong nước đi ngang. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "index.vn",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0FGNERDWDg0TVdNYk9HMDVId3RPaTFGRmNnS2d6QkRLVVljbjJQT2xLNXltQWs4OWlpOVQ5Y2ZPTG5mUDk1WllRRzNlOEY3RU5YQjhGRm9UOEVLSGUwV0FhZE94eWF0NXZzaEk3U3NkQk51S0FzZWZLaUllaG1GdzJvOXBIRzVncHF5YXNvdWZyV0VvRHh2d2ktTzE?oc=5"
- },
- {
-  "ngay": "2026-10-03",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Chọn vật liệu tân trang cho ngôi nhà",
-  "tomTat": "Chọn vật liệu tân trang cho ngôi nhà. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UDJKSEN4dUkxUmpKM2ttTVBsUXUwQUk5N0djNFE0OGNwX0xIYmdSek1RajRkZlctcFd2WmFYbUsya3BmeTJSVW5ESGNiaThxQ2hpMGRuMTQzWVpURmZSM3RrdmNLZThRQ29v?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-13T06:52";
+window.TIN_CAP_NHAT = "2026-10-13T16:57";
