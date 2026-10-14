@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hà Nội đề xuất siết chiều cao, mật độ xây dựng nhà ở",
+  "tomTat": "Hà Nội đề xuất siết chiều cao, mật độ xây dựng nhà ở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkhyYWw0cDRlMFdzYlJESXhLZHNua0tqMU1Odl9Yclp2U2c3a2lmOW5IN2poSFNqT1RlcTRLQ1FDbEpMUXFqMFVaNzdyNk5NNEJGV1d3c3RSUm5CbnpBNFU4NldNVVhQYVBBUURvM0JNWW0tOHpNY2xEZG9yeDVHLWFlMXFJNWNCaGxVNnowRzZCLUJXOTI5WmVxdw?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nhà thầu xây dựng và doanh nghiệp vật liệu tìm \"điểm tựa\" tài chính khi giá kim loại biến động",
+  "tomTat": "Nhà thầu xây dựng và doanh nghiệp vật liệu tìm \"điểm tựa\" tài chính khi giá kim loại biến động. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGhBV2picXg1dVZDdVFmMUxyc0FpeHNTQzlnZF9HU1JrM1NWS3Q1dW1kOGppcXNjS3dleGt4NmNqdWwxdEc2SUgxNkxsUkd6aklIVFZSUWZnVzFKMGR1TVVhWXlDdTR5LXZYRlRsa19wZzVScTZJWTBRcFk0QzJ0TmhhMFNLUUI0d2tuZ25sRmtoY0ZUZk1ENi1yX0ZTZEtXbVVxNzFwY1J4bDFURDB2QXFqTm1hZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Sunrise House: Dự án nhà ở xã hội tại Quảng Ninh",
+  "tomTat": "Sunrise House: Dự án nhà ở xã hội tại Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDliYlV4V3g1S01FdG5NNkphd0xOWF8xTnFfN1dzSTFoUGlaZ0dnVF9yOG4zMERhVzFEZmJXZzhrM0xrRWtlLU9uZzBIOEVjd0hpekhVLUYtZHkwWk9aSHpISHV4aUJReTRnQ2l2U05PRU1xRmk2UnVibU5Pa0RYbFBJQ1VxczFlNmc0?oc=5"
+ },
+ {
   "ngay": "2026-10-14",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Khởi công Dự án Đầu tư xây dựng Nhà máy sản xuất gạch ngói Na Dương - Báo và Phát thanh, Truyền hình Lạng Sơn",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
   "nguon": "Znews",
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Ym5vZks4enRKdFRickRQaUlDd3VENEFGanRQcnJfMTJjbS0yX3lQdnNBdWVzWmx3LWxJN0xQRjhJdmZHdjRSOVExRGx5ZXpaWU5WeU1EOThMU3lZZHNxSHRnUlhDdExGaFFUMzRYdWtBYXdfdnFBbA?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "AkzoNobel bán mảng sơn trang trí khu vực Đông Nam Á cho Nippon Paint với giá 1,35 tỷ USD",
-  "tomTat": "AkzoNobel bán mảng sơn trang trí khu vực Đông Nam Á cho Nippon Paint với giá 1,35 tỷ USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ reatimes.vn.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "reatimes.vn",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGFubVI5R280TGhYQW9OVFBzUnhBaFBnXzlOWUVkcTZ2R1UzdjN2NmJWMDQ1Wm1YWVJIRXVwLXhwOTVVeFhtRnZ5VE1YXzlXREtLZXAzRzZVX3NLX2xxeUFWLVFLaU1qQnViMTVWM2s4dERPMzNwa2JPZkdsNjFKT1VTUEFPNkxvRW0wY3JMMXM5SEhhWVg1TFlvRVpPREJ1eFNKdU5aNFpibVVsZnBZUVY4dmNQTmlZMmYyNDdsYnN6UUd2VkZPUTFR?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ",
-  "tomTat": "Khách hàng không còn mua vật liệu xây dựng theo cách cũ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ theleader.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "theleader.vn",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZndQVnJyYWkxOVdYeFU4Qm1aNV81MTVrWHp6OVlaSktnSlo3Nkt0MjhfUjZUb0lSZUNGT2Q0WlV1UEY2STlJWlk5TWFRWXhJS1lqTVQ4X08zaV9hYVFOU0ZETUthSzNNN3d0NDloU1lmUFRMYld0MmZKVEUya05TQmZUMzhnY19iY2FsZlEzdXNNZw?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 5/10: Quặng sắt tại Singapore nhích nhẹ",
-  "tomTat": "Giá thép hôm nay 5/10: Quặng sắt tại Singapore nhích nhẹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWRHUnhiSnQ1SWRDTENHam1ZUUUwLVQ0Qy1CV0xBX2w3QzJmOTZ5Q1FGcUZkZHc3WkVoWUtudEtWUlgxbm9lOVRHUTdFeVZ1OG44clJTb29sWmIyd2VzNE9JYXl2b0NhWjR6TXJOM3d0LW1BazNoc29rbVJHRlY3YzRPUTZLWXBBT2lRWjNfQVNnSVhkZWZLWWd2WF9YUQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-14T17:10";
+window.TIN_CAP_NHAT = "2026-10-15T06:57";
