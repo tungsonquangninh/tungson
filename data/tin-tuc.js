@@ -1,6 +1,51 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khởi công Dự án Đầu tư xây dựng Nhà máy sản xuất gạch ngói Na Dương - Báo và Phát thanh, Truyền hình Lạng Sơn",
+  "tomTat": "Khởi công Dự án Đầu tư xây dựng Nhà máy sản xuất gạch ngói Na Dương - Báo và Phát thanh, Truyền hình Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Baolangson.vn",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPallnbGFNdzJyZ2hzenVuV0dhVElBcV9USWpGalYxaEs3dXZfQ2hvdUhKcHNXS2xHQVJDeHNnVlFudDVPbXFMSklCTmhCTUQtRmNCYXdGWFZhd0tYTkFNTmxQQWJ2MXlOLU8wQzJ4NmR6S2N0SmdkbTJYNUlCNzRXYXpqLXhhUzVieFRrV2FaUUcySWx6aDhGLXhzVkEwSi1ZOF95dA?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "VN-Index giảm về sát 1.700 điểm, cổ phiếu thép 'nổi sóng'",
+  "tomTat": "VN-Index giảm về sát 1.700 điểm, cổ phiếu thép 'nổi sóng'. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tuổi Trẻ",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzM5TTRKTTBwcjNDbDlwTmJib29XclExVTNjSUlQeXR3OVoyMkRBY2k3WmtOVlUtbWtjRlRjOExQRVkwcmthRnBpV0tIdTdmc2JHQ0JVQld1TmJGc0NmZzJtT1h0S2VpOHhIdmkxeWlpeXhES1Z0ZDdEMXFUV3NMT2Y5UnhHMTBBd1l1by1vUlNnWURhXzVNQkVjTQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TP.HCM: Phường Tân Hưng, Bến Cát miễn gần 500 giấy phép xây dựng, dân mừng vui khi bớt thủ tục",
+  "tomTat": "TP.HCM: Phường Tân Hưng, Bến Cát miễn gần 500 giấy phép xây dựng, dân mừng vui khi bớt thủ tục. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Tuổi Trẻ",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzNaTDB6QnZ3ZExUNjVpc2F0dUI3ZUNKNTZPbGJlODQ0WnYtSXotei1xcVRqUWdPd2k0Y2xfTFBHVVhxTGJSUi1KeGcyUDFSaXlJNmVhOXVsZXB2UDdWVE1oa1p2a3U2TUViQ3REVm9TV2dOMVZYaDMtbWFGc2FzN3BlZGpsd2Q2MU5OOEJoNkE0UGdjX3hocHhPWHdZUTFmWWRoRVpSOXBvT2xHYnQzMjlFVUhRRFItTC1rQ2FOWVhGRG5ydkZ3cS0yaHE?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Bẫy thẩm mỹ khi sơn nhà màu trắng",
+  "tomTat": "Bẫy thẩm mỹ khi sơn nhà màu trắng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Znews.",
+  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
+  "nguon": "Znews",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4X0d5YUVWLVNoZkVRZmh2LTZkbzlIZjFjNVpJSzIzbHFkbXU3akpqbnZsMUNnem1fUU04OGM2TmhNdWFDSW9hODJRR0x4dXhrTjVzRkV4YVdTSHo4TGpoeUZiQlg0UU9lSmVOUjdNS3M1dzlSeEE?oc=5"
+ },
+ {
+  "ngay": "2026-10-14",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh vượt xa chỉ tiêu nhà ở xã hội, thúc đẩy hàng loạt dự án lớn",
+  "tomTat": "Quảng Ninh vượt xa chỉ tiêu nhà ở xã hội, thúc đẩy hàng loạt dự án lớn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh Nhân Trẻ.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Doanh Nhân Trẻ",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDhJR29ISEVRNFVQVlNDMWpaWVFTeGNpaTZxUGxENzBReGVGN25lNXBOV1FvbEpscFJQenZyd0tmeDc3MEt5Rmh5ZmtYOEctQ0c3REdPYVd1dTEwUUg3Q3dSQ00zazVmZXNIWnNWSElxLTRyR1ZZY2NTNGhwRlI4aVZlMGRvN0hnWks0LVRDZDhlSk45Nk5OSHNMOWh0NU9NWl9keEphVS0wTnFqMTZPbXN3?oc=5"
+ },
+ {
   "ngay": "2026-10-13",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Nhóm vật liệu xây dựng hưởng lợi từ sóng đầu tư công: SSI gọi tên 'ứng viên' ngoài Hòa Phát (HPG), kỳ vọng tăng giá gần 30%",
@@ -494,51 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "VietnamBiz",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWRHUnhiSnQ1SWRDTENHam1ZUUUwLVQ0Qy1CV0xBX2w3QzJmOTZ5Q1FGcUZkZHc3WkVoWUtudEtWUlgxbm9lOVRHUTdFeVZ1OG44clJTb29sWmIyd2VzNE9JYXl2b0NhWjR6TXJOM3d0LW1BazNoc29rbVJHRlY3YzRPUTZLWXBBT2lRWjNfQVNnSVhkZWZLWWd2WF9YUQ?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "AkzoNobel chuyển nhượng mảng sơn trang trí tại Đông Nam Á trị giá 1,35 tỷ đô",
-  "tomTat": "AkzoNobel chuyển nhượng mảng sơn trang trí tại Đông Nam Á trị giá 1,35 tỷ đô. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "Báo Nông nghiệp và Môi trường",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGZ3bkEtU1BUWDZ3SV9WbXdtbjZCNVRmUlNXVXFMYVczYUs0Y2hrTVlnNU45VkU0ZTJFeU9pRzBteFpmY1RBTzBnQk9QaEs0eWRxNUxyS3FINXU5THkweUU1UXNGMWdsZ2MyU1JySVpvMkNZYlZPYi1XbmZsT2lueEJPUHJxX2lTaDhmdzdJd2JlNDljYnVLOFliUnlnakRVWDdNU0R1cERCRWhWS2dFYVM0d3V1Y2tpU2tF?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Điều kiện để chủ nhà được tự thiết kế nhà ở riêng lẻ dưới 3 tầng",
-  "tomTat": "Điều kiện để chủ nhà được tự thiết kế nhà ở riêng lẻ dưới 3 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFhoeTltZU5TaTlXNjEwT1A1S0NlWWw5Ukt3ZVlQVnhOQWZJU3lUS1BXUjR6R28ydFk3ckZkMDJwNHRRX193RFhMX0pQVXlxTG9pYk44U2RnQUUxMXNYcllzYlo2TE1qcTRtQnJnV0ZqaUtVUGdpQXpsU2Z4VVZaUnQtamc3TUZjWlNZSDJmX09JOUNkV2xDbmh6bTBELXFob3VUWkxEVkRnSi1w?oc=5"
- },
- {
-  "ngay": "2026-10-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tháo gỡ điểm nghẽn vật liệu, đẩy nhanh tiến độ các dự án đầu tư công",
-  "tomTat": "Tháo gỡ điểm nghẽn vật liệu, đẩy nhanh tiến độ các dự án đầu tư công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Thanh Hóa",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZiZzdCbEVKczVmU1BxYURmVjd3RXQtMDc1N1h3Wm5jdE9ZbEw0QWxoX2lLVURNZlROZTk4UkN1SEVWN1RSYlVrenpSby1EaFhkUnBxQ0pvakdFUEJ4S3lhS3hCcnJhUGlYVW1UX1BwSERJcTdKZVlibDFyMTRtUE1TTEVrUmZQWm8tb1RjMmY2b0ZERUtTV3JxWnROSWZTNzJn?oc=5"
- },
- {
-  "ngay": "2026-10-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”",
-  "tomTat": "“Nhà thầu nào gặp khó về vật liệu, gọi điện cho tôi!”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Nông nghiệp và Môi trường",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXNIQzk2T0ZZdzg2UUJ0aHYtTXNIOGdZQUZNZHYwcUZZMUliYV9nZER5S1IyVjMwR1AxLTJoVjdlMnJuSjJscDRUWnM5cUE2a3NXWU11MTdWYjNDUWFlanAtdzQ3WmRzeW95OU9DNDd1ZmJFMHdkZnRYbFRacEhHYUtYc0JKanVRTk9zcWNOOU1qaVUySTQ4NTdFOWRIUnlqTEtOMHk3UFdzcXNFTklqeg?oc=5"
- },
- {
-  "ngay": "2026-10-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép ngày hôm nay 4/10/2026: Trung Quốc nghỉ lễ, Nucor và Gerdau cùng tăng giá 50 USD",
-  "tomTat": "Giá thép ngày hôm nay 4/10/2026: Trung Quốc nghỉ lễ, Nucor và Gerdau cùng tăng giá 50 USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "index.vn",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRHdE1nemc2U1d1UzBGNUdqRXJJdENlS1dVdzJoa0RzYi16aU55NC15T0c0SG5tTjFoVnFmeHpBYVhqeE9GeTdVRWV4bnpocWlldkRmem1XTmNQeEUwcDE4NUoxUnFmNTUwMXpnR2J6d3MyTlRheF9rWnR4dWtrdnhselpmT0R6RDlfMWZVbGJ6VmNwYkJMWjViclJYM2kteC1nMk9NM18yQnE1V2RXVGNn?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-14T06:58";
+window.TIN_CAP_NHAT = "2026-10-14T17:10";
