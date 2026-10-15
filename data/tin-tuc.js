@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-16",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình",
+  "tomTat": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ reatimes.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "reatimes.vn",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjVYQTEyY3VQZGhQYXhYRFlIOGx4aDY4emdQUnRwWWNTeWhuVnhYeU54TjFKeGhwajFkb3RFVzVyUDhXcU9Icl9jWXo1QVlyTXc5RGFheHVZUEZHeV9XeW5DUzFfby1TQnNGa1hXbzZISk1rVERVajhfQkdKVHZuZGgyNWtNOVk0UTNiVGJka1VQVE1EbnJfVmJ6RHNnUnFnYV9LVVF1YmVyRG95Q1B5M0s3X2EzbkYx?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cận cảnh công tác chuẩn bị hạ thủy kết cấu vòm thép cầu đi bộ qua sông Sài Gòn",
+  "tomTat": "Cận cảnh công tác chuẩn bị hạ thủy kết cấu vòm thép cầu đi bộ qua sông Sài Gòn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "HTV",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEJiRHVxRFlSLU92Z3A4SzkyejRGUmdsOHJHNEVMUEdkZ3FnSmJ3dGpfaE13MWVtVGltMlVBREw1Q3UyQ0VxdUtBbGRjTFZBX055bzlhZjF5MU9kRU5vUldJOVVCbHdwaUREWmVvS2Yxc0ZJOUxVaWJLOG1VSGFEYXZEanU1bVRLTjh4NE5KdVA3alBwSXViR3J0b1B6ZW9FZVFYSTNwM0hFOTRDQmpuSDRMVURCVjg?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TP HCM muốn miễn giấy phép xây dựng nhà riêng dưới 7 tầng",
+  "tomTat": "TP HCM muốn miễn giấy phép xây dựng nhà riêng dưới 7 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Tri thức và Cuộc sống.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Tri thức và Cuộc sống",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGY2b3lXTGF3NjJ4a0lTLWNGMkU2dE81a19zbHdyamRpQVdzZHhMaW53OG5LSl9lcGp0SXlubFlSY08xM0lycDhGVFBvMDEzSXVYT20yeG8tYXFvNmlnLXpCTVkyY3UyMjBzQ0ZOOVJUT2RxR3ZEMHpRRHFJRXdTZGlOMUgtWHNMNW12cTJPQWo5c2h6LW1kMDNDdVgzYnM?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đoàn ĐBQH thành phố Quảng Ninh tham vấn dự án luật về nhà ở và kinh doanh bất động sản",
+  "tomTat": "Đoàn ĐBQH thành phố Quảng Ninh tham vấn dự án luật về nhà ở và kinh doanh bất động sản. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmYzMGxoRER6VlFJVWxRUC1qZlMtbFEyUXhXdnlfSHJjOXpWVTdQaWJFUVdnSzc3d0JENlppb2l3Tl9kbDZNVXlqdWt1UkRVMXlOLUZBc0w0OFJwUHgxeDBXVS1La1F0azdHbWVJT1A1VndWSURZMVFrTTdDeHBvbVhoZGtoQkZFdlA2Mkp2eU5KdHlETGFNU2sxNnVFekVCSDdyRG95NnliOHp0a3lTa1N4andhM2NpSEp6UU9vb0p3UGM3SjJnNXJGSlJNUQ?oc=5"
+ },
+ {
   "ngay": "2026-10-15",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo ra nhựa đường tự vá vết nứt, tiết kiệm tiền tỷ chi phí sửa chữa",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Dân trí",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZSVnJCdkpUTnNhTmd0NUxYR2hFLWtfYWlZZnY5eS1ZMGhzcDlpWEYwSG04RjJZYU1NNkl6eDFtUlUtWTdDck03VnZ4bHBPaUdkTnpXMHZ4ZVUzR1JQLTBxSnpZV1h4TWx6Q0lnM0NDbDlEMUk1emt0aVFGc0F6R0RIU0dwZU9UTFJsVGZwMjFxbGl0UVBERnFHNjdjSF9iRDREbExjU3NLWGwyemozWXp0U0tBZWY3UzFoNWU0cw?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá vật liệu từ mỏ tới công trường",
-  "tomTat": "Giá vật liệu từ mỏ tới công trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí điện tử Thương Trường",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtrR19QZlVxY3pwal93aHlVa3BIYnp5aGJaeFRBT0hIdXdxdjJhR2tveGFrRVRoT2tHMC1wNHpPbWt1N2lxSDlId0lvRjFueFdjRnFoZzNSaWhrVGV0VW15R1p4cHIyM0Z3WVR6OXotUlgyNnVPX1d3Q1BCRk5EUG5PNUYzUQ?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Nippon Paint mua Dulux: Cục diện ngành sơn Việt Nam sẽ thay đổi thế nào?",
-  "tomTat": "Nippon Paint mua Dulux: Cục diện ngành sơn Việt Nam sẽ thay đổi thế nào?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnhMZ1Vfb1BGN3ppbjZRSUR3cGNpZXFuaF9EdXNicFF1SnIwNklvREhoOXowSXZHcGd3MWRkRmhZQ2R6QTc2LTZGRHpWZUVTOXIyOGJvWHpZNkdMSDVRQzI2bndTa2l3LTNVNjJWcDQ0VEg1NTFvQzRrWmlxQnZvWlJxSG1MN3VyRU5nVGtJSGRPZlhXd1psNHVvZ3huVVUyZFg4ZkxRYzF1QQ?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh quy hoạch xây mới 5 kho dự trữ xăng dầu",
-  "tomTat": "Quảng Ninh quy hoạch xây mới 5 kho dự trữ xăng dầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ bnews.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "bnews.vn",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFl2MmlWZlZFeEFreWo2Rm9RbmJISnpFYl94V3FZNGthb0NOeVpfclhsdE5hSFRkNXUxaVkzTWc3c2xTb0pwdmtFcmE3aDZ2ZXNmMXViVnlqMzFmcUNrQml1WVc5TmtCZ1gxUThBT3VnWU1YaVRGQ093OHBCdWpPQXM1ZVQzZw?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Thương vụ M&A Nippon Paint thâu tóm mảng sơn trang trí của Akzonobel tại Đông Nam Á",
-  "tomTat": "Thương vụ M&A Nippon Paint thâu tóm mảng sơn trang trí của Akzonobel tại Đông Nam Á. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ 24HMoney.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "24HMoney",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUFGdUdELXpUczJBTkpTdFRZRjhQUkktSzY3MU5oUC00eVR6emNUVDdJekg3LVQ1a1JwelJvNWVDNU9oR1lxbGJ0WTdPSlZ1Y29oSENrNTRzTnhOVEZxVDk2X1Vtc1I0ZHlLV1VyT0Z0akFMWkY1Qi10emxCX3ctdWg2NGNPZnlkb0pnb2Z3RUw2bFFmTUJJam9QNUZYeGlDOXc4WElaV0YxVVcwdmFPS3ptLUc0M1gzRWdMRnBYNlJ4Z2ZjYkVYdm4yYUkzRjBSckJla09JRnkzSGlH?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-15T17:10";
+window.TIN_CAP_NHAT = "2026-10-16T06:56";
