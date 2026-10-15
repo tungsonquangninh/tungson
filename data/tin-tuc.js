@@ -2,6 +2,33 @@
 window.TIN_TUC = [
  {
   "ngay": "2026-10-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo ra nhựa đường tự vá vết nứt, tiết kiệm tiền tỷ chi phí sửa chữa",
+  "tomTat": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo ra nhựa đường tự vá vết nứt, tiết kiệm tiền tỷ chi phí sửa chữa. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbzNMelY1M2VXTGF5OWpSNjhUeGliS08zXzR4MHd5RFlEQkxmRHh1UnIzRDJiS3lmZ0F4aC1DTFRMNzdBOTg1Ymtrb3E2eXRCT2FsUXpBWEtMUG1RNnlIRXNfd2R0em5SVjB1b0VnVGViLW84dFpRNkpxVDJuSTRKbTBIUURscG10UnVsUWZSblVWMElRUzkwWmExTG85bXVLOFBBUnRYcGw1S3hKZTNOYVdSR0duUjltd1k2emw1dkVzUHhHeUY2dDViR0JUSmJJbHA3TVlDWjEyckZEdXZ6VzIzNF9JRmoybVFTN2NEYXNpUQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "VinMetal hợp tác Danieli sản xuất thép ray đường sắt cao tốc và đô thị Việt Nam",
+  "tomTat": "VinMetal hợp tác Danieli sản xuất thép ray đường sắt cao tốc và đô thị Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo điện tử VTC News.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo điện tử VTC News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEcxZW5nOUFVTXFveUtNcmdmLVVaeU9DZkctcVNTMjJFZFNjUk9VdXBUY0NVQXZuQThSUXMyNXFvaU5FSnI4TzBCdlpvWE8xWGFNZVZYaXRsM1pWRXh5RjU1a1BBbDdiR3pPUnVPcHYwODFyMURvRkxwU1BzSEFSTWp6SmctelRSUjlRcXVYQkgzZ0Uwekw2eE44OE5PLUIwUzBZMVpUNnR4R0JJMHFvd0RZWQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Đề xuất không cho xây nhà trên đất dưới 15m2, lô đất có cạnh nhỏ hơn 3m chỉ được xây 1 tầng",
+  "tomTat": "Đề xuất không cho xây nhà trên đất dưới 15m2, lô đất có cạnh nhỏ hơn 3m chỉ được xây 1 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWowQ2hHdENVZkJBQWdtTU5iYjZSVEd5cWJoeXVfYkxUR190dktwZEdwd00wM3ZJWkRKTXlRN2NBLVl5dTk5b3VVMTlSN01fd0h3cHUyU250TUxJU29SWGdpXzhjM091N1ljTHFOdVhRRFJXRTdLM24yMWhGZWU1cS1sbjQ0NWU5MEhNanhNQkFBdXBOMUxlb1Vmb19zdGFuZlRMWjVTdVNsNWFkblByUFFEV2FkcWU4UGdPal96SGRkc2xs?oc=5"
+ },
+ {
+  "ngay": "2026-10-15",
   "chuyenMuc": "phap-ly",
   "tieuDe": "Hà Nội đề xuất siết chiều cao, mật độ xây dựng nhà ở",
   "tomTat": "Hà Nội đề xuất siết chiều cao, mật độ xây dựng nhà ở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
   "nguon": "24HMoney",
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUFGdUdELXpUczJBTkpTdFRZRjhQUkktSzY3MU5oUC00eVR6emNUVDdJekg3LVQ1a1JwelJvNWVDNU9oR1lxbGJ0WTdPSlZ1Y29oSENrNTRzTnhOVEZxVDk2X1Vtc1I0ZHlLV1VyT0Z0akFMWkY1Qi10emxCX3ctdWg2NGNPZnlkb0pnb2Z3RUw2bFFmTUJJam9QNUZYeGlDOXc4WElaV0YxVVcwdmFPS3ptLUc0M1gzRWdMRnBYNlJ4Z2ZjYkVYdm4yYUkzRjBSckJla09JRnkzSGlH?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Quyết định điều phối, hỗ trợ nguồn vật liệu xây dựng thông thường giữa các tỉnh, thành phố trước ngày 15/10/2026",
-  "tomTat": "Quyết định điều phối, hỗ trợ nguồn vật liệu xây dựng thông thường giữa các tỉnh, thành phố trước ngày 15/10/2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đời sống và Pháp luật.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Đời sống và Pháp luật",
-  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVW9oXzBIczZfRTFuSExScUNsVUthS0pYbkNqdHJqZnUwWUxNdmhmMFpiUUgzcGN6RzVqdm5BM2psWDhwOUZMakJHRHUzV2FOcG5zZkw2N0oxYUtYdGN6SGdaSEFiaFFuOUFxanBscFRzeXd3VDc4bDFaVTNiM1EwamI5TU1SWU9zZ042bEpDQ3ZlUEs0WEFwSE55eFdWVTliM2RmVjNQZ3BjWFdUNTdDQWVJTk53QVRsLWs5SzFGdEZCbG9veXUxU3NLMWdaNGxHT2dLUzhma01VYzJvWFBlMkJDTVpWYk1KY1VnZkVKWdIB7wFBVV95cUxQVW9oXzBIczZfRTFuSExScUNsVUthS0pYbkNqdHJqZnUwWUxNdmhmMFpiUUgzcGN6RzVqdm5BM2psWDhwOUZMakJHRHUzV2FOcG5zZkw2N0oxYUtYdGN6SGdaSEFiaFFuOUFxanBscFRzeXd3VDc4bDFaVTNiM1EwamI5TU1SWU9zZ042bEpDQ3ZlUEs0WEFwSE55eFdWVTliM2RmVjNQZ3BjWFdUNTdDQWVJTk53QVRsLWs5SzFGdEZCbG9veXUxU3NLMWdaNGxHT2dLUzhma01VYzJvWFBlMkJDTVpWYk1KY1VnZkVKWQ?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Con trai tỷ phú Trần Đình Long “phát tín hiệu”, nhóm cổ phiếu thép đồng loạt nổi sóng, có mã tăng kịch trần",
-  "tomTat": "Con trai tỷ phú Trần Đình Long “phát tín hiệu”, nhóm cổ phiếu thép đồng loạt nổi sóng, có mã tăng kịch trần. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Nhịp sống thị trường.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Nhịp sống thị trường",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON0ZIYkI1a01ybEt4QWZQbW40NHViYjF6UnFUY0FyTHBCdDdEcFkxSEdDeTZ3N1E3akhLV0pydWxaVW5IUXVMVC1mSndwRDRLZzRnWm01Y25XQ2JMNHNuV0NtUWhaMER5Z01nX0cwMnFmOHp4d3FBOWZMUkNUeUdaUC1Lc2VpVjJob0RKZEpaNFNINWsxQk01Q09jLW1iY0NMNFRKcXA0R3BUczBETW5ucWktYWliTmphVTVHUEZLdWRDMnBjS3Z6Q2JSdUZ2cjc3dmhicA?oc=5"
- },
- {
-  "ngay": "2026-10-05",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Hãng sơn Dulux tại Việt Nam đổi chủ",
-  "tomTat": "Hãng sơn Dulux tại Việt Nam đổi chủ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Znews.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "Znews",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Ym5vZks4enRKdFRickRQaUlDd3VENEFGanRQcnJfMTJjbS0yX3lQdnNBdWVzWmx3LWxJN0xQRjhJdmZHdjRSOVExRGx5ZXpaWU5WeU1EOThMU3lZZHNxSHRnUlhDdExGaFFUMzRYdWtBYXdfdnFBbA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-15T06:57";
+window.TIN_CAP_NHAT = "2026-10-15T17:10";
