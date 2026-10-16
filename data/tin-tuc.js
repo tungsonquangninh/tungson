@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-16",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Biến động giá vật liệu, nhà thầu sẽ đối mặt rủi ro tài chính, thua lỗ",
+  "tomTat": "Biến động giá vật liệu, nhà thầu sẽ đối mặt rủi ro tài chính, thua lỗ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3hOWkU3ZmQwNG1tOEFzdi1sbWZUdFBfcm1IczlLSnVYSU51MlpaeFFNVUtEMEZxSkdhMG5reVlFMnZZODdmNW1IN0VIOVVtc2dSd3M2bVpFQ3VDaXpOT0pIVUlyMGUwOWVRU3B0elppeVlFR3dIMHVYbF9rSmYtV3lXeFF2LURJV0t4SmpxTmRucUtt?oc=5"
+ },
+ {
+  "ngay": "2026-10-16",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tỷ phú Phạm Nhật Vượng mở rộng sang hạ tầng: 5 metro, 700.000 tấn thép ray, 200 đoàn tàu",
+  "tomTat": "Tỷ phú Phạm Nhật Vượng mở rộng sang hạ tầng: 5 metro, 700.000 tấn thép ray, 200 đoàn tàu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3RBTThVaFhhakxyOUdpd21YT09UVVRCWTBEcVRDU3A2R3dQcDJFUjU2ZFoyTEZSUmlrTXp4NUJXbkRDa1QwNTdXMXpuQ0RwYW9BTzN4VlU3c3Z0UkdxNXVyblN0WWppYXZSbzdXNzAwenZhTnpJMlZXWlgxSld3VjFzVlJiNzJTdkplUFlkMW5uLTRmb1V1OVlNaWN2a1c2RU9OV2ktTVlIRVU?oc=5"
+ },
+ {
+  "ngay": "2026-10-16",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Lâm Đồng quy định mới về cấp giấy phép xây dựng sau sáp nhập",
+  "tomTat": "Lâm Đồng quy định mới về cấp giấy phép xây dựng sau sáp nhập. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thanh Niên.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Thanh Niên",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1dYanF0RjFMd0VsYmZvU1dsQl9fT0JONkNVYnc2UnMzMmJXYkxEZWdvVUNqWS1DQlZNRFZHMmc1anlfYndFY1RZRTJPSWVzYjN2OWpVMHhjNEtROG1HR0l3NUR6ZWJVWXpqVDY4YXpOX1IybVZfeFFubUFVTDQ0T2ZPejJSS0tZT1RaR3JhRDZ6QkdSMF8zY3JfbFo2b0c4dmd6LVE2UQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-16",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình",
   "tomTat": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ reatimes.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Tạp chí Kiến trúc",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObkdEd2djR1dTU2FmUkpXamhjNlJ1a2hROTdWT0FscmZGdUNRSTd6ZGhrMl8tcEMtN0E5MzRveWlBOHpNWGxaNFlTZ0N3NzlqVmFzSGx6dDNlenQzWExGRWxRY241UzcwQkhFdjVjSVFxdTQ3SHFnOGptZ1R6bUM2cm4wUUl4SmVoQ3l5R19sZFZTSlFyOUNFakRScFVzR0tsbkhNcjFmNWNrZWlESURvMFF0NHZvcGF2bVExS1U5LW5IQl9sUDlxWkItUWlXVnFJVkQw?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Từ thép, dầu đến nông sản - Vốn rẻ kéo lợi nhuận nhóm nào",
-  "tomTat": "Từ thép, dầu đến nông sản - Vốn rẻ kéo lợi nhuận nhóm nào. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí điện tử Thương Trường",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHF2SGxQUmNSWHVsS1ViVUhXQU1xWFJzTVlwTHFLT1YtWTk5YjJJVUZoWi11TUhwV2FKTl9wdFk4ZU9DOE11ZEJGX2lCeTFZcVFPajdtclhSRDlVdzA1YTQyZjRrTDR5ZFVCRkkwRGNyYVpqTzU1Y1JGMTZ6cUotRVR0SVVUUVZYdmtLWFJSSUF5UDVpZ2lyc0RUejlKbmpv?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh: Khơi thông nguồn cung, hoàn thiện hạ tầng trung chuyển vật liệu xây dựng",
-  "tomTat": "Quảng Ninh: Khơi thông nguồn cung, hoàn thiện hạ tầng trung chuyển vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Diễn đàn Doanh nghiệp.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Tạp chí Diễn đàn Doanh nghiệp",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU5DOTNkaVowa000SG1WV25UMTJ4bkl1Mzh5Y0Y5TmhGMk5EcHlaR1I3VjA5VFJNYnRrQ2ZnZ2E1dFphVFpldGRBdjhMRHh6bWJkbldnd3JVeFFkMHBUZ2RzV1FxeWxYY1lVRm1KX3dibTJtZjRaZEgwNmdSMVhqMGpXakx2TExYR3VISDBtRkVqU0xZV0ZsX1ZPbDZ0YzNSSTFvSWhUQ3lYdXhJNVA2MmNxR1FzclRoQzNwaGRFeWVRN3JL?oc=5"
- },
- {
-  "ngay": "2026-10-06",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Trường đại học ở miền Tây xây trung tâm nghiên cứu vật liệu tiên tiến",
-  "tomTat": "Trường đại học ở miền Tây xây trung tâm nghiên cứu vật liệu tiên tiến. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân trí.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Dân trí",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZSVnJCdkpUTnNhTmd0NUxYR2hFLWtfYWlZZnY5eS1ZMGhzcDlpWEYwSG04RjJZYU1NNkl6eDFtUlUtWTdDck03VnZ4bHBPaUdkTnpXMHZ4ZVUzR1JQLTBxSnpZV1h4TWx6Q0lnM0NDbDlEMUk1emt0aVFGc0F6R0RIU0dwZU9UTFJsVGZwMjFxbGl0UVBERnFHNjdjSF9iRDREbExjU3NLWGwyemozWXp0U0tBZWY3UzFoNWU0cw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-16T06:56";
+window.TIN_CAP_NHAT = "2026-10-16T17:10";
