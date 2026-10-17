@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thiếu cát, giá vật liệu biến động, nhà thầu giao thông đối mặt nguy cơ thua lỗ",
+  "tomTat": "Thiếu cát, giá vật liệu biến động, nhà thầu giao thông đối mặt nguy cơ thua lỗ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "index.vn",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUldXTm1yQXE3blh3UTZzaTdOdHhHTmx0RTdhWlp5N2xqOFNNSHNQckc0WW1TT2x5Um9wdTFGNC1OVG1YYTRnaDlDLWp0LTZxSWs4aGF1MzZJdmZUdFZhaHpDTjZZek1zVVp3S2FLaC0tN3RhRWxKUWxWbHRCOW1xSHhQUXgxdHFONlNLTnU0S2JBVGJySXVJUF9QNE1kSXJWckxB?oc=5"
+ },
+ {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gần 200.000 tấn thép xây dựng siêu cầu dài gấp đôi cầu Long Biên, rút ngắn thời gian di chuyển từ 2 giờ còn 6 phút",
+  "tomTat": "Gần 200.000 tấn thép xây dựng siêu cầu dài gấp đôi cầu Long Biên, rút ngắn thời gian di chuyển từ 2 giờ còn 6 phút. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1libGUzdHd3OEYzLUctLWx6UThSckEzeDBtdG1uMHY1QkN5aTJXOWd2ZWs2NzUyQzNUUVZDZVVMSmNLOWJpUzhBb1kya0RrSnZ3VEZCTUY5YUtZS1F1TXlIRDZoelA1akkxS1BQMFNWLVNqaHdzbjhyYnB4RHNJWlRqdURtQWxPeWR4VzMzQzZENnM3a0lYZ3hPSTFxN0Y5aDZtZ2FzbTdBQlNfQW0xY3NBbW5tRXJLanNmMncwaDJEeDFZR2NhWEowWkdkdi1lMy1tTVdJa0cxNnVwSTVQb0hGdw?oc=5"
+ },
+ {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Thứ trưởng Nguyễn Văn Sinh: Ưu tiên nguồn lực, áp dụng công nghệ mới xây nhà ở xã hội",
+  "tomTat": "Thứ trưởng Nguyễn Văn Sinh: Ưu tiên nguồn lực, áp dụng công nghệ mới xây nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFRyUHFNLWFUZVVudmFzUmZhTmhPVmhQc2UwZE5ocDNCUlFpNHFRdUJLUjdGWFBNZEluZ0xGaWtvdFQwZDhDcGZmUlZHN0pqcHRxTkJXV2dUYkd6S1ZSd1BVb0x4UTJoVFh3eTN6Vm5nbEFCSTRCR0tUb2VRaFQwMnhUS3ZTelhLX0l3VUQtSDQ2OXpPdEdrSmhyWDRBbGYyUktQeUZCXzdJU29FMEU3NWhaRnEtSnFpLTZ2QUM3dDNwTVhWUWtXOXVB?oc=5"
+ },
+ {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh dự kiến khởi công 3 dự án nhà ở xã hội cho thuê trong quý IV",
+  "tomTat": "Quảng Ninh dự kiến khởi công 3 dự án nhà ở xã hội cho thuê trong quý IV. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "VOV.VN",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFBHb2dSdHI2SFhRRC03VXItd3J0QmNYRzJuVlNGZlV1T0duMTdTQmFzRFBIaU5VazY2U0lpeWtfekcxb2RvX3VRa19nRXVpY1lpQi1YWlNJSjB1angtMG5xT2xjOTUwMkVnZHJyT2QtNmtsNllVZlA0MmNadERlSW5uSzNJR3lBQXBOSXlfLTJMbm9yV1V3dzk5REh2OGlFeXRvbktacU9sZnAxdXNR?oc=5"
+ },
+ {
   "ngay": "2026-10-16",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thanh Hóa đổi cách quản lý vật liệu xây dựng, kiểm soát từ mỏ đến công trình",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWJ2SHpTSkNNbG1nY0trNDl1bDZJVy1mS3hwN083X0xQX0d3aFZKYXg5YTdxdzk5OTl6SnZMVnQtQ1p2REhvUklFVWFZZFM2bWNzeUFmeW0zN00zbG5PbzBaallUVmROTFo2UkxyVWYzUENJb0V6RHpwNXlGR2o5Rjl0QnVTeWl2dzJadkhUSWUwZldtTnhQN09tU29xQlRkcWdJOWR0d0NzTzg4X1gtX1BFYjZ0MmdscFVPMkVzY3FEcVpKaHozeUlOeUV1eDJEalR0QWkwcTgyU3lqaEdDaVBKMA?oc=5"
- },
- {
-  "ngay": "2026-10-08",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 8/10: Thép cuộn cán nóng tăng trở lại",
-  "tomTat": "Giá thép hôm nay 8/10: Thép cuộn cán nóng tăng trở lại. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTUtNldhR3Vxd09NOWpTRFpsWWt6YmRvNGU3WEhTQWJpSHV4enkzdnB2LS1qaGFSV3B0VlZUZUtua2k2eEMwMnh4dlFaWlpmUWN6ZjNRNXdkaEtRNV84VmpQZFdONnFvNlE0a3ozZVA1VTdmZkR6RnJYQ0dqa19PVXkyUmJDbFYxS19PMXNtWnpkTmhMcU1yY2htVHZVeXFnVEE?oc=5"
- },
- {
-  "ngay": "2026-10-08",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Bản đồ quy hoạch sử dụng đất TP Quảng Ninh",
-  "tomTat": "Bản đồ quy hoạch sử dụng đất TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTk1zVXVWT0NBVEEteS0wTnRQTzhza3dMazdKeUE1NDJXeGdGZU8tajVrV0w2WXhUMWNnbHZxdFloYU12RkdvcnUzMkxaNENYNE1WVTVmZWhRYzFaWXludGZacnpVeXRBN1I2aHRQSTdZRk1BME00YzZIM18zeEFhejNRT0FVblp1RHNhLXp3?oc=5"
- },
- {
-  "ngay": "2026-10-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nghệ An tăng cường kiểm tra việc niêm yết giá khoáng sản làm vật liệu xây dựng",
-  "tomTat": "Nghệ An tăng cường kiểm tra việc niêm yết giá khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Nghệ An",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzFvZzdVN05xZDlpbEluX2dwSGxrRzRXZVJHblY1NTNlR1RWbUVZeFNPSWhqUDlvOGJyR0FDVmpqNzY5YTRRYlRqM1BJcjBadWFiaUk3WkU0UE1Bc0RZMEhWcWIybG9CLUUyaHJtaWgxc0lEeUFUakJjeFY5RUlSOUtfaGRGOHBGcjlMNVNBX2tfdWItck85a1FrTkhDLUluOVBjQ1FMbnIzRWJ0TmJ0R0hKQQ?oc=5"
- },
- {
-  "ngay": "2026-10-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Không lo đầu ra: TP. HCM xem xét sử dụng thép ray đường sắt của Hòa Phát (HPG) cho chuỗi metro hàng tỷ USD",
-  "tomTat": "Không lo đầu ra: TP. HCM xem xét sử dụng thép ray đường sắt của Hòa Phát (HPG) cho chuỗi metro hàng tỷ USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHE0WjZuQjZZVWUzb1lVbXZPU3NneGVOS19tVUtjMnVYaW1HYWpxa0p2V3lFTjZSX2xZRGNiS0FnVGdIY1RhakJ6R3l2YldET3NXZHgxdFJvQWNvWlZUUkMxaGFmSzRsV2JMUzRTUThDTXotZjVOTENCRkI1VkYxclV4OTVWYWNscndXOEdmaG9Za2UzZ19ZRHNwMkxXY2puaHJ3d2wzdEZuQ0MydVVhajFWTEV3M0Nzb1RpMnhTQXFlOEgyYWdtWmpjR1pnUE9SY1RRMw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-17T06:55";
+window.TIN_CAP_NHAT = "2026-10-17T17:03";
