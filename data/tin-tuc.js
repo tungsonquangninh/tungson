@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-17",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nghệ An tăng cường quản lý, bảo đảm nguồn cung và giá vật liệu xây dựng trên địa bàn tỉnh",
+  "tomTat": "Nghệ An tăng cường quản lý, bảo đảm nguồn cung và giá vật liệu xây dựng trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Nghệ An",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1NWZ0hKY3JLa0wzTXFPdGpvQzEwQjg5LTRldERxaW0tVGNUYXQ2dG9PU1RJYk9iNzVxLXJoemRTd19jQWc5ZDk5UEN3MFlGbEw1bUdxNHdlOHBjTE5ycUZhOHQwT3pGRE1feE1QT0lHWFVvVkdiVUF4ZC1TYzNvNXpDUm1rZ3NjWnl3LXdJNkhZczl6ZnlBUzRaTlFEYURGMU5IYkIxRC15SFVhOENwTVpmODBYM0tBbHdOSEpUZDI?oc=5"
+ },
+ {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày hôm nay 17/10/2026: Quặng sắt Singapore giảm dưới 90 USD/tấn",
+  "tomTat": "Giá thép ngày hôm nay 17/10/2026: Quặng sắt Singapore giảm dưới 90 USD/tấn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "index.vn",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEgzek95R0xVck83WkRldmlYNWdfQ2pmRGx5WDZNUkxaNHgyLVNyaVNFZEZXSFI0NkVVNVRmQWxaVTVvNVd0U0NwOWhfNWZucTlIWThVSnJsZm1nQ05LN2hxQl81b200Zkp2VDRWcE5oNWZzc0ZnMzg1d01HZnlJVFZ1MkgxOXNFcWtTb1NCaUk4bWVEZENNYUNGMVlKbDA?oc=5"
+ },
+ {
+  "ngay": "2026-10-17",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thiếu cát, giá vật liệu biến động, nhà thầu giao thông đối mặt nguy cơ thua lỗ",
   "tomTat": "Thiếu cát, giá vật liệu biến động, nhà thầu giao thông đối mặt nguy cơ thua lỗ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -35,6 +53,15 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "VOV.VN",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFBHb2dSdHI2SFhRRC03VXItd3J0QmNYRzJuVlNGZlV1T0duMTdTQmFzRFBIaU5VazY2U0lpeWtfekcxb2RvX3VRa19nRXVpY1lpQi1YWlNJSjB1angtMG5xT2xjOTUwMkVnZHJyT2QtNmtsNllVZlA0MmNadERlSW5uSzNJR3lBQXBOSXlfLTJMbm9yV1V3dzk5REh2OGlFeXRvbktacU9sZnAxdXNR?oc=5"
+ },
+ {
+  "ngay": "2026-10-16",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Lâm Đồng quy định mới về cấp phép xây dựng, nhà ở riêng lẻ tối đa 2 tầng",
+  "tomTat": "Lâm Đồng quy định mới về cấp phép xây dựng, nhà ở riêng lẻ tối đa 2 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQW9pdFFrVmF1Z3BxcTBoNVQyR2VJY0wta2RSbDQtbUlFRlBJaGc1SEtFNjdsSkhBalAxeHhYZWozaXgwYlozbWp1NUdjdTEybGtRTVA4ZTVJdGRRRnFxY3J5dGpyOW80UjQzTzdJa1g4NUIxWngtRjQ1M0JpQlhXUlRwLTdMMmlKSTh3NU5yREI0MEdMUm9KZ0V2YmRpSlJ1ZWxXNWotdjNSQUtIaWFZOFdYTUZHQQ?oc=5"
  },
  {
   "ngay": "2026-10-16",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tin nhanh chứng khoán",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjFoV25pTm5Mc3VxcnR2NC1fZUdvaWJ1cDVwcHpKLWhWT3VhZjdING5FV0ZpX0c2NlFVTk1jOUpQSkYxbVJtRS1ZT2NWY0o0eUhVUlVEb2lPbmRNZWtYcmRPN3NmYkRGZDVWemRHTVZMVzE5Nzl2bEJINlFYclQ0WFNkU0xOZ1ZyUnVjOXNqTXJqb0xaYk15OWhocXVZZkdMTHBXOVFLdk16NGJq0gGsAUFVX3lxTE1CMWhXbmlObkxzdXFydHY0LV9lR29pYnVwNXBwekotaFZPdWFmN0g0bkVXRmlfRzY2UVVOTWM5SlBKRjFtUm1FLVlPY1ZjSjR5SFVSVURvaU9uZE1la1hyZE83c2ZiREZkNVZ6ZEdNVkxXMTk3OXZsQkg2UVhyVDRYU2RTTE5nVnJSdWM5c2pNcmpvTFpiTXk5aGhxdVlmR0xMcFc5UUt2TXo0Ymo?oc=5"
- },
- {
-  "ngay": "2026-10-08",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "[SMM Nhận định thép cây hàng ngày] Giá tương lai giảm kéo giá giao ngay đi xuống; Nguồn cung thắt chặt có thể hạn chế đà giảm giá",
-  "tomTat": "[SMM Nhận định thép cây hàng ngày] Giá tương lai giảm kéo giá giao ngay đi xuống; Nguồn cung thắt chặt có thể hạn chế đà giảm giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Shanghai Metals Market.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Shanghai Metals Market",
-  "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQbFVmTVpMalYtNHU0ampZWW54OUFkQWRiQlFBcXdTRi1sU2VndVo1cGtONk4yYV9tMDhjSkg0eExiTlN3VG5lRmxXYUZQXzVMQWRFbnZsWnpvTjhCYW9nTGE0Q0xnTFd3eEljclJuZUx5WEhVb2sxNEdzeGFiUmdscWVOaG5jRzM1TzMtd0ptTDFXUkFPUlEyOE0wSVBFR0FENTJsZkhXMHBBRzhyek5HUVpVcl9tWkdUTmM0UVhxaXo1RzZiNGN3eHd6eG1yaVZIc3FrUzdocDNQT0dQSDJyMEx4aWRnNnJacTMxVnZ4VlhIQ2VjUFdBdm5QVFlNc1VKWl9XWXN4VlFoa1RHeWZ1aUN5R0lnOXRSSmZYVkthUXR5UjI4ZlppYk96UXI1NEtuSEVvU3BnRzMwMHhVSUlneWhxUXdzYlVtbW5WR0FnamtrU19zRzlSNGJGXzd3X0tsZnJrT05VVmdWaHZtNWtVWTVuUFI0M1V2Tm5IcGNOWVUzVHF4ZDFCcXpwTlVHTDFodnF5aFVxLW9PSm9BYmdjbkxvWldNX25UOGx0dUxsTkFRd2VTTTZpQlpaUFlKWUNoY0tINjE1RG42U3dSMVRqb1dTUG1qSml5TmJLTjFB?oc=5"
- },
- {
-  "ngay": "2026-10-08",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh chuẩn bị nguồn lực, hướng tới hoàn thành mục tiêu nhà ở xã hội",
-  "tomTat": "Quảng Ninh chuẩn bị nguồn lực, hướng tới hoàn thành mục tiêu nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Pháp Luật Việt Nam.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Báo Pháp Luật Việt Nam",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjB6OGtoaXRNWHJJRnhpcVNxbS0zUTNVSVBZZmNaR2lidUNrdWhpU0RsellkRjdaZklwck1UVjVZVG1mUFo2QzdKc2ptU01wTWVxUzVvTUV5dC1wd2twZ2xqeDZDcDN1ZDRnVGR1eW9GNXN1RkYyOVBlbkY0aE9wb0hZNVlFSlFtSXhrY3NfUlBrMEVsQ0xkUHNzS1RuVXIwdFE?oc=5"
- },
- {
-  "ngay": "2026-10-08",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lào Cai: Tập trung rà soát, điều phối nguồn vật liệu xây dựng thông thường phục vụ công trình trọng điểm",
-  "tomTat": "Lào Cai: Tập trung rà soát, điều phối nguồn vật liệu xây dựng thông thường phục vụ công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWJ2SHpTSkNNbG1nY0trNDl1bDZJVy1mS3hwN083X0xQX0d3aFZKYXg5YTdxdzk5OTl6SnZMVnQtQ1p2REhvUklFVWFZZFM2bWNzeUFmeW0zN00zbG5PbzBaallUVmROTFo2UkxyVWYzUENJb0V6RHpwNXlGR2o5Rjl0QnVTeWl2dzJadkhUSWUwZldtTnhQN09tU29xQlRkcWdJOWR0d0NzTzg4X1gtX1BFYjZ0MmdscFVPMkVzY3FEcVpKaHozeUlOeUV1eDJEalR0QWkwcTgyU3lqaEdDaVBKMA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-17T17:03";
+window.TIN_CAP_NHAT = "2026-10-18T06:54";
