@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-19",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Phú Thọ: Siết chặt quản lý giá vật liệu xây dựng, kiểm soát biến động bất thường",
+  "tomTat": "Phú Thọ: Siết chặt quản lý giá vật liệu xây dựng, kiểm soát biến động bất thường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "dangcongsan.vn",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzNQR2xPMmQ5TmpFUGZITkk5LVNSY0pLZDVjdVhFS0w4Ql8xV3ZtUkdjbWszeUtwT1pDUnA4T29rZ0phTmticUxiaWFwNkVwSTFqQU1pSWRkWWN1T0tIZld0Qkx4djZVS1hGZFQwSm5ObVluZGtsVWlHUUJmRnZPM3NVQzdacVo0RVZfMDBmVmJXcldwRzdZZXhfRzdfRnkzemdSYkFNczNwMEJoZVByVGU2bTZjSXZDTTlLNTQwTFc1S191VVBYY19Ga1B3bjNXaHpBUg?oc=5"
+ },
+ {
+  "ngay": "2026-10-19",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sở Xây dựng Hải Phòng công bố thông tin giá vật liệu xây dựng tháng 9 năm 2026",
+  "tomTat": "Sở Xây dựng Hải Phòng công bố thông tin giá vật liệu xây dựng tháng 9 năm 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDBnQ09nZHhuX2laX01wcWtrQTRqemZNRl9iUldqM1pjUnN1LWxDNktTcXB5bkgtRDdPNnJhRkhBOWlzTlNiWm9WRjJWdHpoS3doOTAtV1c0X1pUR29oVUJ5WDFzMi1zWHQtdnVINHBleGZhdWNyMFdIekxvOU1ZWnowUERNSzJON0dZaGFnb0FXUXVicmxuam9PbG0zTUV4U1NkV1lSWklXZWlnUHVNWDlXWFhnQy1wN2lEZ0pCOWdZQnc?oc=5"
+ },
+ {
+  "ngay": "2026-10-19",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Quảng Ninh: Quy định mới về cấp phép xây dựng có thời hạn",
+  "tomTat": "Quảng Ninh: Quy định mới về cấp phép xây dựng có thời hạn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "dangcongsan.vn",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXRFYm1hSVhmSHdLOWc3SXJ0Sm5MNWVYUUxBVTZqbTVWRXNzN1dBbGtnOXR2SHdsUEg3RWdSOEFFN2tYLUdneTk5S3ZpN2FkMjJRTTc5cXRHR292WE1hbzl2V3J4Q0lDeHNjUmctUV9zMFp3SmE0S085TzhLQzI5d2NtTmQyUV85OWllN19naEtkOFR0dGxfY0txRWZZMjRoa0xvZkc3WVVxUGVqX19JVjJBLTlRdkE?oc=5"
+ },
+ {
+  "ngay": "2026-10-19",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Kiểm soát chặt nguồn vật liệu xây dựng cao tốc Vinh - Thanh Thủy",
   "tomTat": "Kiểm soát chặt nguồn vật liệu xây dựng cao tốc Vinh - Thanh Thủy. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baodautu.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Báo Thanh tra",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1Jfd3h3SDlPRmhLOUcteURNSldmYlpsYkFOTVJPYmFrWW9OaU5PYld0TTUxa0JGNlREeGVPQkxabmRZc3RBZEZuYXdobkYwUHhsSGxEX2hVSEZCbHNhYXVpYVk3cE1zeVBxVVJuU2hKVmV5OWpKb1NWWDdkUnV3dHRhaXAtV0ZVMTJpcVNtZmdmcEVMMHQzOU9LdTZ1V0RqWVJfUlJIZ0EzT216Zlo2Q2RIdlo0RGlKT2RFYXRWZ0hJWG5wVXMzV0RWVVM0bEs2NXFoMTI2ZHJWZw?oc=5"
- },
- {
-  "ngay": "2026-10-11",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Dự án hơn 2.000 ha của Bầu Đức vừa được cấp phép tại Lào, chuẩn bị xây nhà máy gần 10.000 tấn/năm đón đầu thị trường tiêu thụ gần 30.000 tấn mỗi ngày",
-  "tomTat": "Dự án hơn 2.000 ha của Bầu Đức vừa được cấp phép tại Lào, chuẩn bị xây nhà máy gần 10.000 tấn/năm đón đầu thị trường tiêu thụ gần 30.000 tấn mỗi ngày. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcUdTVFdfbEtGdUY2Vnd2bzlweDF2Ump5TllySG9QaXZLQ19ZbmxyY2h4cE5qVUpkSk9XWkxJV1pZSTFoeHZzRkpQVmxxTnNfMlppRmJYR3ZhNjVHMW1vVVFiRXF6b0VFSjk1Nl9XM3BTNkRfTV9RWVd4TGhfZjJCWk5CNXVKOXlzMzZlSmxzRGtTNEtsR1FmLXh3N1VtMXhhaWpuSmJDbzY1bkhCVEJ2UHJjek9vUU1JY0xyWVgyYXNwenJ0OURKSTNNWGRub3hONC1zSEhvaXQzTFcycktGTDF5ZXF0Qmh2LTdicm9IWklFOHNqNmNNT1llSnZHYmdCR29BRko5Qm0xWmZfa3V1WTN3MA?oc=5"
- },
- {
-  "ngay": "2026-10-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "[SMM Đánh giá thép cây hàng ngày] Người dùng cuối chủ yếu mua theo nhu cầu, giá ngắn hạn có thể đi ngang",
-  "tomTat": "[SMM Đánh giá thép cây hàng ngày] Người dùng cuối chủ yếu mua theo nhu cầu, giá ngắn hạn có thể đi ngang. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Shanghai Metals Market.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Shanghai Metals Market",
-  "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOaUQyQU1NVXNQR3o0SjBBRFExaHlEQlhMdzNGeGVBVjVNR2N6eTJzVV92UFhhcmJKUUh4THZURmstUFdORGx2WndlVmxJMGlxQ0lnMkFIZUV0YzNOczRpRmhYUDR3VWpnb056cHFYV2VPV05ETFVUb2tDdzlPVjAzbkYycWI5MVNBby1VOHRwNXkyU3dCQWk3U0ROZFZGblRQLUduNFotY09qNjFKcTVyM0MxZDVvRThMc2NzODBwSDZMcFUyVFl3NEhlcmRaVmluRjdtTFBVcmdqanJDZEsxbzFhS1ZLZzVqUlRGM0doVjFZcGY2RGV0ZUJad24xSEg0RVJEaEM4NFA4eTJjTUltM0xwMUFUT2Z0V2hJVWEzQko0ZXFRWXBFZFZFbk1nX0k2S2RDTUFoR01PODg2ZWJ6VTNmQUZZTV96ckN0YTB2SmlhdDlGZEVJV2N4Z1hyU2c5Z09ZcFhfaHVQLXdkOG1QdXp3ZERkN3ROMWhZUDA0eWQxZG01U2lNLQ?oc=5"
- },
- {
-  "ngay": "2026-10-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cước vận tải quặng sắt tăng 80%, giá thép Việt Nam tháng 10 sẽ ra sao?",
-  "tomTat": "Cước vận tải quặng sắt tăng 80%, giá thép Việt Nam tháng 10 sẽ ra sao?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kinh tế chứng khoán Việt Nam.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Kinh tế chứng khoán Việt Nam",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05FdWN4RnhnRXpPS296djdVckM2SHU0clc1OF9qaDhJekZlUTZSdTNmakZJeEFmMUk5MkRJWDZpZVlHRDBRTFlUZ1NuRWxCRzdoSXNieTk1ekRCQXF3aHhtMm1rMzN0MDI4NGhMcW5JWHRYZ1VGWlZGQk5JQmVmWGZPQVVSRFBqc01qb0QzdVFkeXJjMUFjajJLNA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-19T17:14";
+window.TIN_CAP_NHAT = "2026-10-20T07:01";
