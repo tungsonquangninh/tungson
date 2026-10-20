@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam",
+  "tomTat": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Chuyển động Thị trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Chuyển động Thị trường",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVBYR0NtVUtDTXhDeWlFeVBGMnZGbm0ydVYyRXZjVk43Q0YzOXBzOU5acFhNVGpPamdLZnJ4djZUZ1d0SWQ0bkRnbEliSnJCcjNrM2JuQ1FWb244MjlZMm1scnEzdEtlQXJBNUdndTN0UEZvSWYzeVZjY1VVcWtxNTZNSDZUWm9JalV2S0lLSEZqdWM3WmpGMUhyMlI4bVV4eDFJbFptZk10dDQyRW5hNzBsQVlBb0U?oc=5"
+ },
+ {
+  "ngay": "2026-10-20",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Quảng Trị: Rà soát, điều phối nguồn vật liệu xây dựng cho các công trình, dự án trọng điểm",
+  "tomTat": "Quảng Trị: Rà soát, điều phối nguồn vật liệu xây dựng cho các công trình, dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEFrYmF3cERkM25Ea3B0X21RMFhZM0F2anBYcENQekxya1dmaFVmb0Jpb3ItTGdRTEZzQ3RCT1VEYzIyNFRNaUFReWhPb201Q3BZWl9iNkY3T213WGVBRTNEYm9sNHNvdUdpc21LdU53X3M0MS1FYVI0UVFfMV94UUlBUHB3VWhHVmI2LUU2UGlBczJ5enhuaGcyM25wNHQtdGlkQmFlbDRzeEdDTmxB?oc=5"
+ },
+ {
   "ngay": "2026-10-20",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chỉ đạo liên quan hoạt động khai thác, cung ứng vật liệu đá và việc sử dụng báo giá vật liệu của mỏ ...",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iVE1tWlZ6dFpBT3UyYWhheGxjOG5kY2ZRdzRCR3BPdzAxak1VTTNsZl9sM0pSeGhGaTZmZVBiR3dmMnpIcHIzNUlOeTMxLWdoREw1M2pfWXZMUlYzaUg2LUVtZ01wSk9KaDFOR0RhN094cHAxRDJKdWd6MEs?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh dự kiến cất nóc 3 dự án nhà ở xã hội cuối năm 2026",
-  "tomTat": "Quảng Ninh dự kiến cất nóc 3 dự án nhà ở xã hội cuối năm 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHYzd2RNX0dGWjlwWlo0S01DY2xUbk16Tkc0RVJ4b0U0b3puUFpZRU5mbi1VUGFtVUtLMmhnSkJ1clFiZGZiSWJPMW9kc3hEa3BMZzJQQnNqY0R2anJiX2NWVXdOV3RvQmt3ekJ4eGxxY2liZ0J5M0wzT21INWhhSEszcFZiQ3ItSG5qNWNkZVB6Q1h2SmJ0RHJBN3c4X0RmUzVBdkwxLTY?oc=5"
- },
- {
-  "ngay": "2026-10-11",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Dự báo giá vật liệu xây dựng quý IV tăng nhẹ",
-  "tomTat": "Dự báo giá vật liệu xây dựng quý IV tăng nhẹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thời báo Tài chính Việt Nam.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thời báo Tài chính Việt Nam",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFh5ZmRwMWo5eUd4MXpsVVljUEhORThoT1J6R1lmcERfMTRraVdCRnhuZ3lKVjZ4RlBLV05PdGpoVFEzQ1RNYjBVQzFuRWRvTEtJV01YUXN2Ql9rNEhlRHRmbFlVWkgzeExpTkt1eFcwcFkyc2pGOHhPbVlURUlDWjNYOW1KTkpVWTd4YlJ6QWkxN3pyamRFajhla3d6dw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-20T17:09";
+window.TIN_CAP_NHAT = "2026-10-21T06:59";
