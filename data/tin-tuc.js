@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-21",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm",
+  "tomTat": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Pháp Luật Plus.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Pháp Luật Plus",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTFEUUw2ZTZSbHpGOWdtRU00SFZmRzVoeE41S3h5VldlaXU5aWt5elR1cVhvVGNHQVNqRExoNTVZY1preGUwNmtsSTZQa2JQajJHY2oxWmc0T19qUW54cUJraWFWaFB3MTlmLWFqaGJQM1JPdXBCc3I3YXh1Q2ZnZWtPanJyaWFVT1MzM2dkS2h5Q0N2MGJscXBncmJ4bUtfZVdaRi14VEU5dHJGTExvSDBhVGQ3NzdMWHU0NGpKdWtmUXJITFpNeHNkUnE5OFpFb05jeEUxNlRtdThCR0FuNXN0Nkg0R0k?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thị trường thép trong nước phân hóa, giá quặng sắt thế giới tiếp tục chịu sức ép",
+  "tomTat": "Thị trường thép trong nước phân hóa, giá quặng sắt thế giới tiếp tục chịu sức ép. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGVzS01BbjZoMW9qQ3RJTlJ4TU1LVXNaSFNPWVp2SUYwYnphVFppTXVYWWRSUDlzZXVWYk0xNE44Z0xRWjJpNVVJaWlqMnViUkV6NUtsM3VhUlpLWlBXRkh5WUk1T3dtV3dYWlJTT0traTJGaWFKaFpOU1BkQlBkWENsSVozS3dZc05kZFNtYTFJWEk5VnBzUTd1U3ZKQW1WVTJEUlVYOFpJdVpwWTJTZXUwOGstcVhWVlpuVXp5N2Y?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hà Nội giao loạt đất ở Đông Anh để xây nhà ở cho công an",
+  "tomTat": "Hà Nội giao loạt đất ở Đông Anh để xây nhà ở cho công an. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnExpress.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "VnExpress",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHY2eW43ekFhUjRzTG5GVGFvUlJzX19hd3E2MmFISVZMV1RVNWlRWmt3bEFGcFlYSlNhOUdLYkxBNmdqSEhmUWZva3JoSVFsNk5VZ3F5UU1KRWtYaW9ubFJTSGdSa296V2RWby15Q01qRWVRajdhVlh6S2gzcmVjUG56emVoRlFfRms2eEtjR2VNZjF4dkE?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Quang Hanh, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Quang Hanh, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYi1IbmVJbFVpOVR1VHU0QjNsVjBBaFVTNnhFMVhlNXdrbENKODE3WFM0enZBRE5OeXZXSVJTR2xXX0YtVDQ2bXRIZWVndDZwb002cURtOHBZRkxYRlNKN0V3cE1JOE9zZ3BDOVBqdkxFRjN4NVA1WFI2dGxXUUxTcU9YTTNzQ0VwbVVXNzBER3B1ZUUtb2hqUkVn?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam",
   "tomTat": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Chuyển động Thị trường.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Xây dựng",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnExeEFOOFRwZzBMWmIzcEc1RVpwZ2pKX251aG13R1l6SlppZjU3M2xKOUlSeWNDSTZXWDM1Q2pSVDBGMXlFYlR3WTRCOTN5TzBoQkd0VXRfMkplQkZtSk83QW01ZlAtR0doemMxUGdOMGhwYlNmZnFfZDNGb0pGalJQREM2SEkwY0xNT203RzlaVHVIaWlUdGx2ZXFyWnZO?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Hòa Phát (HPG) tiêu thụ hơn 10,3 triệu tấn thép sau 9 tháng, tăng 39%",
-  "tomTat": "Hòa Phát (HPG) tiêu thụ hơn 10,3 triệu tấn thép sau 9 tháng, tăng 39%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRoZlBqZ0NCajdZSy1CUU84WThjSHVUV29tanljSVRWMTBlNTlPMk1DTDB2OW9oNUdBVFg3ZlRlakQ3djN0NEx5OHdwWEVGSTdhTkVRSjA0R1ZIUGJVTTRYNi1oWG1sLXdxQVdJVzFjWllNYUl0SGo3dGNibnA4WUNTVUYzMHZheUpqS3M2ZTl1dmJ2RlJXOVc4dFhpODY0VnVGWDVhay1oNzNZOE9USERn?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh sắp đón 1.238 căn nhà ở xã hội, giá bán từ 21 triệu đồng/m2",
-  "tomTat": "Quảng Ninh sắp đón 1.238 căn nhà ở xã hội, giá bán từ 21 triệu đồng/m2. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFlpS1ZBUmlBc1J4MVdFeWhKQUh2RFVPLThaZXJKbXlhSjFjSFZwRXdJUFVSU3V0RVF6Wm9pNWxYQjc0WGIwQVJqN2dpRW82WlQ0dG9NOEsya0k2MWp0dEF1bEhSSVhrTElxZ1BSN1FELVI3cTVsTWkycmxfVGVzSFlLWVhuZFBZTHdKRndWcm9jcVZ0dnNlZFlEY1MyckRlQk9nakFRTEJHczA?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer",
-  "tomTat": "Doanh nghiệp Việt Nam làm chủ công nghệ vật liệu bảo an cho tiền polymer. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Dân chủ và Pháp luật.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Dân chủ và Pháp luật",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkdDVkdBa0llTmd0OFpjT3Mxc3VkSVVrNVAwMzBjZWpzVFBJc093QUNqaUtZVHlQOWUwcWdVSlpsanVzRVpfSEZXbm9BYkUxbmNhTGxGUUg1SDlQd0hSc0xTc3VYbGt5THVvNUJRRVhVVjhEUC1pZnNubnFBUG1GdG1uMjQ3XzBFSjQtM1VVdlp0VmFsWE01ZmFPWS04Nlgya1Mxbk9ralUwbVpzTGc?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cổ phiếu thép ngược dòng, VN-Index mất hơn 14 điểm",
-  "tomTat": "Cổ phiếu thép ngược dòng, VN-Index mất hơn 14 điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iVE1tWlZ6dFpBT3UyYWhheGxjOG5kY2ZRdzRCR3BPdzAxak1VTTNsZl9sM0pSeGhGaTZmZVBiR3dmMnpIcHIzNUlOeTMxLWdoREw1M2pfWXZMUlYzaUg2LUVtZ01wSk9KaDFOR0RhN094cHAxRDJKdWd6MEs?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-21T06:59";
+window.TIN_CAP_NHAT = "2026-10-21T17:13";
