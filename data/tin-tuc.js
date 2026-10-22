@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-21",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Trước 25/10, báo cáo Thủ tướng việc điều phối vật liệu xây dựng giữa các tỉnh, thành phố",
+  "tomTat": "Trước 25/10, báo cáo Thủ tướng việc điều phối vật liệu xây dựng giữa các tỉnh, thành phố. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baochinhphu.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "baochinhphu.vn",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSERTZjdYa3lMZ20zNEtEU2NRX09KYVRvUFZvV1QtbDYwWlZVNHhDNmJRYldOVGFsMTlLdnBmcU0wRWJvNGJUaVZtSWRvT0FhQ3VrNmZhOFA3dnhITjdSTkJKSFRpZFh1RUJWVngzV3NHcmhHU2RycVRqTTVYLWptM0FuNE8tc3JFeEc4aHM4Slk5Y0ozZmh0cDlFSHFNajhOUUFHcFYza2JsY045eFliTWVZYXltMlhJdkFUT2lVT1l0NVJJOUZsem5LMlBKaHk3WXB6U3p3VzBFS3U2VklJSlNsQXVpNWQ2a20yY1QzZDVDM3lLV3AzV2EtbGJ3YTdmbkNvR1J3?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Công tác hợp long vòm thép 3.400 tấn trên sông Sài Gòn",
+  "tomTat": "Công tác hợp long vòm thép 3.400 tấn trên sông Sài Gòn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "tin.skydoor.net",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVE1kWWJQbXlxNzh3enRsZnRBMlg3OEY3b3NEQ0g3QVkwMWFncTdjQzdVdGlwWmVzRWgycThvbzRwR0t0SHN2Zl9rNVh5aHpsZEFvNk9jYzVKNkRlbXhPWG1RV09xTnBBenRqTV9tdk1TM3luZUxVVzRScXRwV0h1Z1dhOA?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bộ Xây dựng nói về việc xây nhà riêng lẻ ở Hà Nội bị phạt vì không báo khởi công",
+  "tomTat": "Bộ Xây dựng nói về việc xây nhà riêng lẻ ở Hà Nội bị phạt vì không báo khởi công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUktBaDVDdThZbkJ5NTNZVDFKNEFsSVpuRVJObHowb3EzVDJMODdQNzRZM2dWalZzM1JfNTFON3JrdHQ2ODM3bUhxNlU4ZkZpNkh4eXFRTlo1bzdkdGxsdjB5Mm9UUXZvSWs0OHpfNVdnYjh5Mk9WSzdmbjI2aHlnbWthMllGbUFLRGE5b0ZDMUdTa3I1U2NCZE1Ec3BjRGRxcy1Jc29tZ1J3Q2g5dXVsb19za3R0dw?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh: Siết nghiệm thu công trình, kiên quyết loại hồ sơ không đạt yêu cầu",
+  "tomTat": "Quảng Ninh: Siết nghiệm thu công trình, kiên quyết loại hồ sơ không đạt yêu cầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVoxbEVWQVc2bGZnUmstMDNZUUNrcWdHRzQwZVdKVHQ0UTJQM3J0dktUZDZmTjdpYnZYOFNya0xhMzBpRUNUYndTaXJFTEJaSHMyLVF2dk1PRC1MS2VYTHdEQUEySFUyVTE2UXlUUTdZTVNpSVpjRjdiQ2pXVEVPVTZmbWJMNTR5clJ4Z0puT19vLVJkS2gwV3QwdGxIY1JIWkQ0YzhNVldaZWdnNHhuMFBCLUJSMWFhVEZlbFNGZmY2LUNJWldZ?oc=5"
+ },
+ {
+  "ngay": "2026-10-21",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm",
   "tomTat": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Pháp Luật Plus.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "VOV.VN",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1pNkpvV2Z2QXVXaV9yTTRlWWs2dmVLTldrWlEzRTBsYUY3cmFqMDkwTlk3ZWpnM25hemx1TzFhRWNYSkY3WVVWRXhudzJNN01pTlNGT3pWSEo3d0QzemQ3TXN0bGh0Uy1VRTR1bjU3TDNuZi1PaGZ1a3Fac3dtNlZ0eWNWTDFyZmdGZkRUSjBYMG5qZDh3RUhKVUx4NlI0Y0V4Q1Bkb2pPSlU?oc=5"
- },
- {
-  "ngay": "2026-10-13",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Phú Thọ tăng cường công khai, minh bạch giá vật liệu xây dựng",
-  "tomTat": "Phú Thọ tăng cường công khai, minh bạch giá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Phú Thọ.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Phú Thọ",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODJxTkxMNGl0QXhWQ05EQ3BQM05YQlEzbUI0c0xqaDhRbDBQR1VHSnpPdGFSNUIxX0tNMWF6VHhCc3pmUDZKREIyUVhlU0VlZXpKVmV2YkpINHE2UTJtblhJMVYyTG96bVFKSDFQSkstMXpweUZHMFJDRWFEMmYycmJtSHhXUFczVFV2TW1JVXdkSTN5eEhB?oc=5"
- },
- {
-  "ngay": "2026-10-13",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "TPHCM đề xuất miễn giấy phép xây nhà dưới 7 tầng tại nhiều khu vực",
-  "tomTat": "TPHCM đề xuất miễn giấy phép xây nhà dưới 7 tầng tại nhiều khu vực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Toàn Cảnh Bất Động Sản.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Toàn Cảnh Bất Động Sản",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaG5PZUVwV005T2NhQlN1WHJ0NWpVMEdpdFVNOGctNjdnTjdVcFVhZENudkM4TElVemRjYnBkd1ZOazFLT1BaakNFdEc1akdXcFdLcjRNb2xnOG1uN0ZVRXVYLUtxZnR4WVJfaDVFa3NiTENRZEtMUDV6ZElfMHNjMzFDSll6VktIU1pIM0cxWlRVeHlWYkU1bUZUUndBREpsd3lqTndHN2dMQQ?oc=5"
- },
- {
-  "ngay": "2026-10-13",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh sắp bổ sung hơn 1.200 căn nhà ở xã hội",
-  "tomTat": "Quảng Ninh sắp bổ sung hơn 1.200 căn nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhadautu.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Nhadautu.vn",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVNnRTgtNVhPRW1sRWgzcDZoVmhEYnBaR0o5bVN1OFV5RExXaUdfVVRHNGNQVDNTQnI5SjhrcnZ2YndhNUFSNEc3ZTlxSGtmZDYwaTBzUnp6RFNvTVdNdG5IQkU5SG5Qcmt3cTc5RVZKRElaR2EySDNKTVpxNDdLRUdZQ1YwRXcw?oc=5"
- },
- {
-  "ngay": "2026-10-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cả nước có 135 sản phẩm xi măng và clinker công bố EPD",
-  "tomTat": "Cả nước có 135 sản phẩm xi măng và clinker công bố EPD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnExeEFOOFRwZzBMWmIzcEc1RVpwZ2pKX251aG13R1l6SlppZjU3M2xKOUlSeWNDSTZXWDM1Q2pSVDBGMXlFYlR3WTRCOTN5TzBoQkd0VXRfMkplQkZtSk83QW01ZlAtR0doemMxUGdOMGhwYlNmZnFfZDNGb0pGalJQREM2SEkwY0xNT203RzlaVHVIaWlUdGx2ZXFyWnZO?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-21T17:13";
+window.TIN_CAP_NHAT = "2026-10-22T07:00";
