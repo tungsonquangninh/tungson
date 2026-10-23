@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-23",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ông Phạm Lưu Hưng: Lãi suất khó giảm sâu năm 2027, vật liệu xây dựng sáng cửa",
+  "tomTat": "Ông Phạm Lưu Hưng: Lãi suất khó giảm sâu năm 2027, vật liệu xây dựng sáng cửa. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUtkWUFjNkJ1T1U1aHZDZlZWcXRHeDVqRjBoOUNDNjFsb085MExmbUFQamdOTVZ6UmIwN2IwWGJsVDF5NC15Y3FNNndDYVBMb0Z5b2VjZmtoMkpETEU3NmxJTkpjMjFqdmN2bkI3N212cTlDS3NPN2hKSHlkSjhTcm04aHIwUHF5M0JYbFVKZnR3ZjhSRVNxSmlMaV83N1l0MDlTOVNMRXJJUnlDNzdJVUF0Z2NPN2k3Z01r?oc=5"
+ },
+ {
+  "ngay": "2026-10-23",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Việt Nam thu hơn 6 tỉ USD từ xuất khẩu sắt thép sau 9 tháng",
+  "tomTat": "Việt Nam thu hơn 6 tỉ USD từ xuất khẩu sắt thép sau 9 tháng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Dân Việt",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm1TMXdDUU9RLW53RFJFOXdlVUswYlBJaVBWem1UclYxeng4bHE1UzJuNVVkZFNYajl2Q1ZqdTMwY0c1REF6OHNfWGVpeDB6TGt0ZlBjR3pOQUlLS3lmNDgxSV9vcktrYnRad0hnYnBDcm5qS1BPNmk5MmlFSlh2MUVTTC1vbk9xa0U0Wnh0TXQzZW8tWVBZ?oc=5"
+ },
+ {
+  "ngay": "2026-10-23",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Miễn giấy phép xây dựng cho công trình đủ điều kiện, tăng cường giám sát tại cơ sở",
+  "tomTat": "Miễn giấy phép xây dựng cho công trình đủ điều kiện, tăng cường giám sát tại cơ sở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "HTV",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFN6UllvS2trR2RncFpGUHpWOW9BSlIzdFdWMk1EZXI0M0V0OXd2TWh4RHBWVFhONm1DdUN0X1ZUTTFkVWtjYVB5bnY5R2lhNnR6ZjJqNndYZnkycG5WZlBTanI5NURBWVExSWtlMkFuVUh4SjJuQ1R0OVppQ3VZOS1vcnBaUkctVkVIOVBPZnVFRFAxT0dtSzBCZm0yMzNEQzI3b3RxZ1pNWTk3UWM5Wm9aX0ExRm1LSm5N?oc=5"
+ },
+ {
+  "ngay": "2026-10-23",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ",
   "tomTat": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Ngôi Sao VN.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Laodong.vn",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkhyYWw0cDRlMFdzYlJESXhLZHNua0tqMU1Odl9Yclp2U2c3a2lmOW5IN2poSFNqT1RlcTRLQ1FDbEpMUXFqMFVaNzdyNk5NNEJGV1d3c3RSUm5CbnpBNFU4NldNVVhQYVBBUURvM0JNWW0tOHpNY2xEZG9yeDVHLWFlMXFJNWNCaGxVNnowRzZCLUJXOTI5WmVxdw?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nhà thầu xây dựng và doanh nghiệp vật liệu tìm \"điểm tựa\" tài chính khi giá kim loại biến động",
-  "tomTat": "Nhà thầu xây dựng và doanh nghiệp vật liệu tìm \"điểm tựa\" tài chính khi giá kim loại biến động. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGhBV2picXg1dVZDdVFmMUxyc0FpeHNTQzlnZF9HU1JrM1NWS3Q1dW1kOGppcXNjS3dleGt4NmNqdWwxdEc2SUgxNkxsUkd6aklIVFZSUWZnVzFKMGR1TVVhWXlDdTR5LXZYRlRsa19wZzVScTZJWTBRcFk0QzJ0TmhhMFNLUUI0d2tuZ25sRmtoY0ZUZk1ENi1yX0ZTZEtXbVVxNzFwY1J4bDFURDB2QXFqTm1hZw?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Sunrise House: Dự án nhà ở xã hội tại Quảng Ninh",
-  "tomTat": "Sunrise House: Dự án nhà ở xã hội tại Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDliYlV4V3g1S01FdG5NNkphd0xOWF8xTnFfN1dzSTFoUGlaZ0dnVF9yOG4zMERhVzFEZmJXZzhrM0xrRWtlLU9uZzBIOEVjd0hpekhVLUYtZHkwWk9aSHpISHV4aUJReTRnQ2l2U05PRU1xRmk2UnVibU5Pa0RYbFBJQ1VxczFlNmc0?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Khởi công Dự án Đầu tư xây dựng Nhà máy sản xuất gạch ngói Na Dương - Báo và Phát thanh, Truyền hình Lạng Sơn",
-  "tomTat": "Khởi công Dự án Đầu tư xây dựng Nhà máy sản xuất gạch ngói Na Dương - Báo và Phát thanh, Truyền hình Lạng Sơn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Baolangson.vn",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPallnbGFNdzJyZ2hzenVuV0dhVElBcV9USWpGalYxaEs3dXZfQ2hvdUhKcHNXS2xHQVJDeHNnVlFudDVPbXFMSklCTmhCTUQtRmNCYXdGWFZhd0tYTkFNTmxQQWJ2MXlOLU8wQzJ4NmR6S2N0SmdkbTJYNUlCNzRXYXpqLXhhUzVieFRrV2FaUUcySWx6aDhGLXhzVkEwSi1ZOF95dA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-23T07:00";
+window.TIN_CAP_NHAT = "2026-10-23T17:12";
