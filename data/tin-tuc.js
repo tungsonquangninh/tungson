@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-23",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ",
+  "tomTat": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Ngôi Sao VN.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Ngôi Sao VN",
+  "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZ1l3UEVZR18xMGltMXFodFFtdzlUX24xRGtEbWxZOWVyRFkzY1JqWEVMRE9QOFBMM2J2VEN3ZEEwcV9mV2FiWlBPWEY3TEtBYXgwcEdudTFpTmdTTlJRQW9TSDdCTnRKaXY4Zk43RGtSbWRxcW1Gdmo1c3NLOTNNaEdYSlJkSHYzOUlQMmlJRjRNOWc1T3B1VFYwQzBZb3JNUmJaSG9QSmRyZGxqNVQ4bjNQUzdWcFE3c21QUTlJZ21tNVBXZHphZVU5NjJ3SzVpSi1yb2oxMktlZ01EWjdPX3FvTm41a202eDd1QWh0enBCb0VLY2ljWnJ5NVVjdlhSdzlUUTI1MGZqR1JUMU5jX2ItQmRYZjZodHVGSTJ3U1hoUjFBZGMwS2pJRlM4N3Z0YXVZTURiVm0?oc=5"
+ },
+ {
+  "ngay": "2026-10-22",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tăng cường quản lý khoáng sản làm vật liệu xây dựng",
+  "tomTat": "Tăng cường quản lý khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Sơn La.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Sơn La",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkFRR2VBNUQ0alQwcWMwaTUtRk9pVUw3SzVoWURYLUcxUlJDNjhmYzJ4dWpMbmQyV2FiSHk2TmJ3YUYtSzdHMzFjLVRRYkxwa2V5QVo5NERTUGpxUGthWXg2MEdNVl80MHg1U2x1aVNmT3FWbGUtai1DbzZqcGFTa2JLN01QUjlXWGJKYTBHcXByWFZueVpRdGd3?oc=5"
+ },
+ {
+  "ngay": "2026-10-22",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bộ Xây dựng làm rõ việc cấp phép xây nhà khi chưa có quy hoạch chi tiết",
+  "tomTat": "Bộ Xây dựng làm rõ việc cấp phép xây nhà khi chưa có quy hoạch chi tiết. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1hUbmVPOFBoRkoyQ3FVVWg1bG9hT19Hc0pVNEhTZERzV0VrN0RVQ2Q5alFuM2VSTFFSSmY0YTZxN3FiandBS1ZFR2NyWWxBbm5fdjFJOHZZQS1iOTVIQkZGNUpQNHNmRHJpU09JaEtjaVliY19iRnljNGZYVV9hZnBKaUNTTEtUNk5Xb21aeWNDSnh2YmtfRV9fa1JNU25tMmtlc1p6SEpDZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-22",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh đẩy nhanh giải phóng mặt bằng cụm công nghiệp Hoành Bồ 1",
+  "tomTat": "Quảng Ninh đẩy nhanh giải phóng mặt bằng cụm công nghiệp Hoành Bồ 1. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "tin.skydoor.net",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNG1odThQbGlwdkpTWEdadXhaN0o1LWR1cnBCRWlMeHRvMEhHcUN0LXVKNENDTElxYlFKeW9mLXZIRnpFb2huZE5aOXVDLThMSVYzS0o1S2pNaFh3NTg0cVBPS3JZdXQ1MVgwU1VwNXV6WlBWdjhicVRIVnhrOFNDUXJrMW9Sc1lRUHc?oc=5"
+ },
+ {
   "ngay": "2026-10-22",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thủ tướng chỉ đạo mới về nguồn vật liệu cho loạt dự án trọng điểm trên cả nước",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Baolangson.vn",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPallnbGFNdzJyZ2hzenVuV0dhVElBcV9USWpGalYxaEs3dXZfQ2hvdUhKcHNXS2xHQVJDeHNnVlFudDVPbXFMSklCTmhCTUQtRmNCYXdGWFZhd0tYTkFNTmxQQWJ2MXlOLU8wQzJ4NmR6S2N0SmdkbTJYNUlCNzRXYXpqLXhhUzVieFRrV2FaUUcySWx6aDhGLXhzVkEwSi1ZOF95dA?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "VN-Index giảm về sát 1.700 điểm, cổ phiếu thép 'nổi sóng'",
-  "tomTat": "VN-Index giảm về sát 1.700 điểm, cổ phiếu thép 'nổi sóng'. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tuổi Trẻ",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzM5TTRKTTBwcjNDbDlwTmJib29XclExVTNjSUlQeXR3OVoyMkRBY2k3WmtOVlUtbWtjRlRjOExQRVkwcmthRnBpV0tIdTdmc2JHQ0JVQld1TmJGc0NmZzJtT1h0S2VpOHhIdmkxeWlpeXhES1Z0ZDdEMXFUV3NMT2Y5UnhHMTBBd1l1by1vUlNnWURhXzVNQkVjTQ?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "TP.HCM: Phường Tân Hưng, Bến Cát miễn gần 500 giấy phép xây dựng, dân mừng vui khi bớt thủ tục",
-  "tomTat": "TP.HCM: Phường Tân Hưng, Bến Cát miễn gần 500 giấy phép xây dựng, dân mừng vui khi bớt thủ tục. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Tuổi Trẻ",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzNaTDB6QnZ3ZExUNjVpc2F0dUI3ZUNKNTZPbGJlODQ0WnYtSXotei1xcVRqUWdPd2k0Y2xfTFBHVVhxTGJSUi1KeGcyUDFSaXlJNmVhOXVsZXB2UDdWVE1oa1p2a3U2TUViQ3REVm9TV2dOMVZYaDMtbWFGc2FzN3BlZGpsd2Q2MU5OOEJoNkE0UGdjX3hocHhPWHdZUTFmWWRoRVpSOXBvT2xHYnQzMjlFVUhRRFItTC1rQ2FOWVhGRG5ydkZ3cS0yaHE?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Bẫy thẩm mỹ khi sơn nhà màu trắng",
-  "tomTat": "Bẫy thẩm mỹ khi sơn nhà màu trắng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Znews.",
-  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
-  "nguon": "Znews",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4X0d5YUVWLVNoZkVRZmh2LTZkbzlIZjFjNVpJSzIzbHFkbXU3akpqbnZsMUNnem1fUU04OGM2TmhNdWFDSW9hODJRR0x4dXhrTjVzRkV4YVdTSHo4TGpoeUZiQlg0UU9lSmVOUjdNS3M1dzlSeEE?oc=5"
- },
- {
-  "ngay": "2026-10-14",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh vượt xa chỉ tiêu nhà ở xã hội, thúc đẩy hàng loạt dự án lớn",
-  "tomTat": "Quảng Ninh vượt xa chỉ tiêu nhà ở xã hội, thúc đẩy hàng loạt dự án lớn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh Nhân Trẻ.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Doanh Nhân Trẻ",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDhJR29ISEVRNFVQVlNDMWpaWVFTeGNpaTZxUGxENzBReGVGN25lNXBOV1FvbEpscFJQenZyd0tmeDc3MEt5Rmh5ZmtYOEctQ0c3REdPYVd1dTEwUUg3Q3dSQ00zazVmZXNIWnNWSElxLTRyR1ZZY2NTNGhwRlI4aVZlMGRvN0hnWks0LVRDZDhlSk45Nk5OSHNMOWh0NU9NWl9keEphVS0wTnFqMTZPbXN3?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-22T17:15";
+window.TIN_CAP_NHAT = "2026-10-23T07:00";
