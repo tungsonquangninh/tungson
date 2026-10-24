@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-24",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sông Mã tăng cường quản lý khoảng sản, duy trì nguồn cung vật liệu xây dựng",
+  "tomTat": "Sông Mã tăng cường quản lý khoảng sản, duy trì nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Sơn La.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Sơn La",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHlvMTFXUnktVXRWUXlFd2h6SC1GUDA3SG9Yc3hXTnNRTmVoelFscnF0X3NKd0dJWUpzeDRuZ25kc09TODk5Q1JjeldWRlhNSWY1M2lHcFJBVDBrVFNpd0c5dWRiLS1GRUJCVTdnY1NqWVA2VDBFUHhJbXdIMWNMRDlrRWN6WmR3N0cyUjVyZUFoMWZnbEozTEFGYnNEYXBucm1WQ095WVp5RW8zMjkzVlpULWI5dV9R?oc=5"
+ },
+ {
+  "ngay": "2026-10-24",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 24/10: Quặng sắt giảm 7 tuần liên tiếp",
+  "tomTat": "Giá thép hôm nay 24/10: Quặng sắt giảm 7 tuần liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFfallEVmdoQzBUX1d6R1pqbTlUSmNFUXMzU3VrcmJZM0lqRTFWYzdYb2ZPRmFxbUxkXzJWN3V3cFk4Z0lSVVJwcThaRVV4OUxtQXNCQXN3Tjk4MWJyOHhxVktuQVh0cllEQi1fY0k2YUtxVk40eDVyYlpVSDZrN2ZNUUIycVBzVko1YnNoVGhwd3R3aEhKSnduV0Jkdw?oc=5"
+ },
+ {
+  "ngay": "2026-10-24",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh thúc đẩy mô hình tăng trưởng xanh trong quy hoạch và đầu tư",
+  "tomTat": "Quảng Ninh thúc đẩy mô hình tăng trưởng xanh trong quy hoạch và đầu tư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "tin.skydoor.net",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1h2RFlteDEtZGN1bl9UOHZWZmtzQmdmZXZOUmhJSUp3Yk5Ka0JMNlhvdUF4N0w1ZmdhaHM1c0tTeUNSbjFUTHFPMDd6OHdfa2FBOWZqSE5vUGQ0WE1WZXUzTHRCV3U3eGdRcFg0T0lMTjZEVkJSdUxIREZhUTNjTDhhN3dZcUh5QV9lWQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-24",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
   "tomTat": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử tỉnh Hà Tĩnh.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3hOWkU3ZmQwNG1tOEFzdi1sbWZUdFBfcm1IczlLSnVYSU51MlpaeFFNVUtEMEZxSkdhMG5reVlFMnZZODdmNW1IN0VIOVVtc2dSd3M2bVpFQ3VDaXpOT0pIVUlyMGUwOWVRU3B0elppeVlFR3dIMHVYbF9rSmYtV3lXeFF2LURJV0t4SmpxTmRucUtt?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tỷ phú Phạm Nhật Vượng mở rộng sang hạ tầng: 5 metro, 700.000 tấn thép ray, 200 đoàn tàu",
-  "tomTat": "Tỷ phú Phạm Nhật Vượng mở rộng sang hạ tầng: 5 metro, 700.000 tấn thép ray, 200 đoàn tàu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3RBTThVaFhhakxyOUdpd21YT09UVVRCWTBEcVRDU3A2R3dQcDJFUjU2ZFoyTEZSUmlrTXp4NUJXbkRDa1QwNTdXMXpuQ0RwYW9BTzN4VlU3c3Z0UkdxNXVyblN0WWppYXZSbzdXNzAwenZhTnpJMlZXWlgxSld3VjFzVlJiNzJTdkplUFlkMW5uLTRmb1V1OVlNaWN2a1c2RU9OV2ktTVlIRVU?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Lâm Đồng quy định mới về cấp giấy phép xây dựng sau sáp nhập",
-  "tomTat": "Lâm Đồng quy định mới về cấp giấy phép xây dựng sau sáp nhập. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thanh Niên.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Thanh Niên",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1dYanF0RjFMd0VsYmZvU1dsQl9fT0JONkNVYnc2UnMzMmJXYkxEZWdvVUNqWS1DQlZNRFZHMmc1anlfYndFY1RZRTJPSWVzYjN2OWpVMHhjNEtROG1HR0l3NUR6ZWJVWXpqVDY4YXpOX1IybVZfeFFubUFVTDQ0T2ZPejJSS0tZT1RaR3JhRDZ6QkdSMF8zY3JfbFo2b0c4dmd6LVE2UQ?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình",
-  "tomTat": "KH SHIELD: Từ vật liệu chống cháy đến giải pháp gia tăng giá trị công trình. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ reatimes.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "reatimes.vn",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjVYQTEyY3VQZGhQYXhYRFlIOGx4aDY4emdQUnRwWWNTeWhuVnhYeU54TjFKeGhwajFkb3RFVzVyUDhXcU9Icl9jWXo1QVlyTXc5RGFheHVZUEZHeV9XeW5DUzFfby1TQnNGa1hXbzZISk1rVERVajhfQkdKVHZuZGgyNWtNOVk0UTNiVGJka1VQVE1EbnJfVmJ6RHNnUnFnYV9LVVF1YmVyRG95Q1B5M0s3X2EzbkYx?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-24T17:06";
+window.TIN_CAP_NHAT = "2026-10-25T06:55";
