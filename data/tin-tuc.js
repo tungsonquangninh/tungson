@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-24",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
+  "tomTat": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử tỉnh Hà Tĩnh.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2lFMjduTy1LSW1TbmtsSlY1X2diMXJ0cUw4Ym03Zlktdkl6XzZsdTFqV1VOUEdnTXFqODlXbTF3V1M3Z2hpRGI4Z0ZyWWxpRWdBVG5jTHdOQVd3RXUxb0RyaElOTXhEc3ZSNFJkOVVvZkZHc1ZkUzhwV0ZMNmFKb0g1ODludlkyYndya21nMTFTdFBDanRfTF9qNmJIdTIyMEZGeTByeXl4SFowTDE3QTNqNmRJcGlVU1E3U3VVMEwtbFNnZG0yVHRySQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-24",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 24/10: Quặng sắt nối dài chuỗi suy yếu",
+  "tomTat": "Giá thép hôm nay 24/10: Quặng sắt nối dài chuỗi suy yếu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXVabER2Yk1VMUI4VUZTRzJqU2I5a3J1WDdtQWR4cWpIN2tYbS1wMk9xdXBoWXgtQ0RyeVBvS3ZrMnF6TVZLMDNzQmZNUHpVN1NaUlVXUHp4NFIxN3ZhaFVUWHkxM3lWY0xZbG1CZXlhMkIyOE1WUFVJd0QyUG85OWJYRVVQckxybGN6dXJ6T0JvUlk2a1V2amdJT1NZTnZQVE9N?oc=5"
+ },
+ {
+  "ngay": "2026-10-23",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Căn cứ cấp giấy phép xây dựng đối với nhà ở riêng lẻ",
+  "tomTat": "Căn cứ cấp giấy phép xây dựng đối với nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0dabDRuZEx6U2JMZENjXzdJZ21FSi1iTU9FS0szV3FzVEFxb3NvLUFvVjJ4OFcyTE5kXzhVX1NVMzdhM21WMXVSR09FY0RYeW9TeGlJaHJDc0RKbmx1Rm51LVpHVjRoZVlDWldpaE1kXzNPcnN0YWxCX0pwU0EyY3pLb1VSSnlJbnZ0VFV1Uk82ZHVtaVRrajcwNVY?oc=5"
+ },
+ {
   "ngay": "2026-10-23",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đà Nẵng xây dựng kế hoạch phát triển vật liệu xây dựng đến năm 2030, định hướng đến 2050",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "reatimes.vn",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjVYQTEyY3VQZGhQYXhYRFlIOGx4aDY4emdQUnRwWWNTeWhuVnhYeU54TjFKeGhwajFkb3RFVzVyUDhXcU9Icl9jWXo1QVlyTXc5RGFheHVZUEZHeV9XeW5DUzFfby1TQnNGa1hXbzZISk1rVERVajhfQkdKVHZuZGgyNWtNOVk0UTNiVGJka1VQVE1EbnJfVmJ6RHNnUnFnYV9LVVF1YmVyRG95Q1B5M0s3X2EzbkYx?oc=5"
- },
- {
-  "ngay": "2026-10-15",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cận cảnh công tác chuẩn bị hạ thủy kết cấu vòm thép cầu đi bộ qua sông Sài Gòn",
-  "tomTat": "Cận cảnh công tác chuẩn bị hạ thủy kết cấu vòm thép cầu đi bộ qua sông Sài Gòn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "HTV",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEJiRHVxRFlSLU92Z3A4SzkyejRGUmdsOHJHNEVMUEdkZ3FnSmJ3dGpfaE13MWVtVGltMlVBREw1Q3UyQ0VxdUtBbGRjTFZBX055bzlhZjF5MU9kRU5vUldJOVVCbHdwaUREWmVvS2Yxc0ZJOUxVaWJLOG1VSGFEYXZEanU1bVRLTjh4NE5KdVA3alBwSXViR3J0b1B6ZW9FZVFYSTNwM0hFOTRDQmpuSDRMVURCVjg?oc=5"
- },
- {
-  "ngay": "2026-10-15",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "TP HCM muốn miễn giấy phép xây dựng nhà riêng dưới 7 tầng",
-  "tomTat": "TP HCM muốn miễn giấy phép xây dựng nhà riêng dưới 7 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Tri thức và Cuộc sống.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo Tri thức và Cuộc sống",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGY2b3lXTGF3NjJ4a0lTLWNGMkU2dE81a19zbHdyamRpQVdzZHhMaW53OG5LSl9lcGp0SXlubFlSY08xM0lycDhGVFBvMDEzSXVYT20yeG8tYXFvNmlnLXpCTVkyY3UyMjBzQ0ZOOVJUT2RxR3ZEMHpRRHFJRXdTZGlOMUgtWHNMNW12cTJPQWo5c2h6LW1kMDNDdVgzYnM?oc=5"
- },
- {
-  "ngay": "2026-10-15",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đoàn ĐBQH thành phố Quảng Ninh tham vấn dự án luật về nhà ở và kinh doanh bất động sản",
-  "tomTat": "Đoàn ĐBQH thành phố Quảng Ninh tham vấn dự án luật về nhà ở và kinh doanh bất động sản. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmYzMGxoRER6VlFJVWxRUC1qZlMtbFEyUXhXdnlfSHJjOXpWVTdQaWJFUVdnSzc3d0JENlppb2l3Tl9kbDZNVXlqdWt1UkRVMXlOLUZBc0w0OFJwUHgxeDBXVS1La1F0azdHbWVJT1A1VndWSURZMVFrTTdDeHBvbVhoZGtoQkZFdlA2Mkp2eU5KdHlETGFNU2sxNnVFekVCSDdyRG95NnliOHp0a3lTa1N4andhM2NpSEp6UU9vb0p3UGM3SjJnNXJGSlJNUQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-24T06:59";
+window.TIN_CAP_NHAT = "2026-10-24T17:06";
