@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-25",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nâng cao trách nhiệm của các chủ bãi tập kết vật liệu xây dựng trong đảm bảo trật tự công cộng, an toàn giao thông",
+  "tomTat": "Nâng cao trách nhiệm của các chủ bãi tập kết vật liệu xây dựng trong đảm bảo trật tự công cộng, an toàn giao thông. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Thanh Hóa",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTdILVNsVGtOdWVQTXYwdXRoUF9zd05EdFg0NnpjYUdKaWZhbjR5cXpneXlXbVZDRlhpU0YzMWJsVTJCZUxPbTFlNHJJSU94RWlHeUk1V0F4NER5OU5Nb3Vra1JIY2g3M3pvNGN4YmViNFFkYUw0MXN6LWlDM3U3cFBGdm9TYmhmVUU3bkFEVkVaaTcybzRoTTNkdW1UVUR1aE90X3I2SGpWTnBkenBTUDBieTlUZ1o4OG4tN1k3aU5JYXNKOFhoSjBDYTNXamMzUU1mc3M1NG1mV2l6LWFfeFBJWi1Ob1NO?oc=5"
+ },
+ {
+  "ngay": "2026-10-25",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá kim loại hôm nay 25/10: Vàng nhẫn SJC xuống dưới 140 triệu đồng/lượng, bạc và thép chịu áp lực",
+  "tomTat": "Giá kim loại hôm nay 25/10: Vàng nhẫn SJC xuống dưới 140 triệu đồng/lượng, bạc và thép chịu áp lực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí điện tử Thương Trường",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZGItTDBVZVg1WjRIdjZveXFobl9fLUg3Z2JmNTdVTFpEUUhmRUkyeDRUbW5NZ1o4TkRDVGtzVDUzYXZHRHhKeHB4T0kwU2hGVXZjSVRaVWYyS2hvZnJRUGVuWGtENVVucmlhZFF3ODgyX2YxYjJRSm5WbWFNbTJndkhnYm9oRk55YzdNcFFwb1dnYk9keEhLUEtKM3E1UmphdzRCUDJSb1hVSTEwb0kxNW85QTJwdkNNZWhFWDVfY1RfMkRMc1pYY2lsdVlWdXplWUF4MWVn?oc=5"
+ },
+ {
+  "ngay": "2026-10-25",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Kiện vì bị từ chối tách 400m2 đất; xây nhà ở Hà Nội không báo khởi công bị phạt",
+  "tomTat": "Kiện vì bị từ chối tách 400m2 đất; xây nhà ở Hà Nội không báo khởi công bị phạt. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUxPbHVXMFFMbmtTN09UVnNTUEE2b04xajRrZHZ2U3JPVWx0Z09TQmFySlltTTk0ajN2OGp2YWFvYW5ZWjIwVFpVWWJXRzZxOFppNTZROW1nSlN5Z0NQN1JoZHhzdFY4ZjRhUE1OaldCaGZWQ2ZiOWpOSkNRdkRBc3djTUpFLXZhTmxGcE04TVVMSWdFY0xrTjNLWEpiTVdkZHlnVkR6d2lxNTV4RWg2eUlEQQ?oc=5"
+ },
+ {
   "ngay": "2026-10-24",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Sông Mã tăng cường quản lý khoảng sản, duy trì nguồn cung vật liệu xây dựng",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Shanghai Metals Market",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVFRfa0hRSi1uaTdxMEMtX3NVY3hzeXEyenllUHNOMDNRcVBPaWdHZVlBX3NfVzVwOGxoYmhSQm5UanR0YjQxWUo0T0F1bFJMeTBobVhpR09aOW1yR1RSV21lZ2J5SF9YRHpCZUJ3?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Quy định xây nhà ở riêng lẻ tối đa 2 tầng",
-  "tomTat": "Quy định xây nhà ở riêng lẻ tối đa 2 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWJIaDZaZ2lTcTVlb2FDaEdMWWtZcWxnQ1BoMWwxR2ZZMTB4bFlCRmw4UDJMXzJUQzhRVE1XajJldDRQWlI3TkpHMHdrb200YTl2TGRXTjYwbS1QZ2hNVUJEZ01Ba1NwUVNzMUNYeER5cW9xem9adTlZR3daVFJ2M1lHMVhCSHM?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh: Tháo gỡ vướng mắc, khơi thông nguồn vật liệu san lấp",
-  "tomTat": "Quảng Ninh: Tháo gỡ vướng mắc, khơi thông nguồn vật liệu san lấp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTdxTDh1dmczcmRiREltNHdqMzVDUE10TFVuOXQzYkRNR1lMaFRZb3d5elhweTVDc0xoejl0QkEta1FpTTh1Sl9QajgtcU5yenE0MVdxX1FPY2FOOExPYWlQOEU0UklPcEhjTzRMLWRwSDFfWFp4NHY1aEdoSnBOVnZ4dlVMQXE4RFVzeHh4dkktQkkyamFiV0NXSXh0TjdUUkptV1l0Z1duNzg?oc=5"
- },
- {
-  "ngay": "2026-10-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Biến động giá vật liệu, nhà thầu sẽ đối mặt rủi ro tài chính, thua lỗ",
-  "tomTat": "Biến động giá vật liệu, nhà thầu sẽ đối mặt rủi ro tài chính, thua lỗ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3hOWkU3ZmQwNG1tOEFzdi1sbWZUdFBfcm1IczlLSnVYSU51MlpaeFFNVUtEMEZxSkdhMG5reVlFMnZZODdmNW1IN0VIOVVtc2dSd3M2bVpFQ3VDaXpOT0pIVUlyMGUwOWVRU3B0elppeVlFR3dIMHVYbF9rSmYtV3lXeFF2LURJV0t4SmpxTmRucUtt?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-25T06:55";
+window.TIN_CAP_NHAT = "2026-10-25T17:05";
