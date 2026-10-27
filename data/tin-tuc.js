@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-27",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bảo đảm cung cấp đầy đủ vật liệu xây dựng phục vụ thi công các công trình trọng điểm quốc gia",
+  "tomTat": "Bảo đảm cung cấp đầy đủ vật liệu xây dựng phục vụ thi công các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baochinhphu.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "baochinhphu.vn",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnZwZzJKdEdVSzRRVEVwbWJ2SzVrQXYtWU5FTEJYbU8yOHI0SGxGZDZpXzB5TUxsSGhjd1hFckpXV09xX3JLaGJ4Vm56Rkl1elNzT2s5eVBOQ0dWeUNnVnlBV09qb2JXOWZqR1RwZXpLcktXX1huV1VYY0RpV0tMQjlIaTV6dzB2QkZXbTRlSHhxWXRidDBsdnhZcGx4cWl3bldXVHNQYXRjMVc0ZmcwNlpWU2luWjVjNDJqUVJWUUtwUUgwenI2aDF0RjhOcFNVSU9fU2dB?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 27/10/2026: Đi ngang trước áp lực nhu cầu",
+  "tomTat": "Giá thép hôm nay 27/10/2026: Đi ngang trước áp lực nhu cầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkF1RGJaSXR6eGZpRjZ0enJtUTNSRjhRMXd0Yk1welJwdFB4MTY0U3kzY1JVQkxTUzRhTnJPTEdsQW5sM3E1TUFtVFZTbmZKVkN3SEd3LXFWeVNZaTk0by1tSkl4MjRNVDNMTEhCTnAtSWdhalM5LTNYa3EzNmJnNXd6MVJOMVEwYVdKbWdPX3FCZThxWEg2b0VsMW1NQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Thủ tục cần thực hiện đối với công trình được miễn giấy phép xây dựng",
+  "tomTat": "Thủ tục cần thực hiện đối với công trình được miễn giấy phép xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0dSYnpqa3BwQkdLUG56MVY3Y0ViSDBEN3RtTjF5U3lJTWx1LW5QZ18yaElrWGcwR1FSWkxsTHVRQklsdzFCOVBpOVNWdlFpTTdBTEZJcF9vYnlGcFdHM2FGTElVRllBM2oxZXpfUDB6TU1iaXk3dkpFN1BJWHNhSzMxVWRlVUhLVlJLaE4yYnQ0QUxKYXNSTk9xMXVBZWY5ZGZfeUNNbldBVGExcFhCc2VNQQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Bãi Cháy, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Bãi Cháy, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dFZEIzSG11ckE3M0VxaFQtZTVFU3hnS0ZKR3BqR1pZbFVfZEpkM3F5RU1vaXVLTzVhTFFnUTFSVXc4VzNienJDQjRIQXFhQ2dlNF92elpBdTZWUDYzT1dBVkxtMDNqZElPRjRVQkpCdHBCR2hsVDZUeEptU21HWDdmS1AwOWc5YXNKTjJwbDdfcEhxeW9N?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đại gia gốc Thanh Hóa từng ghi dấu tại sân vận động 40.000 chỗ lớn ngang sân Mỹ Đình, cung cấp toàn bộ 28.000 tấn thép, yêu cầu độ chính xác 2mm",
   "tomTat": "Đại gia gốc Thanh Hóa từng ghi dấu tại sân vận động 40.000 chỗ lớn ngang sân Mỹ Đình, cung cấp toàn bộ 28.000 tấn thép, yêu cầu độ chính xác 2mm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh nghiệp Cuộc sống.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1ljdTBKQXg4VEc5eFRkSHpGbU1KSlpBRzc2cW5jbmZYUkhoMjRFMmVpTDlnVWxxMXF6Vk5VQnhPTmw0THRnTGJOYjkxUnZLSHBIb1cxemxvcHZEelA4WjU3TmNINkZpTk84NXJsS2JsdUp0THJ3b1YwNFFCM1p6d3dpNTgwYjlTbW14TnBWQWpVNFI2amxIYWNjSWVsLVltZEtkOHZPMFlfeUFOY2c?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Vòm thép cầu đi bộ qua sông Sài Gòn đã cập cảng quốc tế Long An",
-  "tomTat": "Vòm thép cầu đi bộ qua sông Sài Gòn đã cập cảng quốc tế Long An. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "tin.skydoor.net",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUdwY2pIODB3cnUtaVFnazFMS24wbTVpWkZuMjRqeUZXUlFhTWRDSkQzUXdFc2VOU1htMF95V0luV1dTQzVGcUVzRnladXpTWU8zTDliTmpVb09IT1F1bkloWFJsNG0za3B6MUxNRldhdll6ZWVNNnZWbkRwcHdEZE5DRFM?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow",
-  "tomTat": "Điều kiện nào được miễn giấy phép xây dựng nhà ở? | Landshow. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTVgo.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VTVgo",
-  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8wWkZaS1Z1NkZ0TGZnS19JTEdJRjBZMzBxSVhnUkhKOXY0Mm1iUzlKSDFPc29DWV9UdzFjRVpqdEo?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thanh Hóa quản lý vật liệu xây dựng từ mỏ đến công trình",
-  "tomTat": "Thanh Hóa quản lý vật liệu xây dựng từ mỏ đến công trình. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Thanh Hóa",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2dxaGF6UFhyWWpWRkNLYzB3R2ZzNEVxcTdld1pabS1LQnRCZlg4Vno1ZE1KRmFJWUZreTZKLVN4aDdTZUxGSHdsYURIejBBbkJnU1RZMUE3dkVOM2lLdWZHMy1kbi1RNVpmY3B5Szd0ZUR3RmpRWWR0RTVLaTNNZ0Q5LUljZlUtd3VuWTRDNEdtQmNn?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Vận chuyển khối thép 3.400 tấn lắp đặt cầu nghìn tỷ tại TP.HCM",
-  "tomTat": "Vận chuyển khối thép 3.400 tấn lắp đặt cầu nghìn tỷ tại TP.HCM. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "tin.skydoor.net",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WX2pwdFBnZmR1WWJtSFl5Qmdza2t1bGFMYmJadHRDTnJmWHNvNjNyNGxCSjZEa2NwRUJLYS1BTHpQUVdXVDZKeGtOWHhHLWgzTWtyRGJ3XzltWHFfSkxoSFJ0dm1wMUhsUWQxYmtTZXdMQ3dDOTc3LUJWdDFkc00?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-27T07:03";
+window.TIN_CAP_NHAT = "2026-10-27T17:19";
