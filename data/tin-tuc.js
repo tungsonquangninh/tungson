@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đại gia gốc Thanh Hóa từng ghi dấu tại sân vận động 40.000 chỗ lớn ngang sân Mỹ Đình, cung cấp toàn bộ 28.000 tấn thép, yêu cầu độ chính xác 2mm",
+  "tomTat": "Đại gia gốc Thanh Hóa từng ghi dấu tại sân vận động 40.000 chỗ lớn ngang sân Mỹ Đình, cung cấp toàn bộ 28.000 tấn thép, yêu cầu độ chính xác 2mm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh nghiệp Cuộc sống.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Doanh nghiệp Cuộc sống",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTU1SSWRndjAxc2VKTWRJbjBjSnh1NndOUXhkU2k2LVJDanFhQVo2ZFQyMER4LXAwVXBBWENPM1Q3d0tFRTZuMEhBdFJWLVlSR2cteGJMdE9YY0lOc3YxVjVUTDdVeDFvRVJSd2U4YVI4cHloT3hlS3FHNlh6Nm91R3dJd1ZiZWRIV1lZc2x4a3cwUG5WMjY2QW1PYm9UcGh5QTBDUHN1NE1pbUtpamdxaDZreUNBTGJYNm80eHlXbllMbEYzUjVMaHdxSlQwT0FUNEpneHlvY0NBTnZEaGRNclFvTWE0MklKdjc4dHVSUmQ2MVU2ekh3dFQyNGVGMk02aDBCcWpjOW5sM0xVMGhZMDFn?oc=5"
+ },
+ {
+  "ngay": "2026-10-26",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lạng Sơn tháo gỡ vướng mắc về nguồn cung vật liệu xây dựng",
+  "tomTat": "Lạng Sơn tháo gỡ vướng mắc về nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Nông nghiệp và Môi trường",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTMyUTlMNWQzeHB4ZUtYZjRZUUZLWnRMNXV3SHBQV3FpdUNoRWxQOWxjQWxSQVJTOVNEbFVrcHR0em1BU2h2UnVJM1U0UVRMNE9mMmRocFUtYU5iOVpmbVNodVJKVVNORnRhSmJudlFPNWFuclZHQU1EOEpnRnp5V19xd0ZXTXN0bjdwZlR5bUdLVUhtWVZqZklrU1A4c1EzTkpkTw?oc=5"
+ },
+ {
+  "ngay": "2026-10-26",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bộ Xây dựng trả lời việc xin giấy phép xây dựng với nhà được miễn cấp phép",
+  "tomTat": "Bộ Xây dựng trả lời việc xin giấy phép xây dựng với nhà được miễn cấp phép. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmNVLVVoeTFqdmhGd0FjRmFlZkVqWnpJdWRnaTFpWURMTW43Szktd0Mzdnpqcmc3ZUhEbUNMVF9lZXVKd19CcXhPaHpxa3loTm1TNGwwcVZoV2hWbE1YM2ZXSTZ5dEExVjY4WXhGOGVpRWFJMGVUZnphUzI5WFFpWFZGcGM1b0pxUjR1S0ppa2QwaEs4aWJha2hGRVJZZlY2U1U3bWl6cVo3b1YtcXc?oc=5"
+ },
+ {
   "ngay": "2026-10-26",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bảo đảm nguồn vật liệu cho các công trình trọng điểm quốc gia",
@@ -26,6 +53,15 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "VTV.vn",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDZkbHZndHNWc2h5RmdHSS1QZVA4N1BOTm53THQyLWYxSHVlQ0FUZWJ4cW1qMkVGVDJ4cUpEVGVHTUdWdFJWQmh5bENfS3MxWUVPbVpORkl0ZWJ2RWJBTXd3bGY1RmFkejZ0cXd6UkNfS0dRR2JIeEFXdERLZnRkUzNteXVSaE01NW52bGt2YnFOVjg3c3dMbg?oc=5"
+ },
+ {
+  "ngay": "2026-10-25",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Nước sạch vùng cao Quảng Ninh: Có công trình, dân vẫn khó tiếp cận",
+  "tomTat": "Nước sạch vùng cao Quảng Ninh: Có công trình, dân vẫn khó tiếp cận. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUxiWXdzTzU4Nm1reW9GdWdIblBTTGVTTWxLMFlhczB1TGZHRHVNTkpEUUhxU0dTODJsOGhNQzhqVGFDamo0TVZHanhBU2dTVzRZUjItTlJoaXh3QWhNMUlFeUV5RmU4Y3lWbXd3Y3dtWGJCUW1LTVF1MW92Y0dTMk1MeHl5N2JDR1VreHJjMGRoTEZaN2twazEtakJHai1I?oc=5"
  },
  {
   "ngay": "2026-10-25",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "tin.skydoor.net",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WX2pwdFBnZmR1WWJtSFl5Qmdza2t1bGFMYmJadHRDTnJmWHNvNjNyNGxCSjZEa2NwRUJLYS1BTHpQUVdXVDZKeGtOWHhHLWgzTWtyRGJ3XzltWHFfSkxoSFJ0dm1wMUhsUWQxYmtTZXdMQ3dDOTc3LUJWdDFkc00?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Lâm Đồng siết chặt quy chuẩn cấp phép xây dựng: Đòn bẩy thích ứng biến đổi khí hậu và sạt lở",
-  "tomTat": "Lâm Đồng siết chặt quy chuẩn cấp phép xây dựng: Đòn bẩy thích ứng biến đổi khí hậu và sạt lở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ kinhtemoitruong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "kinhtemoitruong.vn",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVTNGTDdDM19WOG04cFFWRkNuRkJQRTRkVktmQzJ4dG1TaVoxTE0xclBIYTZzRkJ0SmR6UFh5WGQwU2FOWjVVWUVKU3JSSkw0REphQ1lpZ0J1YmdPSzU3U2x4QWlGYWZMUWpLamMzVFQxTU9ZbjZSVVhCZ2ZFZm9IY3pEaVZTNzFrZFBYcmhNMDIyU2h3THpOd3N4MGt5YXpMR0stLTlTUmxCblE5djhNSTlTQkRJbnU0Mk5uQ3NNaVdLbVh1SllCRldn?oc=5"
- },
- {
-  "ngay": "2026-10-17",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh biến đất đá thải mỏ thành “vàng” san lấp, mở thêm hàng trăm triệu m³ nguồn vật liệu cho hạ tầng",
-  "tomTat": "Quảng Ninh biến đất đá thải mỏ thành “vàng” san lấp, mở thêm hàng trăm triệu m³ nguồn vật liệu cho hạ tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDJMaTFkN2U2azBHQmppaTNWSXR1dnJySGpINjhhRUdnaE5xX0IyS2V4UkItR1I5SkpWNGFiVUx1QnM3ZUxQT01PTDgwN2xESTRTbVd0ZmN0ekxpR3VZMVdzUG82clZnd2NHSWJ6WHpPQy1Tbk1RYkJxQjlRM01nT0F0WnktaWUwUGUtQnl2Y0hfZllyNFQtcUxCajVkVDVHOGxuRlJOQnRvNGQ5TFZrRm9mcGo0V3cyZkFaYXdMbEItWElP?oc=5"
- },
- {
-  "ngay": "2026-10-17",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nghệ An tăng cường quản lý, bảo đảm nguồn cung và giá vật liệu xây dựng trên địa bàn tỉnh",
-  "tomTat": "Nghệ An tăng cường quản lý, bảo đảm nguồn cung và giá vật liệu xây dựng trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Nghệ An",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1NWZ0hKY3JLa0wzTXFPdGpvQzEwQjg5LTRldERxaW0tVGNUYXQ2dG9PU1RJYk9iNzVxLXJoemRTd19jQWc5ZDk5UEN3MFlGbEw1bUdxNHdlOHBjTE5ycUZhOHQwT3pGRE1feE1QT0lHWFVvVkdiVUF4ZC1TYzNvNXpDUm1rZ3NjWnl3LXdJNkhZczl6ZnlBUzRaTlFEYURGMU5IYkIxRC15SFVhOENwTVpmODBYM0tBbHdOSEpUZDI?oc=5"
- },
- {
-  "ngay": "2026-10-17",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép ngày hôm nay 17/10/2026: Quặng sắt Singapore giảm dưới 90 USD/tấn",
-  "tomTat": "Giá thép ngày hôm nay 17/10/2026: Quặng sắt Singapore giảm dưới 90 USD/tấn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ index.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "index.vn",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEgzek95R0xVck83WkRldmlYNWdfQ2pmRGx5WDZNUkxaNHgyLVNyaVNFZEZXSFI0NkVVNVRmQWxaVTVvNVd0U0NwOWhfNWZucTlIWThVSnJsZm1nQ05LN2hxQl81b200Zkp2VDRWcE5oNWZzc0ZnMzg1d01HZnlJVFZ1MkgxOXNFcWtTb1NCaUk4bWVEZENNYUNGMVlKbDA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-26T17:21";
+window.TIN_CAP_NHAT = "2026-10-27T07:03";
