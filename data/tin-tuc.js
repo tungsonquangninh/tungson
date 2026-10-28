@@ -3,6 +3,51 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-28",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử",
+  "tomTat": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTFsbkxaOHNqTXgtQzlfUk5EcWFocDlGWW5BZ3M4OXcyeEFEQUJNQUVsVU1aT2dRZkRhQ09CbUhHOWhIOUszM1p5RHRvek5jVVk3bmQtcWU4ZXZNSlNqVGk3X1BacmRReGpkblFVMHJqS0ZPbEVUcG16ZnNhN1NET3ltZ0JVOTVnaXlpRHpmcjE5Mmg5cVZXZjJWMTFQSXgybndlU2hQWjZiSGxZMnJVZmE1Z0ZkZzRDZnZOeVRlemo3OFlHbWRRcUxUd0lNSWpsQkE?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Xuất khẩu giảm, thép xây dựng vẫn tăng trưởng gần 20%",
+  "tomTat": "Xuất khẩu giảm, thép xây dựng vẫn tăng trưởng gần 20%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Dân Việt",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0JNNmRzalRZYUN3dmotZjAxeEJDTFpIN0R5akdhV0h5TmdmTFlZLTd5N2h6NlV1Y2g4RDlwTC1BaF9CVGRVUVhxVk4wZEU1WkFKVTV3NjJFQWdKSWQ2TXNNTlZCdFRkNjBGbXN5bkd5bnlrTGxJQzVXTkE5c1J3eTY5RjZCSFkybXFDTg?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Mitsubishi Outlander ra mắt bản off-road hầm hố nhất từ trước đến nay: Thêm loạt trang bị chuyên trị đường khó, nội thất chống thấm nước",
+  "tomTat": "Mitsubishi Outlander ra mắt bản off-road hầm hố nhất từ trước đến nay: Thêm loạt trang bị chuyên trị đường khó, nội thất chống thấm nước. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ auto5.vn.",
+  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
+  "nguon": "auto5.vn",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOenBudEFaU0JHdmtwTWp3TDR1bl9FWU1YQ2ZQeDc4QUdUaGk3VWRtc01rckFHT2FwR0hJSlNUVV9lUkwwWTFNdzB0Qk5wcGJxYXhCVXpQNk5qX052V2wxNDdhMWFJOWxreXlIZkV4U0kzTXBSQTNiR3BRbHZFaHZOSFR2cm9udDFWX3Rrb0lEZ2pETXdSWFgwOVJoNUFIbWMxcDZHWlhVeUc2YUh4S05sbzFNVjkyTEtKd3J0YkhhckVDN2lpZm1OM25fQXdmdHFIU0ZIanB4aVhKb1gtdVBZQjdlWWVWR0J2T3o1NUZBWnhjNUJFc05XVGZRUzM?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Người dân TP.HCM khi xây nhà cần nắm rõ quy định này",
+  "tomTat": "Người dân TP.HCM khi xây nhà cần nắm rõ quy định này. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Niên.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Thanh Niên",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BoV0w4SmYxSDlTaDVWNWdaSW1TUTRmajQzT3B2TzA2UXhsdjJVcUx1MmstMnB5cHg1WG9kRXpMNE9PUERyOG5xZENRRVNZcFFGN1R1UE1pWndfM2V5azc1QUNjMGJLR1hMRmRMQUdPLVp6eWpqY0NFZVh1Vm8xLWF2c3BhVWEwSzVUM2Y0b2tFeVp6bUxpSzFiaw?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Tuần Châu, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Tuần Châu, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUZWd2tXRDhkSDhQRjNRNGkyZ2MwX09qMWdvSU1UTHVmc1JBcWRwTmF5RENLSk41OEZoeG1BUHk5c2xfdTNleWhCNU42MnNOY0psdWQzTW42MzV6SVRfaEVUMEkxZmJHdWtEdGR6WmgzNUxMeDl0eEFlZEJ4NGszSjJNOVB1NFJRZzl2ZFRBcHZldzNsNFE?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đảm bảo nhu cầu vật liệu cho các dự án hạ tầng trọng điểm",
   "tomTat": "Đảm bảo nhu cầu vật liệu cho các dự án hạ tầng trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Diễn đàn Doanh nghiệp.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -494,51 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHdEcjdvVHdOS013YThWOTZDb01JaDdoRFp1UFMtT0ZRVWMzczd4Qm50Z2tWa1ZGMm9FdDF4WXJKRF9FSVktQTVMeFJ3d3ZudmhEanBzdUtNWXI4TTZ1TFVFVWpxZG9BTTI2eVhyRjRvSmRScUk2NGFwc3BrSDlzSFdGUDdlaVNpVGZWSUFpWEtHN1FTLUgtY21DV0pTNG9ZTHh4ajNHV1JqRGgtT2Q1RGJR?oc=5"
- },
- {
-  "ngay": "2026-10-20",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Căn cứ cấp phép xây dựng nhà ở riêng lẻ khi chưa có quy hoạch chi tiết",
-  "tomTat": "Căn cứ cấp phép xây dựng nhà ở riêng lẻ khi chưa có quy hoạch chi tiết. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkM1cndvOUdHR1p5Y0VCU1lmc0F0NmxVLV9GV1RLRjNHc3FRRTFmdFNVTTBuZEszd05iOWlBN1FmS3pjbzJ4UW5tWkgtLWJ4UlhEQUVhREV0b1ZDVlNfSmJOY2FXTXpqSTU5elpOaXVsbVZfZUoyMl9xZU9YdEJKLUVlenpCblNLLU5fdFMtOERwcGRGU1hoNU1tT3YzeDVNeElvZHZIUVhPdy1mZHZTSXJhM0I?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Phú Thọ: Siết chặt quản lý giá vật liệu xây dựng, kiểm soát biến động bất thường",
-  "tomTat": "Phú Thọ: Siết chặt quản lý giá vật liệu xây dựng, kiểm soát biến động bất thường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "dangcongsan.vn",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzNQR2xPMmQ5TmpFUGZITkk5LVNSY0pLZDVjdVhFS0w4Ql8xV3ZtUkdjbWszeUtwT1pDUnA4T29rZ0phTmticUxiaWFwNkVwSTFqQU1pSWRkWWN1T0tIZld0Qkx4djZVS1hGZFQwSm5ObVluZGtsVWlHUUJmRnZPM3NVQzdacVo0RVZfMDBmVmJXcldwRzdZZXhfRzdfRnkzemdSYkFNczNwMEJoZVByVGU2bTZjSXZDTTlLNTQwTFc1S191VVBYY19Ga1B3bjNXaHpBUg?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Sở Xây dựng Hải Phòng công bố thông tin giá vật liệu xây dựng tháng 9 năm 2026",
-  "tomTat": "Sở Xây dựng Hải Phòng công bố thông tin giá vật liệu xây dựng tháng 9 năm 2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDBnQ09nZHhuX2laX01wcWtrQTRqemZNRl9iUldqM1pjUnN1LWxDNktTcXB5bkgtRDdPNnJhRkhBOWlzTlNiWm9WRjJWdHpoS3doOTAtV1c0X1pUR29oVUJ5WDFzMi1zWHQtdnVINHBleGZhdWNyMFdIekxvOU1ZWnowUERNSzJON0dZaGFnb0FXUXVicmxuam9PbG0zTUV4U1NkV1lSWklXZWlnUHVNWDlXWFhnQy1wN2lEZ0pCOWdZQnc?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Quảng Ninh: Quy định mới về cấp phép xây dựng có thời hạn",
-  "tomTat": "Quảng Ninh: Quy định mới về cấp phép xây dựng có thời hạn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "dangcongsan.vn",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXRFYm1hSVhmSHdLOWc3SXJ0Sm5MNWVYUUxBVTZqbTVWRXNzN1dBbGtnOXR2SHdsUEg3RWdSOEFFN2tYLUdneTk5S3ZpN2FkMjJRTTc5cXRHR292WE1hbzl2V3J4Q0lDeHNjUmctUV9zMFp3SmE0S085TzhLQzI5d2NtTmQyUV85OWllN19naEtkOFR0dGxfY0txRWZZMjRoa0xvZkc3WVVxUGVqX19JVjJBLTlRdkE?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Kiểm soát chặt nguồn vật liệu xây dựng cao tốc Vinh - Thanh Thủy",
-  "tomTat": "Kiểm soát chặt nguồn vật liệu xây dựng cao tốc Vinh - Thanh Thủy. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baodautu.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "baodautu",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkhEZ3N1dFRoUGw2YVgyZXZwaXpLZWUyZy16ODFNZFBpc1JDbm5Nald1UDE5WmF2SG5FZWp2Z005M0pTUlVFcTdEWG9IWFlLNi1QY1I2dmk4UXVJWEwyTmlueldDVTJhWF82STdtUHhVLUFfUmM2S01kamFWS2gyYUNSalI5akJSR3RfTTBzV3d3SFp4LW9GNlFyQnBWQQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-28T07:06";
+window.TIN_CAP_NHAT = "2026-10-28T17:23";
