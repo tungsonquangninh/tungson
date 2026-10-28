@@ -1,6 +1,42 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đảm bảo nhu cầu vật liệu cho các dự án hạ tầng trọng điểm",
+  "tomTat": "Đảm bảo nhu cầu vật liệu cho các dự án hạ tầng trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Diễn đàn Doanh nghiệp.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Diễn đàn Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWxGc2JPZm1CeE9RRHNfS0NlclhPdzFvTjUzMFYtbEZaRnNxc0ItUE9DMmZDTjBCR29CYUVLRi00blUwZzBBOTUzTkxZdXRFUDg1d0JaYVNqNno2MlM2Mkw2S2Q5MFpDTmFQVy1lVmM1QzRRZGZ3VGNCb0xKUnZueEZfQThtRGVWcnBqNDJtcVZjSXByQ1pTT1dQaG5wSS1GUE5v?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tiếp nhận hồ sơ rà soát thuế chống bán phá giá thép cán nguội từ Trung Quốc",
+  "tomTat": "Tiếp nhận hồ sơ rà soát thuế chống bán phá giá thép cán nguội từ Trung Quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1B6Q0wzYVF3bGNpNmdUQ0hzYjZhejloaHFodEJzYlNDVjFKQnRLR0ptVU5aZmQ4bTJtOUREVjhBVkNTdVRYekdTLTFDUU1lYUUzWTJ5QndiQ0VFTW05ZU85Q1ZCU2dIQm1vQ2Z0U0JDWU11NFRTWFNxWFFPX1NNZE5hUkxqOTJaeUJaU0RlYmR1RzVTOHlOZWF1NGhjSDJqeDdNV2ZDTktuX0ZrZFlWREZ2Wlc4SjZHc2RZMFl0Yw?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Xây chuồng trại nuôi lợn rộng 495m2 có phải xin giấy phép xây dựng?",
+  "tomTat": "Xây chuồng trại nuôi lợn rộng 495m2 có phải xin giấy phép xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRklLZmVvWXM1emNuaUc5NmhhbUJZeTMtNUZkUkM5QWM4OXRudzN1SmdfR01ZYlFJbTZ1UWp6T3pPM1J2ZUZLMTFOVEt1R0Z1RVRBU2RqT0VVYVBRamg0MXdLVWZmdUw3M0NkdkxTR05sUG80a05IbFUzSlZSOUZ6bFlrTC1zUWdJSVB5SUUwNHV5SUpKVTE0d0NyU2lmdEtabl84?oc=5"
+ },
+ {
+  "ngay": "2026-10-27",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Việt Hưng, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Việt Hưng, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWZvQmx0VW5zYkVhNURYMW1RSEJuQ2lkSnZEQXlwSEpEYlVBSDlVXzRIc0NxTUdaRlNDSzRIOWVhbE51QkRlTENpbktvTzk1V2wxRGdYVGxROThNVEtfaXA5M1FLRWxKZkFjQjJSUU1JX0VINGpMRU1RRXowTnE2N1BLMTJqM0FGX0hWek5PYzQzXzRIUlVyMw?oc=5"
+ },
+ {
   "ngay": "2026-10-27",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bảo đảm cung cấp đầy đủ vật liệu xây dựng phục vụ thi công các công trình trọng điểm quốc gia",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "baodautu",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkhEZ3N1dFRoUGw2YVgyZXZwaXpLZWUyZy16ODFNZFBpc1JDbm5Nald1UDE5WmF2SG5FZWp2Z005M0pTUlVFcTdEWG9IWFlLNi1QY1I2dmk4UXVJWEwyTmlueldDVTJhWF82STdtUHhVLUFfUmM2S01kamFWS2gyYUNSalI5akJSR3RfTTBzV3d3SFp4LW9GNlFyQnBWQQ?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Hà Nội: Công bố giá vật liệu xây dựng quý III/2026, cát đen tăng mạnh",
-  "tomTat": "Hà Nội: Công bố giá vật liệu xây dựng quý III/2026, cát đen tăng mạnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkdQOThoYV9KNm92Y0Q5aHcycEItLWRYX1U5VThXNHcyUEZwZGhfRW1WY2ZBcXl6VjlIaFhuclowZHVKa2xEckdnLXdSbVJtb1Rka3VLdjdsU0JqeUZ5OUp4NlRER2VRdTNoOWg4X1lEemNKay04cUF2OXdQajRQcnhWZkxTMUtDNVktT3QtNktXbUtBSzZhQjlYUDJmTmgwb1FSc2NQWThNbGJIT3dORDRqNm9tNVVy?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Không cấp giấy phép xây dựng trong phạm vi bảo vệ công trình thủy lợi",
-  "tomTat": "Không cấp giấy phép xây dựng trong phạm vi bảo vệ công trình thủy lợi. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nông nghiệp và Môi trường.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo Nông nghiệp và Môi trường",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTVpOFYxTW9aU2RXUkN6YkRpZ0wwSTRWYkJPTWVDWTVnSjFVVWFyYVl1Vm9VREZhM0ZLZi14dDI1Y0RCMEVOcENNQ0t3WC1nTlhyTWlvU2tMakd0cWFtUXA5QVlhMTJNYjRkdGFsVVFCbjRUR01lYkYxNEZZUEJISGlmaFV3REhsaERSYzMxTUFlNEJPcm1TQlN5b3VKZGRGUm0yTlh2VHBqdE5rTzMwM05icw?oc=5"
- },
- {
-  "ngay": "2026-10-19",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh ưu tiên mọi nguồn lực phát triển nhà ở xã hội",
-  "tomTat": "Quảng Ninh ưu tiên mọi nguồn lực phát triển nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYk44VVlsQVo0eklIZ3BEeWNiVl9HUkwwbE85Q1A3Rm1yQ3FPRjA5OHlrajNMZi00cjBIbGtMQUJVRGVSal9Db1p2bHF3anViTWdFSnBJeWVTLXF0SFM5MEpKNnBQUU1qa09MSDVnVXBuTy1TNzl5Sl9nWjRaU2NSV3IybnVZWC1abFdMZ1Q2d2NtZGsxa0VLb091clg?oc=5"
- },
- {
-  "ngay": "2026-10-18",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tỷ lệ tín dụng chạm 155% GDP và bài toán bình ổn thị trường vật liệu xây dựng toàn quốc",
-  "tomTat": "Tỷ lệ tín dụng chạm 155% GDP và bài toán bình ổn thị trường vật liệu xây dựng toàn quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1ljdTBKQXg4VEc5eFRkSHpGbU1KSlpBRzc2cW5jbmZYUkhoMjRFMmVpTDlnVWxxMXF6Vk5VQnhPTmw0THRnTGJOYjkxUnZLSHBIb1cxemxvcHZEelA4WjU3TmNINkZpTk84NXJsS2JsdUp0THJ3b1YwNFFCM1p6d3dpNTgwYjlTbW14TnBWQWpVNFI2amxIYWNjSWVsLVltZEtkOHZPMFlfeUFOY2c?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-27T17:19";
+window.TIN_CAP_NHAT = "2026-10-28T07:06";
