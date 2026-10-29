@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-28",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Dự án giao thông trọng điểm Tây Ninh có mặt bằng, công trường vẫn lo thiếu vật liệu",
+  "tomTat": "Dự án giao thông trọng điểm Tây Ninh có mặt bằng, công trường vẫn lo thiếu vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV Giao Thông.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VOV Giao Thông",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWpIZ0x5cWk4SnZFaXlmN0FSM08zRHlHcm1mMXJQSmxLZ3c5MkJIME53NXVqdlpVRnNLY05KNjF4WmRiTmpwRHM0QzV6MExhd0xJZEZfRGhPb0NXbWFvVVE0bV9RX3FDLWhLZi1sOWhmMHNQTnFWNk80cVJ1LW12blVGN1dzaklmUEFMRXl5aDQzdkI3cGJJOXZFN3VtYTN3TENaUE5IUk5xMW1WR0JfZFRJOTl6N2V1Q2w3aGNBSnhEY0tSQUow?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 28/10: Thị trường quặng sắt chịu sức ép giảm giá mạnh",
+  "tomTat": "Giá thép hôm nay 28/10: Thị trường quặng sắt chịu sức ép giảm giá mạnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVY3blB6QlNIbUd1XzAzdnktQl9OTDJONEliUEUyZFc1allvUHdONlV2NFg5MGlITzhvSnpGeVIxTWZLZjBLSW03bXdLZU1fVDFjUzF2VG5QZUZYYk9HSVJJNTFncWxhSWtYcUhLbUJZbm4xdmN0WTBFUERjUGdTT0gwaVZVV09yNGJ1eW1RYVlucnMzZlVvOHE1cFN4ZmwxRTlGVDVlQm9oZnBIcjR2NFFtbDFCZkU?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Có thể xin cấp giấy phép xây dựng theo nhu cầu không?",
+  "tomTat": "Có thể xin cấp giấy phép xây dựng theo nhu cầu không?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baochinhphu.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "baochinhphu.vn",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa09VRUFza0x1ZFhpSUJxV2RBejg0b1paTDBhSkRTbzQ0aHpTVzdRU0F5NXpUVFR1RDRnT1FOcnRkVEt0SW1sYzFRTWMzOEZLdkp6dUZNeHZEVEVpWGRMaGYwTnhXMW5PWUt1b0lfVVl0U29YS2lmZ2N6d0FJc3dXRi1TUHNMbGpKSm9YbW9YdExWWHdCMDR1QlJ4eGxzdms?oc=5"
+ },
+ {
+  "ngay": "2026-10-28",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử",
   "tomTat": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Chuyển động Thị trường",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVBYR0NtVUtDTXhDeWlFeVBGMnZGbm0ydVYyRXZjVk43Q0YzOXBzOU5acFhNVGpPamdLZnJ4djZUZ1d0SWQ0bkRnbEliSnJCcjNrM2JuQ1FWb244MjlZMm1scnEzdEtlQXJBNUdndTN0UEZvSWYzeVZjY1VVcWtxNTZNSDZUWm9JalV2S0lLSEZqdWM3WmpGMUhyMlI4bVV4eDFJbFptZk10dDQyRW5hNzBsQVlBb0U?oc=5"
- },
- {
-  "ngay": "2026-10-20",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Quảng Trị: Rà soát, điều phối nguồn vật liệu xây dựng cho các công trình, dự án trọng điểm",
-  "tomTat": "Quảng Trị: Rà soát, điều phối nguồn vật liệu xây dựng cho các công trình, dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEFrYmF3cERkM25Ea3B0X21RMFhZM0F2anBYcENQekxya1dmaFVmb0Jpb3ItTGdRTEZzQ3RCT1VEYzIyNFRNaUFReWhPb201Q3BZWl9iNkY3T213WGVBRTNEYm9sNHNvdUdpc21LdU53X3M0MS1FYVI0UVFfMV94UUlBUHB3VWhHVmI2LUU2UGlBczJ5enhuaGcyM25wNHQtdGlkQmFlbDRzeEdDTmxB?oc=5"
- },
- {
-  "ngay": "2026-10-20",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Chỉ đạo liên quan hoạt động khai thác, cung ứng vật liệu đá và việc sử dụng báo giá vật liệu của mỏ ...",
-  "tomTat": "Chỉ đạo liên quan hoạt động khai thác, cung ứng vật liệu đá và việc sử dụng báo giá vật liệu của mỏ .... Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3l1YlJkUXlLRWhodGl3X1hLRk8yT3JyekRsRU9wZ2daemtONl94aDB1d29iM0lSd3pJdjVTdTk2WHdMLWV6aEstbnpsNnFUYnI3YWIzakxLV1lnOGk2RFdJeTE0UEMtajBrZ0ZYTG5XakpmTmpNVC1ESWtjZWpZazU0SWR1Q0p3bUtxakxNRUhhZHVBZnNnQzE3d2E5bG1SREJuQjV1REtUeUhQUUlJMEJaWnJTa3RSY2tTV2N3?oc=5"
- },
- {
-  "ngay": "2026-10-20",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 20/10/2026: Quặng sắt tăng nhờ đà phục hồi từ Trung Quốc",
-  "tomTat": "Giá thép hôm nay 20/10/2026: Quặng sắt tăng nhờ đà phục hồi từ Trung Quốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHdEcjdvVHdOS013YThWOTZDb01JaDdoRFp1UFMtT0ZRVWMzczd4Qm50Z2tWa1ZGMm9FdDF4WXJKRF9FSVktQTVMeFJ3d3ZudmhEanBzdUtNWXI4TTZ1TFVFVWpxZG9BTTI2eVhyRjRvSmRScUk2NGFwc3BrSDlzSFdGUDdlaVNpVGZWSUFpWEtHN1FTLUgtY21DV0pTNG9ZTHh4ajNHV1JqRGgtT2Q1RGJR?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-28T17:23";
+window.TIN_CAP_NHAT = "2026-10-29T07:09";
