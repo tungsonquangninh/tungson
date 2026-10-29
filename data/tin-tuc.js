@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-29",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép liên tục tăng, nhà thầu 'căng mình' tính toán vì lợi nhuận mỏng",
+  "tomTat": "Giá thép liên tục tăng, nhà thầu 'căng mình' tính toán vì lợi nhuận mỏng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tuổi Trẻ",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVN2eE9hZGxIX044QTBnMTNaQWVCVmhOSjRYYVgyaHpkZ1czb1RlRUpoX05LUy03TTBTcnZPTXphbVhBMmZIem5JZUprdS1KNnhaVGJLSmpual9WVFNDeGhGX3pVY2xtSHlIck5SM25xQ3FXbEpvM25ndUw3SEhuOHh1QUFWVzZ6Mmxzak16QzU4b01WQzVYNUd0YjRCNWlhV0hacDNvdWtpYUhndWtubg?oc=5"
+ },
+ {
+  "ngay": "2026-10-29",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày 29/10: Quặng sắt lấy lại đà tăng nhờ nhu cầu sản xuất",
+  "tomTat": "Giá thép ngày 29/10: Quặng sắt lấy lại đà tăng nhờ nhu cầu sản xuất. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0ppQ0VjRFhwdXRsbm1GMm9xTFY0eEI2Uko0VlV5elhEVEFRX3hGN0xLRW1pMllCUnR2YUx2MXA4Wk04WVhuNE04Wk42M292Nm1Oc3VoTy1XYmZVZmh5MWlLMGlzdkZ4aWNKQUJhTW1EanNWQVlHdndYVWgtUEZTVTIyeTY5RU9wVEdKeGxCYi1TVkQzblJfZUN0eDQ1Sk81VUtCYWNSVVVMS214TUNiZnI5RQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-29",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bộ Xây dựng trả lời về việc xin cấp giấy phép xây dựng theo nhu cầu",
+  "tomTat": "Bộ Xây dựng trả lời về việc xin cấp giấy phép xây dựng theo nhu cầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZW1LcDkyQ2g5aUc0UjlnUnhFWTZRM1E2QjlkZ09qdFR4Z2VqMUQwOHMwVVlKSmh1MTJRb3FwLU9fSmlkMExpMC14WGZENGJ6OFJJQzdRR2N1TjNvNUUzM0hiZ3M0eE9vNW0tXy1XREJ1ZGpMWXVCVnd2OERaSEV2cTZPb0p2cTZqTVBnUTJWV3U4RDF4NTBtdE1CMHQwTVZHcUZJUExEdEd3UQ?oc=5"
+ },
+ {
   "ngay": "2026-10-28",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Dự án giao thông trọng điểm Tây Ninh có mặt bằng, công trường vẫn lo thiếu vật liệu",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "VietnamBiz",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGVzS01BbjZoMW9qQ3RJTlJ4TU1LVXNaSFNPWVp2SUYwYnphVFppTXVYWWRSUDlzZXVWYk0xNE44Z0xRWjJpNVVJaWlqMnViUkV6NUtsM3VhUlpLWlBXRkh5WUk1T3dtV3dYWlJTT0traTJGaWFKaFpOU1BkQlBkWENsSVozS3dZc05kZFNtYTFJWEk5VnBzUTd1U3ZKQW1WVTJEUlVYOFpJdVpwWTJTZXUwOGstcVhWVlpuVXp5N2Y?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Hà Nội giao loạt đất ở Đông Anh để xây nhà ở cho công an",
-  "tomTat": "Hà Nội giao loạt đất ở Đông Anh để xây nhà ở cho công an. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnExpress.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VnExpress",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHY2eW43ekFhUjRzTG5GVGFvUlJzX19hd3E2MmFISVZMV1RVNWlRWmt3bEFGcFlYSlNhOUdLYkxBNmdqSEhmUWZva3JoSVFsNk5VZ3F5UU1KRWtYaW9ubFJTSGdSa296V2RWby15Q01qRWVRajdhVlh6S2gzcmVjUG56emVoRlFfRms2eEtjR2VNZjF4dkE?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đất có quy hoạch ở phường Quang Hanh, TP Quảng Ninh",
-  "tomTat": "Đất có quy hoạch ở phường Quang Hanh, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYi1IbmVJbFVpOVR1VHU0QjNsVjBBaFVTNnhFMVhlNXdrbENKODE3WFM0enZBRE5OeXZXSVJTR2xXX0YtVDQ2bXRIZWVndDZwb002cURtOHBZRkxYRlNKN0V3cE1JOE9zZ3BDOVBqdkxFRjN4NVA1WFI2dGxXUUxTcU9YTTNzQ0VwbVVXNzBER3B1ZUUtb2hqUkVn?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam",
-  "tomTat": "Giải pháp vật liệu cho dự án đường sắt và hạ tầng giao thông tại Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Chuyển động Thị trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Chuyển động Thị trường",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVBYR0NtVUtDTXhDeWlFeVBGMnZGbm0ydVYyRXZjVk43Q0YzOXBzOU5acFhNVGpPamdLZnJ4djZUZ1d0SWQ0bkRnbEliSnJCcjNrM2JuQ1FWb244MjlZMm1scnEzdEtlQXJBNUdndTN0UEZvSWYzeVZjY1VVcWtxNTZNSDZUWm9JalV2S0lLSEZqdWM3WmpGMUhyMlI4bVV4eDFJbFptZk10dDQyRW5hNzBsQVlBb0U?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-29T07:09";
+window.TIN_CAP_NHAT = "2026-10-29T17:26";
