@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-30",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
+  "tomTat": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Nghệ An",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMl9XRktIRGJpQ1M1aEYxVEJ5Ul9LQVNZb3JqbXc4MzY0LU5yMWpHMjBKMTF6c0liSDRnN3MyRVE1RzdSNDVzX3pTeFI3cHEzY0RDYXpFdXVUM1loeDhNblFrY1Brd25UOXhvM2J6VHNFeGFrenhZdVlRNDFaOWdoaFJIeExSUy1OaElOZWJCbmFGTmpXeWwtY1V6SzNpaF9IT0JpWk9DQzRfeWVFU1puemtpeXBtbEI1a1NYTGVZVFNtU3RvSThWcElvQ1lKcHRudmFENFFfRG9JdzlKYVRJcQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-29",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sân bay Long Thành, APEC 2027 và loạt đại công trường mở ra cơ hội cho một doanh nghiệp sở hữu 6.300 cửa hàng vật liệu xây dựng",
+  "tomTat": "Sân bay Long Thành, APEC 2027 và loạt đại công trường mở ra cơ hội cho một doanh nghiệp sở hữu 6.300 cửa hàng vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2RKalBkTUdSYW1lTTBXaXFJcWRCckEzdlRpZUQxT053bmZMT1NSVF9zUzNlaXMzZ3BxR1FwZzZaQ01abUpvVWs2Zy1YeVpFckl1cXBtMW5aZ1BPT3RsU3YtRlFOZ3FhWUkwaVNKU1pHaXh6QWhacnRGck9QQlpRZ1YtMHY2QXZYRWdyXzcwSkhteXBBMXdPalBDTFp3a1JzVVlIVy1QQnZmNzJiSTJzLU5uQnlYeGxuMHJJdzliazI1cF84TmlvbEVCelBVc1ZLXzZKNXNjRnMzQk5yaEhWcUs4ZG16M0hJTWl4STZkT2pOaFBY?oc=5"
+ },
+ {
   "ngay": "2026-10-29",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá thép liên tục tăng, nhà thầu 'căng mình' tính toán vì lợi nhuận mỏng",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Báo Xây dựng",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVoxbEVWQVc2bGZnUmstMDNZUUNrcWdHRzQwZVdKVHQ0UTJQM3J0dktUZDZmTjdpYnZYOFNya0xhMzBpRUNUYndTaXJFTEJaSHMyLVF2dk1PRC1MS2VYTHdEQUEySFUyVTE2UXlUUTdZTVNpSVpjRjdiQ2pXVEVPVTZmbWJMNTR5clJ4Z0puT19vLVJkS2gwV3QwdGxIY1JIWkQ0YzhNVldaZWdnNHhuMFBCLUJSMWFhVEZlbFNGZmY2LUNJWldZ?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm",
-  "tomTat": "Bộ Tài chính yêu cầu các bộ, địa phương báo cáo giải pháp ứng phó giá dầu, thiếu vật liệu xây dựng, giải ngân chậm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Pháp Luật Plus.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Pháp Luật Plus",
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTFEUUw2ZTZSbHpGOWdtRU00SFZmRzVoeE41S3h5VldlaXU5aWt5elR1cVhvVGNHQVNqRExoNTVZY1preGUwNmtsSTZQa2JQajJHY2oxWmc0T19qUW54cUJraWFWaFB3MTlmLWFqaGJQM1JPdXBCc3I3YXh1Q2ZnZWtPanJyaWFVT1MzM2dkS2h5Q0N2MGJscXBncmJ4bUtfZVdaRi14VEU5dHJGTExvSDBhVGQ3NzdMWHU0NGpKdWtmUXJITFpNeHNkUnE5OFpFb05jeEUxNlRtdThCR0FuNXN0Nkg0R0k?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thị trường thép trong nước phân hóa, giá quặng sắt thế giới tiếp tục chịu sức ép",
-  "tomTat": "Thị trường thép trong nước phân hóa, giá quặng sắt thế giới tiếp tục chịu sức ép. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGVzS01BbjZoMW9qQ3RJTlJ4TU1LVXNaSFNPWVp2SUYwYnphVFppTXVYWWRSUDlzZXVWYk0xNE44Z0xRWjJpNVVJaWlqMnViUkV6NUtsM3VhUlpLWlBXRkh5WUk1T3dtV3dYWlJTT0traTJGaWFKaFpOU1BkQlBkWENsSVozS3dZc05kZFNtYTFJWEk5VnBzUTd1U3ZKQW1WVTJEUlVYOFpJdVpwWTJTZXUwOGstcVhWVlpuVXp5N2Y?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-29T17:26";
+window.TIN_CAP_NHAT = "2026-10-30T07:09";
