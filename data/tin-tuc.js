@@ -3,11 +3,38 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-30",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tăng mạnh nguồn cung, bù đắp thiếu hụt vật liệu xây dựng năm 2027",
+  "tomTat": "Tăng mạnh nguồn cung, bù đắp thiếu hụt vật liệu xây dựng năm 2027. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnEconomy.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VnEconomy",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1VVTUgtUHJhUGM1TVZWZk0zYzdnbDd6ZXRuVmxyLXBLMmFNWjYwRWJWSlJOVFZWRHFZYmtUM211R3lhTjdjVjFNdWluY1JfNEd4SEZqMGRybzR2VnZQLXMwZlc1NXpBa3FHbVFpMmdYZGRhbktaUXUwUjdVZGdtTGVfYVpYY3hCVUQ1OWlrekd6dDg?oc=5"
+ },
+ {
+  "ngay": "2026-10-30",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "'Vua thép’ Trần Đình Long và loạt doanh nghiệp đón lực đẩy mới từ đầu tư công",
+  "tomTat": "'Vua thép’ Trần Đình Long và loạt doanh nghiệp đón lực đẩy mới từ đầu tư công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGkyZzctd0dSVU1xR3U2QXlIVHpyWllQNUJvU3d3alJuRUJrUjA5ZU54Uk1zbWVaNlN2UmREMWhNVkNSNm9iT2gtQ1VnNjB0M1p5Y2ZObVhaZFYxcEJ0WFdxcnNJWGlvQ0EtUVVDMVZLd2ZKaXozYnFnNE5oRGNIN29JMUdHMmQ4dnF3ZmdFX1R1bFN2dXVmdG9tNjVLZUtidld6VndFaXhFS0kzSm5B?oc=5"
+ },
+ {
+  "ngay": "2026-10-30",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
   "tomTat": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Nghệ An",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMl9XRktIRGJpQ1M1aEYxVEJ5Ul9LQVNZb3JqbXc4MzY0LU5yMWpHMjBKMTF6c0liSDRnN3MyRVE1RzdSNDVzX3pTeFI3cHEzY0RDYXpFdXVUM1loeDhNblFrY1Brd25UOXhvM2J6VHNFeGFrenhZdVlRNDFaOWdoaFJIeExSUy1OaElOZWJCbmFGTmpXeWwtY1V6SzNpaF9IT0JpWk9DQzRfeWVFU1puemtpeXBtbEI1a1NYTGVZVFNtU3RvSThWcElvQ1lKcHRudmFENFFfRG9JdzlKYVRJcQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-29",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Hà An, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Hà An, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUtZa0drZXJ4Nk5GMHVScW1sU3VQbXh4UUQ5ekRCd2otUUIzU0hUZExaZm1RQnRaaUJIV1pvSmZJUzFpNU05aHlrWmNjOF95emRhNHlnX3dWLVZGWkdWNjhidUlNdzNoTUNMNFJFWEhFMGhwRVJ2eWQzTVRBRnAyTEtwdXl4SkdpY2JtbHczWWQ3eDg?oc=5"
  },
  {
   "ngay": "2026-10-29",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "baochinhphu.vn",
   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSERTZjdYa3lMZ20zNEtEU2NRX09KYVRvUFZvV1QtbDYwWlZVNHhDNmJRYldOVGFsMTlLdnBmcU0wRWJvNGJUaVZtSWRvT0FhQ3VrNmZhOFA3dnhITjdSTkJKSFRpZFh1RUJWVngzV3NHcmhHU2RycVRqTTVYLWptM0FuNE8tc3JFeEc4aHM4Slk5Y0ozZmh0cDlFSHFNajhOUUFHcFYza2JsY045eFliTWVZYXltMlhJdkFUT2lVT1l0NVJJOUZsem5LMlBKaHk3WXB6U3p3VzBFS3U2VklJSlNsQXVpNWQ2a20yY1QzZDVDM3lLV3AzV2EtbGJ3YTdmbkNvR1J3?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Công tác hợp long vòm thép 3.400 tấn trên sông Sài Gòn",
-  "tomTat": "Công tác hợp long vòm thép 3.400 tấn trên sông Sài Gòn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "tin.skydoor.net",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVE1kWWJQbXlxNzh3enRsZnRBMlg3OEY3b3NEQ0g3QVkwMWFncTdjQzdVdGlwWmVzRWgycThvbzRwR0t0SHN2Zl9rNVh5aHpsZEFvNk9jYzVKNkRlbXhPWG1RV09xTnBBenRqTV9tdk1TM3luZUxVVzRScXRwV0h1Z1dhOA?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Bộ Xây dựng nói về việc xây nhà riêng lẻ ở Hà Nội bị phạt vì không báo khởi công",
-  "tomTat": "Bộ Xây dựng nói về việc xây nhà riêng lẻ ở Hà Nội bị phạt vì không báo khởi công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUktBaDVDdThZbkJ5NTNZVDFKNEFsSVpuRVJObHowb3EzVDJMODdQNzRZM2dWalZzM1JfNTFON3JrdHQ2ODM3bUhxNlU4ZkZpNkh4eXFRTlo1bzdkdGxsdjB5Mm9UUXZvSWs0OHpfNVdnYjh5Mk9WSzdmbjI2aHlnbWthMllGbUFLRGE5b0ZDMUdTa3I1U2NCZE1Ec3BjRGRxcy1Jc29tZ1J3Q2g5dXVsb19za3R0dw?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh: Siết nghiệm thu công trình, kiên quyết loại hồ sơ không đạt yêu cầu",
-  "tomTat": "Quảng Ninh: Siết nghiệm thu công trình, kiên quyết loại hồ sơ không đạt yêu cầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVoxbEVWQVc2bGZnUmstMDNZUUNrcWdHRzQwZVdKVHQ0UTJQM3J0dktUZDZmTjdpYnZYOFNya0xhMzBpRUNUYndTaXJFTEJaSHMyLVF2dk1PRC1MS2VYTHdEQUEySFUyVTE2UXlUUTdZTVNpSVpjRjdiQ2pXVEVPVTZmbWJMNTR5clJ4Z0puT19vLVJkS2gwV3QwdGxIY1JIWkQ0YzhNVldaZWdnNHhuMFBCLUJSMWFhVEZlbFNGZmY2LUNJWldZ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-30T07:09";
+window.TIN_CAP_NHAT = "2026-10-30T17:26";
