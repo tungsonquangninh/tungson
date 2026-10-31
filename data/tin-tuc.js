@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở",
+  "tomTat": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRC1jRFRKQ25mZW0yXzNfczNOYTNrWG1vajBwdFRUOWx0WlF3VXNDek5wNnc1X0plSmJ0RjNvMl92aE42QnBycUtBalMzNkw2ZXJydW9Xd2xqenVpUkQ3RjI3djltUXNEdnlBRWNaQmZfSmxBZGxvQWZPdnJOQ0ttLTdmRHlTOG9uX3VRQ3lUWU8yMkl5QU1CVmFEN0JfeUpEMUx4V04xamRjc2Q2cTJwNjNSWHVBRUhqNldvRGxUVVZuOTZpNXFsZVhfNXV0LW1lblAw?oc=5"
+ },
+ {
+  "ngay": "2026-10-30",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thiếu vật liệu, khó khăn bủa vây các dự án giao thông trọng điểm TP.HCM",
+  "tomTat": "Thiếu vật liệu, khó khăn bủa vây các dự án giao thông trọng điểm TP.HCM. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tin nhanh chứng khoán.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tin nhanh chứng khoán",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS29yeXJLenBLMnFMdUljVTQ2NHEzUVQ1WFFMcUdIdFpmcHZIYUU3bFZ1Vnh6U25ENmtFbmxZRDFBU3NBbFFfSy1Mdngtd0gtcDJTLVNaQjNoLTZfY0d6U1NKLXYwby1rclZwbzJlTDV0RUpLRXhISlh4cTJNVmJGaFhQckJpbTVXd2NxUll1ME4tN1dUZVl3TGlHX3NQcmMyNTREYlBJT2VZelljWE1feUNoa3ZRME9VRENF0gG3AUFVX3lxTE5ZUFRhVlotMVdqT281OVgtV1kyYm1Ldkt2bC1pSFB6VDh3MnY3SmhCcXoxblprUE4tanFHSnF2RHdIWEpmcDFGNmdrNklkTWhQTi1MamlzZjBXS0d6dlF5dlpjSFphaXg4dEJoSEZzMnpXYjhSVVcwa1RpN2kySUlNeGpmdUNfd3dwOEJRRmx3UXhraHlBLUdaQWU4WG1QM0pKMTVTS0NZaVVNVHIwREZwdTVBSzlISQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-30",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Vòm thép cầu đi bộ qua sông Sài Gòn đã cập cảng quốc tế Long An",
+  "tomTat": "Vòm thép cầu đi bộ qua sông Sài Gòn đã cập cảng quốc tế Long An. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "tin.skydoor.net",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUdwY2pIODB3cnUtaVFnazFMS24wbTVpWkZuMjRqeUZXUlFhTWRDSkQzUXdFc2VOU1htMF95V0luV1dTQzVGcUVzRnladXpTWU8zTDliTmpVb09IT1F1bkloWFJsNG0za3B6MUxNRldhdll6ZWVNNnZWbkRwcHdEZE5DRFM?oc=5"
+ },
+ {
   "ngay": "2026-10-30",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tăng mạnh nguồn cung, bù đắp thiếu hụt vật liệu xây dựng năm 2027",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tạp chí điện tử Thương Trường",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1NvMndaZUVzSzVmeHI2WlFYUFJrNUo0ck5mV1FXcV9ST1ltcWVvUHlfNTV6NXZacno4NkhhdVJVRzE2Nm12ZWRFR3o4NkJXaDNPY0kwdnBvaEIwcTB1amxNVXdlNjF1cGFsYUpNeXZ5MXJQdW9PQUNJVU9QZ2FJSXpoTnRBLVVXZnFRZWVNQzhiR1Q2MDlIZGFPRTQ2dl9iMnNPeTBQcURLOWFTTlJSZ3VPWTZ4dw?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Khởi công nhà ở gia đình đơn lẻ tại Mỹ lao dốc, giấy phép xây dựng chạm mức thấp nhất trong 3 năm rưỡi",
-  "tomTat": "Khởi công nhà ở gia đình đơn lẻ tại Mỹ lao dốc, giấy phép xây dựng chạm mức thấp nhất trong 3 năm rưỡi. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhật Báo Calitoday.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Nhật Báo Calitoday",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbzRfcUxTYlZ1RjlBOGlhelZmWTdlaHJwWTlhZHFIY1JHVk1tTWdJWWpTVUU0OTBXWldUSmNYOHJRSHRudkxUZlFBMUU3cEFiRUVWXzVmRkhWZ1ZRNEYwVUlBb1NmVU1JWDktZm1MNHlrdDBkeGhZdjNzSDlVQkppUjJmMUhIMlpTUHloVGY4Ni0xaWhQb0dWa0drTzByTHdiZGxWbTFtWlM5SlR5ZUJUZi1PUlpkZWg0a05kSnZmcmJVanhlYXVuU1dUZ0hWMWM2Q3JsZS00OTdOTXFPMl9abjRQMA?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Ngày 29/10/2026, đấu giá quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất tại phường Cao Xanh, TP Quảng Ninh",
-  "tomTat": "Ngày 29/10/2026, đấu giá quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất tại phường Cao Xanh, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đấu thầu.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Báo Đấu thầu",
-  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRzRKTDBYaG9iYVdEYzFUbENFa2Vrc1FhUlhuS01GVEh3TG5OaXlHQnNWbUhhUmJJX1JNMnJOcXFBU2paTTRrUElVUFNtcmRJUmlEX29qWENPd1NtQlVsajAyT0lPSVpMZHkydlNtUzhiZzZRdGZBOHRpWW5wMk5iTlJTbzJBX3p2OTZfMFBPUFA1cDRSNHZaRk11d1EwcEV1ZjhjWFhyQlpaZUYxRzhhSjVlLXJldC1RY1BweHZEMHJ3bGYyeUNHWVVyU0NmWXhreGlSUENNQURTa05hdUU1dGtmMWVQd3J5ZXJGQ2NiSW92VHU5eGc?oc=5"
- },
- {
-  "ngay": "2026-10-21",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Trước 25/10, báo cáo Thủ tướng việc điều phối vật liệu xây dựng giữa các tỉnh, thành phố",
-  "tomTat": "Trước 25/10, báo cáo Thủ tướng việc điều phối vật liệu xây dựng giữa các tỉnh, thành phố. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baochinhphu.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "baochinhphu.vn",
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSERTZjdYa3lMZ20zNEtEU2NRX09KYVRvUFZvV1QtbDYwWlZVNHhDNmJRYldOVGFsMTlLdnBmcU0wRWJvNGJUaVZtSWRvT0FhQ3VrNmZhOFA3dnhITjdSTkJKSFRpZFh1RUJWVngzV3NHcmhHU2RycVRqTTVYLWptM0FuNE8tc3JFeEc4aHM4Slk5Y0ozZmh0cDlFSHFNajhOUUFHcFYza2JsY045eFliTWVZYXltMlhJdkFUT2lVT1l0NVJJOUZsem5LMlBKaHk3WXB6U3p3VzBFS3U2VklJSlNsQXVpNWQ2a20yY1QzZDVDM3lLV3AzV2EtbGJ3YTdmbkNvR1J3?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-30T17:26";
+window.TIN_CAP_NHAT = "2026-10-31T07:09";
