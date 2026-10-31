@@ -2,6 +2,42 @@
 window.TIN_TUC = [
  {
   "ngay": "2026-10-31",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ",
+  "tomTat": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Một Thế Giới.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Một Thế Giới",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekpQN3ppSmRDMXczMG9MLWFiMDk4Tk15R2p5Tk5VZVFVX1pVWVFNMUttUnJ3LTBnazhjUDJyQVBQZE1TbFU4WVBxZmJ1eGlSanFoTDQ3YmlFOTRSaXJoMVhnUVBPMURIZ1F2aFhsZGV3R2N3ajRmQ3R6aldWdkJZcVVrWV9sRXdWRVFNQXp4MWV0Rk5YUzdValRTR1BQaGZZMWltZw?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Việt Nam đón dự án nhà máy sản xuất vật liệu có độ cứng vượt trội từ Mỹ",
+  "tomTat": "Việt Nam đón dự án nhà máy sản xuất vật liệu có độ cứng vượt trội từ Mỹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSldzSS1icUxncTV1MzAwT0FDNGkzbGo3VXNaM0xhNXBNLWFNNWVZTjRVU3lrZ3JIWFh2VnVmSlIxVkF1a1pGS0tQVlcwcXQ4Zzd3LTU5WFRuTWJ1MkdWQk5JbEh3RkJXb0w4T1VIX3k1RzlPd3RpekUyNjd2ZHZRN1dNaDhxU21xZ3dJYjBkSS1CMFNvUmZFYng4V0VuZTBvOG5CVFlpUXRkX3RqN29TVXVEYWtCeTFsc0E?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Đà Nẵng hướng dẫn các chủ đầu tư xác định mật độ xây dựng cho nhà ở riêng lẻ",
+  "tomTat": "Đà Nẵng hướng dẫn các chủ đầu tư xác định mật độ xây dựng cho nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1E4SUlVaUprUHp0WGpxQTNJcFBPYWdVakFrNWp6T0hKZXV2T2JLRlBmNE9ocmxOX1hEUkY4ZjV0NGREbFZ2TXk5Qjh6NVN0cFJuR3o3MUFsVUpQcXlYdkxFTENUa0M3UXdZNEZJdkRzQmlKWDFjWmVMQ0MwMnViNnhIQWhHMW15Qm1fMnVydGdoVEtXUll1RUZ6d0pDbW1a?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh cụ thể hóa các quy hoạch chiến lược",
+  "tomTat": "Quảng Ninh cụ thể hóa các quy hoạch chiến lược. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử Tỉnh Quảng Ninh.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Cổng thông tin điện tử Tỉnh Quảng Ninh",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05b3hqaTlxZDJoY0RTbkgzTF9mcW5zUVE2bFNQYkNNYnB2Qms4aHcybmVWRDRoZVBnOHpsX0ZxM2NOSXVzZnhwMVIzbU5jeXNpQTFGRFItZTM1QVNIbTQ4Z0l0dGhEVWVQMFRtZW5Ba190QQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
   "chuyenMuc": "phap-ly",
   "tieuDe": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở",
   "tomTat": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Sơn La",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkFRR2VBNUQ0alQwcWMwaTUtRk9pVUw3SzVoWURYLUcxUlJDNjhmYzJ4dWpMbmQyV2FiSHk2TmJ3YUYtSzdHMzFjLVRRYkxwa2V5QVo5NERTUGpxUGthWXg2MEdNVl80MHg1U2x1aVNmT3FWbGUtai1DbzZqcGFTa2JLN01QUjlXWGJKYTBHcXByWFZueVpRdGd3?oc=5"
- },
- {
-  "ngay": "2026-10-22",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Bộ Xây dựng làm rõ việc cấp phép xây nhà khi chưa có quy hoạch chi tiết",
-  "tomTat": "Bộ Xây dựng làm rõ việc cấp phép xây nhà khi chưa có quy hoạch chi tiết. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1hUbmVPOFBoRkoyQ3FVVWg1bG9hT19Hc0pVNEhTZERzV0VrN0RVQ2Q5alFuM2VSTFFSSmY0YTZxN3FiandBS1ZFR2NyWWxBbm5fdjFJOHZZQS1iOTVIQkZGNUpQNHNmRHJpU09JaEtjaVliY19iRnljNGZYVV9hZnBKaUNTTEtUNk5Xb21aeWNDSnh2YmtfRV9fa1JNU25tMmtlc1p6SEpDZw?oc=5"
- },
- {
-  "ngay": "2026-10-22",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh đẩy nhanh giải phóng mặt bằng cụm công nghiệp Hoành Bồ 1",
-  "tomTat": "Quảng Ninh đẩy nhanh giải phóng mặt bằng cụm công nghiệp Hoành Bồ 1. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "tin.skydoor.net",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNG1odThQbGlwdkpTWEdadXhaN0o1LWR1cnBCRWlMeHRvMEhHcUN0LXVKNENDTElxYlFKeW9mLXZIRnpFb2huZE5aOXVDLThMSVYzS0o1S2pNaFh3NTg0cVBPS3JZdXQ1MVgwU1VwNXV6WlBWdjhicVRIVnhrOFNDUXJrMW9Sc1lRUHc?oc=5"
- },
- {
-  "ngay": "2026-10-22",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thủ tướng chỉ đạo mới về nguồn vật liệu cho loạt dự án trọng điểm trên cả nước",
-  "tomTat": "Thủ tướng chỉ đạo mới về nguồn vật liệu cho loạt dự án trọng điểm trên cả nước. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ cafeland.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "cafeland.vn",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnJSWE53SHAyR29IU1pSTWZIbXVHc04wTFpkTEpNRVlycjVheFRsOGdKYVdrNzVTdkdYR3ExZmZzckNkcmFjc2tvbEJ3WTJyY2Q0NWp3X1RKUzA2RUJDUmxXaHBaV29aRmV6ZFBSenlxTzFlYU05OUEtOEpJNHhLZFJCWFc5dzdlcVVOcTNLVUw2Sl9hTWpvdTlSRXJjbnI3ZHUxMW5MR1JjRE13MGYzUnpRUEc2NXRXUEE?oc=5"
- },
- {
-  "ngay": "2026-10-22",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thị trường thép trong nước trái chiều, quặng sắt thế giới tiếp tục giảm",
-  "tomTat": "Thị trường thép trong nước trái chiều, quặng sắt thế giới tiếp tục giảm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí điện tử Thương Trường",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1NvMndaZUVzSzVmeHI2WlFYUFJrNUo0ck5mV1FXcV9ST1ltcWVvUHlfNTV6NXZacno4NkhhdVJVRzE2Nm12ZWRFR3o4NkJXaDNPY0kwdnBvaEIwcTB1amxNVXdlNjF1cGFsYUpNeXZ5MXJQdW9PQUNJVU9QZ2FJSXpoTnRBLVVXZnFRZWVNQzhiR1Q2MDlIZGFPRTQ2dl9iMnNPeTBQcURLOWFTTlJSZ3VPWTZ4dw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-31T07:09";
+window.TIN_CAP_NHAT = "2026-10-31T17:15";
