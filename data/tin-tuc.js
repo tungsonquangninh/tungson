@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-10-31",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thanh Hóa: Đội Quản lý thị trường số 5 tăng cường kiểm soát thị trường vật liệu xây dựng",
+  "tomTat": "Thanh Hóa: Đội Quản lý thị trường số 5 tăng cường kiểm soát thị trường vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVdfOXRDRWRVUnJzMEc4LWUzQTZSNnhTTk03UmIzdEFSdG1kZjU5RW55MnB0dVhscXU0dkNRTHdlczdUWEV1OXZKZmJqMkpqUEd1ZmhHSGRhc3hsazZLYlVhb2YwYlo3NDVvMTdtZ0gtRXNEdWpManJ3cFViaVFPckdvcUVEdHo3bE82aFJHYXZvcEJnZEpROV9jRm5URXR3ZUJISWNnRXNDYmNleURpVUt0a0xUY2hZaG5GbzBURFExazBrWlVJa0Rad1N1UXM?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 31/10/2026: Giá thép đồng loạt lao dốc do áp lực tồn kho cảng biển",
+  "tomTat": "Giá thép hôm nay 31/10/2026: Giá thép đồng loạt lao dốc do áp lực tồn kho cảng biển. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZFZVlHYTBnRkhtT0V0bU9oYmMzQkdpM01NdXJZWFBScWtBOUphWmhTYXBTUTRTTWdoQ1J3cjZjV2otNENRRWVleF9ETEdoREFzcFFiQ1VMbTFzTkZDel9wUjVUVlY5aEZzbEJ1SmFJbURMMnRyQTZUZmV6bGFvMkRjVmF4ZktGTHBvb0hud0VwYjVDNXVSQUk3OEl2STVoT0o3SjNoSl8yWFp0dnI2bGZ2S2laS1lYVHFNdU9fSQ?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Quốc gia Đông Nam Á được Mỹ 'chọn mặt gửi vàng' xây nhà máy chế biến đất hiếm trị giá hơn 15.000 tỷ đồng",
+  "tomTat": "Quốc gia Đông Nam Á được Mỹ 'chọn mặt gửi vàng' xây nhà máy chế biến đất hiếm trị giá hơn 15.000 tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTZPV1BYNkRtY2ZBR0tzYTM3TVI2cWRkLXpneWhpOXRIVmxiTFlQNmtfandQNUxGS3p6dFNMM0hLUENKbTVVV3FkUU9QV20wZEU3a1NWVmpibUFHNlgxQ2RvaWxkWUhybzlKRzJsbnF3TGNGaS1fWXBUOFBTUFlYYU9zUlBCcDVDQmlPdHRjcFlkVlFSYWdMVnhoaU5QQmtqV0VxSFlVUHFWU1RBNW1pZXFrSTNjb2pscHJ2bDFkdzZHN3otRkZnMEg4a09DRmRKY0NDOA?oc=5"
+ },
+ {
+  "ngay": "2026-10-31",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ",
   "tomTat": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Một Thế Giới.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Báo Dân Việt",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm1TMXdDUU9RLW53RFJFOXdlVUswYlBJaVBWem1UclYxeng4bHE1UzJuNVVkZFNYajl2Q1ZqdTMwY0c1REF6OHNfWGVpeDB6TGt0ZlBjR3pOQUlLS3lmNDgxSV9vcktrYnRad0hnYnBDcm5qS1BPNmk5MmlFSlh2MUVTTC1vbk9xa0U0Wnh0TXQzZW8tWVBZ?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Miễn giấy phép xây dựng cho công trình đủ điều kiện, tăng cường giám sát tại cơ sở",
-  "tomTat": "Miễn giấy phép xây dựng cho công trình đủ điều kiện, tăng cường giám sát tại cơ sở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "HTV",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFN6UllvS2trR2RncFpGUHpWOW9BSlIzdFdWMk1EZXI0M0V0OXd2TWh4RHBWVFhONm1DdUN0X1ZUTTFkVWtjYVB5bnY5R2lhNnR6ZjJqNndYZnkycG5WZlBTanI5NURBWVExSWtlMkFuVUh4SjJuQ1R0OVppQ3VZOS1vcnBaUkctVkVIOVBPZnVFRFAxT0dtSzBCZm0yMzNEQzI3b3RxZ1pNWTk3UWM5Wm9aX0ExRm1LSm5N?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ",
-  "tomTat": "Ông Lê Phước Vũ - Chủ tịch Tập đoàn Hoa Sen: Từ 'Vua tôn thép' khởi nghiệp với 2 chỉ vàng, đến lời thề xuống tóc đi tu sau khi thoát nợ gần 20.000 tỷ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Ngôi Sao VN.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Ngôi Sao VN",
-  "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZ1l3UEVZR18xMGltMXFodFFtdzlUX24xRGtEbWxZOWVyRFkzY1JqWEVMRE9QOFBMM2J2VEN3ZEEwcV9mV2FiWlBPWEY3TEtBYXgwcEdudTFpTmdTTlJRQW9TSDdCTnRKaXY4Zk43RGtSbWRxcW1Gdmo1c3NLOTNNaEdYSlJkSHYzOUlQMmlJRjRNOWc1T3B1VFYwQzBZb3JNUmJaSG9QSmRyZGxqNVQ4bjNQUzdWcFE3c21QUTlJZ21tNVBXZHphZVU5NjJ3SzVpSi1yb2oxMktlZ01EWjdPX3FvTm41a202eDd1QWh0enBCb0VLY2ljWnJ5NVVjdlhSdzlUUTI1MGZqR1JUMU5jX2ItQmRYZjZodHVGSTJ3U1hoUjFBZGMwS2pJRlM4N3Z0YXVZTURiVm0?oc=5"
- },
- {
-  "ngay": "2026-10-22",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tăng cường quản lý khoáng sản làm vật liệu xây dựng",
-  "tomTat": "Tăng cường quản lý khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Sơn La.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Sơn La",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkFRR2VBNUQ0alQwcWMwaTUtRk9pVUw3SzVoWURYLUcxUlJDNjhmYzJ4dWpMbmQyV2FiSHk2TmJ3YUYtSzdHMzFjLVRRYkxwa2V5QVo5NERTUGpxUGthWXg2MEdNVl80MHg1U2x1aVNmT3FWbGUtai1DbzZqcGFTa2JLN01QUjlXWGJKYTBHcXByWFZueVpRdGd3?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-10-31T17:15";
+window.TIN_CAP_NHAT = "2026-11-01T07:07";
