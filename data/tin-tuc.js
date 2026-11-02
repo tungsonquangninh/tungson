@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-02",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Rà soát công tác quản lý, khai thác khoáng sản làm vật liệu xây dựng",
+  "tomTat": "Rà soát công tác quản lý, khai thác khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUw1Wkpjc2RoZ0t2ZHpmZWFCV3RJeTFmMGp4VGxHVjlvX1B3SFBkLUZaZ0JsSnl1VVowQTlYOFA0RlMzcDY5R1BBUTFsMi1uU0MwWllJWnhzUFdNRkJ3ajRibm5tRXNTc3hnQlV0ZmpkdnhqNVc1SkRoMV84RjhCOGtjc0xjcF9yQmdJYXZWR0M3R2U5S0t3dA?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ngành thép Trung Quốc thua lỗ nặng khi nhu cầu yếu, chi phí đầu vào tăng",
+  "tomTat": "Ngành thép Trung Quốc thua lỗ nặng khi nhu cầu yếu, chi phí đầu vào tăng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcncxM1RQV1g4ZUYySG5NM3pkTEMyY0RLaFllbmVBT0pQRzEtR0VuQ3g2c2o0U1RaVmZaYjBscjVuR3Zsa0ZJckpIYzRIM2NOb1hlRDNOQWdYdHBlZGJWcTUxZC1SOHlSekhjZEo2WWZENXFsVUNyeHYzbWJNYzg5RHZiTlFGeWVHb2lPakttYmVkRTVhZHlZX1BLeTlvYTlRRFVWM0Z0OG1PdWJleU5qTlNISTk?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hiện trạng khu tập thể cũ ở Hà Nội trước khi cải tạo, xây dựng nhà ở cao tầng",
+  "tomTat": "Hiện trạng khu tập thể cũ ở Hà Nội trước khi cải tạo, xây dựng nhà ở cao tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkZTbjZSRWVoSnhPa2JYaS1VSE83MXFqWERiYWJfbHQzRm82VlVvRURrZGlReUIyWVFlQ2xRbmpnLWpqenUyYnVSZTNESjhQaV9GZURVUDdBek5CT1Q3SG4zelhmVXlCbHRXdUl6SWtGVDNSNnRaTmlTX2NPbTRaRFdaeE92bGdCWlg4SnFKQ1lHZHJUdlA0Q01nUFVMakRCT00zdDNYbm9TZ1Z6WUdacHg4YWJqTzlLbnlJREZQWGJzQQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Từ không gian thiêng đến không gian cộng đồng - thích ứng bản địa trong tổ chức không gian công trình tôn giáo, tín ngưỡng tại thành phố Quảng Ninh",
+  "tomTat": "Từ không gian thiêng đến không gian cộng đồng - thích ứng bản địa trong tổ chức không gian công trình tôn giáo, tín ngưỡng tại thành phố Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kiến trúc.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Tạp chí Kiến trúc",
+  "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZG9mQnAtUzdrS0hPU1JaQlkzdGxuSTEwME5wX1dMcjdTQkI0OTl5SUtQTTR1WS1XVng2Q25iZlRiVnhiTTBpb01LemdTMjFGdE1WSjNUSl9yOXNQVHZ6eW5WTV8xZWNRN29kc2pieXpmYnc3NldnRUFWLV9mVGtuSzBHWDVzYXpNM09oVExpSkhXa3dDVTNlaEJmU2RfYmZXVGN4WUZncmtHbDlKWTE2ZlBMeHdRUHlPdDRnRngtREVEWmJ6WWZVQ3VEdk85MjBBUmtZM0EyVEJraDVtS1l3dmVEZU5vaGx2cEYtVXNGQmdBWTc3bDNCWWRrbWNsd1k3LXRPSDgxUVhFM1BOa044QWJzODY1SEFrelAybVZn?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng",
   "tomTat": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "VietnamBiz",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFfallEVmdoQzBUX1d6R1pqbTlUSmNFUXMzU3VrcmJZM0lqRTFWYzdYb2ZPRmFxbUxkXzJWN3V3cFk4Z0lSVVJwcThaRVV4OUxtQXNCQXN3Tjk4MWJyOHhxVktuQVh0cllEQi1fY0k2YUtxVk40eDVyYlpVSDZrN2ZNUUIycVBzVko1YnNoVGhwd3R3aEhKSnduV0Jkdw?oc=5"
- },
- {
-  "ngay": "2026-10-24",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh thúc đẩy mô hình tăng trưởng xanh trong quy hoạch và đầu tư",
-  "tomTat": "Quảng Ninh thúc đẩy mô hình tăng trưởng xanh trong quy hoạch và đầu tư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "tin.skydoor.net",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1h2RFlteDEtZGN1bl9UOHZWZmtzQmdmZXZOUmhJSUp3Yk5Ka0JMNlhvdUF4N0w1ZmdhaHM1c0tTeUNSbjFUTHFPMDd6OHdfa2FBOWZqSE5vUGQ0WE1WZXUzTHRCV3U3eGdRcFg0T0lMTjZEVkJSdUxIREZhUTNjTDhhN3dZcUh5QV9lWQ?oc=5"
- },
- {
-  "ngay": "2026-10-24",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
-  "tomTat": "Thủ tướng yêu cầu kịp thời điều phối vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử tỉnh Hà Tĩnh.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2lFMjduTy1LSW1TbmtsSlY1X2diMXJ0cUw4Ym03Zlktdkl6XzZsdTFqV1VOUEdnTXFqODlXbTF3V1M3Z2hpRGI4Z0ZyWWxpRWdBVG5jTHdOQVd3RXUxb0RyaElOTXhEc3ZSNFJkOVVvZkZHc1ZkUzhwV0ZMNmFKb0g1ODludlkyYndya21nMTFTdFBDanRfTF9qNmJIdTIyMEZGeTByeXl4SFowTDE3QTNqNmRJcGlVU1E3U3VVMEwtbFNnZG0yVHRySQ?oc=5"
- },
- {
-  "ngay": "2026-10-24",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 24/10: Quặng sắt nối dài chuỗi suy yếu",
-  "tomTat": "Giá thép hôm nay 24/10: Quặng sắt nối dài chuỗi suy yếu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXVabER2Yk1VMUI4VUZTRzJqU2I5a3J1WDdtQWR4cWpIN2tYbS1wMk9xdXBoWXgtQ0RyeVBvS3ZrMnF6TVZLMDNzQmZNUHpVN1NaUlVXUHp4NFIxN3ZhaFVUWHkxM3lWY0xZbG1CZXlhMkIyOE1WUFVJd0QyUG85OWJYRVVQckxybGN6dXJ6T0JvUlk2a1V2amdJT1NZTnZQVE9N?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Căn cứ cấp giấy phép xây dựng đối với nhà ở riêng lẻ",
-  "tomTat": "Căn cứ cấp giấy phép xây dựng đối với nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0dabDRuZEx6U2JMZENjXzdJZ21FSi1iTU9FS0szV3FzVEFxb3NvLUFvVjJ4OFcyTE5kXzhVX1NVMzdhM21WMXVSR09FY0RYeW9TeGlJaHJDc0RKbmx1Rm51LVpHVjRoZVlDWldpaE1kXzNPcnN0YWxCX0pwU0EyY3pLb1VSSnlJbnZ0VFV1Uk82ZHVtaVRrajcwNVY?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-02T09:43";
+window.TIN_CAP_NHAT = "2026-11-03T02:46";
