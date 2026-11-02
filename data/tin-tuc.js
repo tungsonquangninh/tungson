@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng",
+  "tomTat": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVBLUlJMNXhYVWxVYko0aEZUTWtHODN5OHQ4eFJSQlpUQ0dXQ1lWalJTN2EzUGFKejNqM0tfRTFleVJrX2d3ZlZqQnozQzRzcHQ2Qzk5MEJZdGdha19YbVUxYW5SNTVxcjlKMS1YOU1PeXJKczRBMnRwNXI0NTVTME5GRE5ybHZ5Uk15TktQT0JHN0FUTU1uT0RXZC1pNDRnanNKV1F3?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 2/11: Một số mặt hàng giảm nhẹ, thị trường thế giới kém sôi động",
+  "tomTat": "Giá thép hôm nay 2/11: Một số mặt hàng giảm nhẹ, thị trường thế giới kém sôi động. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Hangthat.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Hangthat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGJ1UGNnbkMzYlVnZ2FSTFB3Qkt3VHFxLWxvRG9qeXBjZ1lXNjJySGpFcUFaZjdObFF5TC1vZVh6N0JDN1NwTnRiZmRDekZoM284Yl9IRS1JT1JJNXlLbV9CSzZ6UUo0ckdDVnEzMGRNLWszSThOR0s4ZTI5LVR5ZGowZnFBQmlNaWFRWDZtTmVUWXJ6LVZVRDVpQk1OS3Z0U1RUY0p3WjlUeFVHZURjQnFQRWxHSE04S3JQVUZOTmNFcVAzb3QtMk00eUt2SFhV?oc=5"
+ },
+ {
+  "ngay": "2026-11-01",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Giảm phát thải trong xây dựng nhà ở xã hội cần bắt đầu từ đâu?",
+  "tomTat": "Giảm phát thải trong xây dựng nhà ở xã hội cần bắt đầu từ đâu?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Báo.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Việt Báo",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEJhLXd6TmhYNjZQRTFTUkZxd3JYWUVZSXFEWExLb05BT0FQSTdvUU1oLVhOaEJrb2EzRER0TGIzZkh0cjlBQjBRdEgzNGNqWTJZakRZMDRiUDZDNENsdG1yVjZDeXM3WTAxY0tfVmpxV0JDQlVFYURuX0djSU5lZVo2V2pWdTZhQ3hxbVFlaHd1US1lQlNN?oc=5"
+ },
+ {
   "ngay": "2026-11-01",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thứ trưởng Lê Anh Tuấn yêu cầu rà soát nguồn vật liệu cho dự án Vành đai 4",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Laodong.vn",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0dabDRuZEx6U2JMZENjXzdJZ21FSi1iTU9FS0szV3FzVEFxb3NvLUFvVjJ4OFcyTE5kXzhVX1NVMzdhM21WMXVSR09FY0RYeW9TeGlJaHJDc0RKbmx1Rm51LVpHVjRoZVlDWldpaE1kXzNPcnN0YWxCX0pwU0EyY3pLb1VSSnlJbnZ0VFV1Uk82ZHVtaVRrajcwNVY?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Đà Nẵng xây dựng kế hoạch phát triển vật liệu xây dựng đến năm 2030, định hướng đến 2050",
-  "tomTat": "Đà Nẵng xây dựng kế hoạch phát triển vật liệu xây dựng đến năm 2030, định hướng đến 2050. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1B1TjZvbVBMejJpcXNZUUhDNXBaOTczdG9pY2NWOXZ5UTNvbkF4QV9UcXozb1BSaEFGbHZ4NDJibkxxWkQ4eGJaOFY5VzZuYVNXVUdOQ0syeXhPc0czcjhvNVhVM2FsOFZjT2t5QUpqVmFnTVU2cWtvUERzVXA5Vzg0ZTdoM2ZnMzNZcEd1NEpZNHRaYmFWZWJuNnNZYzBLMzNfZl82MzhZeTRFMzhNbnpKWkM3RmJGOXo4dlloaVQ4S2t3WlFVT0o3ekw?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 23/10: Giá quặng sắt giảm sau thỏa thuận cung ứng mới",
-  "tomTat": "Giá thép hôm nay 23/10: Giá quặng sắt giảm sau thỏa thuận cung ứng mới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjM3YzdMTEtIWXUyNHBRNWJBVGtmX1ozcG13ektnSjRteGZ4el9vQVB4d090emxobUI4Uy1RQkE5MFVPT0RmSDF6QzI4RmZNTTk2YmxnQzNmVTdyTVFVUXp2QzlCeWY4X0xMa2hSLVFKZ0xDVjVNYXgxUkhDTTI4T1FhMHQ2ZEhHNExmZUNvc21PVEQ2c3FpcElRaEN4R3BRWkRIVVZidTNxTlBtM09vcVFOSE1QU0k?oc=5"
- },
- {
-  "ngay": "2026-10-23",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Đề xuất chính sách thu hút nhà đầu tư xây dựng nhà lưu trú cho công nhân",
-  "tomTat": "Đề xuất chính sách thu hút nhà đầu tư xây dựng nhà lưu trú cho công nhân. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOH.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VOH",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1FmS2xubUlXY3NKemc4MjJWaVVOWVkzZEp0cEtLR3ZZajBfT0RTTW1wTTZQV0s2d0FvUVVfbFI1dEhWOXZsbHJzSFk0U0NWUXR1eWJ5N1oxOXVrTVd6VGtKRF84WlVzZUhlY2llbzRUSUJhclFSSzZsWklXVFZIRzAxUDdNSDIwa1RlWDc3ajlJNzdvc2l6UkFhdmxUOGwxd2pnNklaaV9hb1dZNDJF?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-01T17:17";
+window.TIN_CAP_NHAT = "2026-11-02T09:43";
