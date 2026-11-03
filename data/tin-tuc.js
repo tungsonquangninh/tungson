@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-03",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lào Cai: Chủ động điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
+  "tomTat": "Lào Cai: Chủ động điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLThpT0FSdHJjQ1Q2Q0xRMTNXTHZVNnBRVkJJN0hjUjFaeDBodUVIN3ZDbm9RMVZycUZQNWVHc19zU0doVFVGZnlSUHNpMmJJa011OUJ4c3BQMG5abnZsYVF5TEVmbTFORE5PeXpVS0JBaFVIRGk0UHBhVGtJUlZKNFZGVy1nZFo5ZjlBaGxPR2p4MVk2MGNtdXVmNThmVHJiaFNpM2drTkU0SFIza1lqcURzR1dQMVJMY0pKM1NHeW0xSzlEcDNfVEtMSDhnQkU?oc=5"
+ },
+ {
+  "ngay": "2026-11-03",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cổ phiếu thép đồng loạt 'nổi sóng': HPG, NKG, HSG tăng hơn 3%, dòng tiền đang đặt cược vào điều gì?",
+  "tomTat": "Cổ phiếu thép đồng loạt 'nổi sóng': HPG, NKG, HSG tăng hơn 3%, dòng tiền đang đặt cược vào điều gì?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlRrQmx1cDdocGh0am9Qb2J3T0trb0x5QV9pdXhlYjZLMTNWMnNERjJtNkZ3dDFBQjliNkVfM1NyQk9laG1IeHFGWGRlMEFrUnlNRFdFb2dBSVBSb2pGRkhJYVEtUHQ2eVpCLWgwREEzNjlIYTcwUjFuYlc0OVZ0UW5XQUt2TVFFakpwT3hnTVM4WTFfQUU4SjYxVXlpYVdlazlLa1dUWVk0SFZnRnF5Y0NFLWFCa29JTXhrUzJhVlJjbkVuLUE?oc=5"
+ },
+ {
+  "ngay": "2026-11-03",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Lào Cai: Điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
   "tomTat": "Lào Cai: Điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -26,6 +44,15 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Tạp chí Nhịp sống thị trường",
   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWWtxLVNlSVVZVV9JMmFWeDdPYjdwTWExZHFwX25aVmxualU0R2J5RTBObWhZYkJhWkttZ0JLZl9wMFpLWGJPVlhMMEstOFM1bzhmUFMxQjFHblBPSG13eHVCcnZpQlgxNWpXTldyOHUzMWNCVlp1T2xUaVJpUmV6b3JjOC1wNWswNVVaNlM1VVNzMkJOQkpDQ29MaHlyU055Z084SXlMbWcwZ1c0ME94d2FONlY1SHFsOWRtM3VndWQ5U0ZmQWVsU1ZEVDB6VDlwX3FYZ3NxSF95NUU3SEg5QWZ5UEtOaUlSenpEM2x2RmJSUDMtYkk3OGRKVFFnTUMxdTRsdGxqQkR1Q1E2ZUF6WWVGYl9kNFFJdlA0?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Mở bán 943 căn nhà ở xã hội, giá hơn 23 triệu đồng/m² ở Quảng Ninh",
+  "tomTat": "Mở bán 943 căn nhà ở xã hội, giá hơn 23 triệu đồng/m² ở Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTlhYkh2TU1TOUdBemItZG5GNEFDNG96Sml5UWNJVEpaVmdzc1cxV1JiNVFHTXI4RHJDbjdXakF3QWNtemNha1lEV2pCSlVSdmpMaEExakdXandwVXNUN3lzOFBfZjE0Z2xHMTZqZmQ1TkllcllIWmhzVVBCMUExejlEZkhxbWZMbmh1Q29OWGI2T2R5bGE1dDFjdXUtQ0R4ZGI1UnJ1NEVmbVNSdVFGWA?oc=5"
  },
  {
   "ngay": "2026-11-02",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Đời sống pháp luật",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWjlhNGM5em8ySTVqODQyVUNCTDdlWWphU08xd01yS3dIN3otRXFINUtKRkFudUc2SzdkTU9EOGRFV2szWDZpdXdlOG1HcnRGT0NOMF9uX1o0clRKZXU0RnY3Z3hRenlVQmxvTGswNUEyMERsczNIYmdELUFJbFc5dUQ5TFNqdDhacnBWeVNmbDBETmFhREpuZzFlUE1LN3llbXJGREFSVEhMVUIzTTZVSkk3QXJkQ0dTVHJHTnNqMUNKSnpfM3lzX1ZR0gHKAUFVX3lxTFBaOWE0Yzl6bzJJNWo4NDJVQ0JMN2VZamFTTzF3TXJLd0g3ei1FcUg1S0pGQW51RzZLN2RNT0Q4ZEVXazNYNml1d2U4bUdydEZPQ04wX25fWjRyVEpldTRGdjdneFF6eVVCbG9MazA1QTIwRGxzM0hiZ0QtQUlsVzl1RDlMU2p0OFpycFZ5U2ZsMEROYWFESm5nMWVQTUs3eWVtckZEQVJUSExVQjNNNlVKSTdBcmRDR1NUckdOc2oxQ0pKel8zeXNfVlE?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh mời đầu tư khu đô thị hơn 4.600 tỷ đồng",
-  "tomTat": "Quảng Ninh mời đầu tư khu đô thị hơn 4.600 tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakd2V2FXb0JWOXJuLUdzRllRTmNzd0hSTHlvMWxIZDhiQmVvaHlvbUpyUmFKaG1aNzJaaVYzbGI3SEJKRWVraVFROVhwOVctSmFGV3c3YXBKeXNkN3p1c19xNkRBanNEdXA3Zzg0MlFLeUdTc3JUUDNZMHBidWlHa0E3MzBBbjJvYjQzWERUeFNHdlk?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nâng cao trách nhiệm của các chủ bãi tập kết vật liệu xây dựng trong đảm bảo trật tự công cộng, an toàn giao thông",
-  "tomTat": "Nâng cao trách nhiệm của các chủ bãi tập kết vật liệu xây dựng trong đảm bảo trật tự công cộng, an toàn giao thông. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Hóa.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Thanh Hóa",
-  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTdILVNsVGtOdWVQTXYwdXRoUF9zd05EdFg0NnpjYUdKaWZhbjR5cXpneXlXbVZDRlhpU0YzMWJsVTJCZUxPbTFlNHJJSU94RWlHeUk1V0F4NER5OU5Nb3Vra1JIY2g3M3pvNGN4YmViNFFkYUw0MXN6LWlDM3U3cFBGdm9TYmhmVUU3bkFEVkVaaTcybzRoTTNkdW1UVUR1aE90X3I2SGpWTnBkenBTUDBieTlUZ1o4OG4tN1k3aU5JYXNKOFhoSjBDYTNXamMzUU1mc3M1NG1mV2l6LWFfeFBJWi1Ob1NO?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá kim loại hôm nay 25/10: Vàng nhẫn SJC xuống dưới 140 triệu đồng/lượng, bạc và thép chịu áp lực",
-  "tomTat": "Giá kim loại hôm nay 25/10: Vàng nhẫn SJC xuống dưới 140 triệu đồng/lượng, bạc và thép chịu áp lực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí điện tử Thương Trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí điện tử Thương Trường",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZGItTDBVZVg1WjRIdjZveXFobl9fLUg3Z2JmNTdVTFpEUUhmRUkyeDRUbW5NZ1o4TkRDVGtzVDUzYXZHRHhKeHB4T0kwU2hGVXZjSVRaVWYyS2hvZnJRUGVuWGtENVVucmlhZFF3ODgyX2YxYjJRSm5WbWFNbTJndkhnYm9oRk55YzdNcFFwb1dnYk9keEhLUEtKM3E1UmphdzRCUDJSb1hVSTEwb0kxNW85QTJwdkNNZWhFWDVfY1RfMkRMc1pYY2lsdVlWdXplWUF4MWVn?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-03T11:00";
+window.TIN_CAP_NHAT = "2026-11-04T00:19";
