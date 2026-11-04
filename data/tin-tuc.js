@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-04",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gỡ “nút thắt” nguồn vật liệu cho các dự án trọng điểm miền Trung",
+  "tomTat": "Gỡ “nút thắt” nguồn vật liệu cho các dự án trọng điểm miền Trung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHM2RTRTVUxlamZkR2VyZGZQeThuNkxPaGs2cEwzbGhTR0VxcEhfYUFMZmJTOEhLRG5PNHhmdjJrVHBKQl9wRmg3YkxHNC1KNVdFNjVJVXZ5SzVwc2ktR3kxemRBQzFpOGthSFNjWE5seFE2TVp4SHBxRFpCMVNQRXAtcV9yYVlzdXBDamhR?oc=5"
+ },
+ {
+  "ngay": "2026-11-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sức mua thép xây dựng tăng gần 20%, thị trường ráo riết chuẩn bị cho cao điểm quý IV",
+  "tomTat": "Sức mua thép xây dựng tăng gần 20%, thị trường ráo riết chuẩn bị cho cao điểm quý IV. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmc5ZWhqR3Q4Ylh1aHdHYXpJOW9NRHdaOHdTZWpBNXQ2c2ZERHlBYndGcHNSTHBaM2R6UnV5VHJVUEc1cURIZmdwd3ZpRV9HbmkteHBQWUhSNkVoNXEwOEo5dFJVb09SOHlEX3pEN3FUVUVGbUF5UjZtZE5qYjdTbE1CWk5GUkUtRUtZT2QyaXpGSkRTX2NwcWFGM0hmd2FEaW9UR3NGSnIxMW94dGh2bW1zLXB0SHlBVUpDRnJBR3ZBMXM?oc=5"
+ },
+ {
+  "ngay": "2026-11-04",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Chi tiết quy hoạch 8 đô thị: Đồng Hới, Đông Hà, Ba Đồn, Hoàn Lão, Quảng Ninh, Lệ Thủy, Quảng Trị và Lao Bảo",
+  "tomTat": "Chi tiết quy hoạch 8 đô thị: Đồng Hới, Đông Hà, Ba Đồn, Hoàn Lão, Quảng Ninh, Lệ Thủy, Quảng Trị và Lao Bảo. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0l6S0g4YjBfalFMRkt5ZVF1QmhXS3I4NmZLVmE0YVh3U2tfV09hVFY2Q0c1UzlmN2RKX3U2UUV2MS1jVDZBZ0NVeXpwT2pLYVJaV21nMi1TS0xsUUptcHkwV3piajVkWlZDdUd2QXJ3dlREZFVwUWx4QVRnQXhlRlJ2WDZpTHhTb0o1RXZETHpYYl96VFdOUlRXcUhka0ltV3k4VGdYN2FwSnVveGJnd3NaY243QnFfR3JIWGQ5b3Rvb0NTVUNSQWZoTDhtQVM1dGdsV0xReGNRdw?oc=5"
+ },
+ {
+  "ngay": "2026-11-04",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm",
   "tomTat": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Báo VietNamNet",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmNVLVVoeTFqdmhGd0FjRmFlZkVqWnpJdWRnaTFpWURMTW43Szktd0Mzdnpqcmc3ZUhEbUNMVF9lZXVKd19CcXhPaHpxa3loTm1TNGwwcVZoV2hWbE1YM2ZXSTZ5dEExVjY4WXhGOGVpRWFJMGVUZnphUzI5WFFpWFZGcGM1b0pxUjR1S0ppa2QwaEs4aWJha2hGRVJZZlY2U1U3bWl6cVo3b1YtcXc?oc=5"
- },
- {
-  "ngay": "2026-10-26",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bảo đảm nguồn vật liệu cho các công trình trọng điểm quốc gia",
-  "tomTat": "Bảo đảm nguồn vật liệu cho các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0pCV0NkQUNuUGpwRkJoVVNkaGFTVWZvcm5tNF91a1ZkNTM1b01GUUxoU0xISEduWFRBNEx6dE5HeXdoUkdLZjA2cG9WVWJhWDRpN2luY3Q1QVdEV0c0dVFOTGY3Xzc0ajhGeUlpUE5Ua0dVdXpPZEswRndHZWp2SWNIVl9DbkFuRFlRQQ?oc=5"
- },
- {
-  "ngay": "2026-10-26",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Canada tiếp tục áp thuế chống bán phá giá với ống thép Việt Nam",
-  "tomTat": "Canada tiếp tục áp thuế chống bán phá giá với ống thép Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Dân Việt",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGhaYjZvc1JPcklURWRKaEJUSWFJVDRERDVjM0FyQnZwV3ByZjhyTGZ1VUNkYVNUSUxyRXp3aFRjQlk2WGFFRl9FdG5kSTRQTHBocHNZLWxRaklISC1lajlIeDM2M3EzTVlzRThoTUFxOUJWZ3VoWWdDYWZRc19KRmZPSlpvX1Bjb05kMzRsWkRpMjNxU1J3ejlMaW0?oc=5"
- },
- {
-  "ngay": "2026-10-26",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Xây nhà ở riêng lẻ có phải thông báo khởi công xây dựng?",
-  "tomTat": "Xây nhà ở riêng lẻ có phải thông báo khởi công xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTV.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VTV.vn",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDZkbHZndHNWc2h5RmdHSS1QZVA4N1BOTm53THQyLWYxSHVlQ0FUZWJ4cW1qMkVGVDJ4cUpEVGVHTUdWdFJWQmh5bENfS3MxWUVPbVpORkl0ZWJ2RWJBTXd3bGY1RmFkejZ0cXd6UkNfS0dRR2JIeEFXdERLZnRkUzNteXVSaE01NW52bGt2YnFOVjg3c3dMbg?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-04T10:12";
+window.TIN_CAP_NHAT = "2026-11-05T00:30";
