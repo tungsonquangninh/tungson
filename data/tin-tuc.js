@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm",
+  "tomTat": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Đà Nẵng",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjFYMFRuSDJUbFhsMVl6aE16Wkl2dmZjcDk1c1I2MFk5MVpWeHRBbllFbE00bVo3ZE9Ra0x5bWs4WXlIOWZTUllTSEwxTFVFcHgyTnFrWTltd2ctczRHcm1vMF85LUhVQmUtU0lXOThhcDZneDVEdUF0WlR5LU5ZdFY3RFBqaUZ4NHA4Y3NCd3lGU3Z1OTJZWG5GbkJVZ2szUW9GaXEyZw?oc=5"
+ },
+ {
+  "ngay": "2026-11-04",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "[eMagazine] Tận dụng chất thải công nghiệp, mở hướng phát triển vật liệu xây dựng xanh",
+  "tomTat": "[eMagazine] Tận dụng chất thải công nghiệp, mở hướng phát triển vật liệu xây dựng xanh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp & Kinh tế xanh.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp & Kinh tế xanh",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzBjYU5QeWFYTG9hR3Ria2JabnM5bTdQWHV6TmVzY2JRckFxNzBzZl9HcTF0V1R5bjY4R2tBZThBdnNOVDhzby0zQmRuWVMzaC1zNEYwRl9aMHlLTThnTVNYdW5kU1JSXzF5V0lZTFl0RGdYa01wanY2YnZNQnpCcDdFTVo3MkZrMWppTnhkcDBzRlpUQ0dlOEwtSFQyeFBnUGdoY3NsX2NOQVlmcE1LblZVcnpfWUJVY2J5UFNtN2JIaTBiWExn?oc=5"
+ },
+ {
+  "ngay": "2026-11-03",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hội nghị phản biện xã hội đối với dự thảo “Nghị quyết quy định chính sách hỗ trợ cho hộ gia đình lắp đặt điện mặt trời mái nhà tự sản xuất, tự tiêu thụ và hệ thống lưu trữ điện tại nhà ở riêng lẻ trên địa bàn tỉnh Ninh Bình giai đoạn 2026-2030”",
+  "tomTat": "Hội nghị phản biện xã hội đối với dự thảo “Nghị quyết quy định chính sách hỗ trợ cho hộ gia đình lắp đặt điện mặt trời mái nhà tự sản xuất, tự tiêu thụ và hệ thống lưu trữ điện tại nhà ở riêng lẻ trên địa bàn tỉnh Ninh Bình giai đoạn 2026-2030”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh, Truyền hình Ninh Bình.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo và Phát thanh, Truyền hình Ninh Bình",
+  "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNWmxKWWxmbTVlbzZYcWJfcnR4cG5HLTdwVHJpa2FJWUEyS3J0dzlvekdFSERXS2R0a3V1ajlVYTV0Z296NFczRjV4UzVHY1VRTm40aHg4SXhudkVNVnU4ZUtJX29VcDBGSlN2TUlUYUNWU1ZhZ0J4V0pqdk1IOEVMZ3pjOTFQWGVlRS1NV2pZdXo4YThZTzZ4dmpmMDNSQzJwT0lxTU9WV0FDamNZb1hOMFBGV1NoUWV6c0RtbU5Sc1pzemQ2eURuRUtCUkgzTXJaS3p6RGM3azIxVndlM09UOVRaMVNmRENsbmNZX3ZzcGEyQ2o1NTdHdWRxN2FINmJBbnBXTkg5Q0NEZGttamRycjR4S2JIbmlyTGVZZ1BvVGR5UnRyekpqcExnSzg5TXdJRmpjWC1zSjVVdFR0aXZrenZHOVFnMnh4SXZ4bTlzNzZyejVLZWZQTm9rUGRONXBfR2Q2OEdIb1JScElGR0NoTjlITFVFS0ZZV1JTY3FxRWtScW8?oc=5"
+ },
+ {
   "ngay": "2026-11-03",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Lào Cai: Chủ động điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
@@ -44,6 +71,15 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Tạp chí Nhịp sống thị trường",
   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWWtxLVNlSVVZVV9JMmFWeDdPYjdwTWExZHFwX25aVmxualU0R2J5RTBObWhZYkJhWkttZ0JLZl9wMFpLWGJPVlhMMEstOFM1bzhmUFMxQjFHblBPSG13eHVCcnZpQlgxNWpXTldyOHUzMWNCVlp1T2xUaVJpUmV6b3JjOC1wNWswNVVaNlM1VVNzMkJOQkpDQ29MaHlyU055Z084SXlMbWcwZ1c0ME94d2FONlY1SHFsOWRtM3VndWQ5U0ZmQWVsU1ZEVDB6VDlwX3FYZ3NxSF95NUU3SEg5QWZ5UEtOaUlSenpEM2x2RmJSUDMtYkk3OGRKVFFnTUMxdTRsdGxqQkR1Q1E2ZUF6WWVGYl9kNFFJdlA0?oc=5"
+ },
+ {
+  "ngay": "2026-11-02",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Làm rõ người xịt sơn, đổ keo vào ổ khóa nhà dân: Cảnh báo hành vi đòi nợ trái pháp luật",
+  "tomTat": "Làm rõ người xịt sơn, đổ keo vào ổ khóa nhà dân: Cảnh báo hành vi đòi nợ trái pháp luật. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
+  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
+  "nguon": "HTV",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTRsU1pTdXBnU1NFaG1UWHB1ZVFqT2o2UGtEWVJhSWp4RDR1VEliZVZBY1ZYd1hCQWp5SjBSQks0NzAyRE9Za1BLQXJxQVNLQ1BiV1lmb3R1M0R3SUtHZDRZZnpaZUYtdDR0bmFnWjlqNU1HTXFjTUN5TjJxdTNERjdUc0dObDBlQldCaDJqVnBDRy1rUFE1amRIZmwzbWJZeWxKZzZIUVFRU1dBaFRBRl9PdG1tUzRZbGl2TzBMLXA?oc=5"
  },
  {
   "ngay": "2026-11-02",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "VTV.vn",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDZkbHZndHNWc2h5RmdHSS1QZVA4N1BOTm53THQyLWYxSHVlQ0FUZWJ4cW1qMkVGVDJ4cUpEVGVHTUdWdFJWQmh5bENfS3MxWUVPbVpORkl0ZWJ2RWJBTXd3bGY1RmFkejZ0cXd6UkNfS0dRR2JIeEFXdERLZnRkUzNteXVSaE01NW52bGt2YnFOVjg3c3dMbg?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Nước sạch vùng cao Quảng Ninh: Có công trình, dân vẫn khó tiếp cận",
-  "tomTat": "Nước sạch vùng cao Quảng Ninh: Có công trình, dân vẫn khó tiếp cận. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUxiWXdzTzU4Nm1reW9GdWdIblBTTGVTTWxLMFlhczB1TGZHRHVNTkpEUUhxU0dTODJsOGhNQzhqVGFDamo0TVZHanhBU2dTVzRZUjItTlJoaXh3QWhNMUlFeUV5RmU4Y3lWbXd3Y3dtWGJCUW1LTVF1MW92Y0dTMk1MeHl5N2JDR1VreHJjMGRoTEZaN2twazEtakJHai1I?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lý do nguồn vật liệu xây dựng thiếu hụt một số nơi ở Lâm Đồng",
-  "tomTat": "Lý do nguồn vật liệu xây dựng thiếu hụt một số nơi ở Lâm Đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXRzbWxsRVo5X1dhbTlpRGp2eVZPejRQcWJMeXk3RFNjcG9VRzdwNjIzcjUyd1l4S3Vka05pY3BYUTFNcEpQTVJFRHZoSGdfSGtYS2QtT3J2X0tpWUFZOXJZQ0pjQzl2YTlXY2RWcGFfVVI0aW5qeG12SUpjZnVobkhLeVpmZHZxVzk3LVpJVTVlVE1vRVlONEV3Y09vanRUbXhjaFBR?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "12,4 ha đất thuê cùng nhà máy thép ở Hải Phòng sắp được đấu giá, khởi điểm hơn 300 tỷ đồng",
-  "tomTat": "12,4 ha đất thuê cùng nhà máy thép ở Hải Phòng sắp được đấu giá, khởi điểm hơn 300 tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlhZX1duZndJNEhaRGNVb3Q5TUZmdWU0bFVDWFZndzhicjBTa19FT19KXzdPNlREWDZQdUs1TXozOGZELW1VQi12LVRUdmJhbVdkay1pYVRYQ1BPMGV3cVNfNTdBbU9KZ00tbmxOd3VUMW5kdlRwYnA3S21kckpjYTNtRm9rWWtfd3h5eUR2RlY2VmtnSV9SMlFQREg2ZlNaRllXYUpRcjZZa1FOVzBXY2NfZXBRbUt5anRlZURHTFFCU2Y0OXJJ?oc=5"
- },
- {
-  "ngay": "2026-10-25",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Bộ Xây dựng hướng dẫn cấp phép xây dựng nhà ở tại khu vực đã có quy hoạch chung xã",
-  "tomTat": "Bộ Xây dựng hướng dẫn cấp phép xây dựng nhà ở tại khu vực đã có quy hoạch chung xã. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Đời sống pháp luật.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Đời sống pháp luật",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWjlhNGM5em8ySTVqODQyVUNCTDdlWWphU08xd01yS3dIN3otRXFINUtKRkFudUc2SzdkTU9EOGRFV2szWDZpdXdlOG1HcnRGT0NOMF9uX1o0clRKZXU0RnY3Z3hRenlVQmxvTGswNUEyMERsczNIYmdELUFJbFc5dUQ5TFNqdDhacnBWeVNmbDBETmFhREpuZzFlUE1LN3llbXJGREFSVEhMVUIzTTZVSkk3QXJkQ0dTVHJHTnNqMUNKSnpfM3lzX1ZR0gHKAUFVX3lxTFBaOWE0Yzl6bzJJNWo4NDJVQ0JMN2VZamFTTzF3TXJLd0g3ei1FcUg1S0pGQW51RzZLN2RNT0Q4ZEVXazNYNml1d2U4bUdydEZPQ04wX25fWjRyVEpldTRGdjdneFF6eVVCbG9MazA1QTIwRGxzM0hiZ0QtQUlsVzl1RDlMU2p0OFpycFZ5U2ZsMEROYWFESm5nMWVQTUs3eWVtckZEQVJUSExVQjNNNlVKSTdBcmRDR1NUckdOc2oxQ0pKel8zeXNfVlE?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-04T00:19";
+window.TIN_CAP_NHAT = "2026-11-04T10:12";
