@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-06",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đắk Lắk siết quản lý nguồn cung, giá vật liệu xây dựng",
+  "tomTat": "Đắk Lắk siết quản lý nguồn cung, giá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh tra.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Thanh tra",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVdaTHFfQ1hCTEhRbWNQS3R6dWFDb1RCNkI3a1NuNU1lQnBDMjVMN0Z3SmppMml5TlVhOUhpT21OVnFDa28zR0o4YWY4T2habU5seC1OMG9DcGhubzA5dGFCSWROb2hYU3MzS2JUaDByeHFUT0pJS1A5U2Y5YlplWEZmNlAwME5NVkdyNFBiRHhqS2d3aTNQZzN4eW9mSWxJenlfWk82SjlOZm9iRUJHb09B?oc=5"
+ },
+ {
+  "ngay": "2026-11-06",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sau tuyên bố làm thép ray đường sắt, tỷ phú Phạm Nhật Vượng xây ngay trạm cấp điện cho siêu dự án 80.000 tỷ đồng",
+  "tomTat": "Sau tuyên bố làm thép ray đường sắt, tỷ phú Phạm Nhật Vượng xây ngay trạm cấp điện cho siêu dự án 80.000 tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1I1bVBEbC1TNEs1UG01ellfQU9wSkEtWFNPNlVaYlhoNVUtZmtJbVhTaEhrOTU4cUMzOU1KaV85Vkc2R2hfa3M4ZG9aNlFlRVRfamVPWFpaMUV5UHloX2xhM1BwbHhNSTZXS1dXQTVyYWw0dWZ3WW5veEhqWDEwSkRFakc5eDRXUWpoRDFsRTN5VEpfX3Y0alpMVUlDSVBMRjUyT0dKdDVGVkVFaTk2bzdSdE1zRzVuUlhKNHRWN0xLMXpYdDVfQ3VrT3hGd1c2dC1IZ0tpR19vLTl2VDAwSg?oc=5"
+ },
+ {
   "ngay": "2026-11-05",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đắk Lắk: Không để thiếu vật liệu xây dựng làm chậm tiến độ dự án",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1B6Q0wzYVF3bGNpNmdUQ0hzYjZhejloaHFodEJzYlNDVjFKQnRLR0ptVU5aZmQ4bTJtOUREVjhBVkNTdVRYekdTLTFDUU1lYUUzWTJ5QndiQ0VFTW05ZU85Q1ZCU2dIQm1vQ2Z0U0JDWU11NFRTWFNxWFFPX1NNZE5hUkxqOTJaeUJaU0RlYmR1RzVTOHlOZWF1NGhjSDJqeDdNV2ZDTktuX0ZrZFlWREZ2Wlc4SjZHc2RZMFl0Yw?oc=5"
- },
- {
-  "ngay": "2026-10-27",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Xây chuồng trại nuôi lợn rộng 495m2 có phải xin giấy phép xây dựng?",
-  "tomTat": "Xây chuồng trại nuôi lợn rộng 495m2 có phải xin giấy phép xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRklLZmVvWXM1emNuaUc5NmhhbUJZeTMtNUZkUkM5QWM4OXRudzN1SmdfR01ZYlFJbTZ1UWp6T3pPM1J2ZUZLMTFOVEt1R0Z1RVRBU2RqT0VVYVBRamg0MXdLVWZmdUw3M0NkdkxTR05sUG80a05IbFUzSlZSOUZ6bFlrTC1zUWdJSVB5SUUwNHV5SUpKVTE0d0NyU2lmdEtabl84?oc=5"
- },
- {
-  "ngay": "2026-10-27",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đất có quy hoạch ở phường Việt Hưng, TP Quảng Ninh",
-  "tomTat": "Đất có quy hoạch ở phường Việt Hưng, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWZvQmx0VW5zYkVhNURYMW1RSEJuQ2lkSnZEQXlwSEpEYlVBSDlVXzRIc0NxTUdaRlNDSzRIOWVhbE51QkRlTENpbktvTzk1V2wxRGdYVGxROThNVEtfaXA5M1FLRWxKZkFjQjJSUU1JX0VINGpMRU1RRXowTnE2N1BLMTJqM0FGX0hWek5PYzQzXzRIUlVyMw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-06T00:37";
+window.TIN_CAP_NHAT = "2026-11-06T10:38";
