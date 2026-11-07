@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-07",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu",
+  "tomTat": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh Truyền hình Hà Nội.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo và Phát thanh Truyền hình Hà Nội",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjhfbkNvRUlvWHhfZGs0QXQ4bzRvcENfMzljWkNFc3g0d05SNUQ4OU03Q002LVAwd0o1M1htZEQ2M2E5QXVpOFMwMlZMQ29fOXduMWpzU3JQSC1jRndZNUNYcDBMSk5GZWdYbk1mZEUyN0N5TmpyYTdZRTVxRW1UM3dVc2ZtR0FjSGlXeldtdEZWcktQNU96cnM3WUItY2VYVFdUQQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 7/11/2026: Quặng sắt tếp tục tăng tuần thứ hai",
+  "tomTat": "Giá thép hôm nay 7/11/2026: Quặng sắt tếp tục tăng tuần thứ hai. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSU11LVlyVDl2aERtM3VTZ0tDcVZOTTdRcVdETUJuRXZ0TEpsb29rd2ZFaWREcjNRM1E5cjM3MHdnZDdCYkhIUjhnR211V0MtcWJndTRlY3NPZTVlZ3dKYWhVT0lybWxqTmU0ZlhlLW5udEtEN3RfcFBPLUE2SlhQdDhjR1M5YnZxLWdfNVFtUVhxM1d2R3hjb1hlOU1BdnVuRW1ueg?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Doanh nghiệp FDI ở Quảng Ninh công bố nhận hồ sơ đăng ký thuê nhà ở xã hội",
+  "tomTat": "Doanh nghiệp FDI ở Quảng Ninh công bố nhận hồ sơ đăng ký thuê nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXBuZmdTUmtDLWp1QXgyWGlCOXZ1OXBwOU9DNjF5U1NQOEswdW80MXNiMXM3ZXhLZ1V4SVM5SUhBQW5SMVNpdUh0RE5MRDZlOXZTVFZSU0lNZHl1WnkzTll3Zk9vQTFRbXRvV3BManlSSWhaNTlyN0xfVzFBZWhEOUdlbDMyMmtfZngyTlN4ejNRUUc0c2hVQ19DRW4zMlJyX0xxYjlVOE1HeEZ5RmlDRDdMNTZPZzRhS19FdDlTSQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Thiếu vật liệu ảnh hưởng đến tiến độ các dự án",
   "tomTat": "Thiếu vật liệu ảnh hưởng đến tiến độ các dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "VOV Giao Thông",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWpIZ0x5cWk4SnZFaXlmN0FSM08zRHlHcm1mMXJQSmxLZ3c5MkJIME53NXVqdlpVRnNLY05KNjF4WmRiTmpwRHM0QzV6MExhd0xJZEZfRGhPb0NXbWFvVVE0bV9RX3FDLWhLZi1sOWhmMHNQTnFWNk80cVJ1LW12blVGN1dzaklmUEFMRXl5aDQzdkI3cGJJOXZFN3VtYTN3TENaUE5IUk5xMW1WR0JfZFRJOTl6N2V1Q2w3aGNBSnhEY0tSQUow?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 28/10: Thị trường quặng sắt chịu sức ép giảm giá mạnh",
-  "tomTat": "Giá thép hôm nay 28/10: Thị trường quặng sắt chịu sức ép giảm giá mạnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVY3blB6QlNIbUd1XzAzdnktQl9OTDJONEliUEUyZFc1allvUHdONlV2NFg5MGlITzhvSnpGeVIxTWZLZjBLSW03bXdLZU1fVDFjUzF2VG5QZUZYYk9HSVJJNTFncWxhSWtYcUhLbUJZbm4xdmN0WTBFUERjUGdTT0gwaVZVV09yNGJ1eW1RYVlucnMzZlVvOHE1cFN4ZmwxRTlGVDVlQm9oZnBIcjR2NFFtbDFCZkU?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Có thể xin cấp giấy phép xây dựng theo nhu cầu không?",
-  "tomTat": "Có thể xin cấp giấy phép xây dựng theo nhu cầu không?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baochinhphu.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "baochinhphu.vn",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa09VRUFza0x1ZFhpSUJxV2RBejg0b1paTDBhSkRTbzQ0aHpTVzdRU0F5NXpUVFR1RDRnT1FOcnRkVEt0SW1sYzFRTWMzOEZLdkp6dUZNeHZEVEVpWGRMaGYwTnhXMW5PWUt1b0lfVVl0U29YS2lmZ2N6d0FJc3dXRi1TUHNMbGpKSm9YbW9YdExWWHdCMDR1QlJ4eGxzdms?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử",
-  "tomTat": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTFsbkxaOHNqTXgtQzlfUk5EcWFocDlGWW5BZ3M4OXcyeEFEQUJNQUVsVU1aT2dRZkRhQ09CbUhHOWhIOUszM1p5RHRvek5jVVk3bmQtcWU4ZXZNSlNqVGk3X1BacmRReGpkblFVMHJqS0ZPbEVUcG16ZnNhN1NET3ltZ0JVOTVnaXlpRHpmcjE5Mmg5cVZXZjJWMTFQSXgybndlU2hQWjZiSGxZMnJVZmE1Z0ZkZzRDZnZOeVRlemo3OFlHbWRRcUxUd0lNSWpsQkE?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-07T10:11";
+window.TIN_CAP_NHAT = "2026-11-07T22:54";
