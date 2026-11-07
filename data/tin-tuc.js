@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Thiếu vật liệu ảnh hưởng đến tiến độ các dự án",
+  "tomTat": "Thiếu vật liệu ảnh hưởng đến tiến độ các dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcy1OVVVDOGpmekpxT05RT2pwNmxMXzZZRExQbjBnMHVhbUFONkptcE5oMUxMRDlNMnhMYjYzcHFLXzM0ejE3OWI1MHZJc2sxNzI3dFlRMUJGeTdJT3NyaU1rcDJ2eEtSM2V0OEhHai1KODlqbDFzaWlFTWxSMEEwS1dqWlV2X3BUV1Rva2t4OA?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 7/11: Thị trường quặng sắt tiếp tục đi lên",
+  "tomTat": "Giá thép hôm nay 7/11: Thị trường quặng sắt tiếp tục đi lên. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2xGNmN1NGNLVHlPbEwyYVRDX3BmSEtDMHg4MGk3d2x2d2lBemJFZjYyakJyV2YxYm1pYVpQclppT0FNMXZiWE9sMFlpOE9IekNYRlU2WnNfWF8wNXFaa25SMWFjNkw3VHRuci15Vjh5c1VOaHA3dnF3WDZ1U3B5MXZSck1oSUtWMjVZWTMtSEZubHlHSkNXaU9CUy1qbG5lMURTV1Q1NEk?oc=5"
+ },
+ {
+  "ngay": "2026-11-06",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Dự án nhà ở xã hội GHomes Vista: Mở rộng cơ hội an cư tại Quảng Ninh",
+  "tomTat": "Dự án nhà ở xã hội GHomes Vista: Mở rộng cơ hội an cư tại Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Quảng Ninh.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Báo Quảng Ninh",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGN5a1JtSGF5VjhsSjJsa1ZRa1FoMng0M29HWUdjbTVLM3V4aTRpYTFkcDFIVzdjY183eDdhbGpnX1ZhX1VSYjRsS2pTQmE5TFVNZUV5cWNjOUlIWU5SQVlFZkh0ZEpqOERUMV80V2oycl93bW55ZUNRZFRmQTJIcGJ1MnVPRDJwRFdONmVXUjRULXFoRDhVWTZZLTdmNGxkbjYwbkNjc0dFLUNB?oc=5"
+ },
+ {
   "ngay": "2026-11-06",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tháo gỡ khó khăn trong khai thác khoáng sản làm vật liệu xây dựng",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "CafeF",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTFsbkxaOHNqTXgtQzlfUk5EcWFocDlGWW5BZ3M4OXcyeEFEQUJNQUVsVU1aT2dRZkRhQ09CbUhHOWhIOUszM1p5RHRvek5jVVk3bmQtcWU4ZXZNSlNqVGk3X1BacmRReGpkblFVMHJqS0ZPbEVUcG16ZnNhN1NET3ltZ0JVOTVnaXlpRHpmcjE5Mmg5cVZXZjJWMTFQSXgybndlU2hQWjZiSGxZMnJVZmE1Z0ZkZzRDZnZOeVRlemo3OFlHbWRRcUxUd0lNSWpsQkE?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Xuất khẩu giảm, thép xây dựng vẫn tăng trưởng gần 20%",
-  "tomTat": "Xuất khẩu giảm, thép xây dựng vẫn tăng trưởng gần 20%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Dân Việt",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0JNNmRzalRZYUN3dmotZjAxeEJDTFpIN0R5akdhV0h5TmdmTFlZLTd5N2h6NlV1Y2g4RDlwTC1BaF9CVGRVUVhxVk4wZEU1WkFKVTV3NjJFQWdKSWQ2TXNNTlZCdFRkNjBGbXN5bkd5bnlrTGxJQzVXTkE5c1J3eTY5RjZCSFkybXFDTg?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Mitsubishi Outlander ra mắt bản off-road hầm hố nhất từ trước đến nay: Thêm loạt trang bị chuyên trị đường khó, nội thất chống thấm nước",
-  "tomTat": "Mitsubishi Outlander ra mắt bản off-road hầm hố nhất từ trước đến nay: Thêm loạt trang bị chuyên trị đường khó, nội thất chống thấm nước. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ auto5.vn.",
-  "gocNhin": "Sơn tốt mà thi công sai quy trình vẫn nhanh hỏng — đừng bỏ qua lớp bả và sơn lót kháng kiềm.",
-  "nguon": "auto5.vn",
-  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOenBudEFaU0JHdmtwTWp3TDR1bl9FWU1YQ2ZQeDc4QUdUaGk3VWRtc01rckFHT2FwR0hJSlNUVV9lUkwwWTFNdzB0Qk5wcGJxYXhCVXpQNk5qX052V2wxNDdhMWFJOWxreXlIZkV4U0kzTXBSQTNiR3BRbHZFaHZOSFR2cm9udDFWX3Rrb0lEZ2pETXdSWFgwOVJoNUFIbWMxcDZHWlhVeUc2YUh4S05sbzFNVjkyTEtKd3J0YkhhckVDN2lpZm1OM25fQXdmdHFIU0ZIanB4aVhKb1gtdVBZQjdlWWVWR0J2T3o1NUZBWnhjNUJFc05XVGZRUzM?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Người dân TP.HCM khi xây nhà cần nắm rõ quy định này",
-  "tomTat": "Người dân TP.HCM khi xây nhà cần nắm rõ quy định này. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Thanh Niên.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo Thanh Niên",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BoV0w4SmYxSDlTaDVWNWdaSW1TUTRmajQzT3B2TzA2UXhsdjJVcUx1MmstMnB5cHg1WG9kRXpMNE9PUERyOG5xZENRRVNZcFFGN1R1UE1pWndfM2V5azc1QUNjMGJLR1hMRmRMQUdPLVp6eWpqY0NFZVh1Vm8xLWF2c3BhVWEwSzVUM2Y0b2tFeVp6bUxpSzFiaw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-06T23:55";
+window.TIN_CAP_NHAT = "2026-11-07T10:11";
