@@ -1,6 +1,15 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-08",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gia Lai chủ động nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
+  "tomTat": "Gia Lai chủ động nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "dangcongsan.vn",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcld4aGR4dGpsbGREQnRzd0Jxamx5TWVZOUxqc3QyU1l2X3BEWVlaQkpOenUwMm56VTNkN3d1QURVeEhUVjFvUFQxaEo1RUhkTGhlYVA2WTU0VlJnQTZ0aVJCaHZjTExLemcxQ25YSVpJT21jX0JfOVJrOHg5TUZ3eW9RX3FIbVNxWEZsSEg5Z0NPWU9fQUhVZUZYQVRidjRPWXBVR0k3V3hUSXBSemJZNTgtM0RvaVF4SDQzR3VuVk84RWZSNFFVbnpNWXhmdWNYSV84?oc=5"
+ },
+ {
   "ngay": "2026-11-07",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đắk Lắk đẩy nhanh đấu giá 28 mỏ, bảo đảm nguồn cung vật liệu",
@@ -530,15 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tuổi Trẻ",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVN2eE9hZGxIX044QTBnMTNaQWVCVmhOSjRYYVgyaHpkZ1czb1RlRUpoX05LUy03TTBTcnZPTXphbVhBMmZIem5JZUprdS1KNnhaVGJLSmpual9WVFNDeGhGX3pVY2xtSHlIck5SM25xQ3FXbEpvM25ndUw3SEhuOHh1QUFWVzZ6Mmxzak16QzU4b01WQzVYNUd0YjRCNWlhV0hacDNvdWtpYUhndWtubg?oc=5"
- },
- {
-  "ngay": "2026-10-29",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép ngày 29/10: Quặng sắt lấy lại đà tăng nhờ nhu cầu sản xuất",
-  "tomTat": "Giá thép ngày 29/10: Quặng sắt lấy lại đà tăng nhờ nhu cầu sản xuất. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0ppQ0VjRFhwdXRsbm1GMm9xTFY0eEI2Uko0VlV5elhEVEFRX3hGN0xLRW1pMllCUnR2YUx2MXA4Wk04WVhuNE04Wk42M292Nm1Oc3VoTy1XYmZVZmh5MWlLMGlzdkZ4aWNKQUJhTW1EanNWQVlHdndYVWgtUEZTVTIyeTY5RU9wVEdKeGxCYi1TVkQzblJfZUN0eDQ1Sk81VUtCYWNSVVVMS214TUNiZnI5RQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-08T09:41";
+window.TIN_CAP_NHAT = "2026-11-08T23:19";
