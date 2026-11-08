@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-07",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đắk Lắk đẩy nhanh đấu giá 28 mỏ, bảo đảm nguồn cung vật liệu",
+  "tomTat": "Đắk Lắk đẩy nhanh đấu giá 28 mỏ, bảo đảm nguồn cung vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTFMM0xub1dPY0NUUDBwYjVTRW1wYzNPNHZHT0pPdDBISDVSWFYxbF9uYmNmZm1MZ2t5NnJ6anlMX3AyUXJaM0xKRUV2RTllQ1VrY0tIaVphQlhwVWtNaDdCQ29qRzV1cG5oS3VfSjA2ZTRGU282YWNiNnpaVTFFV0Q4dWw1RURPNkE?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 7/11: Quặng sắt tăng tuần thứ hai liên tiếp",
+  "tomTat": "Giá thép hôm nay 7/11: Quặng sắt tăng tuần thứ hai liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VietnamBiz",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzc3VTkyMi1YX21MWWJDRS1DdU1Va3FHVW1XRmI0Q0dBcjY0dzV0MVpXZEZ4X1dYUGdMZmtRekpmOHVYNTlsRHU4dml4UXVVazFFdW1YM3pGQWc4Ymxsc1ZodFVYMXlvaVJ2UGRpWTMydmxPM2thcjBvTUpaR3V5R1dvLVNfYnJpM0xzdEhpcnNEdGpHaFVFUlYyWDBfV3FmbUk4?oc=5"
+ },
+ {
+  "ngay": "2026-11-07",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu",
   "tomTat": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh Truyền hình Hà Nội.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0ppQ0VjRFhwdXRsbm1GMm9xTFY0eEI2Uko0VlV5elhEVEFRX3hGN0xLRW1pMllCUnR2YUx2MXA4Wk04WVhuNE04Wk42M292Nm1Oc3VoTy1XYmZVZmh5MWlLMGlzdkZ4aWNKQUJhTW1EanNWQVlHdndYVWgtUEZTVTIyeTY5RU9wVEdKeGxCYi1TVkQzblJfZUN0eDQ1Sk81VUtCYWNSVVVMS214TUNiZnI5RQ?oc=5"
- },
- {
-  "ngay": "2026-10-29",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Bộ Xây dựng trả lời về việc xin cấp giấy phép xây dựng theo nhu cầu",
-  "tomTat": "Bộ Xây dựng trả lời về việc xin cấp giấy phép xây dựng theo nhu cầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZW1LcDkyQ2g5aUc0UjlnUnhFWTZRM1E2QjlkZ09qdFR4Z2VqMUQwOHMwVVlKSmh1MTJRb3FwLU9fSmlkMExpMC14WGZENGJ6OFJJQzdRR2N1TjNvNUUzM0hiZ3M0eE9vNW0tXy1XREJ1ZGpMWXVCVnd2OERaSEV2cTZPb0p2cTZqTVBnUTJWV3U4RDF4NTBtdE1CMHQwTVZHcUZJUExEdEd3UQ?oc=5"
- },
- {
-  "ngay": "2026-10-28",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Dự án giao thông trọng điểm Tây Ninh có mặt bằng, công trường vẫn lo thiếu vật liệu",
-  "tomTat": "Dự án giao thông trọng điểm Tây Ninh có mặt bằng, công trường vẫn lo thiếu vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV Giao Thông.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "VOV Giao Thông",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWpIZ0x5cWk4SnZFaXlmN0FSM08zRHlHcm1mMXJQSmxLZ3c5MkJIME53NXVqdlpVRnNLY05KNjF4WmRiTmpwRHM0QzV6MExhd0xJZEZfRGhPb0NXbWFvVVE0bV9RX3FDLWhLZi1sOWhmMHNQTnFWNk80cVJ1LW12blVGN1dzaklmUEFMRXl5aDQzdkI3cGJJOXZFN3VtYTN3TENaUE5IUk5xMW1WR0JfZFRJOTl6N2V1Q2w3aGNBSnhEY0tSQUow?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-07T22:54";
+window.TIN_CAP_NHAT = "2026-11-08T09:41";
