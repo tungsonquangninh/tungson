@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-09",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lâm Đồng: Không để găm hàng, đội giá vật liệu xây dựng, ảnh hưởng tiến độ dự án",
+  "tomTat": "Lâm Đồng: Không để găm hàng, đội giá vật liệu xây dựng, ảnh hưởng tiến độ dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczhRVzRkUUpMTDRvWjRXN1VkUmFCRW5NS05hYzNrT0FNT0t3dkQ0cUcyczB4RTZobWJGU3JnMEIwU0M1dnBobmhWSnVqeEh5TU9hVURCU21zWjhmOXZQeUNveFgzaHlpOExUMGJyNXVFOVV2R3I4QnI5akg1U0JUbXZDMlJlcEpadkEwOVRhTjF5T1hFMjJEUTVFR1JvYXZt?oc=5"
+ },
+ {
+  "ngay": "2026-11-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bộ Công Thương khởi xướng điều tra chống bán phá giá thép nhập khẩu từ Trung Quốc, Indonesia",
+  "tomTat": "Bộ Công Thương khởi xướng điều tra chống bán phá giá thép nhập khẩu từ Trung Quốc, Indonesia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Dân Việt",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0lKVnl4LUtRcXBINXEzcEVlSXpoWk1Wa1BaSVRQRWRiSW1aMHdKbzl3ZHI2SkgwXzZDajBBY1ZkSW9lNU1UdFlObFlyMmhXd1hUWUFGMFRzWEI4eFk2QUFiUDF0MFdkbVRYbUJNak9GSmkza3VBV0tpR01QZ2RKMDdaNUU5M2Zmd0NHSnlJeDh0blJFeVVkb2JHbE9zdE03enE4Sm9CTWNqVmR4OGFKbEhvZURLMmVTQXB4MnlOUm9rUQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-09",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu",
   "tomTat": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "VnEconomy",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1VVTUgtUHJhUGM1TVZWZk0zYzdnbDd6ZXRuVmxyLXBLMmFNWjYwRWJWSlJOVFZWRHFZYmtUM211R3lhTjdjVjFNdWluY1JfNEd4SEZqMGRybzR2VnZQLXMwZlc1NXpBa3FHbVFpMmdYZGRhbktaUXUwUjdVZGdtTGVfYVpYY3hCVUQ1OWlrekd6dDg?oc=5"
- },
- {
-  "ngay": "2026-10-30",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "'Vua thép’ Trần Đình Long và loạt doanh nghiệp đón lực đẩy mới từ đầu tư công",
-  "tomTat": "'Vua thép’ Trần Đình Long và loạt doanh nghiệp đón lực đẩy mới từ đầu tư công. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGkyZzctd0dSVU1xR3U2QXlIVHpyWllQNUJvU3d3alJuRUJrUjA5ZU54Uk1zbWVaNlN2UmREMWhNVkNSNm9iT2gtQ1VnNjB0M1p5Y2ZObVhaZFYxcEJ0WFdxcnNJWGlvQ0EtUVVDMVZLd2ZKaXozYnFnNE5oRGNIN29JMUdHMmQ4dnF3ZmdFX1R1bFN2dXVmdG9tNjVLZUtidld6VndFaXhFS0kzSm5B?oc=5"
- },
- {
-  "ngay": "2026-10-30",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia",
-  "tomTat": "Nghệ An triển khai phương án điều phối, hỗ trợ nguồn vật liệu xây dựng phục vụ các công trình trọng điểm quốc gia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nghệ An.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Nghệ An",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMl9XRktIRGJpQ1M1aEYxVEJ5Ul9LQVNZb3JqbXc4MzY0LU5yMWpHMjBKMTF6c0liSDRnN3MyRVE1RzdSNDVzX3pTeFI3cHEzY0RDYXpFdXVUM1loeDhNblFrY1Brd25UOXhvM2J6VHNFeGFrenhZdVlRNDFaOWdoaFJIeExSUy1OaElOZWJCbmFGTmpXeWwtY1V6SzNpaF9IT0JpWk9DQzRfeWVFU1puemtpeXBtbEI1a1NYTGVZVFNtU3RvSThWcElvQ1lKcHRudmFENFFfRG9JdzlKYVRJcQ?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-09T09:57";
+window.TIN_CAP_NHAT = "2026-11-10T03:04";
