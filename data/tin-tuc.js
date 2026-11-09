@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu",
+  "tomTat": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "thiennhienmoitruong.vn",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0ZfQ2Y3Z1JTanE1MnE4a1AwQ2JpNGJSWWd5ZE1pX2pYSHd4QlU3cDdzZE9MSVl2ZnJkSVFMNFJjVWd0Wl8yRThpUHBXR0ZFc0Z6bTFORHdmdEpWYUx1MVF5eHozMU15aFBkczQyQmpFWXo5S0JaaGVaZ0t1RUZ5bWJyT0ZQRzJ0bUR6c3d0ck9CNlFyeEE0LXlZZlQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-09",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 9/11/2026: Thép thành phẩm Trung Quốc bứt phá",
+  "tomTat": "Giá thép hôm nay 9/11/2026: Thép thành phẩm Trung Quốc bứt phá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWI0ZU5JczBpWjBzN1F2dVpfWndOSml4VFdsYXNSX093T25wUUNQZDhUbzNpb0VqdjZBVmxhalVfYnlIVEJ1WXByYkpLUjB2MkR1cG5OZkFQdS1TRDdDYlFUdVFNS2xmNUY5VmFvTmI5QXloeXF5NlcwTTRoemFieWVwbkpvd1JqT2JUbnc0azZmTTVydnZrRXMzTlBNQUd4bmRF?oc=5"
+ },
+ {
+  "ngay": "2026-11-08",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đẩy mạnh hiện diện và tung chiêu hút khách dịp cuối năm, hãng xe xây nhà máy 120.000 xe/năm ở Quảng Ninh quyết định tặng tiền xăng và 100% lệ phí trước bạ",
+  "tomTat": "Đẩy mạnh hiện diện và tung chiêu hút khách dịp cuối năm, hãng xe xây nhà máy 120.000 xe/năm ở Quảng Ninh quyết định tặng tiền xăng và 100% lệ phí trước bạ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY0M3NVF5MHNrbmo1MTBJa1NZUFNGN3RtQ3M1b2tBdHJJdkkwTi1CLWV4aW5SMkF3bW8xVC1UenB4aExTMEJTZVBzRF80NXdyTTVQOEU1ZGNacVJiSXRsSURlX2o5WnF1RVFhMzZtVkgyR2lEdGR5Um90RlJuWGtGM1BRekV2aVpCTzZNWXVsU2ZpakNNM0Njd0JqT2RkV3hQazY1cmRiLU1CenQwVjNBYlpseTh0a0dSZ2pUSjdwU0xIdjd6allVdndRQWpLUHhIWU5rVnB4MzFrUndYcWlsV1BSSlVaSWR2OW1ZUllNNnBJZlh0MHRJdTFFTzJxelYzY1RraVQ1WDBEdWZMWE1WWGF0SnZVbHM?oc=5"
+ },
+ {
   "ngay": "2026-11-08",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Gia Lai chủ động nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Báo Nghệ An",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMl9XRktIRGJpQ1M1aEYxVEJ5Ul9LQVNZb3JqbXc4MzY0LU5yMWpHMjBKMTF6c0liSDRnN3MyRVE1RzdSNDVzX3pTeFI3cHEzY0RDYXpFdXVUM1loeDhNblFrY1Brd25UOXhvM2J6VHNFeGFrenhZdVlRNDFaOWdoaFJIeExSUy1OaElOZWJCbmFGTmpXeWwtY1V6SzNpaF9IT0JpWk9DQzRfeWVFU1puemtpeXBtbEI1a1NYTGVZVFNtU3RvSThWcElvQ1lKcHRudmFENFFfRG9JdzlKYVRJcQ?oc=5"
- },
- {
-  "ngay": "2026-10-29",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đất có quy hoạch ở phường Hà An, TP Quảng Ninh",
-  "tomTat": "Đất có quy hoạch ở phường Hà An, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUtZa0drZXJ4Nk5GMHVScW1sU3VQbXh4UUQ5ekRCd2otUUIzU0hUZExaZm1RQnRaaUJIV1pvSmZJUzFpNU05aHlrWmNjOF95emRhNHlnX3dWLVZGWkdWNjhidUlNdzNoTUNMNFJFWEhFMGhwRVJ2eWQzTVRBRnAyTEtwdXl4SkdpY2JtbHczWWQ3eDg?oc=5"
- },
- {
-  "ngay": "2026-10-29",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Sân bay Long Thành, APEC 2027 và loạt đại công trường mở ra cơ hội cho một doanh nghiệp sở hữu 6.300 cửa hàng vật liệu xây dựng",
-  "tomTat": "Sân bay Long Thành, APEC 2027 và loạt đại công trường mở ra cơ hội cho một doanh nghiệp sở hữu 6.300 cửa hàng vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2RKalBkTUdSYW1lTTBXaXFJcWRCckEzdlRpZUQxT053bmZMT1NSVF9zUzNlaXMzZ3BxR1FwZzZaQ01abUpvVWs2Zy1YeVpFckl1cXBtMW5aZ1BPT3RsU3YtRlFOZ3FhWUkwaVNKU1pHaXh6QWhacnRGck9QQlpRZ1YtMHY2QXZYRWdyXzcwSkhteXBBMXdPalBDTFp3a1JzVVlIVy1QQnZmNzJiSTJzLU5uQnlYeGxuMHJJdzliazI1cF84TmlvbEVCelBVc1ZLXzZKNXNjRnMzQk5yaEhWcUs4ZG16M0hJTWl4STZkT2pOaFBY?oc=5"
- },
- {
-  "ngay": "2026-10-29",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép liên tục tăng, nhà thầu 'căng mình' tính toán vì lợi nhuận mỏng",
-  "tomTat": "Giá thép liên tục tăng, nhà thầu 'căng mình' tính toán vì lợi nhuận mỏng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tuổi Trẻ.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tuổi Trẻ",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVN2eE9hZGxIX044QTBnMTNaQWVCVmhOSjRYYVgyaHpkZ1czb1RlRUpoX05LUy03TTBTcnZPTXphbVhBMmZIem5JZUprdS1KNnhaVGJLSmpual9WVFNDeGhGX3pVY2xtSHlIck5SM25xQ3FXbEpvM25ndUw3SEhuOHh1QUFWVzZ6Mmxzak16QzU4b01WQzVYNUd0YjRCNWlhV0hacDNvdWtpYUhndWtubg?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-08T23:19";
+window.TIN_CAP_NHAT = "2026-11-09T09:57";
