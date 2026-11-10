@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-10",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bộ Xây dựng: Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
+  "tomTat": "Bộ Xây dựng: Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Nhịp sống thị trường.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Nhịp sống thị trường",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhmZTJ5SnpjYlFmRG1FdnFtcUZLdzlsUnU1Z1NaNVJ6aXVrbTZuV2I1bEZ1WXpGWVBNUmFfX1VwTUJ2RVVZcFF1OVVOV0U3a0NJckQ1Rk5jWmNxZzdUbWQ2YjZ1aWJ2LW1LUkY5cG9vdTdVbTU5emtWWGRXVDJGTnljcVllQy1WR1lWM0d4SEhXeExaem11cm1HQ1plSk0?oc=5"
+ },
+ {
+  "ngay": "2026-11-10",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 10/11: Giá thép thanh và quặng sắt đồng loạt giảm",
+  "tomTat": "Giá thép hôm nay 10/11: Giá thép thanh và quặng sắt đồng loạt giảm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORThrblZvOU1Ma215YnVDZmZaZWxLZWVwVUtIR3BWSlVoeUxUMFhyTDctVWhyeGFsTlYwckI3VmxNWWwyTjU4dFFEeFhuUWFrdnIwcGpkMzVnTkFEbTh1c3Q2TVZPSE5mREJPYzR2Ykp3ZGhnUUlieFNfby0xS3ZNVVFCR0FXY1dPWWFHYVM0eURhT0NWMkhsSllQQ2ZsLWVsenU2R2phdUxFODZhMzRBVnBn?oc=5"
+ },
+ {
+  "ngay": "2026-11-10",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Công bố thông tin về giá vật liệu xây dựng thời điểm tháng 10/2026 trên địa bàn thành phố Quảng Ninh",
+  "tomTat": "Công bố thông tin về giá vật liệu xây dựng thời điểm tháng 10/2026 trên địa bàn thành phố Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử Tỉnh Quảng Ninh.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Cổng thông tin điện tử Tỉnh Quảng Ninh",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUpqZDBNWnRWNlk4cGp2Y0x5WEtITHQ3YkJndS1FTGpydURNTUN1eHI5UXllQjhBSnFxYlhNcGhTVm9xbHpxY1B4eVVpT0p1NmtfYTlnSHdIMzYzcEJieTB6T2dGRG5FRFZyN0dEQlpxYWY1bWIya0Uwa2k2WHFiZA?oc=5"
+ },
+ {
+  "ngay": "2026-11-10",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Phó Chủ tịch UBND tỉnh Đào Mỹ kiểm tra nguồn cung vật liệu xây dựng thông thường",
   "tomTat": "Phó Chủ tịch UBND tỉnh Đào Mỹ kiểm tra nguồn cung vật liệu xây dựng thông thường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Dak Lak 24h.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSldzSS1icUxncTV1MzAwT0FDNGkzbGo3VXNaM0xhNXBNLWFNNWVZTjRVU3lrZ3JIWFh2VnVmSlIxVkF1a1pGS0tQVlcwcXQ4Zzd3LTU5WFRuTWJ1MkdWQk5JbEh3RkJXb0w4T1VIX3k1RzlPd3RpekUyNjd2ZHZRN1dNaDhxU21xZ3dJYjBkSS1CMFNvUmZFYng4V0VuZTBvOG5CVFlpUXRkX3RqN29TVXVEYWtCeTFsc0E?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Đà Nẵng hướng dẫn các chủ đầu tư xác định mật độ xây dựng cho nhà ở riêng lẻ",
-  "tomTat": "Đà Nẵng hướng dẫn các chủ đầu tư xác định mật độ xây dựng cho nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1E4SUlVaUprUHp0WGpxQTNJcFBPYWdVakFrNWp6T0hKZXV2T2JLRlBmNE9ocmxOX1hEUkY4ZjV0NGREbFZ2TXk5Qjh6NVN0cFJuR3o3MUFsVUpQcXlYdkxFTENUa0M3UXdZNEZJdkRzQmlKWDFjWmVMQ0MwMnViNnhIQWhHMW15Qm1fMnVydGdoVEtXUll1RUZ6d0pDbW1a?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh cụ thể hóa các quy hoạch chiến lược",
-  "tomTat": "Quảng Ninh cụ thể hóa các quy hoạch chiến lược. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử Tỉnh Quảng Ninh.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Cổng thông tin điện tử Tỉnh Quảng Ninh",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05b3hqaTlxZDJoY0RTbkgzTF9mcW5zUVE2bFNQYkNNYnB2Qms4aHcybmVWRDRoZVBnOHpsX0ZxM2NOSXVzZnhwMVIzbU5jeXNpQTFGRFItZTM1QVNIbTQ4Z0l0dGhEVWVQMFRtZW5Ba190QQ?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở",
-  "tomTat": "Đất cha ông để lại, con cháu khó tách thửa xây nhà: GS. Đặng Hùng Võ đề xuất xét từng hộ để ưu đãi đất ở. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRC1jRFRKQ25mZW0yXzNfczNOYTNrWG1vajBwdFRUOWx0WlF3VXNDek5wNnc1X0plSmJ0RjNvMl92aE42QnBycUtBalMzNkw2ZXJydW9Xd2xqenVpUkQ3RjI3djltUXNEdnlBRWNaQmZfSmxBZGxvQWZPdnJOQ0ttLTdmRHlTOG9uX3VRQ3lUWU8yMkl5QU1CVmFEN0JfeUpEMUx4V04xamRjc2Q2cTJwNjNSWHVBRUhqNldvRGxUVVZuOTZpNXFsZVhfNXV0LW1lblAw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-10T11:46";
+window.TIN_CAP_NHAT = "2026-11-11T00:17";
