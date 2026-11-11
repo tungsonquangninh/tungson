@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-11",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Chủ tịch Đắk Lắk trực tiếp kết nối nguồn cung, gỡ khó vật liệu cho các công trình",
+  "tomTat": "Chủ tịch Đắk Lắk trực tiếp kết nối nguồn cung, gỡ khó vật liệu cho các công trình. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOV.VN.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "VOV.VN",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2FidFJkSE9FOVM5OURZU0xtSnRTc2ljbWpuVHNHb1RvTjU5SFVLMlNDQWk5eF9zOVdfeHN4Q0psOFBhY3MtbG9MbFdacjZsVE83QjgyUVNTQlZvX2NiUTRKMVlScXNBMWYzRlVqT1dncnoxTVBCOUEtVkNWQmVzbDhIa1FCd055ajhGTkZUVm9RNFJnNFZUTjlDYjZRN3J0eE1JazJoTFh6NDVHTWtESHYtQVJFR05admc?oc=5"
+ },
+ {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Malaysia đánh thuế tới 35,06% với thép Việt Nam",
+  "tomTat": "Malaysia đánh thuế tới 35,06% với thép Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Tài chính Doanh nghiệp.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Tài chính Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzFJZW5tNEFHWUhOU0FGbTZIY2lFXzFzSnUtYmVLWGlrQ2lFYjhQWUFJSnRCdldJaUdpRHZiQXZMNGxiZkhRVGJhRG95X3BxMlFVMEpiRXZ6Vk1vSWpvTGV0NlJzWWI3MmdDUlFXbGpEU3NmVG9nYl9sRGxRaEFlcDFGQkxOX0xFRUVuU1BpaGJfR29IUVRJ?oc=5"
+ },
+ {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường Mạo Khê, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường Mạo Khê, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX09GN24tZ0pGTTBfQzJzUDVWSFVKb2VaSExmaG1aZktMLVZSLXB3dlQzdjR5akxXaVI2Qm9XemttR3Q3dVBlX3ZpUDE0WENXZDlJQ0pSRWR4UWdOaHdXczhnQmMtOFZtRW9uZGtQSE9rVGxobmNyam9EWERrS0dQU0doajc2RUdwU09jQzN2RDhQVzRS?oc=5"
+ },
+ {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
   "tomTat": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhịp sống kinh doanh.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "nguoiquansat.vn",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlIzalpYcU1ONlNrTzhVT1lPUUVCM2VYcUNIQy1Ca08yLTcwbGw3M18yUVpwczVOb1plN2k5dTdBdlNxS1hJTHRudEFZd3Z5QzBuR014U0dlSl9GSUpDM3J2dEZjdjdvVHZiZVd4elpvVkR2TEt2SDd2REhuT1ZxdjJHcFRDZ1Z2YkpMQW9aRWp3cTZIV2N1X25iQlRTUUhVOERIZ2dJYzJ0akRaVUZhcnI1V2VFdDlDcjM2ZTZBelA?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thanh Hóa: Đội Quản lý thị trường số 5 tăng cường kiểm soát thị trường vật liệu xây dựng",
-  "tomTat": "Thanh Hóa: Đội Quản lý thị trường số 5 tăng cường kiểm soát thị trường vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVdfOXRDRWRVUnJzMEc4LWUzQTZSNnhTTk03UmIzdEFSdG1kZjU5RW55MnB0dVhscXU0dkNRTHdlczdUWEV1OXZKZmJqMkpqUEd1ZmhHSGRhc3hsazZLYlVhb2YwYlo3NDVvMTdtZ0gtRXNEdWpManJ3cFViaVFPckdvcUVEdHo3bE82aFJHYXZvcEJnZEpROV9jRm5URXR3ZUJISWNnRXNDYmNleURpVUt0a0xUY2hZaG5GbzBURFExazBrWlVJa0Rad1N1UXM?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 31/10/2026: Giá thép đồng loạt lao dốc do áp lực tồn kho cảng biển",
-  "tomTat": "Giá thép hôm nay 31/10/2026: Giá thép đồng loạt lao dốc do áp lực tồn kho cảng biển. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZFZVlHYTBnRkhtT0V0bU9oYmMzQkdpM01NdXJZWFBScWtBOUphWmhTYXBTUTRTTWdoQ1J3cjZjV2otNENRRWVleF9ETEdoREFzcFFiQ1VMbTFzTkZDel9wUjVUVlY5aEZzbEJ1SmFJbURMMnRyQTZUZmV6bGFvMkRjVmF4ZktGTHBvb0hud0VwYjVDNXVSQUk3OEl2STVoT0o3SjNoSl8yWFp0dnI2bGZ2S2laS1lYVHFNdU9fSQ?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Quốc gia Đông Nam Á được Mỹ 'chọn mặt gửi vàng' xây nhà máy chế biến đất hiếm trị giá hơn 15.000 tỷ đồng",
-  "tomTat": "Quốc gia Đông Nam Á được Mỹ 'chọn mặt gửi vàng' xây nhà máy chế biến đất hiếm trị giá hơn 15.000 tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTZPV1BYNkRtY2ZBR0tzYTM3TVI2cWRkLXpneWhpOXRIVmxiTFlQNmtfandQNUxGS3p6dFNMM0hLUENKbTVVV3FkUU9QV20wZEU3a1NWVmpibUFHNlgxQ2RvaWxkWUhybzlKRzJsbnF3TGNGaS1fWXBUOFBTUFlYYU9zUlBCcDVDQmlPdHRjcFlkVlFSYWdMVnhoaU5QQmtqV0VxSFlVUHFWU1RBNW1pZXFrSTNjb2pscHJ2bDFkdzZHN3otRkZnMEg4a09DRmRKY0NDOA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-11T09:58";
+window.TIN_CAP_NHAT = "2026-11-12T00:26";
