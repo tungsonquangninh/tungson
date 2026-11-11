@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
+  "tomTat": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhịp sống kinh doanh.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Nhịp sống kinh doanh",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1BaVjNqYmxHY0ZRVm42MTRUaXdoaVp2SHZMMVhzYXRWNUNvcTNvRjE0SERSWUt4eVpFa2dzVnNmTUNnWmxoV3lRYnNvanlIWnJiUzBKUDhzaXEya053QXlacExKazR2d3kxR2gtWktvYXVNcWRCT050cU1mTkdfSHhZY2JkLVJuVTRSYVhDdmktUDhJc2lEWkJMMFdlZ2JGUVlVRw?oc=5"
+ },
+ {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 11/11/2026: Giằng co nhẹ, quặng sắt nhập khẩu chạm đáy",
+  "tomTat": "Giá thép hôm nay 11/11/2026: Giằng co nhẹ, quặng sắt nhập khẩu chạm đáy. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlzX2ZJbEJaLUtNT1JJTGN6MF9LeUFyTU9STjRzekwxUlNIODBSZjFFZjBOcDlOU2dkRlpPSXZNRG04c0h4VF9Cd1FHNWtNRXRoUkVsTHlma3lCa2ZjaFVieU5vbjY2dlBnN2hQUlMxelE3eWlyN21uUUF3aTd3NzVhbE9ZcDAxTmRTSUxPZ21GaTNBVkp0ZFVqVEMwZFZVWVFOMWtGUmN1WU1pSmc?oc=5"
+ },
+ {
   "ngay": "2026-11-10",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bộ Xây dựng: Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "nguoiquansat.vn",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTZPV1BYNkRtY2ZBR0tzYTM3TVI2cWRkLXpneWhpOXRIVmxiTFlQNmtfandQNUxGS3p6dFNMM0hLUENKbTVVV3FkUU9QV20wZEU3a1NWVmpibUFHNlgxQ2RvaWxkWUhybzlKRzJsbnF3TGNGaS1fWXBUOFBTUFlYYU9zUlBCcDVDQmlPdHRjcFlkVlFSYWdMVnhoaU5QQmtqV0VxSFlVUHFWU1RBNW1pZXFrSTNjb2pscHJ2bDFkdzZHN3otRkZnMEg4a09DRmRKY0NDOA?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ",
-  "tomTat": "Cao tốc Châu Đốc - Cần Thơ - Sóc Trăng: Gỡ nút thắt vật liệu, giá và tiến độ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Một Thế Giới.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Một Thế Giới",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekpQN3ppSmRDMXczMG9MLWFiMDk4Tk15R2p5Tk5VZVFVX1pVWVFNMUttUnJ3LTBnazhjUDJyQVBQZE1TbFU4WVBxZmJ1eGlSanFoTDQ3YmlFOTRSaXJoMVhnUVBPMURIZ1F2aFhsZGV3R2N3ajRmQ3R6aldWdkJZcVVrWV9sRXdWRVFNQXp4MWV0Rk5YUzdValRTR1BQaGZZMWltZw?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Việt Nam đón dự án nhà máy sản xuất vật liệu có độ cứng vượt trội từ Mỹ",
-  "tomTat": "Việt Nam đón dự án nhà máy sản xuất vật liệu có độ cứng vượt trội từ Mỹ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSldzSS1icUxncTV1MzAwT0FDNGkzbGo3VXNaM0xhNXBNLWFNNWVZTjRVU3lrZ3JIWFh2VnVmSlIxVkF1a1pGS0tQVlcwcXQ4Zzd3LTU5WFRuTWJ1MkdWQk5JbEh3RkJXb0w4T1VIX3k1RzlPd3RpekUyNjd2ZHZRN1dNaDhxU21xZ3dJYjBkSS1CMFNvUmZFYng4V0VuZTBvOG5CVFlpUXRkX3RqN29TVXVEYWtCeTFsc0E?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-11T00:17";
+window.TIN_CAP_NHAT = "2026-11-11T09:58";
