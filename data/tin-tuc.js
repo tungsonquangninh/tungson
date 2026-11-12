@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-12",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường",
+  "tomTat": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2FWUWFOT3lsRmhBR01vdXJNRHJtT3YwWi1TajM0cHZyX0Nwai1ZaEc1OGxuaVlaRXNHSlYzR3RJMkk0bFR1d3NRR2tsZnVsVGYtOGtTelhyV25FR2ROUnB2UmRfVWtLX0JFN0J3OVFiR1RfMGg4ME5GTHNraFVDeVdBMkhmZXZjTy1OSEFwQkhZUmhaTy1XNHBhM1dMaE5TSGZkbWw3OA?oc=5"
+ },
+ {
+  "ngay": "2026-11-11",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bộ Xây dựng cảnh báo giá vật liệu xây dựng chịu áp lực tăng trong những tháng cuối năm",
+  "tomTat": "Bộ Xây dựng cảnh báo giá vật liệu xây dựng chịu áp lực tăng trong những tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Pháp Luật Việt Nam.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Pháp Luật Việt Nam",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ0RGeDFjbjcxLThGX0toT3I4WXZDRE0xSVlfalBNak1yeTlQOHo3UzFTWmtXMGZaLUdISks0XzNtTXcwSXJSVmpXZ091RVdoV1ZUOTBnZl9nUFkzVkZhaDE3TlBqeUMwVjJWbkRTaVZENXBwcDQwUE9waWJoZ2VQWVV1UjlFUVFQQVBOWFIwaVVuTWhCdmJmUThnNFB4YXhHWWt6bEhJZVc4TG5qd21VV2VrVW9jSFk3TnRSdTZZNjNjQQ?oc=5"
+ },
+ {
   "ngay": "2026-11-11",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chủ tịch Đắk Lắk trực tiếp kết nối nguồn cung, gỡ khó vật liệu cho các công trình",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Báo Xây dựng",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelFIMDVZODVCel9VZTk2aGVtckJTc3RReEJYR216a1BVa0x3V1c2TWE1WDNHYU50bTR2MzJMc0pRSWd5amVURkRoeE1Iam55N0Jad255QjJVa1YyREFJN1dRQ0ZRSFJNdGdrRWN3bDhXd3B3S3RsSXcwU0sxbUFyTUpyUmxGOU9Ld0ZndG5lSFhRSV9jdFg4b0dXTVZaZ19UQUFJZjF0VGxMVlJ0YUxBN2RJMS13U3gxRWYw?oc=5"
- },
- {
-  "ngay": "2026-11-01",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 1/11/2026: Quặng sắt tuần qua trồi sụt, áp lực tồn kho cảng biển bủa vây",
-  "tomTat": "Giá thép hôm nay 1/11/2026: Quặng sắt tuần qua trồi sụt, áp lực tồn kho cảng biển bủa vây. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0RJRmNnSFVIaloxTTc1dk5JZ2FDal8tamo3Vnk5WHEzRjhMOHZHcG1kV21FanRxeFFyMlZnVWRzTkxmVXg4ZVhPa3pXRFlVWVE5T0NwQld0X2lhbngzWUxBQmdqQkUxLXBWN3B3YVkwQ2x0dUNVU2RGZnpiXzNVak5SWWxUSkdaVTNnMVJOaS1yX05wTm0zZ3VSblRkMHdmamhkRkZYM0Q4R0pIUFpJVDVkcVMydy1XdThQOFNySjhzR2Y2Ymc?oc=5"
- },
- {
-  "ngay": "2026-10-31",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Trung Nam đầu tư gần 3.000 tỷ xây dựng nhà máy điện gió tại tỉnh rộng bậc nhất Việt Nam",
-  "tomTat": "Trung Nam đầu tư gần 3.000 tỷ xây dựng nhà máy điện gió tại tỉnh rộng bậc nhất Việt Nam. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlIzalpYcU1ONlNrTzhVT1lPUUVCM2VYcUNIQy1Ca08yLTcwbGw3M18yUVpwczVOb1plN2k5dTdBdlNxS1hJTHRudEFZd3Z5QzBuR014U0dlSl9GSUpDM3J2dEZjdjdvVHZiZVd4elpvVkR2TEt2SDd2REhuT1ZxdjJHcFRDZ1Z2YkpMQW9aRWp3cTZIV2N1X25iQlRTUUhVOERIZ2dJYzJ0akRaVUZhcnI1V2VFdDlDcjM2ZTZBelA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-12T00:26";
+window.TIN_CAP_NHAT = "2026-11-12T11:09";
