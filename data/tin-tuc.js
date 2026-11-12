@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-12",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Rà soát nguồn cung vật liệu xây dựng, đáp ứng nhu cầu các dự án",
+  "tomTat": "Rà soát nguồn cung vật liệu xây dựng, đáp ứng nhu cầu các dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkR3R1ZsV3lWWU0tenlQZ1dLQ084T0k4S3BXYUZTQ2J4Y3pmTzhPMVI1My1kLUpObEg2U0F2RWNJa1BXS2xSdFNGbi1HbGpDb2cwSVRGdk5uVkNCa1Vac0wybHhGQ3NIb25ySm54UUFsS1pHZE12ZjdZdHpOVF9OelpXSVBSVHEyMHB0OVlR?oc=5"
+ },
+ {
+  "ngay": "2026-11-12",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Vinasteel đầu tư dây chuyền sản xuất thép công suất 800.000 tấn/năm",
+  "tomTat": "Vinasteel đầu tư dây chuyền sản xuất thép công suất 800.000 tấn/năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo VietNamNet",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnphcUpmcGJmWENXTjFOT1V6eE9EV29SSkhqUjFYOG8yRXdOZlJpcXczZEl6MzFuX0h5elpENTQ1TlNnLU5fNHo3VktnMEZEa0ViWXB3MURBRW1CZUVhNXdDMWdEeVY0YnZxYmx0bEF2SDMwMEpnc3E2SDI0SzFMTFNnN1hoN29EZGROemlLNU1OVnR6WVc3U05IVnFBbWx0Y2R3WA?oc=5"
+ },
+ {
+  "ngay": "2026-11-12",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo loại sơn phản xạ 97% ánh nắng, thu gần 400 ml nước từ không khí mỗi ngày",
+  "tomTat": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo loại sơn phản xạ 97% ánh nắng, thu gần 400 ml nước từ không khí mỗi ngày. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMDZ2Ni02U042WE14MTJtSjJJY1F0elFnQ2FrU0YySzlXSWZBcGM1MW51UjRLNUJnY3FDd0syczVKX1BTX3BrM1RpSE1tN2NfckxtMnRCZElTTW5tbmJIRlpWQkhtT1RlT2V2cVZ1MVFUZjY0Q09ESHpiUmpSb0NiZXZMUVZOZTZhdzRyWXhqUjI0bDJXNkZKejUxbU11MWZMbU1xbVRFOGIyRHFwYmt0WFFDN3NWamVyS1phQzNUMWFsTERpXy1obVpidDVoZnZCdEIxTWdPbU43WFlSTmRhb1VPUmxCVUtfUDdhcU5Ydy1ZUXNfWDZxQW5YVG8?oc=5"
+ },
+ {
+  "ngay": "2026-11-12",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "5 xu hướng nội thất dự báo lên ngôi năm 2027 cho nhà đẹp, ấm cúng",
+  "tomTat": "5 xu hướng nội thất dự báo lên ngôi năm 2027 cho nhà đẹp, ấm cúng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWE1rdmNSOU1lSElHM1ZFTEIxQzdkeUVLZ2I1Z0x5T2RodU1iczJnVE40Ymxsdlp6c0VzUzdTUHFqVllDa0s2NXNvX045eFAyZW00aF96c0dEUmNwOFJWMW5aTkx1aVJ4UTNHQUVvX2lCX052QlBZT1lJN0tHUEZ3S3BIWGMzaWVKMWdHdE0zUkk?oc=5"
+ },
+ {
+  "ngay": "2026-11-12",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường",
   "tomTat": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Tạp chí Kiến trúc",
   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZG9mQnAtUzdrS0hPU1JaQlkzdGxuSTEwME5wX1dMcjdTQkI0OTl5SUtQTTR1WS1XVng2Q25iZlRiVnhiTTBpb01LemdTMjFGdE1WSjNUSl9yOXNQVHZ6eW5WTV8xZWNRN29kc2pieXpmYnc3NldnRUFWLV9mVGtuSzBHWDVzYXpNM09oVExpSkhXa3dDVTNlaEJmU2RfYmZXVGN4WUZncmtHbDlKWTE2ZlBMeHdRUHlPdDRnRngtREVEWmJ6WWZVQ3VEdk85MjBBUmtZM0EyVEJraDVtS1l3dmVEZU5vaGx2cEYtVXNGQmdBWTc3bDNCWWRrbWNsd1k3LXRPSDgxUVhFM1BOa044QWJzODY1SEFrelAybVZn?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng",
-  "tomTat": "Nâng công suất mỏ khai thác đá, đảm bảo nguồn cung vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVBLUlJMNXhYVWxVYko0aEZUTWtHODN5OHQ4eFJSQlpUQ0dXQ1lWalJTN2EzUGFKejNqM0tfRTFleVJrX2d3ZlZqQnozQzRzcHQ2Qzk5MEJZdGdha19YbVUxYW5SNTVxcjlKMS1YOU1PeXJKczRBMnRwNXI0NTVTME5GRE5ybHZ5Uk15TktQT0JHN0FUTU1uT0RXZC1pNDRnanNKV1F3?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 2/11: Một số mặt hàng giảm nhẹ, thị trường thế giới kém sôi động",
-  "tomTat": "Giá thép hôm nay 2/11: Một số mặt hàng giảm nhẹ, thị trường thế giới kém sôi động. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Hangthat.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Hangthat.vn",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGJ1UGNnbkMzYlVnZ2FSTFB3Qkt3VHFxLWxvRG9qeXBjZ1lXNjJySGpFcUFaZjdObFF5TC1vZVh6N0JDN1NwTnRiZmRDekZoM284Yl9IRS1JT1JJNXlLbV9CSzZ6UUo0ckdDVnEzMGRNLWszSThOR0s4ZTI5LVR5ZGowZnFBQmlNaWFRWDZtTmVUWXJ6LVZVRDVpQk1OS3Z0U1RUY0p3WjlUeFVHZURjQnFQRWxHSE04S3JQVUZOTmNFcVAzb3QtMk00eUt2SFhV?oc=5"
- },
- {
-  "ngay": "2026-11-01",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Giảm phát thải trong xây dựng nhà ở xã hội cần bắt đầu từ đâu?",
-  "tomTat": "Giảm phát thải trong xây dựng nhà ở xã hội cần bắt đầu từ đâu?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Báo.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Việt Báo",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEJhLXd6TmhYNjZQRTFTUkZxd3JYWUVZSXFEWExLb05BT0FQSTdvUU1oLVhOaEJrb2EzRER0TGIzZkh0cjlBQjBRdEgzNGNqWTJZakRZMDRiUDZDNENsdG1yVjZDeXM3WTAxY0tfVmpxV0JDQlVFYURuX0djSU5lZVo2V2pWdTZhQ3hxbVFlaHd1US1lQlNN?oc=5"
- },
- {
-  "ngay": "2026-11-01",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Thứ trưởng Lê Anh Tuấn yêu cầu rà soát nguồn vật liệu cho dự án Vành đai 4",
-  "tomTat": "Thứ trưởng Lê Anh Tuấn yêu cầu rà soát nguồn vật liệu cho dự án Vành đai 4. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelFIMDVZODVCel9VZTk2aGVtckJTc3RReEJYR216a1BVa0x3V1c2TWE1WDNHYU50bTR2MzJMc0pRSWd5amVURkRoeE1Iam55N0Jad255QjJVa1YyREFJN1dRQ0ZRSFJNdGdrRWN3bDhXd3B3S3RsSXcwU0sxbUFyTUpyUmxGOU9Ld0ZndG5lSFhRSV9jdFg4b0dXTVZaZ19UQUFJZjF0VGxMVlJ0YUxBN2RJMS13U3gxRWYw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-12T11:09";
+window.TIN_CAP_NHAT = "2026-11-13T00:44";
