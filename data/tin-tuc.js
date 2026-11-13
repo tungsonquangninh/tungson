@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-13",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Quảng Trị: Chủ động rà soát, khơi thông nguồn vật liệu xây dựng cho các dự án trọng điểm",
+  "tomTat": "Quảng Trị: Chủ động rà soát, khơi thông nguồn vật liệu xây dựng cho các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlh5elQtbXU4bVc0aHRHYldlV1hrTzdSQlkwVnZHcWpWNUZKY3M5eGFUZ0JRYVFVRXBJTTlZb1hwTEE3T1RVOVdxX3M4R3VNLXJxYUpURzNWaWROWFV6Tkp2Y2xWRmJXVDR0NWpCOWFjT3RNMVdyS3RUWTdPbjdPcUY4SWRGUGoyWlRhQTdMVHBvNlJidV9JU09pNl9NalY1WURZay1jWHFUTUN3b2RUbXdSNXhfZjFTUXNzdDh5QThaUXotSHMtU090S3h3dw?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 13/11: Thị trường nguyên liệu thép đi xuống, quặng sắt",
+  "tomTat": "Giá thép hôm nay 13/11: Thị trường nguyên liệu thép đi xuống, quặng sắt. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVRhaHplbGxxNE9CQ0Z6dUhpdWxEYU9MdElXRzJZZV94Mm1zMmJCeFJET3RYTmJoOERqOTVycko2UFRPLUpuSy1TMDFfUHVVbWRQeUNEcGx1ejJkcVAtaWJhb2tWSmtYektNQlFMWmduMFlfTElhSlJuejFpNGY3cWdsdk5tMWlBZ1QyX29CZF9VODl5RGZ3OW5manZrdVhIOGdPaHFodFFSWl9YRjRrOGJjb01oZzA?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Hành trình từ phòng thí nghiệm VNUK đến sơn nội thất hữu cơ BINKS",
+  "tomTat": "Hành trình từ phòng thí nghiệm VNUK đến sơn nội thất hữu cơ BINKS. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
+  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
+  "nguon": "Báo Đà Nẵng",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDFFdnFWSjVvNHRjZWtOWlR0bEVraFBCVkFYcHhIVWlMckV4RzFKNkY2MEpNSnNNOUc3dUkxS0xpZk9OSkcyNGt2TkVoNVRUcEd1a1RrZVZNajdJaFg0SnpVbXU5Z01kU0RGOFBtRnJ2aF9mdW42VXNmRXBJS3JGWnliMEhUUk10cGFUYkVvYWRqOXROc0tiRzZDWWJEb0ta?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh: Tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội tại Đông Mai",
+  "tomTat": "Quảng Ninh: Tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội tại Đông Mai. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGNnbXI4TDFEdGw4OWNRc3JUOVlneDRyNXlHeVVndVd0eGdqRzhHa1cxVlRaSjRxaGNQZkpjbzBuTDBhX3lDbHM4NHlOQ0FJdXFtUk1YNGk2VEV2ekZnN2V5NnNiTkNoSGdJUjcyNkszdzh5Qi1vcVgydnlKSVJxMnVUeWMwcUxPRVNCSHFtUzJkZw?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm",
   "tomTat": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMm5lZHcxZjJ6S3VFY2c0MG9ZNVBCQktWaDd3SkZ4LVItYV9MaHAzczNmQ2xqT19NdGt2YlRfS3hTSlNCNzN0U2NkYl9iczQzNFdkaTh2bE9kWEJESVVIQUtpX0F3OEFQMS1HQXJTYlFycFZPbVJNUUJEQVJ1QXNTMy1aX0R6OG40Tm1nUTRhSWtXZFpjT1d2dGVfY2RWazIteE5qeC02eWpKQkgtT0NlQ2xhUTZpMlpxZjdJT25EcXVhRThjd2xGRg?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đơn hàng từ Bắc Mỹ kéo tới, một tập đoàn công nghệ bất ngờ duyệt thêm 8.300 tỷ đồng vào Việt Nam, xây nhà xưởng ở Quảng Ninh lớn gấp 4 lần cơ sở tại Hải Phòng",
-  "tomTat": "Đơn hàng từ Bắc Mỹ kéo tới, một tập đoàn công nghệ bất ngờ duyệt thêm 8.300 tỷ đồng vào Việt Nam, xây nhà xưởng ở Quảng Ninh lớn gấp 4 lần cơ sở tại Hải Phòng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Nhịp sống thị trường.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Tạp chí Nhịp sống thị trường",
-  "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWWtxLVNlSVVZVV9JMmFWeDdPYjdwTWExZHFwX25aVmxualU0R2J5RTBObWhZYkJhWkttZ0JLZl9wMFpLWGJPVlhMMEstOFM1bzhmUFMxQjFHblBPSG13eHVCcnZpQlgxNWpXTldyOHUzMWNCVlp1T2xUaVJpUmV6b3JjOC1wNWswNVVaNlM1VVNzMkJOQkpDQ29MaHlyU055Z084SXlMbWcwZ1c0ME94d2FONlY1SHFsOWRtM3VndWQ5U0ZmQWVsU1ZEVDB6VDlwX3FYZ3NxSF95NUU3SEg5QWZ5UEtOaUlSenpEM2x2RmJSUDMtYkk3OGRKVFFnTUMxdTRsdGxqQkR1Q1E2ZUF6WWVGYl9kNFFJdlA0?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Làm rõ người xịt sơn, đổ keo vào ổ khóa nhà dân: Cảnh báo hành vi đòi nợ trái pháp luật",
-  "tomTat": "Làm rõ người xịt sơn, đổ keo vào ổ khóa nhà dân: Cảnh báo hành vi đòi nợ trái pháp luật. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ HTV.",
-  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
-  "nguon": "HTV",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTRsU1pTdXBnU1NFaG1UWHB1ZVFqT2o2UGtEWVJhSWp4RDR1VEliZVZBY1ZYd1hCQWp5SjBSQks0NzAyRE9Za1BLQXJxQVNLQ1BiV1lmb3R1M0R3SUtHZDRZZnpaZUYtdDR0bmFnWjlqNU1HTXFjTUN5TjJxdTNERjdUc0dObDBlQldCaDJqVnBDRy1rUFE1amRIZmwzbWJZeWxKZzZIUVFRU1dBaFRBRl9PdG1tUzRZbGl2TzBMLXA?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Mở bán 943 căn nhà ở xã hội, giá hơn 23 triệu đồng/m² ở Quảng Ninh",
-  "tomTat": "Mở bán 943 căn nhà ở xã hội, giá hơn 23 triệu đồng/m² ở Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTlhYkh2TU1TOUdBemItZG5GNEFDNG96Sml5UWNJVEpaVmdzc1cxV1JiNVFHTXI4RHJDbjdXakF3QWNtemNha1lEV2pCSlVSdmpMaEExakdXandwVXNUN3lzOFBfZjE0Z2xHMTZqZmQ1TkllcllIWmhzVVBCMUExejlEZkhxbWZMbmh1Q29OWGI2T2R5bGE1dDFjdXUtQ0R4ZGI1UnJ1NEVmbVNSdVFGWA?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Rà soát công tác quản lý, khai thác khoáng sản làm vật liệu xây dựng",
-  "tomTat": "Rà soát công tác quản lý, khai thác khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUw1Wkpjc2RoZ0t2ZHpmZWFCV3RJeTFmMGp4VGxHVjlvX1B3SFBkLUZaZ0JsSnl1VVowQTlYOFA0RlMzcDY5R1BBUTFsMi1uU0MwWllJWnhzUFdNRkJ3ajRibm5tRXNTc3hnQlV0ZmpkdnhqNVc1SkRoMV84RjhCOGtjc0xjcF9yQmdJYXZWR0M3R2U5S0t3dA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-13T10:33";
+window.TIN_CAP_NHAT = "2026-11-14T00:22";
