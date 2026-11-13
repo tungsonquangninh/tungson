@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm",
+  "tomTat": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "thiennhienmoitruong.vn",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVNXRlJ5ZHpfVC15UDU0SEswcnVXTlY5aVRUaDJBOVVnRVg3emo5S3JzVHQ1OUpqSlh3Mms2QjFSODFqRmVsb0czSkN2OGlIdEdFM21DMnVCYzJXLWljb2w5MzB2T0MwVk1WQ3lwS2x0ZXZQM2lNUDh4MjhyMXVVWFJxeWJ0SWtlSkRvbVZpQzRZdHFXMFMtaEZQSDhSVEJkS19xZHln?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 13/11/2026: Quặng sắt xuống đáy 2 tuần vì dư cung",
+  "tomTat": "Giá thép hôm nay 13/11/2026: Quặng sắt xuống đáy 2 tuần vì dư cung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDBrR3RrWlVwMDNFS0d1dWlvaG5EVkVfRnZhZEJvTVRqOVhxSVlTN0pIZFZHcGJPVy1UXzJ6RDJydnpfekhXSHhTYVVzR0FCWUNtTWZoWUZlS01HRXpzRkdRX0k0Mk5EOFRyQy1QaFh3dllJOE5FT0Z4TVpCbDZ2OWpfWWdtXzZwRGQzOXl6OUE0Rm9fbE94UkV3UTBlcVFjcmx0bUhvSXM?oc=5"
+ },
+ {
+  "ngay": "2026-11-13",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Khánh thành dự án Nhà máy Lite-On Quảng Ninh giai đoạn 1",
+  "tomTat": "Khánh thành dự án Nhà máy Lite-On Quảng Ninh giai đoạn 1. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZ3ZWak1Wai1aQzZtVFZ3al9CbG1Ec3JicVBhWlZzT2ZnNVI3ZTlpeTFIc0xCRjlQN2pQdWI1cWhhN2hMVnRwcS10YXBxQkF0czF4eHp4ZWpxbW5RbXJHYnhOZDF1Y1dlZFVPb3hZU1ZtQnJDM1IzN3NLclRGNGNzSG9oUkFPX1hZeV9MbG05R0xZckUyYW5rT3ZPbUJRZUdqV3R4VndCUFdUaEpQVXpyYzJQUXhabnZPQUNwNEhReTZBYUtoczFQZkR0YWVQTnVsRm1mS2pRM1dqelZQMktTT1FEU05JZ1J2ZVpYTjd5N3h5NzNCUmllaHNjRDZxdlR2NDMtbnRIQlVDQWc2YlA2Z0dsai1BbjllMERkZFVGVG1xcTBBbC1nS1RzaGhGQVZUWmFObW5KSXU?oc=5"
+ },
+ {
   "ngay": "2026-11-12",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Rà soát nguồn cung vật liệu xây dựng, đáp ứng nhu cầu các dự án",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUw1Wkpjc2RoZ0t2ZHpmZWFCV3RJeTFmMGp4VGxHVjlvX1B3SFBkLUZaZ0JsSnl1VVowQTlYOFA0RlMzcDY5R1BBUTFsMi1uU0MwWllJWnhzUFdNRkJ3ajRibm5tRXNTc3hnQlV0ZmpkdnhqNVc1SkRoMV84RjhCOGtjc0xjcF9yQmdJYXZWR0M3R2U5S0t3dA?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Ngành thép Trung Quốc thua lỗ nặng khi nhu cầu yếu, chi phí đầu vào tăng",
-  "tomTat": "Ngành thép Trung Quốc thua lỗ nặng khi nhu cầu yếu, chi phí đầu vào tăng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcncxM1RQV1g4ZUYySG5NM3pkTEMyY0RLaFllbmVBT0pQRzEtR0VuQ3g2c2o0U1RaVmZaYjBscjVuR3Zsa0ZJckpIYzRIM2NOb1hlRDNOQWdYdHBlZGJWcTUxZC1SOHlSekhjZEo2WWZENXFsVUNyeHYzbWJNYzg5RHZiTlFGeWVHb2lPakttYmVkRTVhZHlZX1BLeTlvYTlRRFVWM0Z0OG1PdWJleU5qTlNISTk?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Hiện trạng khu tập thể cũ ở Hà Nội trước khi cải tạo, xây dựng nhà ở cao tầng",
-  "tomTat": "Hiện trạng khu tập thể cũ ở Hà Nội trước khi cải tạo, xây dựng nhà ở cao tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkZTbjZSRWVoSnhPa2JYaS1VSE83MXFqWERiYWJfbHQzRm82VlVvRURrZGlReUIyWVFlQ2xRbmpnLWpqenUyYnVSZTNESjhQaV9GZURVUDdBek5CT1Q3SG4zelhmVXlCbHRXdUl6SWtGVDNSNnRaTmlTX2NPbTRaRFdaeE92bGdCWlg4SnFKQ1lHZHJUdlA0Q01nUFVMakRCT00zdDNYbm9TZ1Z6WUdacHg4YWJqTzlLbnlJREZQWGJzQQ?oc=5"
- },
- {
-  "ngay": "2026-11-02",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Từ không gian thiêng đến không gian cộng đồng - thích ứng bản địa trong tổ chức không gian công trình tôn giáo, tín ngưỡng tại thành phố Quảng Ninh",
-  "tomTat": "Từ không gian thiêng đến không gian cộng đồng - thích ứng bản địa trong tổ chức không gian công trình tôn giáo, tín ngưỡng tại thành phố Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kiến trúc.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Tạp chí Kiến trúc",
-  "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZG9mQnAtUzdrS0hPU1JaQlkzdGxuSTEwME5wX1dMcjdTQkI0OTl5SUtQTTR1WS1XVng2Q25iZlRiVnhiTTBpb01LemdTMjFGdE1WSjNUSl9yOXNQVHZ6eW5WTV8xZWNRN29kc2pieXpmYnc3NldnRUFWLV9mVGtuSzBHWDVzYXpNM09oVExpSkhXa3dDVTNlaEJmU2RfYmZXVGN4WUZncmtHbDlKWTE2ZlBMeHdRUHlPdDRnRngtREVEWmJ6WWZVQ3VEdk85MjBBUmtZM0EyVEJraDVtS1l3dmVEZU5vaGx2cEYtVXNGQmdBWTc3bDNCWWRrbWNsd1k3LXRPSDgxUVhFM1BOa044QWJzODY1SEFrelAybVZn?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-13T00:44";
+window.TIN_CAP_NHAT = "2026-11-13T10:33";
