@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-14",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá vật liệu tăng, đường Tây Thăng Long đình trệ, Hà Nội phải đấu thầu lại",
+  "tomTat": "Giá vật liệu tăng, đường Tây Thăng Long đình trệ, Hà Nội phải đấu thầu lại. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnlYTFU0aW5hUVFSaW9ZZ2h6dy1EWU9rTWcyVk80a1dxNGhaN2ptNTFSWEVub0pLTFBmTEEwR0VuWmZtUWkxWXl2cGkwMWhYaDM5cVZudVBwVUF2Sl93TEFTMzQ0WDd6dkMyMkpFVktHb1dIck9lSUFtQ2JGU0p3YXA5a3JhR2dOTDVEdmc1TDZTYUQxSHd5MXFkLThyalVMUG1nX2ZrZ3h3VngtVXVRcw?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "VCBS: Giá thép Việt Nam kỳ vọng tăng, quặng sắt tiếp tục chịu áp lực giảm trong quý IV",
+  "tomTat": "VCBS: Giá thép Việt Nam kỳ vọng tăng, quặng sắt tiếp tục chịu áp lực giảm trong quý IV. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh nghiệp Cuộc sống.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Doanh nghiệp Cuộc sống",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG53VkRKelpYZ3psZ2JQMG9IdlBqQ1E4OS1PRXhSNWhtQ0FDOU5GUEFmUS03VkRlSlJvWVV3NHZnLWdnd0hsR1kyMF9RWnlQVkxBNDJHOXJGd1AxTVdlcl9WQlhlTjJhb2NRbll2QlBSdmJ6TjlNZ2NuX19Fek04WmpGeHNWblhwejk2U1hBY0NqZ3VKUUJKX1RWVTNxQktKVlZaRWhqTElCOEdTV1daYWhUeXZyTTA0OEVvbFFFOFdhYzZFS09V?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Dự trù 1,5 tỷ, xây xong gần 2 tỷ: Làm sao tránh đội vốn khi xây nhà?",
+  "tomTat": "Dự trù 1,5 tỷ, xây xong gần 2 tỷ: Làm sao tránh đội vốn khi xây nhà?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSndHX1ZXckliVFhENXRpdFl0Z3FFWHJKMzN6S1dkLUYtemNVYXlTSmVkTml6X1ZBYm9FZ1phbm41dS1kcmFINFhPNlBRdjJRX20tVzNBV1hqa1pTdWh1cVpSWVpTZFdTSS1DTWszQ0lqdnVWNk8wczVXMWhsV1pSQnNNWDQ5V0hTYTBScnF1MWFxVGlqWkJrSmRMT0gxNm43N2FNNG5lZlRzYkF3REE?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá",
   "tomTat": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nhân Dân điện tử.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Báo Đà Nẵng",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjFYMFRuSDJUbFhsMVl6aE16Wkl2dmZjcDk1c1I2MFk5MVpWeHRBbllFbE00bVo3ZE9Ra0x5bWs4WXlIOWZTUllTSEwxTFVFcHgyTnFrWTltd2ctczRHcm1vMF85LUhVQmUtU0lXOThhcDZneDVEdUF0WlR5LU5ZdFY3RFBqaUZ4NHA4Y3NCd3lGU3Z1OTJZWG5GbkJVZ2szUW9GaXEyZw?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "[eMagazine] Tận dụng chất thải công nghiệp, mở hướng phát triển vật liệu xây dựng xanh",
-  "tomTat": "[eMagazine] Tận dụng chất thải công nghiệp, mở hướng phát triển vật liệu xây dựng xanh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp & Kinh tế xanh.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp & Kinh tế xanh",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzBjYU5QeWFYTG9hR3Ria2JabnM5bTdQWHV6TmVzY2JRckFxNzBzZl9HcTF0V1R5bjY4R2tBZThBdnNOVDhzby0zQmRuWVMzaC1zNEYwRl9aMHlLTThnTVNYdW5kU1JSXzF5V0lZTFl0RGdYa01wanY2YnZNQnpCcDdFTVo3MkZrMWppTnhkcDBzRlpUQ0dlOEwtSFQyeFBnUGdoY3NsX2NOQVlmcE1LblZVcnpfWUJVY2J5UFNtN2JIaTBiWExn?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Hội nghị phản biện xã hội đối với dự thảo “Nghị quyết quy định chính sách hỗ trợ cho hộ gia đình lắp đặt điện mặt trời mái nhà tự sản xuất, tự tiêu thụ và hệ thống lưu trữ điện tại nhà ở riêng lẻ trên địa bàn tỉnh Ninh Bình giai đoạn 2026-2030”",
-  "tomTat": "Hội nghị phản biện xã hội đối với dự thảo “Nghị quyết quy định chính sách hỗ trợ cho hộ gia đình lắp đặt điện mặt trời mái nhà tự sản xuất, tự tiêu thụ và hệ thống lưu trữ điện tại nhà ở riêng lẻ trên địa bàn tỉnh Ninh Bình giai đoạn 2026-2030”. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh, Truyền hình Ninh Bình.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo và Phát thanh, Truyền hình Ninh Bình",
-  "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNWmxKWWxmbTVlbzZYcWJfcnR4cG5HLTdwVHJpa2FJWUEyS3J0dzlvekdFSERXS2R0a3V1ajlVYTV0Z296NFczRjV4UzVHY1VRTm40aHg4SXhudkVNVnU4ZUtJX29VcDBGSlN2TUlUYUNWU1ZhZ0J4V0pqdk1IOEVMZ3pjOTFQWGVlRS1NV2pZdXo4YThZTzZ4dmpmMDNSQzJwT0lxTU9WV0FDamNZb1hOMFBGV1NoUWV6c0RtbU5Sc1pzemQ2eURuRUtCUkgzTXJaS3p6RGM3azIxVndlM09UOVRaMVNmRENsbmNZX3ZzcGEyQ2o1NTdHdWRxN2FINmJBbnBXTkg5Q0NEZGttamRycjR4S2JIbmlyTGVZZ1BvVGR5UnRyekpqcExnSzg5TXdJRmpjWC1zSjVVdFR0aXZrenZHOVFnMnh4SXZ4bTlzNzZyejVLZWZQTm9rUGRONXBfR2Q2OEdIb1JScElGR0NoTjlITFVFS0ZZV1JTY3FxRWtScW8?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lào Cai: Chủ động điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
-  "tomTat": "Lào Cai: Chủ động điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLThpT0FSdHJjQ1Q2Q0xRMTNXTHZVNnBRVkJJN0hjUjFaeDBodUVIN3ZDbm9RMVZycUZQNWVHc19zU0doVFVGZnlSUHNpMmJJa011OUJ4c3BQMG5abnZsYVF5TEVmbTFORE5PeXpVS0JBaFVIRGk0UHBhVGtJUlZKNFZGVy1nZFo5ZjlBaGxPR2p4MVk2MGNtdXVmNThmVHJiaFNpM2drTkU0SFIza1lqcURzR1dQMVJMY0pKM1NHeW0xSzlEcDNfVEtMSDhnQkU?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-14T10:31";
+window.TIN_CAP_NHAT = "2026-11-14T23:05";
