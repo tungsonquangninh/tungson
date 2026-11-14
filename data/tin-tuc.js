@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá",
+  "tomTat": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nhân Dân điện tử.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Nhân Dân điện tử",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjU5Q0U4MGEwaVlvckhiM3Q5VVZsZzl2Zm9xU3oybkVBWVotTGd1cGI0T2pCWGQxQUxQd2E1alRITDQzdGxuZERHSXBpRnR2TUxmc054MHl5MXVvOWpSX1NWbDR3YVBlcm8xS1dJNFE3VWZvTzJLeS1WSjVZUGQ3QjdxQkd0ZkRBNHROMFZocE4yV21pNlhqZlBtRkRINUh4c19HLVFKaHJmaVl3NDhLWl9nckZtQQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Xây 'lá chắn thép' nơi phên dậu",
+  "tomTat": "Xây 'lá chắn thép' nơi phên dậu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NdkN6VE5wLWNhUDZpVTRSZWQ0Nmk2a3N2SF9OeWJHM0tOVzNuTGlfY0RGOV9GenJwNDRRZFRSc0VnQjRwMS1VM0RjaEl5Mi03UjZsTzVFTDgteDZSRUJUUk1B?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh có hơn 18.500 căn nhà ở xã hội đang triển khai, dự án 1.128 căn sắp nhận hồ sơ",
+  "tomTat": "Quảng Ninh có hơn 18.500 căn nhà ở xã hội đang triển khai, dự án 1.128 căn sắp nhận hồ sơ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzFJUmo1SllZSzBTRTBDc2FmWUFVU051RWJoS3dRSVNGS1REQUJxSnNmejdiS0ZvMDNKSFBvcVZOejI5WHhwcDFNX3AtYVZOcHYwaGdpbXVRVVVUU3ZXNjBjQVVpanhFYl9RUm5FdFVRcG9LbzVzemJFX3gzakNoMkUySEF4SmF5WkFMaGl4YjJtaTFCd0xzcE12bTJyUkpGNmFqNkdkM29YdFNwWnZWQTZlaGJZUnhGTzdzaV9idXl3Q0Vz?oc=5"
+ },
+ {
   "ngay": "2026-11-13",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Quảng Trị: Chủ động rà soát, khơi thông nguồn vật liệu xây dựng cho các dự án trọng điểm",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLThpT0FSdHJjQ1Q2Q0xRMTNXTHZVNnBRVkJJN0hjUjFaeDBodUVIN3ZDbm9RMVZycUZQNWVHc19zU0doVFVGZnlSUHNpMmJJa011OUJ4c3BQMG5abnZsYVF5TEVmbTFORE5PeXpVS0JBaFVIRGk0UHBhVGtJUlZKNFZGVy1nZFo5ZjlBaGxPR2p4MVk2MGNtdXVmNThmVHJiaFNpM2drTkU0SFIza1lqcURzR1dQMVJMY0pKM1NHeW0xSzlEcDNfVEtMSDhnQkU?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Cổ phiếu thép đồng loạt 'nổi sóng': HPG, NKG, HSG tăng hơn 3%, dòng tiền đang đặt cược vào điều gì?",
-  "tomTat": "Cổ phiếu thép đồng loạt 'nổi sóng': HPG, NKG, HSG tăng hơn 3%, dòng tiền đang đặt cược vào điều gì?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlRrQmx1cDdocGh0am9Qb2J3T0trb0x5QV9pdXhlYjZLMTNWMnNERjJtNkZ3dDFBQjliNkVfM1NyQk9laG1IeHFGWGRlMEFrUnlNRFdFb2dBSVBSb2pGRkhJYVEtUHQ2eVpCLWgwREEzNjlIYTcwUjFuYlc0OVZ0UW5XQUt2TVFFakpwT3hnTVM4WTFfQUU4SjYxVXlpYVdlazlLa1dUWVk0SFZnRnF5Y0NFLWFCa29JTXhrUzJhVlJjbkVuLUE?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lào Cai: Điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
-  "tomTat": "Lào Cai: Điều phối nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmx1MjdXVzM5U0FKU3d1ZWxzc0lZTHhSbHBHWTd0US1xcDhMMWMxei1VUTFFcWp4amN0UGpDNGhrenVRUDhjeFF2UnRyVTVwb0pTaEtGb2hHMlczcEg2QzNIQjM5amthRmxqMlpCcHp1RlZVN0dCYXNiMnRPVllOS2pPd0ZTRXdNNzhEZVV6WnllSnV3VF9nMHBRaXNqLUVKUmUxTlkxV2Y3MVlCYzBpYTQyZzJaU1ZLR3VfbA?oc=5"
- },
- {
-  "ngay": "2026-11-03",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 3/11: Thị trường quặng sắt ổn định dù nhu cầu Trung Quốc chững lại",
-  "tomTat": "Giá thép hôm nay 3/11: Thị trường quặng sắt ổn định dù nhu cầu Trung Quốc chững lại. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMm5lZHcxZjJ6S3VFY2c0MG9ZNVBCQktWaDd3SkZ4LVItYV9MaHAzczNmQ2xqT19NdGt2YlRfS3hTSlNCNzN0U2NkYl9iczQzNFdkaTh2bE9kWEJESVVIQUtpX0F3OEFQMS1HQXJTYlFycFZPbVJNUUJEQVJ1QXNTMy1aX0R6OG40Tm1nUTRhSWtXZFpjT1d2dGVfY2RWazIteE5qeC02eWpKQkgtT0NlQ2xhUTZpMlpxZjdJT25EcXVhRThjd2xGRg?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-14T00:22";
+window.TIN_CAP_NHAT = "2026-11-14T10:31";
