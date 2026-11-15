@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?",
+  "tomTat": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Đà Nẵng",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDAtTGFxUzNhVi16RHVsQVcxY2IwazJTV3FFQWUxa1gtQnlWN3lSYXM0ZUxVanY4OVhzbUdJZkE1TGdhcFdyOWNXNkFRQ2w1cWY3Uzl5STMtTnZXQUdWenNvU21lemFFLTluUnFxTWFWZ1BwTV9wVEhvNDdRYlVpVE0xemZ4R0Ryd3dXcVBya0k5NEs2cWNZQw?oc=5"
+ },
+ {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 15/11/2026: Thị trường thép và quặng sắt tuần qua giảm sâu",
+  "tomTat": "Giá thép hôm nay 15/11/2026: Thị trường thép và quặng sắt tuần qua giảm sâu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHVqTG5RcW54WnBmeURfZXFKVmk4dDZPNDU1blNnQk5vN1Q0T1M1eVl2cXM3UFdUVklVZ0NTUEdLZWhfMnJBRWVFX19ILU1DQTVndFNmY2xyV0RBdmhOX2Z5RVdka0x0Zy1xSmtoZTR2U0lMbV9jSk5JRjd6UzB5eGJOZFljVmYtTERfU2pTRnFiczJfTTFybDFRUHFpWXZCd2VUZ0hZRjdiYlp3alVsYzJtQmg?oc=5"
+ },
+ {
   "ngay": "2026-11-14",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Giá vật liệu tăng, đường Tây Thăng Long đình trệ, Hà Nội phải đấu thầu lại",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "VietnamBiz",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmc5ZWhqR3Q4Ylh1aHdHYXpJOW9NRHdaOHdTZWpBNXQ2c2ZERHlBYndGcHNSTHBaM2R6UnV5VHJVUEc1cURIZmdwd3ZpRV9HbmkteHBQWUhSNkVoNXEwOEo5dFJVb09SOHlEX3pEN3FUVUVGbUF5UjZtZE5qYjdTbE1CWk5GUkUtRUtZT2QyaXpGSkRTX2NwcWFGM0hmd2FEaW9UR3NGSnIxMW94dGh2bW1zLXB0SHlBVUpDRnJBR3ZBMXM?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Chi tiết quy hoạch 8 đô thị: Đồng Hới, Đông Hà, Ba Đồn, Hoàn Lão, Quảng Ninh, Lệ Thủy, Quảng Trị và Lao Bảo",
-  "tomTat": "Chi tiết quy hoạch 8 đô thị: Đồng Hới, Đông Hà, Ba Đồn, Hoàn Lão, Quảng Ninh, Lệ Thủy, Quảng Trị và Lao Bảo. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0l6S0g4YjBfalFMRkt5ZVF1QmhXS3I4NmZLVmE0YVh3U2tfV09hVFY2Q0c1UzlmN2RKX3U2UUV2MS1jVDZBZ0NVeXpwT2pLYVJaV21nMi1TS0xsUUptcHkwV3piajVkWlZDdUd2QXJ3dlREZFVwUWx4QVRnQXhlRlJ2WDZpTHhTb0o1RXZETHpYYl96VFdOUlRXcUhka0ltV3k4VGdYN2FwSnVveGJnd3NaY243QnFfR3JIWGQ5b3Rvb0NTVUNSQWZoTDhtQVM1dGdsV0xReGNRdw?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm",
-  "tomTat": "Chủ động điều phối vật liệu xây dựng phục vụ các công trình trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Đà Nẵng",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjFYMFRuSDJUbFhsMVl6aE16Wkl2dmZjcDk1c1I2MFk5MVpWeHRBbllFbE00bVo3ZE9Ra0x5bWs4WXlIOWZTUllTSEwxTFVFcHgyTnFrWTltd2ctczRHcm1vMF85LUhVQmUtU0lXOThhcDZneDVEdUF0WlR5LU5ZdFY3RFBqaUZ4NHA4Y3NCd3lGU3Z1OTJZWG5GbkJVZ2szUW9GaXEyZw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-14T23:05";
+window.TIN_CAP_NHAT = "2026-11-15T10:02";
