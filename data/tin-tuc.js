@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-15",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khánh Hòa phân cấp cho Sở Xây dựng công bố giá vật liệu và chỉ số giá xây dựng",
+  "tomTat": "Khánh Hòa phân cấp cho Sở Xây dựng công bố giá vật liệu và chỉ số giá xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Khánh Hòa.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Khánh Hòa",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFc2clVMek9scU9yejBGQmItODZDXzJKdTQ0NDhJNDdnTjJfTldFZjZUTTBrZmRjc3ZSQldrNTVGWmdwZVJtRExYbFNZbFFfQUZzck5teUZyaWZvNThFVV9feTJ6SXNIX1VpZVNMdzlyVlo4MEw2ZFVwd0tET3hlS2ozb21EamlWak5zcGJwc3pudnBobEIyMmtiY2d0NGlPUDc2SjJvR2RLcXgzLUhsOHNEOExxWEFoUy1iSEVEalJ2UQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Sắc màu văn hóa Dao lan tỏa giữa không gian Di tích Nhà tù Sơn La",
+  "tomTat": "Sắc màu văn hóa Dao lan tỏa giữa không gian Di tích Nhà tù Sơn La. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Văn Hóa.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "Báo Văn Hóa",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzFGRW5LY3RoTHhjVEZuTmlxMm9MMDVkSjY0WVV6YVRybGw0akhIUVdVbE9icUtlanhNRXY5R0YwdGp0dnF0TTViakNzS0tOY3ZGRWFBTHJSSjlta085Z1RmQUtmNld6ck1zLUNGWGl4SzNsTW5oV3ZwTVlXRXJySlQ3TzZwLWpsMXBuamdYUGVJc3hpT1E?oc=5"
+ },
+ {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Đất có quy hoạch ở phường An Sinh, TP Quảng Ninh",
+  "tomTat": "Đất có quy hoạch ở phường An Sinh, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Việt Nam Mới",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3FzTUFWcHVKOG5PM0Z0WkhlYmZZaElTMnMyZmhldDZiSG9ZMzFRZW4zbjdURDdpenBET1pIWjFUOTh1eEhyUnN3cnZGNWxDRTZYWHJGcEdHYVFaQ0lQczdFdmExanBtYUkxbXI5R1pjaWZvajZoR1haYkFTaUVuRjU4LVdHMEtadnFBcmlNbnZjb2NweGc?oc=5"
+ },
+ {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?",
   "tomTat": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -17,6 +44,15 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHVqTG5RcW54WnBmeURfZXFKVmk4dDZPNDU1blNnQk5vN1Q0T1M1eVl2cXM3UFdUVklVZ0NTUEdLZWhfMnJBRWVFX19ILU1DQTVndFNmY2xyV0RBdmhOX2Z5RVdka0x0Zy1xSmtoZTR2U0lMbV9jSk5JRjd6UzB5eGJOZFljVmYtTERfU2pTRnFiczJfTTFybDFRUHFpWXZCd2VUZ0hZRjdiYlp3alVsYzJtQmg?oc=5"
+ },
+ {
+  "ngay": "2026-11-14",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 14/11: Giá quặng sắt giảm sâu",
+  "tomTat": "Giá thép hôm nay 14/11: Giá quặng sắt giảm sâu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Hangthat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Hangthat.vn",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnZaRWQ5aHlMS0I3Q0Z4SER3TTlYOUpIbTlGVVpMM2wybUFPNWVjRWV6QnNSRFlZUEo2cXdvd201RHZvR1hoTEFydklYaUNFV3pfV3BaY2lEdGhkSlNoU21MUDhzU21pa3M0RVUtblBZelphd0tYYlZYc3BRSzlkTWVWeFRmYy1oRzNfVlpFMTF3OWxYSV9OV0V6S2FqN3ZIZTBZ?oc=5"
  },
  {
   "ngay": "2026-11-14",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Thuonghieucongluan.com.vn",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelVDWjRXeVlTWUNWMERNSk5JcWJ6UEpqelJpRnkwR29XaHpHUDl1WnZ4SHBYZkM1OTk5UEtXX0stTzV2WHpRaGpHbi1PUHZUV0NEc0xwMGdCQ3VHczZOZ3U3X2ZQLUg3NGRMUURMVjRRN3BSYU1VNm5mYjVEQXVEX2pyNFNOSlB3TFNxZWRrUHNOTWt6ajRVMTZB?oc=5"
- },
- {
-  "ngay": "2026-11-05",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Miễn giấy phép xây dựng, giảm thủ tục cho dân",
-  "tomTat": "Miễn giấy phép xây dựng, giảm thủ tục cho dân. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ BÁO SÀI GÒN GIẢI PHÓNG.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "BÁO SÀI GÒN GIẢI PHÓNG",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2NHUWpxRmZaQm50bkNic1BxZklsYUhyTHcxS21scmlQSUduREZ3QWFpeFd2LVg5ZXpvMDdRd2xFSHRtV1p3dlNJVkI1aHZoVVpwSEplbzY1RTJGV0dmdmhKcTJIeVBoUFVyMmJkSXBqbnFBWDlhU2Y2bExkdUUtRGxONjVHdURwcHI5Yw?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Bản Tin Bất Động Sản ngày 03/11/2026: Quảng Ninh công bố giá bán 982 căn nhà ở xã hội",
-  "tomTat": "Bản Tin Bất Động Sản ngày 03/11/2026: Quảng Ninh công bố giá bán 982 căn nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Pháp Luật TV.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Pháp Luật TV",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOThaSHBJbFBqTFlZMm5jQncyWGRmaHhkTTRoUXBjQXBHQjVjaW1zTVNoVXZ3Tnh0cW11VW03ZFpERURhXzhLZ29rNjB3QW5sYi1ZcFRZemNoZmM0SXQ0SW03eW8zZnBVNjJqelN3SFUxXzA0NDBnZi1GeEJRUmlvdF9Qa29PSjdWbnQyR01JaXFNeXdoZnMtQ2Y4bHNvbmJyTmtqaXlxOVB1T2pwSm95SFNRcXlROHRsMTI3MVROQW4xYmkzVGVuV1NmQ2Z4ZTAxbzlyQ3l1N3NhMno0NVhN0gFiQVVfeXFMTm1HWmQ3WGg5dndfR3JoRFJxY2hFelNYa1RwZ002eTkwdVJFTDN0aDlaVEtINUlzZUZ3TkNMUDBOTlN5OVdxV3ZVMUJXWVBDaGZGbUE2TjRaMnVWMkttSGdCWEE?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Gỡ “nút thắt” nguồn vật liệu cho các dự án trọng điểm miền Trung",
-  "tomTat": "Gỡ “nút thắt” nguồn vật liệu cho các dự án trọng điểm miền Trung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHM2RTRTVUxlamZkR2VyZGZQeThuNkxPaGs2cEwzbGhTR0VxcEhfYUFMZmJTOEhLRG5PNHhmdjJrVHBKQl9wRmg3YkxHNC1KNVdFNjVJVXZ5SzVwc2ktR3kxemRBQzFpOGthSFNjWE5seFE2TVp4SHBxRFpCMVNQRXAtcV9yYVlzdXBDamhR?oc=5"
- },
- {
-  "ngay": "2026-11-04",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Sức mua thép xây dựng tăng gần 20%, thị trường ráo riết chuẩn bị cho cao điểm quý IV",
-  "tomTat": "Sức mua thép xây dựng tăng gần 20%, thị trường ráo riết chuẩn bị cho cao điểm quý IV. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmc5ZWhqR3Q4Ylh1aHdHYXpJOW9NRHdaOHdTZWpBNXQ2c2ZERHlBYndGcHNSTHBaM2R6UnV5VHJVUEc1cURIZmdwd3ZpRV9HbmkteHBQWUhSNkVoNXEwOEo5dFJVb09SOHlEX3pEN3FUVUVGbUF5UjZtZE5qYjdTbE1CWk5GUkUtRUtZT2QyaXpGSkRTX2NwcWFGM0hmd2FEaW9UR3NGSnIxMW94dGh2bW1zLXB0SHlBVUpDRnJBR3ZBMXM?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-15T10:02";
+window.TIN_CAP_NHAT = "2026-11-15T23:34";
