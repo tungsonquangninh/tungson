@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-16",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 16/11/2026: Giá quặng sắt chạm đáy 5 tuần, thị trường thép phân hóa",
+  "tomTat": "Giá thép hôm nay 16/11/2026: Giá quặng sắt chạm đáy 5 tuần, thị trường thép phân hóa. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0owaU1ZeWFiX2t2SWFYeVpiRjRlcEJhbmhnT0tTcVQxbUV4OV8tWldlWWIwb29wZFgwWGU2czB0a2dsVms1SWlnVFU3S2toaXpBMll4a05WWHI5YS1SMWdJcEducmEzLV9ubWVDVTljUTRiYTVzbDBhQWtqYlZuMmQ5Yy1WUXJnZnJOdDZkRFlTT3pGVTFlNUZiNllTYnZZdWdBOUZHUkgyeTlnb2tMOTdsbkZJNnNiRTRpbTJpRQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-16",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh: Đẩy nhanh tiến độ nhà ở xã hội và cho thuê",
+  "tomTat": "Quảng Ninh: Đẩy nhanh tiến độ nhà ở xã hội và cho thuê. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDNjMk84QXRFeUZFcld5S1lZdlV1YWxuX3dFUEN4TF9aVDcxVGl2T1o3SWlCeEdmZ0pXanU5blMwRW5YaVVuN3dvc1A1WVFEeDhxNlh3LTAxcEhZWjlfZU9qeDhfNHdoVnh4ZzdHdFNMcF8tUnJwSkR4TzBWNXFsZWNCeGJ2N3JUUFFKamV3OXE1bmFWcGJkRA?oc=5"
+ },
+ {
+  "ngay": "2026-11-15",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Hà Nội mạnh tay xử lý xe chở vật liệu xây dựng gây ô nhiễm môi trường",
+  "tomTat": "Hà Nội mạnh tay xử lý xe chở vật liệu xây dựng gây ô nhiễm môi trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTRmR1JuM1ItS2VrbjRnbmF1MloteG44ekRFLVBQRHgxdnlnSy1ZT2hpN3lDWHBlbTVHb2dUNzM3ZGNJckE1enQzMGwtanp0YXF1TERla0VQckgxaDRCWUc5NFpobWZIa0FabTNUamFYX3M4OUJUZzZHYXgwUTB4M2lwenJGeTJSQ0FHUGhJRXJkY0ZDOHVVd09zZEtOSTRsQ3V2d1FiZGlWeWx4OTl0Z1N3?oc=5"
+ },
+ {
   "ngay": "2026-11-15",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Khánh Hòa phân cấp cho Sở Xây dựng công bố giá vật liệu và chỉ số giá xây dựng",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "MoneyF",
   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONld4d0xnNVlFM1NVOEd1dlU1Y1FLS09GVkhKbkFxU3h1amZocXRSLVFCWkhoRGh5WTRpcmd0NkI3LTU1SUFBeUpjRTd2dUdwV1E4YVdIbEh2Y3dLV3ZHSV80Vkxlb1hJYVRpdS1zQnVJblVWR1N2d0dXZ2trQXlnbFcwRQ?oc=5"
- },
- {
-  "ngay": "2026-11-05",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "TPHCM đề xuất miễn giấy phép xây dựng, giảm thủ tục cho người dân",
-  "tomTat": "TPHCM đề xuất miễn giấy phép xây dựng, giảm thủ tục cho người dân. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VOH.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "VOH",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU5RRXdWZ3Vnckl0Y3Exa2tWbzRCWHZqRElEUzZUQUlLNDBkclpzX0VKYTh2RVlTY2ZmYi16UGw5UmxXNU5RQjVsMzZMd24wWUlWQ0tnU3k2UDhYNUU5MzVSSUNxZ3Q3SzZwM01td21zRjh6NU5IUzFpSXNmVEhBY1RCWkdkbHdlT21XdUNHRE1ReXdJOFdEbDhidWNLbEcyYldBUU9xak9yY0dVa2xfNnh2Q0s?oc=5"
- },
- {
-  "ngay": "2026-11-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Ổn định thị trường vật liệu xây dựng",
-  "tomTat": "Ổn định thị trường vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNFowMGxsYXk3aG5RVlZrRXYyamFIQWJpX2llaVJpX1JIT3hTX0RudGw3a1FoWk5EYVJVQmFVTVZYc0N6WERpUm1Mcy1rVkxlOWVjcUZ4OXBqRDZlN1UwRVRMUXpISDJwdGZz?oc=5"
- },
- {
-  "ngay": "2026-11-05",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 5/11: Quặng sắt lấy lại đà tăng",
-  "tomTat": "Giá thép hôm nay 5/11: Quặng sắt lấy lại đà tăng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelVDWjRXeVlTWUNWMERNSk5JcWJ6UEpqelJpRnkwR29XaHpHUDl1WnZ4SHBYZkM1OTk5UEtXX0stTzV2WHpRaGpHbi1PUHZUV0NEc0xwMGdCQ3VHczZOZ3U3X2ZQLUg3NGRMUURMVjRRN3BSYU1VNm5mYjVEQXVEX2pyNFNOSlB3TFNxZWRrUHNOTWt6ajRVMTZB?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-15T23:34";
+window.TIN_CAP_NHAT = "2026-11-16T10:04";
