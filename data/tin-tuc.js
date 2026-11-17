@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá xăng liên tục giảm, giá vật liệu xây dựng vẫn neo cao",
+  "tomTat": "Giá xăng liên tục giảm, giá vật liệu xây dựng vẫn neo cao. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Tiền Phong.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Tiền Phong",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQURhRTZDRFg2QTRTRVQtNUVYMG5Jblg2WnRPS1oyaDVTTjE1VzdZUEc3anIySW1PZUVleWJCYmF6S0NGVmZGb1BqX1lRRVpzRWhIemtQRi1oVUM3SG1vdkk2VVdsT3NycVBuWlVtdzhEamZ4TEhFQ0sxOHdMR2ZWYXlMQ05fSDhOWjNCN19KR1dkaWZER0x5ag?oc=5"
+ },
+ {
+  "ngay": "2026-11-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "EU áp thuế chống bán phá giá thép cán nguội Việt Nam ở mức 16%",
+  "tomTat": "EU áp thuế chống bán phá giá thép cán nguội Việt Nam ở mức 16%. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Tài chính Doanh nghiệp.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Tài chính Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0lycDctVG9BZS1IcUlmeXpwaUc5RzBMdWdMZDcyM1VWU1htTTdQa1MycVlXNHRqb3M5TWZNY2w3M2FhbDh1SGN4UHlBUGpKSDdmSHJxVHdVQi1wazR2SEhKcTJQOTQ4OElqWHBYV00xblhQOWhuRjFBNmthOTBlZ1k2d0VHcWVNN1BVS1gzU3NTbzZnWWRVeVZscFkyUHh1bEh6NGtoVkNLUkVx?oc=5"
+ },
+ {
+  "ngay": "2026-11-17",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Từ 26/8/2026, người xây nhà trên đất của mình vẫn có thể bị phạt tới 50 triệu đồng vì hành vi này",
+  "tomTat": "Từ 26/8/2026, người xây nhà trên đất của mình vẫn có thể bị phạt tới 50 triệu đồng vì hành vi này. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "CafeF",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbFZOeG01X3JkVlEyRG5udzhjNEtWWUh3T2ZLSnBKcXJvQ2VmZFdxa29vdW1lakQ4SkY4V2oyT1V6dVIzU1hsRUdaY0JIM0wwY3BiX0xyTDBnem9hZk1zNndVcGc0WVFaS05nNVYwMmZZUFFOdWJycG1lWkR4WHo3cS15OWlrSHNJem1DVlR6TkwyTjF3bUpXZF9zLWtrZTVJbG1GLTZNT3BUVnl4Nm5mSjJuYTYzTWNwWXI2bHhwdFdud25QXzRrZFpMTm12ZjVfY0E?oc=5"
+ },
+ {
   "ngay": "2026-11-16",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Huế tăng cường kiểm soát giá vật liệu xây dựng, xử lý hành vi găm hàng và đẩy giá",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Báo Quảng Ninh",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGN5a1JtSGF5VjhsSjJsa1ZRa1FoMng0M29HWUdjbTVLM3V4aTRpYTFkcDFIVzdjY183eDdhbGpnX1ZhX1VSYjRsS2pTQmE5TFVNZUV5cWNjOUlIWU5SQVlFZkh0ZEpqOERUMV80V2oycl93bW55ZUNRZFRmQTJIcGJ1MnVPRDJwRFdONmVXUjRULXFoRDhVWTZZLTdmNGxkbjYwbkNjc0dFLUNB?oc=5"
- },
- {
-  "ngay": "2026-11-06",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Tháo gỡ khó khăn trong khai thác khoáng sản làm vật liệu xây dựng",
-  "tomTat": "Tháo gỡ khó khăn trong khai thác khoáng sản làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFY3cXA5STl0NlJxSFFxQV9jWFlvX3lsN3JUWUFQTm5iOFFYTWt4YkFPT2NHTU1YRlZUNmRvZTgwYmdKRmRtQVRmR2JoVVFTODdUcGIxRFdodEx2UENhbXg2Zi0xQTBYd2pycjBrMktSTjFzZ051Y3N1OVNPVXd0UkROMWprdmo0S1hTZTBCQmdiUQ?oc=5"
- },
- {
-  "ngay": "2026-11-06",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 6/11: Quặng sắt bứt phá, xác lập mức cao mới trong tháng",
-  "tomTat": "Giá thép hôm nay 6/11: Quặng sắt bứt phá, xác lập mức cao mới trong tháng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Hangthat.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Hangthat.vn",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1QySTZhYTdJWEpuYXhlWUR3QjlRbF9QOEp0Rk91N0k0SDlBVlBUYUFDWFRLc05xY0x6N2R6OWhhUVFrYW10eURHNFB1LVhwRTFNLW1LdmRwRUhkSVdaTXd3bTVnMWhDWXBmemp6V1RCUldhMmNUSGd3bVliTHJDeGZadV9VRDBNdUlmMFBKUXBQVldmejh4ZmNqMjE4bkhHeGlvcHB5Z09jUWY3R3FWQmgxQ3NCU1dTSU55QmtOYlAwTzdTOVE?oc=5"
- },
- {
-  "ngay": "2026-11-06",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "8 nhóm công trình không cần giấy phép xây dựng: Duy có một thủ tục người dân cần đặc biệt lưu ý",
-  "tomTat": "8 nhóm công trình không cần giấy phép xây dựng: Duy có một thủ tục người dân cần đặc biệt lưu ý. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHB4eWxGbk45bzE4LVVzZHhobUlncnB2bWtxSVQwcVJpZzBucVk3QVVpcTVlSDlTWjRraVRXWFBfMmZtLWZ5ak1FNHJjdzNhSTBJRFcyS2V4OXlyTkZwcFk1RmJROElaeXJ3R3B4Z0N0eGxMalJ3QmVJcFdBVkdlQ3h0LVVsSUVVWWp1aHI1S3VJbFVKM211QVZmdEQyOEg0bGExYnk4SXBINTh0ODZLWWpDT2ZMa1hybFNwWkh0NmsyYU9RTm4yS1V3?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-17T02:51";
+window.TIN_CAP_NHAT = "2026-11-17T12:13";
