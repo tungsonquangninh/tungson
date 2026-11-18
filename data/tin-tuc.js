@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-18",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tăng tốc đầu tư công, ngành thép đóng góp tích cực vào tăng trưởng hai con số",
+  "tomTat": "Tăng tốc đầu tư công, ngành thép đóng góp tích cực vào tăng trưởng hai con số. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3ByTEJZeTVJcklOOF9Qb2t4OGhhMzVLMDlpRWpLcXBHMjhDQ2d5MWdqQzQ4Y1pxWG50OHRGYWhza3pLMlRndDRDYUFmOUZ6UHRDVkJpRm53N2lvNGdoV2lKRUFrM1R1VzNvcjZoeUtUamlYZ2JHZUIyTzNfSUVjWVc1Um5FaENZeEhNZjNKbk9oOGwzMmVFa25rOFI0Umho?oc=5"
+ },
+ {
+  "ngay": "2026-11-17",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Sắp đấu giá 7 mỏ vật liệu xây dựng tại Phú Thọ",
+  "tomTat": "Sắp đấu giá 7 mỏ vật liệu xây dựng tại Phú Thọ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3AtQUpkcEo1dnUzcDBtQmZLcUpCdWh2M3RsQmdaZnhpdnVEZWhBNVlHdmV5WmhaaU1BN0RaTVFaaVFKY2JNS180YkVRVG9wR1g4UThZWjRMYW8xZGRTYXgwalNxOHJSME5vUHRzR3ppdkdRRDZpckNIRk9yRWxFd1lQOWdUekpWZUE?oc=5"
+ },
+ {
   "ngay": "2026-11-17",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Từ ứng dụng công nghệ đến bài toán tự chủ sản xuất vật liệu mới",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "VietnamBiz",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzc3VTkyMi1YX21MWWJDRS1DdU1Va3FHVW1XRmI0Q0dBcjY0dzV0MVpXZEZ4X1dYUGdMZmtRekpmOHVYNTlsRHU4dml4UXVVazFFdW1YM3pGQWc4Ymxsc1ZodFVYMXlvaVJ2UGRpWTMydmxPM2thcjBvTUpaR3V5R1dvLVNfYnJpM0xzdEhpcnNEdGpHaFVFUlYyWDBfV3FmbUk4?oc=5"
- },
- {
-  "ngay": "2026-11-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu",
-  "tomTat": "Đưa vật liệu tái chế vào tiêu chí đánh giá hồ sơ dự thầu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh Truyền hình Hà Nội.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo và Phát thanh Truyền hình Hà Nội",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjhfbkNvRUlvWHhfZGs0QXQ4bzRvcENfMzljWkNFc3g0d05SNUQ4OU03Q002LVAwd0o1M1htZEQ2M2E5QXVpOFMwMlZMQ29fOXduMWpzU3JQSC1jRndZNUNYcDBMSk5GZWdYbk1mZEUyN0N5TmpyYTdZRTVxRW1UM3dVc2ZtR0FjSGlXeldtdEZWcktQNU96cnM3WUItY2VYVFdUQQ?oc=5"
- },
- {
-  "ngay": "2026-11-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 7/11/2026: Quặng sắt tếp tục tăng tuần thứ hai",
-  "tomTat": "Giá thép hôm nay 7/11/2026: Quặng sắt tếp tục tăng tuần thứ hai. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSU11LVlyVDl2aERtM3VTZ0tDcVZOTTdRcVdETUJuRXZ0TEpsb29rd2ZFaWREcjNRM1E5cjM3MHdnZDdCYkhIUjhnR211V0MtcWJndTRlY3NPZTVlZ3dKYWhVT0lybWxqTmU0ZlhlLW5udEtEN3RfcFBPLUE2SlhQdDhjR1M5YnZxLWdfNVFtUVhxM1d2R3hjb1hlOU1BdnVuRW1ueg?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-18T01:44";
+window.TIN_CAP_NHAT = "2026-11-18T11:41";
