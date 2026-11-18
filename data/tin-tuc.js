@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-18",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tuyên Quang sắp đấu giá quyền khai thác 8 khu vực có mỏ làm vật liệu xây dựng",
+  "tomTat": "Tuyên Quang sắp đấu giá quyền khai thác 8 khu vực có mỏ làm vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "dangcongsan.vn",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWW9NZXhobFR4R3BWalJxQS1ITDJ3SHFMRV9nN3F2a3dxUnNDeEVndmdZMXlGVXV3YXVwV2xRS0dvdTNqaEtySC1OU05DVlFYeFlxQVVmYldMRG8ya29lYnBRZ0pjMldxLVNjcnJWZHNETVNtV1A5S2UxTzZkMi02bmdfc0VaNV9rTmVDMktVVzI5bGFJTGdvSEJySTNWVFM1VVRrMnROVUk2empFVzdRSEZVekpXRTVzUF9sZ0tBTGVhc1I5ckMxNXpwaFlJNFBlQnBV?oc=5"
+ },
+ {
+  "ngay": "2026-11-18",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 18/11/2026: Thép thanh thủng mốc 3.000 NDT, quặng sắt giảm 5 phiên liên tiếp",
+  "tomTat": "Giá thép hôm nay 18/11/2026: Thép thanh thủng mốc 3.000 NDT, quặng sắt giảm 5 phiên liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNTJjb0xwN0VnQ0VYaDhvY3duYnpFbmhLak0xb0ZUZTlhUUxyLWF3cEk0ZkxmN0ZsQzFsNVM5Q05zM2liTWxENU9rMTlWTk9ZYlRhaThIUDhqUkFxTGFwNGVLYVRYelRWWFpTS0pwWGtIeE52UFJRaUhHM0VlWkRVUHZMSGk3UDR1MEM3NkF1TWpNR1YxQ2hoUVdaQ2JKWHZFZ3pXSmJ0Mk5OX195eTlSUE0xdzc5Nmx5YnZQMjJESjBFOGNqeFd4LWJR?oc=5"
+ },
+ {
+  "ngay": "2026-11-18",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Cuối năm 2026: Thời điểm thuận lợi chuẩn bị kế hoạch xây nhà năm 2027",
+  "tomTat": "Cuối năm 2026: Thời điểm thuận lợi chuẩn bị kế hoạch xây nhà năm 2027. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVG5ySjhFZzFRMTJtemMyWm5rckdrQWVSUFA1UGJLelFBa0k3VUdxRjk2VjZNYlhpdEpCY3g2WXFBYXo2RExGNWJlTFM1VkNwVWFKR2Jhdnd6dEwwcFZjS2lZbUZRLUpuVHA2VXdPYUU1VFVSZEc5Qm5SajdmTU1PNkYxbFNRNEFTeFAtT3Vua1p1YUo2cmc?oc=5"
+ },
+ {
+  "ngay": "2026-11-18",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Ngày 30/11/2026, đấu giá quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất tại phường Cao Xanh, thành phố Quảng Ninh",
+  "tomTat": "Ngày 30/11/2026, đấu giá quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất tại phường Cao Xanh, thành phố Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đấu thầu.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "Báo Đấu thầu",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObmZKZnhybEZLY3BDeTNPVHRHWFJ3bWhobmRBWEpkbzJ6WFlJT0Y5Y3N3UlY4ZmUtTS0xcEMxQTdyQkU2VTZ3V0RkZHR2M3VFc3NwanJyVjdJQ2lLZURrSzJCaGpmNlhJZzJMWjJCV2xzV2ZLMWw1cFJpM0RsOUxjS3BiQk5LU3k0WG5CX2F2NjNXejc5ZkE1NU9qcFJOektCYU1Bc01HUjloUEg5YWVXNmc5alpzdUZRMGlBZ1NfRWtPRm1yXzRtZS1WU1d0MmZlbkNGLWFBZll6alVOdV9sZVExQXJ6bl92Qlg1ekd3ZmpQUVUyNXpsbnpsSkI5a00?oc=5"
+ },
+ {
+  "ngay": "2026-11-18",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tăng tốc đầu tư công, ngành thép đóng góp tích cực vào tăng trưởng hai con số",
   "tomTat": "Tăng tốc đầu tư công, ngành thép đóng góp tích cực vào tăng trưởng hai con số. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWI0ZU5JczBpWjBzN1F2dVpfWndOSml4VFdsYXNSX093T25wUUNQZDhUbzNpb0VqdjZBVmxhalVfYnlIVEJ1WXByYkpLUjB2MkR1cG5OZkFQdS1TRDdDYlFUdVFNS2xmNUY5VmFvTmI5QXloeXF5NlcwTTRoemFieWVwbkpvd1JqT2JUbnc0azZmTTVydnZrRXMzTlBNQUd4bmRF?oc=5"
- },
- {
-  "ngay": "2026-11-08",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đẩy mạnh hiện diện và tung chiêu hút khách dịp cuối năm, hãng xe xây nhà máy 120.000 xe/năm ở Quảng Ninh quyết định tặng tiền xăng và 100% lệ phí trước bạ",
-  "tomTat": "Đẩy mạnh hiện diện và tung chiêu hút khách dịp cuối năm, hãng xe xây nhà máy 120.000 xe/năm ở Quảng Ninh quyết định tặng tiền xăng và 100% lệ phí trước bạ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "nguoiquansat.vn",
-  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY0M3NVF5MHNrbmo1MTBJa1NZUFNGN3RtQ3M1b2tBdHJJdkkwTi1CLWV4aW5SMkF3bW8xVC1UenB4aExTMEJTZVBzRF80NXdyTTVQOEU1ZGNacVJiSXRsSURlX2o5WnF1RVFhMzZtVkgyR2lEdGR5Um90RlJuWGtGM1BRekV2aVpCTzZNWXVsU2ZpakNNM0Njd0JqT2RkV3hQazY1cmRiLU1CenQwVjNBYlpseTh0a0dSZ2pUSjdwU0xIdjd6allVdndRQWpLUHhIWU5rVnB4MzFrUndYcWlsV1BSSlVaSWR2OW1ZUllNNnBJZlh0MHRJdTFFTzJxelYzY1RraVQ1WDBEdWZMWE1WWGF0SnZVbHM?oc=5"
- },
- {
-  "ngay": "2026-11-08",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Gia Lai chủ động nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm",
-  "tomTat": "Gia Lai chủ động nguồn vật liệu xây dựng, bảo đảm tiến độ các dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "dangcongsan.vn",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcld4aGR4dGpsbGREQnRzd0Jxamx5TWVZOUxqc3QyU1l2X3BEWVlaQkpOenUwMm56VTNkN3d1QURVeEhUVjFvUFQxaEo1RUhkTGhlYVA2WTU0VlJnQTZ0aVJCaHZjTExLemcxQ25YSVpJT21jX0JfOVJrOHg5TUZ3eW9RX3FIbVNxWEZsSEg5Z0NPWU9fQUhVZUZYQVRidjRPWXBVR0k3V3hUSXBSemJZNTgtM0RvaVF4SDQzR3VuVk84RWZSNFFVbnpNWXhmdWNYSV84?oc=5"
- },
- {
-  "ngay": "2026-11-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Đắk Lắk đẩy nhanh đấu giá 28 mỏ, bảo đảm nguồn cung vật liệu",
-  "tomTat": "Đắk Lắk đẩy nhanh đấu giá 28 mỏ, bảo đảm nguồn cung vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTFMM0xub1dPY0NUUDBwYjVTRW1wYzNPNHZHT0pPdDBISDVSWFYxbF9uYmNmZm1MZ2t5NnJ6anlMX3AyUXJaM0xKRUV2RTllQ1VrY0tIaVphQlhwVWtNaDdCQ29qRzV1cG5oS3VfSjA2ZTRGU282YWNiNnpaVTFFV0Q4dWw1RURPNkE?oc=5"
- },
- {
-  "ngay": "2026-11-07",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 7/11: Quặng sắt tăng tuần thứ hai liên tiếp",
-  "tomTat": "Giá thép hôm nay 7/11: Quặng sắt tăng tuần thứ hai liên tiếp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VietnamBiz.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "VietnamBiz",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzc3VTkyMi1YX21MWWJDRS1DdU1Va3FHVW1XRmI0Q0dBcjY0dzV0MVpXZEZ4X1dYUGdMZmtRekpmOHVYNTlsRHU4dml4UXVVazFFdW1YM3pGQWc4Ymxsc1ZodFVYMXlvaVJ2UGRpWTMydmxPM2thcjBvTUpaR3V5R1dvLVNfYnJpM0xzdEhpcnNEdGpHaFVFUlYyWDBfV3FmbUk4?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-18T11:41";
+window.TIN_CAP_NHAT = "2026-11-19T01:23";
