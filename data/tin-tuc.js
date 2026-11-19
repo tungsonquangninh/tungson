@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Khơi thông nguồn vật liệu, tạo đà tăng tốc các dự án hạ tầng giao thông",
+  "tomTat": "Khơi thông nguồn vật liệu, tạo đà tăng tốc các dự án hạ tầng giao thông. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Người xây dựng.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Người xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjVIZ0ZMSHlqaF91NzlhWnpYRi1kMzhUck5VcmwtelJPMFFWSF9LVWVoSzhWWWViOGZ5NU9aN3g4LXExVHJ3MXZqeHc5YnRDdkZ3LVlKalBQX1J0Qk53cVh1dzhwY3Jxal9NUmF2UjUyQ2FpMFN3bzludUdlb2xqNFoxb3NMYmxHVHBoVzZWelpzWnVKUzZFNXZLLVpOVEJPWnp3V21RZmRDV3NQamc?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 19/11/2026: Quặng sắt nhích tăng, HRC Mỹ và châu Âu giữ đà leo dốc",
+  "tomTat": "Giá thép hôm nay 19/11/2026: Quặng sắt nhích tăng, HRC Mỹ và châu Âu giữ đà leo dốc. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajJxRmp0Wk5wV0xBWWRKZFk5Y0JEeUg5X2NWTDg0Qk1NVXpjck9JN01rTTBqR2hwUzhyU2hXZ2JpWjhXdU1IMGROSWRtV09GOGtGSFE3UW5CNlJaTjQ4cDBEVnpYYno3d0N4eHJKUWFsTmdLY0tOdlYtY2R0TnF0QzVBQ0RTazk0QmNvSERIOUJ3R1lYX21wSjFqeks3ZUFwandZb2ItRWtwMEJkeDJ6SG9uMUh2eVJpTDM2TmN3?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "quang-ninh",
+  "tieuDe": "Quảng Ninh: Điều chỉnh quy hoạch khu đô thị hai bên đường dẫn cầu Bắc Luân II",
+  "tomTat": "Quảng Ninh: Điều chỉnh quy hoạch khu đô thị hai bên đường dẫn cầu Bắc Luân II. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ batdongsan.baoxaydung.vn.",
+  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
+  "nguon": "batdongsan.baoxaydung.vn",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVJBX2tfNGJKVmVRMmg3ZGhsVTZsWDN3VG96akttd3UtRHI4bGtuaWV0NmNsenFwbWp5VVZYZGlGZmJ4Rkd3aFh6UWVMOE9UWTJrV3kyeGpRNWd6amRYWDdBdFVxcGpfQUJhTjJKMHR0ajRvNzllSUcyRHZNNXdoeUg3SDRrNjM0ZzE5M1VCWEhpOEc4Mi1NczRHdGRLYm84SVhmSlR1Vll3c0YtMzB2cURiazNBYnJIelloMWYyckYtTTFfdTItckJvZw?oc=5"
+ },
+ {
   "ngay": "2026-11-18",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tuyên Quang sắp đấu giá quyền khai thác 8 khu vực có mỏ làm vật liệu xây dựng",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczhRVzRkUUpMTDRvWjRXN1VkUmFCRW5NS05hYzNrT0FNT0t3dkQ0cUcyczB4RTZobWJGU3JnMEIwU0M1dnBobmhWSnVqeEh5TU9hVURCU21zWjhmOXZQeUNveFgzaHlpOExUMGJyNXVFOVV2R3I4QnI5akg1U0JUbXZDMlJlcEpadkEwOVRhTjF5T1hFMjJEUTVFR1JvYXZt?oc=5"
- },
- {
-  "ngay": "2026-11-09",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bộ Công Thương khởi xướng điều tra chống bán phá giá thép nhập khẩu từ Trung Quốc, Indonesia",
-  "tomTat": "Bộ Công Thương khởi xướng điều tra chống bán phá giá thép nhập khẩu từ Trung Quốc, Indonesia. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Dân Việt",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0lKVnl4LUtRcXBINXEzcEVlSXpoWk1Wa1BaSVRQRWRiSW1aMHdKbzl3ZHI2SkgwXzZDajBBY1ZkSW9lNU1UdFlObFlyMmhXd1hUWUFGMFRzWEI4eFk2QUFiUDF0MFdkbVRYbUJNak9GSmkza3VBV0tpR01QZ2RKMDdaNUU5M2Zmd0NHSnlJeDh0blJFeVVkb2JHbE9zdE03enE4Sm9CTWNqVmR4OGFKbEhvZURLMmVTQXB4MnlOUm9rUQ?oc=5"
- },
- {
-  "ngay": "2026-11-09",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu",
-  "tomTat": "Không để các dự án chậm tiến độ do thiếu nguồn cung vật liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "thiennhienmoitruong.vn",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0ZfQ2Y3Z1JTanE1MnE4a1AwQ2JpNGJSWWd5ZE1pX2pYSHd4QlU3cDdzZE9MSVl2ZnJkSVFMNFJjVWd0Wl8yRThpUHBXR0ZFc0Z6bTFORHdmdEpWYUx1MVF5eHozMU15aFBkczQyQmpFWXo5S0JaaGVaZ0t1RUZ5bWJyT0ZQRzJ0bUR6c3d0ck9CNlFyeEE0LXlZZlQ?oc=5"
- },
- {
-  "ngay": "2026-11-09",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 9/11/2026: Thép thành phẩm Trung Quốc bứt phá",
-  "tomTat": "Giá thép hôm nay 9/11/2026: Thép thành phẩm Trung Quốc bứt phá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWI0ZU5JczBpWjBzN1F2dVpfWndOSml4VFdsYXNSX093T25wUUNQZDhUbzNpb0VqdjZBVmxhalVfYnlIVEJ1WXByYkpLUjB2MkR1cG5OZkFQdS1TRDdDYlFUdVFNS2xmNUY5VmFvTmI5QXloeXF5NlcwTTRoemFieWVwbkpvd1JqT2JUbnc0azZmTTVydnZrRXMzTlBNQUd4bmRF?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-19T01:23";
+window.TIN_CAP_NHAT = "2026-11-19T11:29";
