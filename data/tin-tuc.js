@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-19",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "‘Ông cai’, nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng",
+  "tomTat": "‘Ông cai’, nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Tuổi Trẻ.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Tuổi Trẻ",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDF2Rm85QTc4M0twXzZiaE5qRGtPM3JfUHBxVnJCbjRiSDdDTGRjNUthSGlxVU16ak9jbUdydi1Ob3FFN2pYRHJuRU9BMExLSm9ib0pIU29wVXVpeE5CMDFGMVdtaU9hVTRieWp2NXJIbXh5aVRSbTgtTWVlSmFaVzhOMUVSdzJUejNHdTIzMExDSi10RDdNOXJ4SEpzSlZRZUZUVTN1S2gyeGVJWG5yNGkyek15QQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ngành thép trong cuộc đua giữ thị phần và bảo toàn lợi nhuận",
+  "tomTat": "Ngành thép trong cuộc đua giữ thị phần và bảo toàn lợi nhuận. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ cafeland.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "cafeland.vn",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObm5jV3VLY1NPSU1vMk1YSXlvNWlzbEVfYy1LUFY0eTgwYnF4OWdZNnVuMzA0WjVEd1R1MEJELTBuako4UzRJYWpZRVQzUGhtMEJBa1BDZUxRX1FLUjI4cTVPVDgtcWRQNmtWZ1hmTk41NWZkNFFleEs4eWluTDIzZDltbEdzdEY3Zmd5ZjZKczI1clh3Q0FtY0NsRldvSlRXR2pTNQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hải Phòng siết chặt quản lý xây dựng nhà ở tại các khu tái định cư",
+  "tomTat": "Hải Phòng siết chặt quản lý xây dựng nhà ở tại các khu tái định cư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Hải Phòng.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Hải Phòng",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGMtS0VQTEpmeE9XbkVCSUR0dWhDaHhhUHZjRVNrSkRFTmg0eVp2MHFld094OTFSVGlBZGNQMHlMVE4yNURWZXZwck1GSEJyUmJmMVgtdmE1TEhhbWhZSHhUbUotNy0tWTdDWE5XSm85N0pDVmppekFCaEt4RjRzQWxLS1lIQU1hSDVLUHRoSnQ4c3VCbGdCRVN4dTk4SWpRTWpv?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Khơi thông nguồn vật liệu, tạo đà tăng tốc các dự án hạ tầng giao thông",
   "tomTat": "Khơi thông nguồn vật liệu, tạo đà tăng tốc các dự án hạ tầng giao thông. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Người xây dựng.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Dak Lak 24h",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWlSLURLelNBSWVNVlVsS25aVkRHRlJLbWFqODQ2djg1REJKMTJraENFaVl6TWhXSzFmNkVtZFJ3Tk1JT2VqVHpXbW92WmtDaERORnV5UE1GUGhySWNPMWdfR0pQbUhDdTMyVHlPSmh4ZDhYajE5SHpuWGVya1laOW1mNl9MQ2JqcUtBZjE5TzU4RVdzMkkwdTYwdGg2OFlyMUhwbzlrUjhQVWlDaWc2WHQ2YnVSNzJGWE8tdGNsdExlWmc?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 10/11/2026: Quặng sắt và thép quốc tế đồng loạt hạ nhiệt",
-  "tomTat": "Giá thép hôm nay 10/11/2026: Quặng sắt và thép quốc tế đồng loạt hạ nhiệt. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGY1ak04UllfMklsSk5MVFJpSXZwWDRBbDEtY3VuTk1KSzRacm14dWo1ZDhWMDQzVEpIazdsaWoxUTFDRUY2d3gtVkJKT2s0OE90RlExM3RhTUZzUzByV1dOZ0pGMTh4dm9yZV8yWjdXSzZ5M3drZ2o3aHFDOVk5cEZ5bWFEQzNEUDJWV2hBeWdFb0VQOXJ0c3FfRUdpUFQwWXk2b1VPdnBEOElsXzhwd193?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh sắp tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội",
-  "tomTat": "Quảng Ninh sắp tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0JIYUp2cjRMTG9lTWV5ZmoxSnRmN2pPYXZFNHBiZTFmcHJQX0tsdEE5TFRiREdZR3dCbjNWSVAwM1I4Z0hFLUJRalN5aWdCakU2RlZ0S0F5N29MUk8xRndVajR5cmEzRVpJeHA0MV92MEdRX0pGOFhjMS1KN3JtNkRtOWg0TlJXWlNyYVRXZk9qdnowSjVVWjAwY0U?oc=5"
- },
- {
-  "ngay": "2026-11-09",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lâm Đồng: Không để găm hàng, đội giá vật liệu xây dựng, ảnh hưởng tiến độ dự án",
-  "tomTat": "Lâm Đồng: Không để găm hàng, đội giá vật liệu xây dựng, ảnh hưởng tiến độ dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczhRVzRkUUpMTDRvWjRXN1VkUmFCRW5NS05hYzNrT0FNT0t3dkQ0cUcyczB4RTZobWJGU3JnMEIwU0M1dnBobmhWSnVqeEh5TU9hVURCU21zWjhmOXZQeUNveFgzaHlpOExUMGJyNXVFOVV2R3I4QnI5akg1U0JUbXZDMlJlcEpadkEwOVRhTjF5T1hFMjJEUTVFR1JvYXZt?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-19T11:29";
+window.TIN_CAP_NHAT = "2026-11-20T01:39";
