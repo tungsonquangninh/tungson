@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-20",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gỡ điểm nghẽn vật liệu để tăng tốc thi công hạ tầng giao thông",
+  "tomTat": "Gỡ điểm nghẽn vật liệu để tăng tốc thi công hạ tầng giao thông. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Công Luận.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Báo Công Luận",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRU51eHVLOW5TdXdVNDIzMzB2OXNEa0RpY1FiQzE4TGpKWHJDb3hWcHlwd0FjQjNLUXA1U1JoTmJibDRBdGdIV0Q1alBwYlQ4WkhpZC15Q2h0QUdDUTI3eTFHZUVBNjNQZHh2MEZhMkt4ZVpEVElKbXF1Tjlmd1ZhLUxkUTE4SURMRHpnSTloMVB1VjNhd2VBdWY3U2h4WnM?oc=5"
+ },
+ {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 20/11: Diễn biến trái chiều trên thị trường nguyên liệu",
+  "tomTat": "Giá thép hôm nay 20/11: Diễn biến trái chiều trên thị trường nguyên liệu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYm0zRU9VS1RiMDh5SThxLVA2MVA4N3BzbExWSTBvNkRyaUZZQVBoZU80N25uSnpYUnNvN3ZMTlB5S244VU1FNjE5aW1TTnBXZFZ6a1VrNVdzY3ZHZXcybThMTmI1VkdJOVRjdzN1bmZrcWpJdDg5a0E0XzhMT3ItQWkyLS1KMmR5TS1mMnhOTWZ5VVhRNERvcEN0SzJrOFlGRGw1RWo1WWhDRG9TY1BDNGtoRUd5eUI0dEE?oc=5"
+ },
+ {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "3 màu tóc hot trend có thể tự nhuộm tại nhà: Nâu cacao, đen tự nhiên và mật ong",
+  "tomTat": "3 màu tóc hot trend có thể tự nhuộm tại nhà: Nâu cacao, đen tự nhiên và mật ong. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
+  "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
+  "nguon": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3ZaNm9zeGx5cWZXV3RhT0wtSnR5ZUllWFlkNkhkcHpOY2Z4OHVqMHBNRmRFaE5WRUcyZzJaQlNJUEpQblBnUW1EZ2hCZldmTUhyc1BjdDFEZHVIbEJMWFpITkM2WF9UemliaHlKdm9CNmpOaGwtTmFvaENzcEgzcmpiNFdnMmowSTY3eHFwLU5GODZudGV0NzZTX0JEQmhySGc?oc=5"
+ },
+ {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "DIỄN ĐÀN DOANH NGHIỆP SỐ 93: Giải bài toán vật liệu xây dựng",
   "tomTat": "DIỄN ĐÀN DOANH NGHIỆP SỐ 93: Giải bài toán vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Diễn đàn Doanh nghiệp.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -26,6 +53,15 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Tạp chí Điện tử Luật sư Việt Nam",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmdad0V4MU15ZHQzZnE0QmVYdzNZSndfbV9iTk5yUEtxODM5bGtKclp5UXdjRUk1RUE5eDA3cE52SUI1MDUwamlnR0hnYWltWUlUTWFFNnpxWnBhZ1pfclNFUEhPV3JVdFR5SkxpYlNHa1gzdVdLRzFYQmdQWUVuSVhhUkdUX2xVMlNOamFhREE1aE9QN0dwUXp0RkY?oc=5"
+ },
+ {
+  "ngay": "2026-11-19",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bộ Xây dựng: Không được loại trừ diện tích ban công khi tính mật độ xây dựng nhà ở riêng lẻ",
+  "tomTat": "Bộ Xây dựng: Không được loại trừ diện tích ban công khi tính mật độ xây dựng nhà ở riêng lẻ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ LuatVietnam.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "LuatVietnam",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcV9CQ3dyQzk2WXR2NlFSQlVuencxSTZpRWsweU03QXNvYXBWR0paY21jcDN2STdoTnVHV2NaU3lsRjZhNGNlY0pxTDV5N2pqLS0tNFRPSGdDMUFkNjBOMXhDUEFuNEY4U3E2eXhMaDZSRUpEU203V0haRWRSNElUeG5qTGxVU3lwX1JUUmxXYm9WVExXWVY4RnQwbFJXMFF1R3BjTVhjV0t0X0hDYkZOcU1XYVR0a2NCYlI0NzRHNlBDM2ZZcEo1VDVEbS1Xcmdmdk5JWlc2MWRHamFOekUxcG9oVHVwXzBI?oc=5"
  },
  {
   "ngay": "2026-11-19",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Tạp chí Tài chính Doanh nghiệp",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzFJZW5tNEFHWUhOU0FGbTZIY2lFXzFzSnUtYmVLWGlrQ2lFYjhQWUFJSnRCdldJaUdpRHZiQXZMNGxiZkhRVGJhRG95X3BxMlFVMEpiRXZ6Vk1vSWpvTGV0NlJzWWI3MmdDUlFXbGpEU3NmVG9nYl9sRGxRaEFlcDFGQkxOX0xFRUVuU1BpaGJfR29IUVRJ?oc=5"
- },
- {
-  "ngay": "2026-11-11",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đất có quy hoạch ở phường Mạo Khê, TP Quảng Ninh",
-  "tomTat": "Đất có quy hoạch ở phường Mạo Khê, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX09GN24tZ0pGTTBfQzJzUDVWSFVKb2VaSExmaG1aZktMLVZSLXB3dlQzdjR5akxXaVI2Qm9XemttR3Q3dVBlX3ZpUDE0WENXZDlJQ0pSRWR4UWdOaHdXczhnQmMtOFZtRW9uZGtQSE9rVGxobmNyam9EWERrS0dQU0doajc2RUdwU09jQzN2RDhQVzRS?oc=5"
- },
- {
-  "ngay": "2026-11-11",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
-  "tomTat": "Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nhịp sống kinh doanh.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Nhịp sống kinh doanh",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1BaVjNqYmxHY0ZRVm42MTRUaXdoaVp2SHZMMVhzYXRWNUNvcTNvRjE0SERSWUt4eVpFa2dzVnNmTUNnWmxoV3lRYnNvanlIWnJiUzBKUDhzaXEya053QXlacExKazR2d3kxR2gtWktvYXVNcWRCT050cU1mTkdfSHhZY2JkLVJuVTRSYVhDdmktUDhJc2lEWkJMMFdlZ2JGUVlVRw?oc=5"
- },
- {
-  "ngay": "2026-11-11",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 11/11/2026: Giằng co nhẹ, quặng sắt nhập khẩu chạm đáy",
-  "tomTat": "Giá thép hôm nay 11/11/2026: Giằng co nhẹ, quặng sắt nhập khẩu chạm đáy. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlzX2ZJbEJaLUtNT1JJTGN6MF9LeUFyTU9STjRzekwxUlNIODBSZjFFZjBOcDlOU2dkRlpPSXZNRG04c0h4VF9Cd1FHNWtNRXRoUkVsTHlma3lCa2ZjaFVieU5vbjY2dlBnN2hQUlMxelE3eWlyN21uUUF3aTd3NzVhbE9ZcDAxTmRTSUxPZ21GaTNBVkp0ZFVqVEMwZFZVWVFOMWtGUmN1WU1pSmc?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bộ Xây dựng: Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm",
-  "tomTat": "Bộ Xây dựng: Giá vật liệu xây dựng có xu hướng tăng trong các tháng cuối năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Nhịp sống thị trường.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Nhịp sống thị trường",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhmZTJ5SnpjYlFmRG1FdnFtcUZLdzlsUnU1Z1NaNVJ6aXVrbTZuV2I1bEZ1WXpGWVBNUmFfX1VwTUJ2RVVZcFF1OVVOV0U3a0NJckQ1Rk5jWmNxZzdUbWQ2YjZ1aWJ2LW1LUkY5cG9vdTdVbTU5emtWWGRXVDJGTnljcVllQy1WR1lWM0d4SEhXeExaem11cm1HQ1plSk0?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-20T11:15";
+window.TIN_CAP_NHAT = "2026-11-21T01:00";
