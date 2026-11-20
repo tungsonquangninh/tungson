@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "DIỄN ĐÀN DOANH NGHIỆP SỐ 93: Giải bài toán vật liệu xây dựng",
+  "tomTat": "DIỄN ĐÀN DOANH NGHIỆP SỐ 93: Giải bài toán vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Diễn đàn Doanh nghiệp.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Diễn đàn Doanh nghiệp",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGItYUwtUUxObmhRQjRUZ1BDWkp2NGk4ODJXT2ZMZTlSMDBXRGJMT0dxUnhYNmRuZG9wNTRSZ2R6LUFZYi1scGtqU2pSbWRfU2hBeHhwOFFnbnhUZndrcFZjMjJSRFU4a2txTWRlTDZ2Y2hXdldxRjlTd2M3bWdxRVFTd182b2dNQlotYWsxZWMyQXZRM1BQaU9xNWdNYlpkXzhkeFFn?oc=5"
+ },
+ {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tỷ giá tăng, ngành thép biến động ra sao?",
+  "tomTat": "Tỷ giá tăng, ngành thép biến động ra sao?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Kinh tế chứng khoán Việt Nam.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Tạp chí Kinh tế chứng khoán Việt Nam",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tc09zWEF3X3QzMy1abFhFX1NlM1hRMEh2TmxsR09FNElqOXJGY3J1MXotVnVVZzhaZnRsclY3bEpEMEZWVGt6RGgzYlhoc2ZQSGpwcWVNay05X040ZWhSRnFLdGJtUmRjSE4wa3BZV1N2UE9iUnc?oc=5"
+ },
+ {
+  "ngay": "2026-11-20",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Hải Phòng tăng cường quản lý xây dựng nhà ở tại các khu tái định cư",
+  "tomTat": "Hải Phòng tăng cường quản lý xây dựng nhà ở tại các khu tái định cư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Điện tử Luật sư Việt Nam.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Tạp chí Điện tử Luật sư Việt Nam",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmdad0V4MU15ZHQzZnE0QmVYdzNZSndfbV9iTk5yUEtxODM5bGtKclp5UXdjRUk1RUE5eDA3cE52SUI1MDUwamlnR0hnYWltWUlUTWFFNnpxWnBhZ1pfclNFUEhPV3JVdFR5SkxpYlNHa1gzdVdLRzFYQmdQWUVuSVhhUkdUX2xVMlNOamFhREE1aE9QN0dwUXp0RkY?oc=5"
+ },
+ {
   "ngay": "2026-11-19",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "‘Ông cai’, nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Tạp chí Nhịp sống thị trường",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhmZTJ5SnpjYlFmRG1FdnFtcUZLdzlsUnU1Z1NaNVJ6aXVrbTZuV2I1bEZ1WXpGWVBNUmFfX1VwTUJ2RVVZcFF1OVVOV0U3a0NJckQ1Rk5jWmNxZzdUbWQ2YjZ1aWJ2LW1LUkY5cG9vdTdVbTU5emtWWGRXVDJGTnljcVllQy1WR1lWM0d4SEhXeExaem11cm1HQ1plSk0?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 10/11: Giá thép thanh và quặng sắt đồng loạt giảm",
-  "tomTat": "Giá thép hôm nay 10/11: Giá thép thanh và quặng sắt đồng loạt giảm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Thuonghieucongluan.com.vn",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORThrblZvOU1Ma215YnVDZmZaZWxLZWVwVUtIR3BWSlVoeUxUMFhyTDctVWhyeGFsTlYwckI3VmxNWWwyTjU4dFFEeFhuUWFrdnIwcGpkMzVnTkFEbTh1c3Q2TVZPSE5mREJPYzR2Ykp3ZGhnUUlieFNfby0xS3ZNVVFCR0FXY1dPWWFHYVM0eURhT0NWMkhsSllQQ2ZsLWVsenU2R2phdUxFODZhMzRBVnBn?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Công bố thông tin về giá vật liệu xây dựng thời điểm tháng 10/2026 trên địa bàn thành phố Quảng Ninh",
-  "tomTat": "Công bố thông tin về giá vật liệu xây dựng thời điểm tháng 10/2026 trên địa bàn thành phố Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Cổng thông tin điện tử Tỉnh Quảng Ninh.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Cổng thông tin điện tử Tỉnh Quảng Ninh",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUpqZDBNWnRWNlk4cGp2Y0x5WEtITHQ3YkJndS1FTGpydURNTUN1eHI5UXllQjhBSnFxYlhNcGhTVm9xbHpxY1B4eVVpT0p1NmtfYTlnSHdIMzYzcEJieTB6T2dGRG5FRFZyN0dEQlpxYWY1bWIya0Uwa2k2WHFiZA?oc=5"
- },
- {
-  "ngay": "2026-11-10",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Phó Chủ tịch UBND tỉnh Đào Mỹ kiểm tra nguồn cung vật liệu xây dựng thông thường",
-  "tomTat": "Phó Chủ tịch UBND tỉnh Đào Mỹ kiểm tra nguồn cung vật liệu xây dựng thông thường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Dak Lak 24h.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Dak Lak 24h",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWlSLURLelNBSWVNVlVsS25aVkRHRlJLbWFqODQ2djg1REJKMTJraENFaVl6TWhXSzFmNkVtZFJ3Tk1JT2VqVHpXbW92WmtDaERORnV5UE1GUGhySWNPMWdfR0pQbUhDdTMyVHlPSmh4ZDhYajE5SHpuWGVya1laOW1mNl9MQ2JqcUtBZjE5TzU4RVdzMkkwdTYwdGg2OFlyMUhwbzlrUjhQVWlDaWc2WHQ2YnVSNzJGWE8tdGNsdExlWmc?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-20T01:39";
+window.TIN_CAP_NHAT = "2026-11-20T11:15";
