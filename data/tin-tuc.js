@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-21",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Dựng bến cát trên mỏ vật liệu xây dựng chưa đấu giá ở Lâm Đồng",
+  "tomTat": "Dựng bến cát trên mỏ vật liệu xây dựng chưa đấu giá ở Lâm Đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ tin.skydoor.net.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "tin.skydoor.net",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0RyX0xUSlU3blpoQ19vb294d0ZkckpvS2RyenN4aUR3SXVCSE1GdzRERy1oeF93LThVRUxIYkpualA1R2o3ZHZZRGRKVGlhaE12a3NCVXdlX21kUW00QnNpcHFibG9WX3JDWXlON0tRYXlnbFJnMGNPa3B5Y01WZGkxaDFqdlktOEtxUGFuek1IdkctRmpOek1VNWgwenBiRHlmbA?oc=5"
+ },
+ {
+  "ngay": "2026-11-21",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép ngày 21/11: Giá quặng sắt tăng nhờ kỳ vọng dự trữ",
+  "tomTat": "Giá thép ngày 21/11: Giá quặng sắt tăng nhờ kỳ vọng dự trữ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUxOemw3bk1LeGpBMWRON093dFVsaXpJcjduSW1ncVFHdlh5eXpWNzRnV1BpekFYODVLemJCQ09sVVdpRGZBWXJiMXJlMzlXVW1CZzcwS3BOVk1fdkZWWWVaS3ctb2xJRURQc1l5WkdkTmItM3FNdXotd0drLVczWHlRRWU1VG5mZGRVbWtYSmNfaTdoQ2RUVmllcTdZN0JoaTJJNko3bw?oc=5"
+ },
+ {
+  "ngay": "2026-11-21",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Xuất khẩu sắt thép 10 tháng 2026 đạt gần 7 tỉ USD",
   "tomTat": "Xuất khẩu sắt thép 10 tháng 2026 đạt gần 7 tỉ USD. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp & Kinh tế xanh.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
   "nguon": "CafeF",
   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMDZ2Ni02U042WE14MTJtSjJJY1F0elFnQ2FrU0YySzlXSWZBcGM1MW51UjRLNUJnY3FDd0syczVKX1BTX3BrM1RpSE1tN2NfckxtMnRCZElTTW5tbmJIRlpWQkhtT1RlT2V2cVZ1MVFUZjY0Q09ESHpiUmpSb0NiZXZMUVZOZTZhdzRyWXhqUjI0bDJXNkZKejUxbU11MWZMbU1xbVRFOGIyRHFwYmt0WFFDN3NWamVyS1phQzNUMWFsTERpXy1obVpidDVoZnZCdEIxTWdPbU43WFlSTmRhb1VPUmxCVUtfUDdhcU5Ydy1ZUXNfWDZxQW5YVG8?oc=5"
- },
- {
-  "ngay": "2026-11-12",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "5 xu hướng nội thất dự báo lên ngôi năm 2027 cho nhà đẹp, ấm cúng",
-  "tomTat": "5 xu hướng nội thất dự báo lên ngôi năm 2027 cho nhà đẹp, ấm cúng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWE1rdmNSOU1lSElHM1ZFTEIxQzdkeUVLZ2I1Z0x5T2RodU1iczJnVE40Ymxsdlp6c0VzUzdTUHFqVllDa0s2NXNvX045eFAyZW00aF96c0dEUmNwOFJWMW5aTkx1aVJ4UTNHQUVvX2lCX052QlBZT1lJN0tHUEZ3S3BIWGMzaWVKMWdHdE0zUkk?oc=5"
- },
- {
-  "ngay": "2026-11-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường",
-  "tomTat": "Giá thép hôm nay 12/11/2026: Xuất khẩu giảm nhẹ hỗ trợ thị trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2FWUWFOT3lsRmhBR01vdXJNRHJtT3YwWi1TajM0cHZyX0Nwai1ZaEc1OGxuaVlaRXNHSlYzR3RJMkk0bFR1d3NRR2tsZnVsVGYtOGtTelhyV25FR2ROUnB2UmRfVWtLX0JFN0J3OVFiR1RfMGg4ME5GTHNraFVDeVdBMkhmZXZjTy1OSEFwQkhZUmhaTy1XNHBhM1dMaE5TSGZkbWw3OA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-21T11:15";
+window.TIN_CAP_NHAT = "2026-11-21T23:56";
