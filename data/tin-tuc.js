@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-22",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Lào Cai thuộc nhóm địa phương tự cân đối nguồn vật liệu xây dựng thông thường",
+  "tomTat": "Lào Cai thuộc nhóm địa phương tự cân đối nguồn vật liệu xây dựng thông thường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Lào Cai điện tử.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Lào Cai điện tử",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEE2SF8zclI4bXJMTTM0aDVMNjlTVXpCSHlialI0bjhKMzdvSC1JOW9LWEhLN3UwSVkwYW54bWwwLXJhM0F0R0VSSHdLb1FDSEFMYjdHR2ljWUFTMm42QWRKaEdQNkF0UUZBbmtndVNvcUpEM2VPeDNNWENQdmVmNkhReVhVRWNJTWxJRmRUR2xwdlIzUVNsSVpQYW9qaXp6Yld1bnRNTUQ2UnBQT2dMWEJSOTY?oc=5"
+ },
+ {
+  "ngay": "2026-11-22",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Công nhân đổ bê tông, gia công cốt thép, lắp dựng ván khuôn có được nghỉ hưu sớm?",
+  "tomTat": "Công nhân đổ bê tông, gia công cốt thép, lắp dựng ván khuôn có được nghỉ hưu sớm?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Chuyển động Thị trường.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Chuyển động Thị trường",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0VYRzFBaFRVVmc3cGdKeDIwM2JtdHZ3M0Uxc2QtOTBUQVBjVVpiNXhtRDJLMkxqUEN6eTEyYXU1ams3VHN0MXMxMWxGcVVXZ1E1VDd2ai10SUVCQjdqdlVpS01McHhVbVltd1VoeEEyOEh6TjJHYVlVdzF6RnZBR0FHSkRTbEk4TXNISjZlZnlnUDAzbHlLZ2FpdE4teVZ3cXpjdVFMd2Y4UnhCTlE1dGtvMXE4dDRLUHdnb0JB?oc=5"
+ },
+ {
+  "ngay": "2026-11-22",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Không để thiếu đá vật liệu xây dựng",
   "tomTat": "Không để thiếu đá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDBrR3RrWlVwMDNFS0d1dWlvaG5EVkVfRnZhZEJvTVRqOVhxSVlTN0pIZFZHcGJPVy1UXzJ6RDJydnpfekhXSHhTYVVzR0FCWUNtTWZoWUZlS01HRXpzRkdRX0k0Mk5EOFRyQy1QaFh3dllJOE5FT0Z4TVpCbDZ2OWpfWWdtXzZwRGQzOXl6OUE0Rm9fbE94UkV3UTBlcVFjcmx0bUhvSXM?oc=5"
- },
- {
-  "ngay": "2026-11-13",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Khánh thành dự án Nhà máy Lite-On Quảng Ninh giai đoạn 1",
-  "tomTat": "Khánh thành dự án Nhà máy Lite-On Quảng Ninh giai đoạn 1. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZ3ZWak1Wai1aQzZtVFZ3al9CbG1Ec3JicVBhWlZzT2ZnNVI3ZTlpeTFIc0xCRjlQN2pQdWI1cWhhN2hMVnRwcS10YXBxQkF0czF4eHp4ZWpxbW5RbXJHYnhOZDF1Y1dlZFVPb3hZU1ZtQnJDM1IzN3NLclRGNGNzSG9oUkFPX1hZeV9MbG05R0xZckUyYW5rT3ZPbUJRZUdqV3R4VndCUFdUaEpQVXpyYzJQUXhabnZPQUNwNEhReTZBYUtoczFQZkR0YWVQTnVsRm1mS2pRM1dqelZQMktTT1FEU05JZ1J2ZVpYTjd5N3h5NzNCUmllaHNjRDZxdlR2NDMtbnRIQlVDQWc2YlA2Z0dsai1BbjllMERkZFVGVG1xcTBBbC1nS1RzaGhGQVZUWmFObW5KSXU?oc=5"
- },
- {
-  "ngay": "2026-11-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Rà soát nguồn cung vật liệu xây dựng, đáp ứng nhu cầu các dự án",
-  "tomTat": "Rà soát nguồn cung vật liệu xây dựng, đáp ứng nhu cầu các dự án. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkR3R1ZsV3lWWU0tenlQZ1dLQ084T0k4S3BXYUZTQ2J4Y3pmTzhPMVI1My1kLUpObEg2U0F2RWNJa1BXS2xSdFNGbi1HbGpDb2cwSVRGdk5uVkNCa1Vac0wybHhGQ3NIb25ySm54UUFsS1pHZE12ZjdZdHpOVF9OelpXSVBSVHEyMHB0OVlR?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-22T10:28";
+window.TIN_CAP_NHAT = "2026-11-23T00:22";
