@@ -1,6 +1,24 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-22",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Không để thiếu đá vật liệu xây dựng",
+  "tomTat": "Không để thiếu đá vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Baolangson.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Baolangson.vn",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHVfUi00X1dtWWFSaURPd0x6bURtSFFDWFNhSnRxbDAyOGdKVDUyc3NHM1JqVXQ1SFlCb2xwM3htc01TM0pOUkZMeGs3UnBudFZsSC02ekpvOFE0U05EMFJqUHRxWTZ6cklOTVBTWmU5LTNDc2NaYXZqWmdLcDAzdThZeFZVM2hrUGdPNXJOLTdaSE0?oc=5"
+ },
+ {
+  "ngay": "2026-11-21",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 21/11/2026: Thép tuần qua giảm chung cả tuần, hồi phục nhẹ phiên cuối",
+  "tomTat": "Giá thép hôm nay 21/11/2026: Thép tuần qua giảm chung cả tuần, hồi phục nhẹ phiên cuối. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDRzNmNQVlRYZkdMVUQ2WE52NnZCOWxTY1VjOF9qWU1vN29DcnhabzJMYnpqQWdoWlAyNjJMRVd6TXBKaWJFQkV2b1JueDhvSDRpWTBIVmR4U0E3WjlsTXpRVFpPVFp2SGhBMms0SzNMUWxIRnJ4Nmhad05waDdBYVptUVlnazdSNDBIbFdJZXMwZXEzeXNSbG1GN2EwU0RJWlRPZ2RCMDhxR2ZVV1hPdzdTNmR2YlpVSnVzWXZqclJFdw?oc=5"
+ },
+ {
   "ngay": "2026-11-21",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Dựng bến cát trên mỏ vật liệu xây dựng chưa đấu giá ở Lâm Đồng",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
   "nguon": "Vietnam.vn",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkR3R1ZsV3lWWU0tenlQZ1dLQ084T0k4S3BXYUZTQ2J4Y3pmTzhPMVI1My1kLUpObEg2U0F2RWNJa1BXS2xSdFNGbi1HbGpDb2cwSVRGdk5uVkNCa1Vac0wybHhGQ3NIb25ySm54UUFsS1pHZE12ZjdZdHpOVF9OelpXSVBSVHEyMHB0OVlR?oc=5"
- },
- {
-  "ngay": "2026-11-12",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Vinasteel đầu tư dây chuyền sản xuất thép công suất 800.000 tấn/năm",
-  "tomTat": "Vinasteel đầu tư dây chuyền sản xuất thép công suất 800.000 tấn/năm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo VietNamNet.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo VietNamNet",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnphcUpmcGJmWENXTjFOT1V6eE9EV29SSkhqUjFYOG8yRXdOZlJpcXczZEl6MzFuX0h5elpENTQ1TlNnLU5fNHo3VktnMEZEa0ViWXB3MURBRW1CZUVhNXdDMWdEeVY0YnZxYmx0bEF2SDMwMEpnc3E2SDI0SzFMTFNnN1hoN29EZGROemlLNU1OVnR6WVc3U05IVnFBbWx0Y2R3WA?oc=5"
- },
- {
-  "ngay": "2026-11-12",
-  "chuyenMuc": "thi-truong-son",
-  "tieuDe": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo loại sơn phản xạ 97% ánh nắng, thu gần 400 ml nước từ không khí mỗi ngày",
-  "tomTat": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: tạo loại sơn phản xạ 97% ánh nắng, thu gần 400 ml nước từ không khí mỗi ngày. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMDZ2Ni02U042WE14MTJtSjJJY1F0elFnQ2FrU0YySzlXSWZBcGM1MW51UjRLNUJnY3FDd0syczVKX1BTX3BrM1RpSE1tN2NfckxtMnRCZElTTW5tbmJIRlpWQkhtT1RlT2V2cVZ1MVFUZjY0Q09ESHpiUmpSb0NiZXZMUVZOZTZhdzRyWXhqUjI0bDJXNkZKejUxbU11MWZMbU1xbVRFOGIyRHFwYmt0WFFDN3NWamVyS1phQzNUMWFsTERpXy1obVpidDVoZnZCdEIxTWdPbU43WFlSTmRhb1VPUmxCVUtfUDdhcU5Ydy1ZUXNfWDZxQW5YVG8?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-21T23:56";
+window.TIN_CAP_NHAT = "2026-11-22T10:28";
