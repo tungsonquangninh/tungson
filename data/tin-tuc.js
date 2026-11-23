@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-23",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Bắc Ninh: Đổi mới công nghệ, mở hướng phát triển vật liệu xây dựng xanh",
+  "tomTat": "Bắc Ninh: Đổi mới công nghệ, mở hướng phát triển vật liệu xây dựng xanh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp & Kinh tế xanh.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp & Kinh tế xanh",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2NEWmdseWd5NW02NU82QkF6dTRtQmZaMXU5OC1ZZkF3UnpnLWp3UDM2Zjg0dUNGZ085Ym43VUhpZmtDMkJGZjFuTGxhZGRUemI4dC00SlNibTdFdDVEMXFhSTM1LXV2a2hFaVBuemlseFh0NU43ZkYyN0ptZmJlbDUyNUQxX0l4TTJGamRGRlJ3cHl3c19aVERhcUdkMGtndGw0OTg2NFFiN0Y0MndWWFZyREk?oc=5"
+ },
+ {
+  "ngay": "2026-11-23",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 23/11/2026: Thép thanh nhích tăng, quặng sắt chịu áp lực",
+  "tomTat": "Giá thép hôm nay 23/11/2026: Thép thanh nhích tăng, quặng sắt chịu áp lực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3ZZUTNIUVR1enRZamMwczMxcEVUMnZwRVJnR01HTVk5TklXWlhSNDFtbHVMQ2t5LWtHLW9MeDd5QzFMZzlUMnM1dEtjRmZ6WDUyZDVRbUhTWWVSOTgyWkdmOUxTclVJam1ib1JoQ2I5VkQtX0J2RTFkbkpDSERieVROS0xCZVVkWFFud1k0TVVMeTdCZFI0M1NuWWFzbW16cklKZlR5MXhQdDFmVW9CUw?oc=5"
+ },
+ {
+  "ngay": "2026-11-22",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Đất trúng đấu thầu từ năm 1994, chưa xây nhà có được cấp sổ đỏ?",
+  "tomTat": "Đất trúng đấu thầu từ năm 1994, chưa xây nhà có được cấp sổ đỏ?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUtLcUVoX3hxTFZMNXBGamhwUF81OWFuTm5wNkViR084NGFjSHBSNV9LOHRyUnlzdEk1Tmk5bnUyMkx4cUVGal9yaEx2YlFnNFFLamJ6ZUZ1LWtuUHExT2F2dTZzMzRwWGlJMkNSQlVIaGZ6bjlmV2llcVVIQm1LNGE0MjE1M0RTM0NiS3VPdHZVbzZ0Z1VGSFhXNmlQUQ?oc=5"
+ },
+ {
   "ngay": "2026-11-22",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Lào Cai thuộc nhóm địa phương tự cân đối nguồn vật liệu xây dựng thông thường",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Muốn hợp xu hướng mà không lỗi mốt: dùng tông trung tính ấm làm nền và chỉ chọn 1 mảng tường làm điểm nhấn.",
   "nguon": "Báo Đà Nẵng",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDFFdnFWSjVvNHRjZWtOWlR0bEVraFBCVkFYcHhIVWlMckV4RzFKNkY2MEpNSnNNOUc3dUkxS0xpZk9OSkcyNGt2TkVoNVRUcEd1a1RrZVZNajdJaFg0SnpVbXU5Z01kU0RGOFBtRnJ2aF9mdW42VXNmRXBJS3JGWnliMEhUUk10cGFUYkVvYWRqOXROc0tiRzZDWWJEb0ta?oc=5"
- },
- {
-  "ngay": "2026-11-13",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh: Tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội tại Đông Mai",
-  "tomTat": "Quảng Ninh: Tiếp nhận hồ sơ thuê 420 căn nhà ở xã hội tại Đông Mai. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGNnbXI4TDFEdGw4OWNRc3JUOVlneDRyNXlHeVVndVd0eGdqRzhHa1cxVlRaSjRxaGNQZkpjbzBuTDBhX3lDbHM4NHlOQ0FJdXFtUk1YNGk2VEV2ekZnN2V5NnNiTkNoSGdJUjcyNkszdzh5Qi1vcVgydnlKSVJxMnVUeWMwcUxPRVNCSHFtUzJkZw?oc=5"
- },
- {
-  "ngay": "2026-11-13",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm",
-  "tomTat": "Bảo đảm nguồn cung vật liệu, phục vụ các công trình, dự án trọng điểm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ thiennhienmoitruong.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "thiennhienmoitruong.vn",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVNXRlJ5ZHpfVC15UDU0SEswcnVXTlY5aVRUaDJBOVVnRVg3emo5S3JzVHQ1OUpqSlh3Mms2QjFSODFqRmVsb0czSkN2OGlIdEdFM21DMnVCYzJXLWljb2w5MzB2T0MwVk1WQ3lwS2x0ZXZQM2lNUDh4MjhyMXVVWFJxeWJ0SWtlSkRvbVZpQzRZdHFXMFMtaEZQSDhSVEJkS19xZHln?oc=5"
- },
- {
-  "ngay": "2026-11-13",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 13/11/2026: Quặng sắt xuống đáy 2 tuần vì dư cung",
-  "tomTat": "Giá thép hôm nay 13/11/2026: Quặng sắt xuống đáy 2 tuần vì dư cung. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDBrR3RrWlVwMDNFS0d1dWlvaG5EVkVfRnZhZEJvTVRqOVhxSVlTN0pIZFZHcGJPVy1UXzJ6RDJydnpfekhXSHhTYVVzR0FCWUNtTWZoWUZlS01HRXpzRkdRX0k0Mk5EOFRyQy1QaFh3dllJOE5FT0Z4TVpCbDZ2OWpfWWdtXzZwRGQzOXl6OUE0Rm9fbE94UkV3UTBlcVFjcmx0bUhvSXM?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-23T00:22";
+window.TIN_CAP_NHAT = "2026-11-23T10:58";
