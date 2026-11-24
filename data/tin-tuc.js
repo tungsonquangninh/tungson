@@ -3,6 +3,24 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-24",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Tiếp tục rà soát các mỏ vật liệu xây dựng",
+  "tomTat": "Tiếp tục rà soát các mỏ vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VTV.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "VTV.vn",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGZ0ZGpzeFl4bm94QTdWdWZfRHdRNXc2eVFRRFhKTVFiTm56a3BwTHBxN1Qwc1hualZTWE45U0l4Nzd2NktlMUROdFVGRUEyN0hnbHhqWnJKY2Z1TUZsNkZudk5fREJpaWlHeU5tdUlZWFV4NTBUaEZFSVRiTlB5bkVHa1E3QQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-24",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 24/11: Giá thép thanh giảm",
+  "tomTat": "Giá thép hôm nay 24/11: Giá thép thanh giảm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWh6OHFaeERaTzdhcnFRYnBtcHBnc2c1UzhWRFFwT3d4ZGhES2w5SVFXMGczYzNuQktqUVgxMDE0VzU3WmFjWS1NYUxtRmNjVmRhMWdkUlNobXY5czRoZ3o3ZGJUczF5aThkeEFKaWNEODlOMUEtUWdPeXhTUUdEQXNOTUttMXlkdGJoaHBIaE56VkU?oc=5"
+ },
+ {
+  "ngay": "2026-11-24",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Chính thức thông xe cây cầu vòm thép 1.300 tỷ tại tỉnh hẹp nhất cả nước",
   "tomTat": "Chính thức thông xe cây cầu vòm thép 1.300 tỷ tại tỉnh hẹp nhất cả nước. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -521,24 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Laodong.vn",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnlYTFU0aW5hUVFSaW9ZZ2h6dy1EWU9rTWcyVk80a1dxNGhaN2ptNTFSWEVub0pLTFBmTEEwR0VuWmZtUWkxWXl2cGkwMWhYaDM5cVZudVBwVUF2Sl93TEFTMzQ0WDd6dkMyMkpFVktHb1dIck9lSUFtQ2JGU0p3YXA5a3JhR2dOTDVEdmc1TDZTYUQxSHd5MXFkLThyalVMUG1nX2ZrZ3h3VngtVXVRcw?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "VCBS: Giá thép Việt Nam kỳ vọng tăng, quặng sắt tiếp tục chịu áp lực giảm trong quý IV",
-  "tomTat": "VCBS: Giá thép Việt Nam kỳ vọng tăng, quặng sắt tiếp tục chịu áp lực giảm trong quý IV. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh nghiệp Cuộc sống.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Doanh nghiệp Cuộc sống",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG53VkRKelpYZ3psZ2JQMG9IdlBqQ1E4OS1PRXhSNWhtQ0FDOU5GUEFmUS03VkRlSlJvWVV3NHZnLWdnd0hsR1kyMF9RWnlQVkxBNDJHOXJGd1AxTVdlcl9WQlhlTjJhb2NRbll2QlBSdmJ6TjlNZ2NuX19Fek04WmpGeHNWblhwejk2U1hBY0NqZ3VKUUJKX1RWVTNxQktKVlZaRWhqTElCOEdTV1daYWhUeXZyTTA0OEVvbFFFOFdhYzZFS09V?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Dự trù 1,5 tỷ, xây xong gần 2 tỷ: Làm sao tránh đội vốn khi xây nhà?",
-  "tomTat": "Dự trù 1,5 tỷ, xây xong gần 2 tỷ: Làm sao tránh đội vốn khi xây nhà?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "Báo Xây dựng",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSndHX1ZXckliVFhENXRpdFl0Z3FFWHJKMzN6S1dkLUYtemNVYXlTSmVkTml6X1ZBYm9FZ1phbm41dS1kcmFINFhPNlBRdjJRX20tVzNBV1hqa1pTdWh1cVpSWVpTZFdTSS1DTWszQ0lqdnVWNk8wczVXMWhsV1pSQnNNWDQ5V0hTYTBScnF1MWFxVGlqWkJrSmRMT0gxNm43N2FNNG5lZlRzYkF3REE?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-24T14:05";
+window.TIN_CAP_NHAT = "2026-11-25T03:20";
