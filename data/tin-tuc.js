@@ -2,12 +2,39 @@
 window.TIN_TUC = [
  {
   "ngay": "2026-11-24",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Chính thức thông xe cây cầu vòm thép 1.300 tỷ tại tỉnh hẹp nhất cả nước",
+  "tomTat": "Chính thức thông xe cây cầu vòm thép 1.300 tỷ tại tỉnh hẹp nhất cả nước. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU05JQWhZbmtrbHEtT0VOMDJyVFd1WFhOVE54RHkzb2JEc1FwNjVldjZKak9KSVVZY1ZxN29peXk1ek9vaUQ4eWFpb0l6a2V2UWM2ZS1oU21Gejh5VllIbWdiOUU2S3JSRFNJNS1YcFhSWmQ1ZG9XQ2tZSnJlVW9TRjVoaVZpb3dVQlZ6RkhLTWZRZi1xZlFkektNTWtuN25VZ01fOXh3V1c0OW8?oc=5"
+ },
+ {
+  "ngay": "2026-11-24",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Từ 30/11, áp dụng quy định mới về giấy phép xây dựng có thời hạn",
+  "tomTat": "Từ 30/11, áp dụng quy định mới về giấy phép xây dựng có thời hạn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh, Truyền hình Quảng Ngãi.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo và Phát thanh, Truyền hình Quảng Ngãi",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkIxR0NQOEhVX1k1dHpydjQ2TVFyWmxxN0FZZ0FWcTYza1hKSVZ0UVlMbXYxRURTNkluaklNd3d0NUx6MzhWblBYLVhWZXBkczJHaTk2a2d4TVVGSTl1dFMtMk9tUGpoUExZWnJ6MWxDWHVra19sVk8yYTFzOGtORW9mX0tvdzd0RXJRN2J4QThNTkp3eVd6WDdZTC1PVi1N?oc=5"
+ },
+ {
+  "ngay": "2026-11-24",
   "chuyenMuc": "phap-ly",
   "tieuDe": "Hải Phòng siết quản lý xây nhà ở tại các khu tái định cư",
   "tomTat": "Hải Phòng siết quản lý xây nhà ở tại các khu tái định cư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Diễn đàn Doanh nghiệp.",
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Tạp chí Diễn đàn Doanh nghiệp",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEMtRkwzRnVON3U4Zi1WQzNJeVlLSlVmMm5BZzVMTFVVaGhIblFFNm9ISDVwaC1qUWlyNlZmcEh0LWtWbGdnYUYzZDc0LTBDV2xfejRVaUoyZGxjWFpIR0ZvWmJkYkhpanRhd3RMNDdWR294OURkdTAtRk5rLUlsWndDcFUtSGg3MUtZcjd0dTkzSmxrZm1pNUdEeEN6dXduWkE?oc=5"
+ },
+ {
+  "ngay": "2026-11-23",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Chính phủ chỉ đạo điều phối nguồn vật liệu cho 4 dự án khoảng 100.000 tỷ đồng do Bộ Quốc phòng làm chủ đầu tư",
+  "tomTat": "Chính phủ chỉ đạo điều phối nguồn vật liệu cho 4 dự án khoảng 100.000 tỷ đồng do Bộ Quốc phòng làm chủ đầu tư. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc3ZESEthV04yNnhuc18tSkFGQXJ3REN4LVY2Sl9EdktrajFUTDJYSm80NjAwdXJqX2NhVE1OV0tYa0Q0bENIUnFmaHNrbTNHM1prMHplVnAxcmFnQVBjNThCWjhQNEJDVHNFelAzY1AyOGZYWTJ1ckloOGdMb2lhTVZfVEhwSy0zTGJZZ3BGLTZ5UV9QTWM1WHJhaW5xeVhxZWNCQm44UzlNc2pTNXg1dzFGUXRtUGNXRVZXdFcydWNqQ2lYdEo1LVVoQnpOV0dzb0hETGlfYUtVQUxLM1E?oc=5"
  },
  {
   "ngay": "2026-11-23",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
   "nguon": "Báo Xây dựng",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSndHX1ZXckliVFhENXRpdFl0Z3FFWHJKMzN6S1dkLUYtemNVYXlTSmVkTml6X1ZBYm9FZ1phbm41dS1kcmFINFhPNlBRdjJRX20tVzNBV1hqa1pTdWh1cVpSWVpTZFdTSS1DTWszQ0lqdnVWNk8wczVXMWhsV1pSQnNNWDQ5V0hTYTBScnF1MWFxVGlqWkJrSmRMT0gxNm43N2FNNG5lZlRzYkF3REE?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá",
-  "tomTat": "Lạng Sơn tăng cường quản lý vật liệu xây dựng, bảo đảm nguồn cung và ổn định giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Nhân Dân điện tử.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Báo Nhân Dân điện tử",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjU5Q0U4MGEwaVlvckhiM3Q5VVZsZzl2Zm9xU3oybkVBWVotTGd1cGI0T2pCWGQxQUxQd2E1alRITDQzdGxuZERHSXBpRnR2TUxmc054MHl5MXVvOWpSX1NWbDR3YVBlcm8xS1dJNFE3VWZvTzJLeS1WSjVZUGQ3QjdxQkd0ZkRBNHROMFZocE4yV21pNlhqZlBtRkRINUh4c19HLVFKaHJmaVl3NDhLWl9nckZtQQ?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Xây 'lá chắn thép' nơi phên dậu",
-  "tomTat": "Xây 'lá chắn thép' nơi phên dậu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Vietnam.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NdkN6VE5wLWNhUDZpVTRSZWQ0Nmk2a3N2SF9OeWJHM0tOVzNuTGlfY0RGOV9GenJwNDRRZFRSc0VnQjRwMS1VM0RjaEl5Mi03UjZsTzVFTDgteDZSRUJUUk1B?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh có hơn 18.500 căn nhà ở xã hội đang triển khai, dự án 1.128 căn sắp nhận hồ sơ",
-  "tomTat": "Quảng Ninh có hơn 18.500 căn nhà ở xã hội đang triển khai, dự án 1.128 căn sắp nhận hồ sơ. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzFJUmo1SllZSzBTRTBDc2FmWUFVU051RWJoS3dRSVNGS1REQUJxSnNmejdiS0ZvMDNKSFBvcVZOejI5WHhwcDFNX3AtYVZOcHYwaGdpbXVRVVVUU3ZXNjBjQVVpanhFYl9RUm5FdFVRcG9LbzVzemJFX3gzakNoMkUySEF4SmF5WkFMaGl4YjJtaTFCd0xzcE12bTJyUkpGNmFqNkdkM29YdFNwWnZWQTZlaGJZUnhGTzdzaV9idXl3Q0Vz?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-24T04:39";
+window.TIN_CAP_NHAT = "2026-11-24T14:05";
