@@ -3,6 +3,33 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-25",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "UBND tỉnh cho ý kiến vào chính sách hỗ trợ phát triển cụm Công nghiệp và quy chế xây dựng, công bố thông tin giá vật liệu xây dựng trên địa bàn tỉnh",
+  "tomTat": "UBND tỉnh cho ý kiến vào chính sách hỗ trợ phát triển cụm Công nghiệp và quy chế xây dựng, công bố thông tin giá vật liệu xây dựng trên địa bàn tỉnh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Nghệ An 24h.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Nghệ An 24h",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbDR6SmVuLS04N2pSdUp3Zy1yblV1NnVjeFlydzZUOUZJQmNIeUxIU05uLUE0dmwxaVg4TXB6YkkySGYyNW1HU1IzaEpDZnh5Zi1KVnRYVmNPMWYxekthUnpZUFhmQzBRZngwLWFzS2loN3h2bWxwdGYyQmR6TzlnU2dVY29rSWh3VnY4WkJxbWpGNHprV01nSi1JSDNiZkItY1U5NGt0REdmc1ZiSjJUdUhJX1JBZHZhWElPREtTVWlxdnB0bW9KTnUtNUhzckg4Wkk4aGZtUHhVcktTdl83cTJkR29fczkzZnNmN1dFVFRxMWhqVzRCcnFta09rZUFMSGl6N1o2QUpmWmgxRHc?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "'Miếng bánh' 4-5 triệu tấn thép cao cấp tại Việt Nam bị Nhật - Hàn chiếm 40% thị phần: Hòa Phát mở đường giành lại sân nhà",
+  "tomTat": "'Miếng bánh' 4-5 triệu tấn thép cao cấp tại Việt Nam bị Nhật - Hàn chiếm 40% thị phần: Hòa Phát mở đường giành lại sân nhà. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX3dtRE5GNzlKNGlpNVdvb2VsTFNNVHhPMGg3T21vQzFpZWotcmxjSW5kTUd0U01uNE5SSC1FQTJqUHdWc2hxc2FQOVdxWUpOTFNsbUpXTWFYY1BsckJqNWluNDFNV1dta0hvR1pnY2QxamQ5Y042bWJIWDUzVlNuQkgyYnplWDE4Slp5UTRLVzgzZERoOW5SSnU5T0JlUjl4M2tELU95LVpwcTNfdTMwOUxOc3F6RlJ2VlJnSmdHUkhiUW5tbkhtRjhoem4xQlVxclNvUFJ1SGxlY1JWV2hwX3FGY2hJa1U?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TP.HCM: Từ 30/11 miễn giấy phép xây dựng cho nhà ở riêng lẻ, trạm sạc, tủ đổi pin",
+  "tomTat": "TP.HCM: Từ 30/11 miễn giấy phép xây dựng cho nhà ở riêng lẻ, trạm sạc, tủ đổi pin. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ baodautu.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "baodautu",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0UtckNqaGpwQVBNakE1M09yakhURUdTU2F5RC1fa0xvdTY2SjRreFFDTDMtMGt2eEM2ZHlwWTJxQm91YmFOOGNHVEF1c3huSUgzTlBta0Y1c3R4MDFFRnlKd0NqMHJPVUR4MDNxWXFDVnFQYUtYU3RDVXYzTjRqVnFIRUw0b0hQdnY3amF4cmxyQzhWdDBONTN5c3JyTkFYa2phZWJ0dlYxdkNObHc?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Gia Lai khởi công nhà máy chế biến xà bần, phế thải thành vật liệu xây dựng",
   "tomTat": "Gia Lai khởi công nhà máy chế biến xà bần, phế thải thành vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
   "nguon": "Laodong.vn",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ21ZMXBuX0VySUhKTnlhUFh6QXBaTGd5MWRmTXRzVmNOWjgzSzBoNDc2S25CNzBUZ1ZVT3RWUjJLTS04VGpEZGlNbmdYaWpMUVJGUVlOenRic1VSck1JWW1UdWxuRmVYLTI2SEU5YnpWeUMwUmR4UWpOSE1fQ2tUbE9sUFFqdkhiMC1VVUVXLUFvN2s0U0E0ZWJWbGN0amhQNlMtMTRNTXAxSVVrZ3pKOWx5ZmViRi1QYlNGM1RUNHV2N1YxUFVpd2tzNVdac29fVVE?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Hà Nội mạnh tay xử lý xe chở vật liệu xây dựng gây ô nhiễm môi trường",
-  "tomTat": "Hà Nội mạnh tay xử lý xe chở vật liệu xây dựng gây ô nhiễm môi trường. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTRmR1JuM1ItS2VrbjRnbmF1MloteG44ekRFLVBQRHgxdnlnSy1ZT2hpN3lDWHBlbTVHb2dUNzM3ZGNJckE1enQzMGwtanp0YXF1TERla0VQckgxaDRCWUc5NFpobWZIa0FabTNUamFYX3M4OUJUZzZHYXgwUTB4M2lwenJGeTJSQ0FHUGhJRXJkY0ZDOHVVd09zZEtOSTRsQ3V2d1FiZGlWeWx4OTl0Z1N3?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Khánh Hòa phân cấp cho Sở Xây dựng công bố giá vật liệu và chỉ số giá xây dựng",
-  "tomTat": "Khánh Hòa phân cấp cho Sở Xây dựng công bố giá vật liệu và chỉ số giá xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Khánh Hòa.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Khánh Hòa",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFc2clVMek9scU9yejBGQmItODZDXzJKdTQ0NDhJNDdnTjJfTldFZjZUTTBrZmRjc3ZSQldrNTVGWmdwZVJtRExYbFNZbFFfQUZzck5teUZyaWZvNThFVV9feTJ6SXNIX1VpZVNMdzlyVlo4MEw2ZFVwd0tET3hlS2ozb21EamlWak5zcGJwc3pudnBobEIyMmtiY2d0NGlPUDc2SjJvR2RLcXgzLUhsOHNEOExxWEFoUy1iSEVEalJ2UQ?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Sắc màu văn hóa Dao lan tỏa giữa không gian Di tích Nhà tù Sơn La",
-  "tomTat": "Sắc màu văn hóa Dao lan tỏa giữa không gian Di tích Nhà tù Sơn La. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Văn Hóa.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "Báo Văn Hóa",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzFGRW5LY3RoTHhjVEZuTmlxMm9MMDVkSjY0WVV6YVRybGw0akhIUVdVbE9icUtlanhNRXY5R0YwdGp0dnF0TTViakNzS0tOY3ZGRWFBTHJSSjlta085Z1RmQUtmNld6ck1zLUNGWGl4SzNsTW5oV3ZwTVlXRXJySlQ3TzZwLWpsMXBuamdYUGVJc3hpT1E?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-25T12:39";
+window.TIN_CAP_NHAT = "2026-11-26T02:34";
