@@ -1,6 +1,51 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Gia Lai khởi công nhà máy chế biến xà bần, phế thải thành vật liệu xây dựng",
+  "tomTat": "Gia Lai khởi công nhà máy chế biến xà bần, phế thải thành vật liệu xây dựng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Laodong.vn",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFZUSUN1YjlyeUtvdVE1cXpOWWV5ZGNhRnZFQ1pGdVloM2tPVU1FM21SZDFxeFJtbUhqYnhpdlJMMDU0WXRIenFQejFTdThESWQ5VmVfbmg4VG9HeWlPRVBHRXBnb3pxTTc5ZVg2QUd3Z2hJRkhkWEJFRUJXMld2VUFUY0FjX2pEMkJvUXBJa0JrUm9tYVpNYmxjUXFHUDZWcGNSNHdHM2otUjVURXJyYXQ0VEFHWHc?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Giá thép hôm nay 25/11: Quặng sắt vươn lên vùng giá cao sau nhiều phiên biến động",
+  "tomTat": "Giá thép hôm nay 25/11: Quặng sắt vươn lên vùng giá cao sau nhiều phiên biến động. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Thuonghieucongluan.com.vn.",
+  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
+  "nguon": "Thuonghieucongluan.com.vn",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGJHc2FqNFBLYlJDVHE3bF9wM1NLbnJjVlRwQ0o4ZWlPN0FxTjM4TXg4dTk3aFluVWZnZURPQnQ3QlpzX2g4ekVrNm83bmhibDVaNHJKUkY0SXFjcGM4RGVpYnhmLVNmUVpsSzBMT3lIb1pTeVdlaXhEUDAxU2dWaDN5dTFHMlJYNUpSYVVOcjhZZWxsZktIb19zNXZxODJQWVJuelNmc1ZmZnk4cG5USE5KYU1qLVR4Q185Z2tZTF9FbFZ0bHc?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "thi-truong-son",
+  "tieuDe": "Nghiên cứu sản xuất sơn nước từ chế phẩm màu thu nhận bằng phụ phẩm nông nghiệp",
+  "tomTat": "Nghiên cứu sản xuất sơn nước từ chế phẩm màu thu nhận bằng phụ phẩm nông nghiệp. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Phụ nữ Mới.",
+  "gocNhin": "Mua sơn nên kiểm tra tem, mã QR và mua qua đơn vị có địa chỉ rõ ràng để tránh hàng kém chất lượng.",
+  "nguon": "Phụ nữ Mới",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazZDZHRKckZGMDNScHA2empiUmVFdHpYZXlrWUdpS2NldFlkd2tEakYyalZzSzRfX256X1VoZGY2UmpWU0JBZjlkZGR3b1lYU1lla0ktcC1GOG16Y1JmSURyY3RJVkJNU3pJMU9PcF9aODgtNmdUc0txb0ZFUmptTW9nUEFyTzlHOE5fdUJvZnVBcUsxQWJvbmF1SWd5NUhlZ3ZONURxU1FCRzVrcC0wdWVzWGNCNmc?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Từ ngày 30/11, áp dụng quy định mới về giấy phép xây dựng có thời hạn",
+  "tomTat": "Từ ngày 30/11, áp dụng quy định mới về giấy phép xây dựng có thời hạn. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo và Phát thanh, Truyền hình Quảng Ngãi.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo và Phát thanh, Truyền hình Quảng Ngãi",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjJZVTM1NmxiRzlfSnhWUUtWb045LWxFaEFMUmNkTGdUaEhsTW94MGxzdHkzNi1KdnIxb2Vha19fVldEVlNNZFFJQlJjaF96OHhlbTE0eXZEbXRsbld2Z2ZvRnFidHN6WXg5bGNtdnFUcTVWb2pPbTR1UkhlUHJSdTRaT2Z6TGxIOFFRZl90bzJoN2RIMXozOFg2N0UwazVrV3EwNVdpaw?oc=5"
+ },
+ {
+  "ngay": "2026-11-25",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "IKEA chọn Wild Fig làm màu sắc của năm 2027: Sắc tím mận trầm mở ra xu hướng nội thất đề cao cá tính",
+  "tomTat": "IKEA chọn Wild Fig làm màu sắc của năm 2027: Sắc tím mận trầm mở ra xu hướng nội thất đề cao cá tính. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Advertising Vietnam.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "Advertising Vietnam",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWllWHpvdHFzU2dXMTVHbmNmVVR0RzF6dm9OdFUyeVRhek54VFpvQXpNRHBVMHlTam9FaE5Na2pJYlViZDdsMGt4b21CUjBfNW5aY2gwRVp1eDJVUzVwUEZMOFpuNjg1OHNNbDlieW56TXlJc1ExTWZYTTg0eVgwUkRIdThGajVSdEg4R09uZUtJV3RYU19vV3dxRWVsLVhfQUV4Z1dVNTg2dC1lX25nUXVtWk0wRXFjY0p0UWtrbFVJZmlxeDJwVGM4aFBLLTVFMmQ2VA?oc=5"
+ },
+ {
   "ngay": "2026-11-24",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "Tiếp tục rà soát các mỏ vật liệu xây dựng",
@@ -494,51 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
   "nguon": "Báo Văn Hóa",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzFGRW5LY3RoTHhjVEZuTmlxMm9MMDVkSjY0WVV6YVRybGw0akhIUVdVbE9icUtlanhNRXY5R0YwdGp0dnF0TTViakNzS0tOY3ZGRWFBTHJSSjlta085Z1RmQUtmNld6ck1zLUNGWGl4SzNsTW5oV3ZwTVlXRXJySlQ3TzZwLWpsMXBuamdYUGVJc3hpT1E?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đất có quy hoạch ở phường An Sinh, TP Quảng Ninh",
-  "tomTat": "Đất có quy hoạch ở phường An Sinh, TP Quảng Ninh. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Việt Nam Mới.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Việt Nam Mới",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3FzTUFWcHVKOG5PM0Z0WkhlYmZZaElTMnMyZmhldDZiSG9ZMzFRZW4zbjdURDdpenBET1pIWjFUOTh1eEhyUnN3cnZGNWxDRTZYWHJGcEdHYVFaQ0lQczdFdmExanBtYUkxbXI5R1pjaWZvajZoR1haYkFTaUVuRjU4LVdHMEtadnFBcmlNbnZjb2NweGc?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?",
-  "tomTat": "Đà Nẵng nhiều tài nguyên, vì sao vẫn thiếu vật liệu xây dựng?. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Đà Nẵng.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Đà Nẵng",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDAtTGFxUzNhVi16RHVsQVcxY2IwazJTV3FFQWUxa1gtQnlWN3lSYXM0ZUxVanY4OVhzbUdJZkE1TGdhcFdyOWNXNkFRQ2w1cWY3Uzl5STMtTnZXQUdWenNvU21lemFFLTluUnFxTWFWZ1BwTV9wVEhvNDdRYlVpVE0xemZ4R0Ryd3dXcVBya0k5NEs2cWNZQw?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 15/11/2026: Thị trường thép và quặng sắt tuần qua giảm sâu",
-  "tomTat": "Giá thép hôm nay 15/11/2026: Thị trường thép và quặng sắt tuần qua giảm sâu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHVqTG5RcW54WnBmeURfZXFKVmk4dDZPNDU1blNnQk5vN1Q0T1M1eVl2cXM3UFdUVklVZ0NTUEdLZWhfMnJBRWVFX19ILU1DQTVndFNmY2xyV0RBdmhOX2Z5RVdka0x0Zy1xSmtoZTR2U0lMbV9jSk5JRjd6UzB5eGJOZFljVmYtTERfU2pTRnFiczJfTTFybDFRUHFpWXZCd2VUZ0hZRjdiYlp3alVsYzJtQmg?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 14/11: Giá quặng sắt giảm sâu",
-  "tomTat": "Giá thép hôm nay 14/11: Giá quặng sắt giảm sâu. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Hangthat.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Hangthat.vn",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnZaRWQ5aHlMS0I3Q0Z4SER3TTlYOUpIbTlGVVpMM2wybUFPNWVjRWV6QnNSRFlZUEo2cXdvd201RHZvR1hoTEFydklYaUNFV3pfV3BaY2lEdGhkSlNoU21MUDhzU21pa3M0RVUtblBZelphd0tYYlZYc3BRSzlkTWVWeFRmYy1oRzNfVlpFMTF3OWxYSV9OV0V6S2FqN3ZIZTBZ?oc=5"
- },
- {
-  "ngay": "2026-11-14",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá vật liệu tăng, đường Tây Thăng Long đình trệ, Hà Nội phải đấu thầu lại",
-  "tomTat": "Giá vật liệu tăng, đường Tây Thăng Long đình trệ, Hà Nội phải đấu thầu lại. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnlYTFU0aW5hUVFSaW9ZZ2h6dy1EWU9rTWcyVk80a1dxNGhaN2ptNTFSWEVub0pLTFBmTEEwR0VuWmZtUWkxWXl2cGkwMWhYaDM5cVZudVBwVUF2Sl93TEFTMzQ0WDd6dkMyMkpFVktHb1dIck9lSUFtQ2JGU0p3YXA5a3JhR2dOTDVEdmc1TDZTYUQxSHd5MXFkLThyalVMUG1nX2ZrZ3h3VngtVXVRcw?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-25T03:20";
+window.TIN_CAP_NHAT = "2026-11-25T12:39";
