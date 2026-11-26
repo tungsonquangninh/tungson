@@ -1,6 +1,33 @@
 /* ĐIỂM TIN — được cập nhật tự động 2 lần mỗi ngày. Nội dung bên trong [ ] là JSON. */
 window.TIN_TUC = [
  {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Ninh Bình: Điều chỉnh, bổ sung giá vật liệu xây dựng tại 6 khu vực",
+  "tomTat": "Ninh Bình: Điều chỉnh, bổ sung giá vật liệu xây dựng tại 6 khu vực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "dangcongsan.vn",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanhlZW5jTUJTaFkwZHc4MDMtVFZVNDVXNnFMNXFuUk1NWlRLMzJNOHo5blRpeWRVT05WdVg0T3ZQQXRLNVBKM0RkRFNFUDlPOFpZeC1qckRPeXRsOUdqQmk0MnNHQXFSdDh2YmRNcS1keHEyTHBvcHRXTjZ5TXczdFNKTnB4emI2R0J2WklmUUJuNFNRRnJpOUIwbWlmeHlVelY1ZkE1OFVrQmRaekhtUzA3NXJUR3Y1ZWZOVE5pOHlLUQ?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "'Vua thép' Hòa Phát (HPG) được dự báo lãi tới 7.500 tỷ đồng trong quý IV/2026",
+  "tomTat": "'Vua thép' Hòa Phát (HPG) được dự báo lãi tới 7.500 tỷ đồng trong quý IV/2026. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ nguoiquansat.vn.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "nguoiquansat.vn",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmRLMElqY1pETXlDSm42N1BuNEYyS29EM2NFVnZJamNrTHcyRzJuVWtmVXNCY0llcVFHTXR4cWI0UnpMcGxzRUJwWUlnTDRxRjZfbV9UcDFlRG1DSExwbjNzbmtYaVU3NVlQbmxWa1dXX291Nm4wNWNCenA4eU0wVUZFeHJXZEhucjh5NWhWdFV0RlhCN3dra1ZnakhQQnFuRmFZVWlXd0hhRzA1TXc?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "TPHCM miễn giấy phép xây dựng nhà ở dưới 7 tầng",
+  "tomTat": "TPHCM miễn giấy phép xây dựng nhà ở dưới 7 tầng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Tiền Phong.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "Báo Tiền Phong",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUNyMnFVVllVMFJ4NVNTQUU4SWhhWFRtYlNnbE5RME5VWXBTNWQ0dkJjVkFUcHlqbFVkUVZ6ekpUVjJ4TVhSeVdzY1REUWNRY0RhT2RwLVVZSGFFa1VaZy0ySzg4WFhwQnhTQlhBd01YMi1XbGM3RnFCWlhhMUFZRUdqbWU3V1I5ek5nTg?oc=5"
+ },
+ {
   "ngay": "2026-11-25",
   "chuyenMuc": "gia-vlxd",
   "tieuDe": "UBND tỉnh cho ý kiến vào chính sách hỗ trợ phát triển cụm Công nghiệp và quy chế xây dựng, công bố thông tin giá vật liệu xây dựng trên địa bàn tỉnh",
@@ -512,33 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
   "nguon": "Laodong.vn",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0QySVF2cms1TGt4aUxKMHV3dlZtbWowUU1Yam9vTG5IaXg2S29tekdMMHhSUkRKblFaLVRyZUZwa21DQVV3cXVNZDZSdWkwNW81RmxiSGQ3eEVjV0UyY29fWnFLNmJPYkRWaHlLY3hEVkVMUjQwQkk1NURjV2tibklFNjY0Tk1qZ0hHNHo0Z2NSLTZNaUplUTNHaTN6cVFHVHlTenRNMmRZUFhpRDZPSHpWZDY0NXo2TURaX3oyVjFMbzhWWVVLSA?oc=5"
- },
- {
-  "ngay": "2026-11-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Giá thép hôm nay 16/11/2026: Giá quặng sắt chạm đáy 5 tuần, thị trường thép phân hóa",
-  "tomTat": "Giá thép hôm nay 16/11/2026: Giá quặng sắt chạm đáy 5 tuần, thị trường thép phân hóa. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Tạp chí Doanh nghiệp và Hội nhập.",
-  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
-  "nguon": "Tạp chí Doanh nghiệp và Hội nhập",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0owaU1ZeWFiX2t2SWFYeVpiRjRlcEJhbmhnT0tTcVQxbUV4OV8tWldlWWIwb29wZFgwWGU2czB0a2dsVms1SWlnVFU3S2toaXpBMll4a05WWHI5YS1SMWdJcEducmEzLV9ubWVDVTljUTRiYTVzbDBhQWtqYlZuMmQ5Yy1WUXJnZnJOdDZkRFlTT3pGVTFlNUZiNllTYnZZdWdBOUZHUkgyeTlnb2tMOTdsbkZJNnNiRTRpbTJpRQ?oc=5"
- },
- {
-  "ngay": "2026-11-16",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Quảng Ninh: Đẩy nhanh tiến độ nhà ở xã hội và cho thuê",
-  "tomTat": "Quảng Ninh: Đẩy nhanh tiến độ nhà ở xã hội và cho thuê. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "CafeLand",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDNjMk84QXRFeUZFcld5S1lZdlV1YWxuX3dFUEN4TF9aVDcxVGl2T1o3SWlCeEdmZ0pXanU5blMwRW5YaVVuN3dvc1A1WVFEeDhxNlh3LTAxcEhZWjlfZU9qeDhfNHdoVnh4ZzdHdFNMcF8tUnJwSkR4TzBWNXFsZWNCeGJ2N3JUUFFKamV3OXE1bmFWcGJkRA?oc=5"
- },
- {
-  "ngay": "2026-11-15",
-  "chuyenMuc": "quang-ninh",
-  "tieuDe": "Đoàn Than Quảng Ninh trao tặng công trình có ý nghĩa cho xã vùng cao biên giới",
-  "tomTat": "Đoàn Than Quảng Ninh trao tặng công trình có ý nghĩa cho xã vùng cao biên giới. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Khí hậu biển và mùa nồm của Quảng Ninh đòi hỏi chống thấm kỹ và chọn sơn ngoại thất chịu thời tiết tốt.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ21ZMXBuX0VySUhKTnlhUFh6QXBaTGd5MWRmTXRzVmNOWjgzSzBoNDc2S25CNzBUZ1ZVT3RWUjJLTS04VGpEZGlNbmdYaWpMUVJGUVlOenRic1VSck1JWW1UdWxuRmVYLTI2SEU5YnpWeUMwUmR4UWpOSE1fQ2tUbE9sUFFqdkhiMC1VVUVXLUFvN2s0U0E0ZWJWbGN0amhQNlMtMTRNTXAxSVVrZ3pKOWx5ZmViRi1QYlNGM1RUNHV2N1YxUFVpd2tzNVdac29fVVE?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-26T02:34";
+window.TIN_CAP_NHAT = "2026-11-26T12:25";
