@@ -3,6 +3,42 @@ window.TIN_TUC = [
  {
   "ngay": "2026-11-26",
   "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Cần ưu tiên giảm phát thải cho xi măng",
+  "tomTat": "Cần ưu tiên giảm phát thải cho xi măng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Xây dựng.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Báo Xây dựng",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmZfdGs0OUVSc1VFSVVsTUM5ZThCZEM5d3o2Rm9OUWVwQ0pyeF9BUWVFRnFxbXlIcFdTclZJZFhwbkFkYWJ5ay13UWtpU0dhOXRQdFhnaXRDcHcyMzd0V0l4aDlwMXAtazMzaHdIWEJxMHZTSk16VFBTb2RvbktYUjM0NlJpNUpHQm5j?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "gia-vlxd",
+  "tieuDe": "Huy động 4 tháp nâng thủy lực và 126 trục bánh xe, di dời cây cầu thép nặng 4.000 tấn mà không cần tháo dỡ, lắp đặt qua cao tốc chỉ trong một đêm",
+  "tomTat": "Huy động 4 tháp nâng thủy lực và 126 trục bánh xe, di dời cây cầu thép nặng 4.000 tấn mà không cần tháo dỡ, lắp đặt qua cao tốc chỉ trong một đêm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Doanh nghiệp Cuộc sống.",
+  "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
+  "nguon": "Doanh nghiệp Cuộc sống",
+  "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbTh6YkpfYWtPU2tkZzY0WHJDTXgxdlo1WThyRGc4NlRaLWZnelJQV1N2eGVSQ1dyZmFCdXVjc1JGRG9OZ3JYaVpub2NUcGgyS1g0WjBXcm9aMkVKOHE1d2ZwM1lia2U0MFBQdVZXTURkOW9NdXdVYk9nd09hcUw3aU80LWZpZjhhQnRFRXd0QktsMnNZVFB1WVllUGdsUWxyZ1FUM01UUWVHbV91M0plVnplQ2EzMUdJZlhhSVUzeEYzYTRGTWpGaEFhVUtqM2NDV1g5eXZkNTR5cEFEOXpnQ0kweW50N05wLW10X3NxMmxlUW1fcTRuZUpocXh3c3llODMwbElub0pGdUxJTUhKTkhCeVo?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "phap-ly",
+  "tieuDe": "Bất động sản 24h: TP.HCM miễn giấy phép xây dựng nhà ở dưới 7 tầng, mời gọi đầu tư 90 dự án hơn 1,27 triệu tỷ đồng",
+  "tomTat": "Bất động sản 24h: TP.HCM miễn giấy phép xây dựng nhà ở dưới 7 tầng, mời gọi đầu tư 90 dự án hơn 1,27 triệu tỷ đồng. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeLand.",
+  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
+  "nguon": "CafeLand",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLWtjSVRCUjA2Z0ZtOWRJME12VVFmSVBUR1JiVHlqQ0psOXdyVFZhOWNaT3piRGFEN2g5d3BpWnJXN0NzSW16VGlUdWJxRmpCelduc0FOeEliam1qVFBZZVNKTW1TV0x3T19wdGtxMFNlWjZFMUx2Zk94VkktckFuT19OWG9ieHBscTYxOU85dnVJazVhV2hRcFRkYlVzdDM4RzY0djRPREVYSHI4dmxmTmtqMVhIcHNzQUQ0VTV2U3FtM3JMbXdIMEw3MmNuR3ZWeGM1WGZJMHVDNmIzU3ZTS0IxWDk?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "xu-huong",
+  "tieuDe": "Sản phẩm nội thất và tiêu dùng đang lấy cảm hứng từ thực phẩm",
+  "tomTat": "Sản phẩm nội thất và tiêu dùng đang lấy cảm hứng từ thực phẩm. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ VnEconomy.",
+  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
+  "nguon": "VnEconomy",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXhndnNrZnA3cmpaZGNfX1NGSWNrOWladk9sX1dMLUVmbWw3N3NaamJLSlhTTjVfek43bVdvZk5nekt2dHZDa1VOdjNUbUpEOUpXa00wdjR2VWY4bjV4YW5MSjFjMVR3QWVkdWJLcHdZLWZQQWQ4SjBJSDlMNnRucFlPV19JT1ZYUDhkNG9EMA?oc=5"
+ },
+ {
+  "ngay": "2026-11-26",
+  "chuyenMuc": "gia-vlxd",
   "tieuDe": "Ninh Bình: Điều chỉnh, bổ sung giá vật liệu xây dựng tại 6 khu vực",
   "tomTat": "Ninh Bình: Điều chỉnh, bổ sung giá vật liệu xây dựng tại 6 khu vực. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ dangcongsan.vn.",
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
@@ -503,42 +539,6 @@ window.TIN_TUC = [
   "gocNhin": "Giá vật liệu thay đổi theo từng đợt — nên chốt báo giá và đặt hàng sát ngày thi công, so sánh 2–3 đại lý tại Quảng Ninh.",
   "nguon": "Tạp chí Tài chính Doanh nghiệp",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0lycDctVG9BZS1IcUlmeXpwaUc5RzBMdWdMZDcyM1VWU1htTTdQa1MycVlXNHRqb3M5TWZNY2w3M2FhbDh1SGN4UHlBUGpKSDdmSHJxVHdVQi1wazR2SEhKcTJQOTQ4OElqWHBYV00xblhQOWhuRjFBNmthOTBlZ1k2d0VHcWVNN1BVS1gzU3NTbzZnWWRVeVZscFkyUHh1bEh6NGtoVkNLUkVx?oc=5"
- },
- {
-  "ngay": "2026-11-17",
-  "chuyenMuc": "phap-ly",
-  "tieuDe": "Từ 26/8/2026, người xây nhà trên đất của mình vẫn có thể bị phạt tới 50 triệu đồng vì hành vi này",
-  "tomTat": "Từ 26/8/2026, người xây nhà trên đất của mình vẫn có thể bị phạt tới 50 triệu đồng vì hành vi này. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ CafeF.",
-  "gocNhin": "Trước khi khởi công, gia đình nên hỏi UBND xã/phường để biết chính xác thủ tục áp dụng cho nhà mình.",
-  "nguon": "CafeF",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbFZOeG01X3JkVlEyRG5udzhjNEtWWUh3T2ZLSnBKcXJvQ2VmZFdxa29vdW1lakQ4SkY4V2oyT1V6dVIzU1hsRUdaY0JIM0wwY3BiX0xyTDBnem9hZk1zNndVcGc0WVFaS05nNVYwMmZZUFFOdWJycG1lWkR4WHo3cS15OWlrSHNJem1DVlR6TkwyTjF3bUpXZF9zLWtrZTVJbG1GLTZNT3BUVnl4Nm5mSjJuYTYzTWNwWXI2bHhwdFdud25QXzRrZFpMTm12ZjVfY0E?oc=5"
- },
- {
-  "ngay": "2026-11-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Huế tăng cường kiểm soát giá vật liệu xây dựng, xử lý hành vi găm hàng và đẩy giá",
-  "tomTat": "Huế tăng cường kiểm soát giá vật liệu xây dựng, xử lý hành vi găm hàng và đẩy giá. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Báo Dân Việt.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Báo Dân Việt",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODBpSzRad0FIZDdwUXdISk5FOVJuM01wUFBDRjZLd2l6Y2F2d1BfSUVrYm9Xd2VIVVJ6Vy1LU0NQMVJxbXJIU3MtenVTd25UNlEtTzZaMDd5a2szOUg2bWs2TDI0b0pfdGlJaVB5cWFoWWs2em9OM05Sb0V2a2ZBWUZnRk0xeUJYQjRCMngtcS1fRUZ2blBjZEstdGJuMmw3UlhmdVFZM3NIaEZHdGdTdk9HVUhta3cyZE1n?oc=5"
- },
- {
-  "ngay": "2026-11-16",
-  "chuyenMuc": "gia-vlxd",
-  "tieuDe": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: Tạo ra lớp sơn phủ giúp thép chống ăn mòn tốt hơn 600 lần, có khả năng tự phục hồi",
-  "tomTat": "Phát minh vật liệu mới làm rung chuyển ngành xây dựng: Tạo ra lớp sơn phủ giúp thép chống ăn mòn tốt hơn 600 lần, có khả năng tự phục hồi. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Chuyển động Thị trường.",
-  "gocNhin": "Phần vật tư thô chiếm tỉ trọng lớn; dự trù thêm 10–15% ngân sách để không bị động khi giá tăng.",
-  "nguon": "Chuyển động Thị trường",
-  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUlQ2cEx6NXNnemJzNGw4Y3gta25faG5jNlhvUlB5b1BfUWFrc1dGbEJ2ZU55UmhoRFplbi1RRTd4dGxTZEFxdkVoVzZYbXduTHZYVmtNektTYjl0SEM3M21ZNXU5YnVSdEhIWUdqdnRrbjhvcEZaQVZHd3Z6MjZNclA4b2diZmlBaDdobm1NeldNUUlhU2lJRjlid0RkMThwd2hNS3A2amNNR2VrWWM1ek9va2V1X3BVOUNVNXlyZjk2MkpCeFhhd0hvaXU1R0RrWXg4M0xnTm9keWdPUXdEN2N6YW1hNk9ESnpNSEk5TnhUeVRGaGRUUUJFem1aMXE5ZVNveGNScmo1QQ?oc=5"
- },
- {
-  "ngay": "2026-11-16",
-  "chuyenMuc": "xu-huong",
-  "tieuDe": "Công đoàn phường Ngũ Hành Sơn, Đà Nẵng tổ chức Ngày hội Sắc màu nhà giáo – lan tỏa văn hóa",
-  "tomTat": "Công đoàn phường Ngũ Hành Sơn, Đà Nẵng tổ chức Ngày hội Sắc màu nhà giáo – lan tỏa văn hóa. Bấm vào nguồn bên dưới để đọc toàn bộ bài viết từ Laodong.vn.",
-  "gocNhin": "Màu trên bảng màu nhỏ thường nhạt hơn khi lên tường — hãy thử 1 m² trước khi quyết định.",
-  "nguon": "Laodong.vn",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0QySVF2cms1TGt4aUxKMHV3dlZtbWowUU1Yam9vTG5IaXg2S29tekdMMHhSUkRKblFaLVRyZUZwa21DQVV3cXVNZDZSdWkwNW81RmxiSGQ3eEVjV0UyY29fWnFLNmJPYkRWaHlLY3hEVkVMUjQwQkk1NURjV2tibklFNjY0Tk1qZ0hHNHo0Z2NSLTZNaUplUTNHaTN6cVFHVHlTenRNMmRZUFhpRDZPSHpWZDY0NXo2TURaX3oyVjFMbzhWWVVLSA?oc=5"
  }
 ];
-window.TIN_CAP_NHAT = "2026-11-26T12:25";
+window.TIN_CAP_NHAT = "2026-11-27T02:16";
